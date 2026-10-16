@@ -1,0 +1,211 @@
+https://www.youtube.com/watch?v=_S3m0V_ZF_Q
+
+
+
+In this video
+
+
+Timeline
+
+Transcript
+Search transcript
+Search transcript
+
+0:5050 secondsmicr Focus creators of visual programming tools for software development is pleased to provide major
+0:5757 secondsfunding for the computer Chronicle the story of this continuing
+1:141 minute, 14 secondsEvolution think very long about that did he no we knew that was going to happen welcome to the computer Chronicles I'm steuart chaet sitting in for Gary
+1:221 minute, 22 secondskildall this week is her lechner of Sri herb we think of Chess as the ultimate game of skill a game that requires
+1:291 minute, 29 secondsmental agility intelligence if you will yet here I am playing a game of chess with a computer which is analyzing board
+1:371 minute, 37 secondspositions and in applying a certain kind of intelligence to figure out what its next move should be that's the subject of our program today artificial
+1:441 minute, 44 secondsintelligence and in in some people's minds AI suggests attempting to duplicate the way a human brain works is
+1:511 minute, 51 secondsthat what AI is in fact uh not in most modern AI research uh Stuart um early research in AI looked at at d
+1:591 minute, 59 secondsduplicating human thought processes but current AI research is more concerned with duplicating the end result of
+2:062 minutes, 6 secondsintelligence and computers uh that act as experts in expert systems and computers that can communicate with us in our language understanding some of
+2:152 minutes, 15 secondsthe context of that language are two areas that are receiving a lot of attention in artificial intelligence research today okay we're going to meet
+2:232 minutes, 23 secondstwo of the world's foremost experts on artificial intelligence and we'll take a look at two fascinating examples of expert syst systems one of the leading
+2:312 minutes, 31 secondsexperts on Expert systems is Dr Edward Fen bomb of Stanford University we asked Professor Fen bomb about the evolution
+2:382 minutes, 38 secondsof artificial intelligence the um computers as you know are General symbol processing devices capable of
+2:472 minutes, 47 secondsmanipulating any kinds of symbols of which numbers constitute one important class but computers are much more General than
+2:552 minutes, 55 secondsthat we've known about the generality of computation since at least the time of uh touring in the 1930s and actually I've tracked it back
+3:043 minutes, 4 secondsto um intuitions that Babbage had that were reported by Ada lovece after whom the Ada programming language is named in
+3:133 minutes, 13 seconds1842 Ada lovece wrote that uh the analytical engine of babes constituted the the uh link between the mechanical
+3:223 minutes, 22 secondsworld and the world of the most abstract Concepts that currently in the modern terminology is called the physical
+3:303 minutes, 30 secondssymbol system hypothesis and is the basis for artificial intelligence work in artificial intelligence as a science
+3:383 minutes, 38 secondswe talk about the use of computers to process symbolic knowledge using logical inference methods symbolic inference
+3:463 minutes, 46 secondsmethods in in other words we're talking about uh inference and not calculation in the traditional sense we're talking
+3:543 minutes, 54 secondsabout knowledge and not numbers in the traditional sense a current application of INF iial knowledge engineering is in
+4:014 minutes, 1 secondthe field of expert systems programs like this oil exploration advisor developed to assist drilling rigs in
+4:084 minutes, 8 secondsremote areas the program behaves much like a qualified specialist it asks questions of its user and then gives advice on how to avoid or correct
+4:174 minutes, 17 secondsaccidents so common in drilling operations if at some point in the line of questioning the user becomes confused
+4:244 minutes, 24 secondsby the query he can ask the program to explain itself simply by entering why the adviser responds with a specific
+4:324 minutes, 32 secondsSource behind the question and explains its reasoning up to that point the symbolic processing behind the
+4:394 minutes, 39 secondshumanlike talents of this program have found applications in a broad range of fields from medicine to robotics perhaps
+4:474 minutes, 47 secondsthe most difficult area for AI to master has been natural language a talent that results in very friendly computers but that requires enormous processing
+4:564 minutes, 56 secondscapacity the ambiguities of syntax and context have restricted present systems to very limited applications a simple
+5:045 minutes, 4 secondsGeographic question depending on the phrasing can lead to multiple interpretations the program will determine the question's most likely
+5:115 minutes, 11 secondsmeaning only after an exhaustive deconstruction of the sentence and might even reject an unusual phrasing of the same
+5:205 minutes, 20 secondsquery in a parallel development investing AI programs with linguistic ability has led to an interactive study
+5:275 minutes, 27 secondsof graphic communication in this experiment the visual dynamics of communication form the foundation for a
+5:345 minutes, 34 secondslinguistic expert adviser capable not only of discerning visual patterns but also acting as a kind of tutor one
+5:415 minutes, 41 secondsinteractive application has given persons without normal speech the ability to adapt or construct alternative symbolic languages a
+5:495 minutes, 49 secondsremarkable instance of using a computer programs intelligence to help interpret human intelligence
+6:086 minutes, 8 secondsjoining us now is Jeffrey Peron jeffre is a Management Consultant involved in expert systems for micros and Neils neelson director of the Artificial
+6:166 minutes, 16 secondsIntelligence Center at SRI International herb Nels could you kind of help us scope the field of artificial
+6:236 minutes, 23 secondsintelligence as it exists today well I'll try herb it's a Broadfield if you ask uh many of different people people what constitutes artificial intelligence
+6:326 minutes, 32 secondsI think you'd get a lot of different answers uh for me I think it concerns mainly the uh putting of knowledge into computer programs so that the programs
+6:396 minutes, 39 secondsthen can solve certain problems which humans are uh find somewhat easy or perhaps intellectual challenges sometimes and the uh knowledge that one
+6:476 minutes, 47 secondsputs in is knowledge that's represented in a particular sort of way so the idea is that it's just not smarter programs
+6:556 minutes, 55 secondsthat do artificial intelligence programming it is some difference in Tech techniques that they use relative to what ordinary programming well
+7:037 minutes, 3 secondsthere's a part of computer science that artificial intelligence is concerned with that does in fact involve a certain body of techniques that are a little different perhaps than uh what goes on
+7:117 minutes, 11 secondsin the rest of computer science Jeffrey uh Neils is involved in the research end of AI and you're
+7:187 minutes, 18 secondsinvolved in some of the applications are are we at the point today where we can apply AI absolutely steuart in what ways
+7:257 minutes, 25 secondswell I feel that uh artificial intelligence and specifically expert systems or knowledge-based systems now are applicable any place that
+7:347 minutes, 34 secondsspecialized knowledge is used routinely to reach decisions troubleshooting strategies diagnosis those areas so uh I
+7:437 minutes, 43 secondsI kind of think of it as something where uh we've reached a watershed where is no longer very expensive or very difficult
+7:507 minutes, 50 secondsfor individuals with no technical background to build systems and apply them usefully and you distribute a system which is an expert system and o
+7:597 minutes, 59 secondshelps one build expert systems is that correct right well actually it's a tool for generating particular expert systems applications in virtually any area where
+8:098 minutes, 9 secondsthere is that routine use of special knowledge and it runs on microcomputers right it runs on the IBM personal computer and a number of other
+8:178 minutes, 17 secondscompatible microcomputers do you use the same techniques in this system that Nels was referring to are used in systems that might run on larger equipment it
+8:268 minutes, 26 secondsuses some of the same ideas and it uh has its own unique uh approach as well one of the specific areas where this is
+8:348 minutes, 34 secondsa different sort of program is that instead of requiring explicit statement of rules to build a system it only requires
+8:438 minutes, 43 secondsexamples of previous decisions previous uh tasks previous diagnoses to build the systems and that's going to uh break
+8:508 minutes, 50 secondsthrough I believe the knowledge engineering bottleneck mentioned by people like Edward Fen Bound in building these systems Jeffrey you have expert
+8:588 minutes, 58 secondsease uh your system up here and and show us the demonstration sure okay well this is a particular application generated
+9:059 minutes, 5 secondswith this system and it was generated by an anesthesiologist Hillary da and myself and it what it does is it makes
+9:129 minutes, 12 secondsdiagnoses for breathing or Airway problems the first question here that it asks the naive user is when was the
+9:199 minutes, 19 secondsonset of the problem and I'll answer days it then we'll ask what's the quality of the Strider which is a rasping sound made when one's breathing
+9:279 minutes, 27 secondskind of a sort of sound and let's say that the quality is moderate who would use this system a doctor or this might
+9:349 minutes, 34 secondsbe used by a physician's assistant to screen patients for perhaps further fine-tuning by someone with more
+9:419 minutes, 41 secondsexpertise is the patient drowsy let's say no are there any predisposing factors to developing Strider prior
+9:489 minutes, 48 secondsevents that might lead to this condition let's say yes and it comes up with consider the diagnosis of intrathoracic tracheal stenosis now I'm not a
+9:569 minutes, 56 secondsphysician so I don't know exactly what that means but uh that gives you an idea of how it might lead to a particular
+10:0310 minutes, 3 secondsdiagnosis now what I'd like to do is I'd like to show you a trivial example called Sunday which actually comes with
+10:1110 minutes, 11 secondsthe manual for the program as a tutorial essentially now Sunday is a a model of deciding what to do on a Sunday
+10:1810 minutes, 18 secondsafternoon how are you going to spend your time and uh it is consists of a couple of questions multiple choice
+10:2510 minutes, 25 secondsquestions like you've just seen and uh those would be answered so so now what I'm going to do is run the query system and it asks do you have your family with
+10:3310 minutes, 33 secondsyou let's say yes what is the weather like is it raining or sunny let's say Sunny so it says why don't you take the family to the beach now the way that you
+10:4210 minutes, 42 secondswould build one of these models is by starting on something called the attribute screen the attribute screen is
+10:4910 minutes, 49 secondswhere you sketch out the dimensions of the particular problem or situation now here the attributes are weather and family and there's the advice column
+10:5810 minutes, 58 secondswhich would be the result of a particular decision what what size Matrix can you can you do on that okay you can actually do uh in any particular
+11:0611 minutes, 6 secondsproblem 31 attributes and up to 255 values per attribute and those can then be chained together so you can do very
+11:1411 minutes, 14 secondslarge models just uh limited by the size of your disk storage essentially the uh values such as raining and sunny could
+11:2111 minutes, 21 secondsbe thought of as answers to the question represented by the attribute once you've done a preliminary sketch of this sort you then go to something called the
+11:3011 minutes, 30 secondsexample screen and on the example screen you enter in examples of previous decisions now this was developed by Dr
+11:3811 minutes, 38 secondsDonald Mickey in Edinburgh based on the idea that information is communicated by experts or Masters to their apprentices
+11:4711 minutes, 47 secondsin the form of examples or cases so here you see horizontally running across the screen uh answers to those questions
+11:5411 minutes, 54 secondsreigning yes we're with the family the advice would be go to the museum and the next case would be if it's sunny and I was with the family then I would go to
+12:0312 minutes, 3 secondsthe beach and the third case there consists of an I don't care whether what the weather is like if uh there's no
+12:1012 minutes, 10 secondsfamily with me then I'm going to go fishing Jeffrey uh you described this obviously as a trivial example this Sunday one but but in general do you
+12:1812 minutes, 18 secondshave the capacity within a PC to to seriously approach this kind of problem solving yes you can do quite significant things as a matter of fact I've recently
+12:2712 minutes, 27 secondsbeen speaking with the whole earth software review people about doing some systems to recommend software such as word processing programs or
+12:3512 minutes, 35 secondsCommunications Hardware modems that sort of thing Neils uh I want to ask you what I hope doesn't sound like a dumb question but kind of what's the point uh
+12:4312 minutes, 43 secondswhy do we develop something like this kind of system is it to replace the doctor say in the diagnosis situation what what is the end result of
+12:5112 minutes, 51 secondsthis well I think there'd be a lot of uses of systems like this I think the present ones actually do have a lot of brittle features that perhaps might
+12:5912 minutes, 59 secondslimit their utility at the present time but uh in the long run that is 10 years 20 years something like that uh these kinds of of systems I think will be
+13:0713 minutes, 7 secondsquite generally useful in a wide range of uh settings first of all um the knowledge that uh these systems contain
+13:1413 minutes, 14 secondsat least we hope to put in the knowledge of worldclass experts people uh who know so much about the field that there might only be five or six of them in the whole
+13:2313 minutes, 23 secondsworld who know that much now uh there can be some pretty good practicing people who nevertheless aren't quite as good good as the world uh experts in a
+13:3113 minutes, 31 secondsparticular subject so it helps us spread the knowledge of an expert uh around a good deal in a way which can be copied quite easily okay in just a moment we're
+13:4013 minutes, 40 secondsgoing to meet the man who invented the term artificial intelligence and we'll see a demonstration of knowledge engineering that's coming up next
+14:0014 minutesjoining us now is Tom Kaylor Tom is director of Applied artificial intelligence at intelligenetics Tom uh you've got a complex system here first
+14:0914 minutes, 9 secondsof all tell me how this would be different from the system we saw in the first part of the program well one way is uh that it's different is that we can
+14:1614 minutes, 16 secondsdevelop a graphics environment which connects to the underlying knowledge bases so that the uh user really is just
+14:2414 minutes, 24 secondsuh fooling around with meters and valves and and objects that they're used to here for examp example if we look at this level ometer we can just point to
+14:3114 minutes, 31 secondsit before you get to that what what's the environment we're looking at here oh this is the key system the knowledge engineering environment and we have uh
+14:3814 minutes, 38 secondsknowledge bases hooked uh up to a control panel right here at the moment and it's just a little example to show you how we can hear a control panel of
+14:4714 minutes, 47 secondswhat uh this could be a control panel say to a nuclear reactor to a an instrument or any other U kind of
+14:5514 minutes, 55 secondsoperational device that you would want to work with and here for example we're just uh changing the value of a meter and notice that it's generating a strip
+15:0315 minutes, 3 secondschart showing the time course Behavior another thing we can do with these kinds of panels as we can go in and look at uh
+15:1015 minutes, 10 secondsValves and we can affect the valve whether it's open or shut now what's important about this is this is affecting an underlying knowledge base
+15:1915 minutes, 19 secondswhich will then apply heuristics and decision-making procedures to the system can you show us that how you can go to the the part there you go we solve a
+15:2815 minutes, 28 secondsproblem well what we see underneath here now is a knowledge base for a nuclear reactor and we can have a representation of the components of the nuclear reactor
+15:3715 minutes, 37 secondsas well as a representation of the uh decision-making behavior that would be carried out by the expert and what what
+15:4415 minutes, 44 secondsyou will see here is that it's both possible to use rule-based reasoning as well as representation of the underlying knowledge one of the first things we'll
+15:5315 minutes, 53 secondsdo here is just take a look at how we could test the hypothesis if of a particular accident situation ation and we just point to test hypothesis and
+16:0116 minutes, 1 secondactivate it here and what we see the system doing is going through a decision-making process where it's accessing the underlying knowledge base
+16:1016 minutes, 10 secondslooking at the various states of the components and by the way the states of these particular components can be accessed directly into the instrument or
+16:1816 minutes, 18 secondsinto the nuclear reactor now you can actually interrogate the system and ask it what course of logic is it following is that correct that's right right now it's come up and asked the operator a
+16:2716 minutes, 27 secondsquestion is this is it true that this steam generator level is is decreasing so we can say why is this being asked and it will explain to us that it's
+16:3516 minutes, 35 secondsdoing it in order to prove that the steam generator inventory is inadequate we will then give it an answer and it goes on to reach a conclusion okay Tom
+16:4316 minutes, 43 secondsthis system runs in lisp why is lisp the right language for an AI application well one of the reasons that lisp is so
+16:5116 minutes, 51 secondsimportant is that you need to have very powerful symbol manipulating capabilities decision making is primarily a symbol olic activity
+17:0017 minutesknowledge representation is primarily symbolic and you need that kind of capability okay thank you herb John McCarthy has joined us John is a
+17:0817 minutes, 8 secondsprofessor of computer science at Stanford University and one of the Pioneers in the field of artificial intelligence among his other
+17:1617 minutes, 16 secondsaccomplishments he invented lisp the language that Stewart just referred to John why did you invent lisp well for
+17:2417 minutes, 24 secondsartificial intelligence work uh the kind of thing that they are doing here what are its characteristics that make it different than some other language uh as
+17:3317 minutes, 33 secondsapplied to artificial intelligence besides the ones that Tom mentioned uh one of its important characteristics is that its programs and are in the same
+17:4217 minutes, 42 secondsformat as its data so that it is easy to make programs that uh produce programs and uh look at programs so it allows us
+17:5117 minutes, 51 secondsto deal with facts and logic uh more than than numbers that's correct I I guess it's on every one's mind when we
+17:5917 minutes, 59 secondstalk about smart machines how smart can machines become what what are the limits of of artificial intelligence well I see
+18:0718 minutes, 7 secondsno limit short of uh human intelligence and uh then with faster machines one
+18:1418 minutes, 14 secondscould uh do the equivalent that a human could do in a short time in a very long time Neil what's your thought on that
+18:2118 minutes, 21 secondswhere how far can we go with you well I'd separate some of the problems that we're facing in order to make machines more uh intelligent into about three different uh varieties we've heard a lot
+18:2918 minutes, 29 secondsabout how important knowledge is and uh one of the important things about knowledge is what knowledge should be represented in a program and uh some of the difficulties that we're having in
+18:3818 minutes, 38 secondsmaking programs smarter is that we're not sure exactly what it is we want to tell those programs about certain subjects another category is once we
+18:4518 minutes, 45 secondsfigure that out how do we represent the knowledge in the computer itself and certain kinds of knowledge proving a little difficult for us to represent it the third category has to do with how
+18:5418 minutes, 54 secondsthat knowledge is used and uh certainly there's um various activities there that have been rather successful but other things that that really have to be done
+19:0219 minutes, 2 secondsyet is there uh a frustration level in this field in that there there's a lot of Hope of what you can do with something like AI but yet as as youve
+19:1019 minutes, 10 secondspointed out Neils it seems harder perhaps than one thought to really put this into a practical application
+19:1719 minutes, 17 secondsJohn well uh I not there is a certain level of techn of technology in
+19:2319 minutes, 23 secondsartificial intelligence today and uh many people are making applications based on this
+19:3119 minutes, 31 secondstechnology uh on the other hand uh something that Neils said earlier uh Rises Rouses a thought in me um he said
+19:4119 minutes, 41 secondsthat we can put in the knowledge of a world-class expert and that's indeed true we can put in the knowledge of a world-class expert provided it fits into
+19:5019 minutes, 50 secondsthe format that the present programs allow namely of the kind if this is true uh then do that but uh more General
+20:0020 minuteskinds of knowledge that are used in a sort of vager way are sometimes harder to put in say uh in the medical diagnosis era
+20:0820 minutes, 8 secondsat the beginning of the program we had a simple example of medical diagnosis uh there were several systems developed and yet there were were problems in fact in using that what were those
+20:1720 minutes, 17 secondsproblems well uh I'm not sure what were the problems of those specific systems however to take a medical example one
+20:2520 minutes, 25 secondscan say make a definition that a container is sterile um if all the bacteria in it are dead uh however this
+20:3320 minutes, 33 secondspiece of knowledge is not used in a special way to determine whether a uh container is sterile by examining each of the bacteria it's used as part of
+20:4220 minutes, 42 secondsmore General facts like if you heat the container enough then the bacteria will be all killed and the fact that if the
+20:4920 minutes, 49 secondscontainer is not sterile and you empty it out onto a culture medium then you'll get uh colonies of bacteria and the still further fact is important that
+20:5820 minutes, 58 secondsthat if you leave the bacteria in food uh then they will spoil it Neils where do you see the future practically going
+21:0621 minutes, 6 secondsin AI what's the biggest potential Market if you will for these kinds of applications well it seems to me that expert systems as they have been going
+21:1321 minutes, 13 secondsalong probably represents a rather large market and we'll continue to develop uh systems that are less brittle uh over the next 5 10 15 years another uh very
+21:2221 minutes, 22 secondsimportant application is uh computer programs that are able to converse with humans in English uh every day ordinary language and uh that's going to make
+21:3021 minutes, 30 secondscomputers accessible to a much wider variety of people we have just about a minute I like your phrase brittle explain more what you mean by a brittle
+21:3821 minutes, 38 secondssystem well it has to do with being able to reason about the context I think in which a particular discussion or uh
+21:4621 minutes, 46 secondsconversation with the expert system is taking place if the information that's needed to reach a certain conclusion is there and is there explicitly then the
+21:5421 minutes, 54 secondssystem is usually able to come up with some reasonable answer if it has to have what you might call Common Sense knowledge knowledge that all of us learn
+22:0122 minutes, 1 secondby the time we're 10 or 15 uh then it has a good deal more difficulty and matter of fact fails in many of those cases so ironically common sense is the
+22:0922 minutes, 9 secondsmost difficult thing there's very few people uh who are willing to pay for putting Common Sense knowledge into a computer whereas uh it is interesting
+22:1622 minutes, 16 secondsand uh commercially important to put knowledge about a nuclear reactor into a computer okay gentlemen we're out of time thanks very much for being here
+22:2322 minutes, 23 secondsthank you for joining us on this edition of the computer Chronicles n
+23:0323 minutes, 3 secondsmicrofocus creators of visual programming tools for software development is pleased to provide major
+23:1023 minutes, 10 secondsfunding for the computer Chronicles the story of this continuing evolution
+23:4323 minutes, 43 secondsRandom Access is made possible by a grant from popular Computing a McGraw Hill magazine I'm Susan bimba sitting in
+23:5123 minutes, 51 secondsfor steuart cha in the random access file this week the Commerce department has made a move to stop the export of technology to countries allied with the
+23:5923 minutes, 59 secondsSoviet Union hitting the digital Equipment Corporation with tough new restrictions on its exporting practices now deck has to get individual export
+24:0724 minutes, 7 secondslicenses for each sophisticated computer it ships to West Germany Austria or Norway government officials say in these countries computers can be easily
+24:1524 minutes, 15 secondsdiverted to the Eastern black countries several months ago one of deck's computers was intercepted and route to the Soviet Union but the company was
+24:2324 minutes, 23 secondsfound to be blameless in the incident despite a strong Lobby by the high-tech industry President Reagan has given the Pentagon power to advise the
+24:3124 minutes, 31 secondsCommerce department on computer and high-tech exports to all foreign countries the Pentagon already had the right to advise about applications for
+24:3924 minutes, 39 secondsexports to communist countries the Pentagon feels its input would help cut down on the number of computers that get diverted from non-communist countries to
+24:4724 minutes, 47 secondscommunist ones the national semiconductor Corporation could be banned from making chips for government projects early this
+24:5524 minutes, 55 secondsmonth the company admitted that over a three-year period it inadequately tested chips that were used on many military projects now the defense logistic agency
+25:0425 minutes, 4 secondsis investigating National semi trying to find out exactly who's responsible for lying to the government about the testing despite these problems National
+25:1225 minutes, 12 secondssemiconductor is reporting a profit of $15.4 million for the quarter ending March 4th IBM is reporting big demand for its
+25:2225 minutes, 22 secondslittle computers the company says this year its shipments of the PC will be triple what it was last year it's it's estimated that IBM will ship more than 2
+25:3025 minutes, 30 secondsmillion of its PCS PC Juniors and other desktop IBM computers combined and now that IBM is making its own portable
+25:3825 minutes, 38 secondscomputer it looks as if compact a maker of IBM compatible Portables will be lowering its prices so far no date has been given for the price cut but
+25:4725 minutes, 47 secondsindustry insiders say it will probably be around the beginning of April right now the compact portable sells for
+25:5525 minutes, 55 seconds$2,995 that's $200 more than the IBM portable with a projected $500 cut the compact will sell for 300 less than the
+26:0326 minutes, 3 secondsIBM portable atarian corporated is making Cuts but it will be employee cuts the video game maker says it plans to lay
+26:1126 minutes, 11 secondsoff about 300 workers at the same time an Atari spokesman says there are plans to expand the sales and Engineering staffs by about 100 last year the
+26:2026 minutes, 20 secondscompany lost over 500 million do laid off more than 2,000 of its Bay Area workers and moov part of its operation
+26:2726 minutes, 27 secondsto Taiwan and Hong Kong well last week we told you the Japanese trade Ministry May introduce a bill that would reduce
+26:3426 minutes, 34 secondsprotection of us software in Japan this week the US government is warning that if Japan's Parliament ratifies the bill
+26:4126 minutes, 41 secondsthe US will retaliate in kind if approved the bill would limit copyright protection to us-made software making it
+26:4926 minutes, 49 secondsnecessary for us software owners to license their programs to Japanese makers well a little closer to home our software reviewer Paul Schindler has
+26:5726 minutes, 57 secondssome information for blackjack Buffs who don't have money to
+27:0527 minutes, 5 secondsburn if you gamble in Nevada or Atlantic City that's a familiar site the shuffling of blackjack cards usually
+27:1327 minutes, 13 secondsaccompanied by the site of your money being swept in by the dealer at the end of the round well if you're tired of losing there's a computer program for
+27:2127 minutes, 21 secondsyou it's Ken Houston's professional Blackjack now it's pretty rare when the writer gets top billing when name a
+27:2827 minutes, 28 secondscomputer program but Houston deserves it he's a former official of the Pacific Stock Exchange and now he's a full-time Gambler of course some people would say
+27:3727 minutes, 37 secondsthat isn't much of a switch but anyway on a recent trip to Las Vegas Houston was kicked out of five casinos after winning more than
+27:4627 minutes, 46 seconds$3,000 now most computer blackjack games will just play blackjack with you but the whole earth software catalog and
+27:5327 minutes, 53 secondsreview says Houston's professional Blackjack will teach you how to play the game and win using various Point counting methods the graphics are crisp
+28:0228 minutes, 2 secondsthe table is green the cards realistic looking and the sound is good too you can hear the cards hitting the table
+28:1028 minutes, 10 secondsanother use of sound the program advises you on bedding and card play and it beeps at you when you goof Ken Houston's
+28:1728 minutes, 17 secondsprofessional Blackjack is $70 from screenplay in Chapel Hill North Carolina for Random Access I'm Paul Schindler
+28:2628 minutes, 26 secondsnext week Paul reviews Volks Rider Deluxe and that's it for this week's Random Access I'm Susan Bima Random Access is made possible by a
+28:3428 minutes, 34 secondsgrant from popular Computing a McGraw Hill magazine

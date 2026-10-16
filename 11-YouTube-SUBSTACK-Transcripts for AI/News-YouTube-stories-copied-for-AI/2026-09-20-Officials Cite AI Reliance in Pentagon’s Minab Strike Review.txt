@@ -1,0 +1,55 @@
+https://letsdatascience.com/news/pentagon-probe-links-ai-reliance-to-school-strike-f3986bbb
+
+
+Officials Cite AI Reliance in Pentagon’s Minab Strike Review
+
+bloomberg.com
+apnews.com
+washingtonpost.com
+3 sources
+|
+September 20, 2026
+|
+By LDS Team
+
+
+
+
+7.6
+Relevance Score
+Officials Cite AI Reliance in Pentagon’s Minab Strike Review
+Photo: joemygod.com · rights & takedowns
+
+Quick Summary
+Hide
+Bloomberg reported that officials involved in an unreleased Pentagon review found that outdated intelligence, gaps in civilian-harm review and overreliance on Palantir’s Maven system contributed to a February 28 strike on Shajarah Tayyebeh Elementary School in Minab, Iran. The site was still classified as an IRGC facility when Maven recommended it as a day-one target, according to the report. The account underscores that faster targeting systems do not replace current data, human verification or clear civilian-protection checks.
+
+Bloomberg reported on September 18 that Pentagon investigators found flawed intelligence, outdated imagery, and an overreliance on artificial intelligence contributed to the February 28 U.S. missile strike on Shajarah Tayyebeh Elementary School in Minab, Iran. According to Bloomberg, two Tomahawk missiles hit the school building and grounds, killing more than 150 people, including at least 123 children.
+
+The reported findings describe a chain of failures rather than a single targeting decision. Bloomberg, citing officials involved in the internal investigation, reported that some Pentagon personnel knew within hours that the United States was responsible. The United States had not publicly accepted responsibility for the school strike at the time of Bloomberg's report.
+
+Stale data and compressed targeting
+The New York Times reported in March that preliminary military findings attributed the strike to a targeting mistake involving a site that had formerly been part of a military compound. According to people briefed on that inquiry, U.S. Central Command created the target coordinates using outdated data supplied by the Defense Intelligence Agency. The Times reported that investigators still had unanswered questions about why the information was not double-checked.
+
+Bloomberg reported that an administration order for a large initial aerial assault, which struck more than 1,000 Iranian targets in the first 24 hours, compressed the time available to finalize targets. Officials also cited gaps in information about the site and reductions in civilian-protection personnel, according to the report.
+
+Casualty estimates differ across reporting. Bloomberg reported at least 123 children among more than 150 deaths, while the New York Times cited Iranian officials' estimate of at least 175 fatalities. Anadolu Agency reported that a UN-backed fact-finding mission found reasonable grounds to believe that the Minab strike and another February U.S. attack amounted to war crimes. Those findings concern an ongoing and contested investigation, not a final judicial ruling.
+
+What the AI finding covers
+According to Anadolu Agency's account of the Bloomberg reporting, some Central Command personnel relied heavily on Palantir's Maven Smart System and expected it to flag stale or inconsistent intelligence. Maven is a defense targeting and data-integration system that can combine satellite imagery, signals intelligence, and sensor data. The Guardian reported that coverage focused heavily on chatbots, but described Maven, rather than a large language model such as Anthropic's Claude, as the relevant system in the targeting workflow.
+
+Palantir told Bloomberg that it "is not responsible for the underlying data nor identifying intelligence deficiencies," and that there was no evidence its software was at fault. Anadolu Agency reported that, after the strike, Palantir built tools intended to re-review underlying intelligence, identify target-disqualifying factors, and flag inconsistencies that human review might have missed.
+
+The available reporting does not establish that an AI system independently selected the school as a target. Instead, it describes human operators using a targeting workflow whose inputs included outdated intelligence, with officials alleging that personnel gave the system excessive credit for detecting data quality problems.
+
+For ML and data-platform practitioners, the episode illustrates a recurring safety problem in high-consequence decision systems: model-assisted or software-assisted review cannot compensate for stale source data unless provenance, freshness checks, uncertainty handling, and accountable human verification are built into the operational process. In comparable settings, automated inconsistency detection can add a control layer, but it cannot establish ground truth when the underlying intelligence record is wrong or incomplete.
+
+Key Points
+1
+Bloomberg reported that outdated intelligence, stale imagery, and AI overreliance contributed to a fatal U.S. targeting error in Minab.
+2
+Reporting identifies Maven as a decision-support component, not evidence that a chatbot or autonomous system independently chose the school target.
+3
+Comparable high-consequence ML workflows require data freshness, provenance, uncertainty controls, and accountable human verification beyond automated anomaly detection.
+Scoring Rationale
+The reported incident concerns AI-enabled targeting in a high-consequence military workflow and raises material questions about data provenance, human oversight, and automation bias. It is highly relevant to practitioners designing decision-support systems, although the reporting does not establish autonomous target selection by AI.

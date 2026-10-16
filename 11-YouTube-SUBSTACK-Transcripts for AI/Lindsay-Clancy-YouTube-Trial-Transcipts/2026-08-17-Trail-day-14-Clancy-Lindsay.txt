@@ -1,0 +1,1437 @@
+Transcript
+
+Search transcript
+Search transcript
+
+0:011 secondThis court is now in session. Please be seated. Good morning, your honor. May I proceed? Yes, please.
+0:066 secondsHonor, before the court today, we have the matter of Commonwealth versus Lindsay Clansancy. Miss Clancy is present. She is represented by attorney Kevin Readington, and the Commonwealth is represented by Assistant District
+0:1414 secondsAttorney Jennifer Sprag and Assistant District Attorney Shannon Buckingham. All right. Well, good morning everyone.
+0:2020 secondsGood morning, council. Uh, good morning, Miss Clancy. Um, all right. Before we bring the jury in, could I see everybody just for a few seconds?
+1:121 minute, 12 secondsCan I see?
+1:521 minute, 52 secondsAll right, please.
+2:252 minutes, 25 secondsHey. Hey. Hey hey all persons having anything to do before the honorable William Sullivan justice of the superior court now sitting in Plymouth within for
+2:342 minutes, 34 secondsthe crown of Massachusetts this court is now in session please be seated good morning your honor may I proceed
+2:432 minutes, 43 secondsplease your honor before the court today we have the continuation of the jury trial in the matter of commonwealth versus Lindseay Clancy Miss Clancy is present she is represented by attorney
+2:512 minutes, 51 secondsKevin Readington the commonwealth is represented by assistant district attorney Jennifer Frag and assistant district attorney Shannon Buckingham.
+3:023 minutes, 2 secondsWell, good morning everyone.
+3:043 minutes, 4 secondsNice to see everyone. I hope everybody had a chance to kind of rest up a little bit uh and uh come back here and we're going to get right back to the trial.
+3:123 minutes, 12 secondsSo, I want to do first ask you those questions since we had a long a long break uh uh and then talk a little bit
+3:203 minutes, 20 secondsabout the schedule and kind of today's schedule and kind of where we go uh from here. So uh so first question as you
+3:273 minutes, 27 secondsknow is any member of the jury read, seen, heard or overheard anything from any source about any aspect of this case uh that would affect your ability to be a fair and impartial juror? All right.
+3:393 minutes, 39 secondsNext question. Is there any other serious matter or concern bearing on your service as a juror in this case that anybody needs to bring to my
+3:463 minutes, 46 secondsattention at this time? Again, thank you so much for following those instructions. Uh so uh today's schedule
+3:543 minutes, 54 secondsum is that uh it may be kind of a little bit stop and start. Okay. So kind of bear with us on that. Might be a couple
+4:024 minutes, 2 secondstimes we got to take a a break just after a short amount of time and then we'll bring you back in. It's just the nature of cases at this point. Uh the
+4:104 minutes, 10 secondsit's anticipated uh that the Commonwealth uh will will close their portion of the evidence uh
+4:184 minutes, 18 secondstoday. All right. Then at that point, the defendant has the opportunity if they want to to present uh witnesses and
+4:264 minutes, 26 secondsevidence uh if they want to. But remember, they don't have to. The burden of proof is always on the commonwealth.
+4:314 minutes, 31 secondsAll right? If the if the defendant offers evidence, then the commonwealth is then given the opportunity to uh
+4:394 minutes, 39 secondsoffer rebuttal evidence. All right? And so that um so that's kind of the next phase that we're about to go into after
+4:464 minutes, 46 secondsthe Commonwealth rests. Uh, and I'll go into a little bit more kind of how that goes, but I just kind of wanted you to kind of see where we are and where
+4:534 minutes, 53 secondseverything's going to fit procedurally as we go forward from here. Um, so with that, uh, we're going to return to the Commonwealth, uh, Commonwalth's case, uh, and attorney Sprag.
+5:045 minutes, 4 secondsThank you, your honor. Comalth calls Ian Whip.
+5:095 minutes, 9 seconds[clears throat]
+5:385 minutes, 38 secondsI would rather than I do. Thank you. Thank you. All right. Good morning, sir. Good morning.
+5:465 minutes, 46 secondsAll right. Trace break, please.
+5:485 minutes, 48 secondsThank you. Good morning. Can you please state and spell your name for the record? Yes. It's Ian Wiffin. I A N W H I F I N.
+5:575 minutes, 57 secondsWhere do you work? Uh, CBRET. What is Celebrite?
+6:006 minutesCelebrate is a digital intelligence company uh working in the digital forensics field. And how long have you worked there?
+6:086 minutes, 8 secondsUh, since 2020.
+6:106 minutes, 10 secondsWhat is your role at Celebrate? Uh I'm currently a customer engagement manager.
+6:166 minutes, 16 secondsWhat does that mean? Uh I work with customers uh helping users of our tools uh to understand the digital evidence that they're finding and presenting.
+6:256 minutes, 25 secondsAnd what does digital evidence consist of?
+6:306 minutes, 30 secondsany information which is extracted from a cell phone uh primarily or from a computer which can be interpreted by the examiner uh and presented as evidence.
+6:406 minutes, 40 secondsIt could be call history, messages, location data, uh media, anything that you can find from a digital device.
+6:476 minutes, 47 secondsCould you just uh briefly describe your educational and training background that qualifies you to do this work?
+6:536 minutes, 53 secondsYeah. Um I've worked in IT uh for many years. Uh in 2013 uh I began my career
+7:017 minutes, 1 seconduh within Calgary Police Service in Canada as a digital forensics examiner.
+7:067 minutes, 6 secondsUh that was after spending uh approximately 9 or 10 years working as a patrol officer in the UK and in Canada.
+7:137 minutes, 13 secondsUh as part of my uh role as a digital forensics examiner within the Calgary police uh I went on numerous training
+7:217 minutes, 21 secondscourses. uh the Canadian Police College, they did a a introductory course into digital forensics uh and then further
+7:297 minutes, 29 secondscourses uh focusing on mobile data provided by uh some vendors such as Blacklight or Cellbrite at the time as
+7:377 minutes, 37 secondswell as further courses presented by the Canadian Police College specifically about cell phones
+7:447 minutes, 44 secondsand Celbrite the the software produced by Celbrite is that software used to extract and analyze data from cell phones and computers.
+7:547 minutes, 54 secondsYes, there are several tools uh within our catalog. One of them uh is designed to extract as much data as possible from
+8:028 minutes, 2 secondsa cell phone. Uh and then one of the other tools is designed to take that extracted data uh decode it, decrypt it,
+8:108 minutes, 10 secondsmake sense of it and provide it to the user in a way which can be searched, filtered, organized, reported and presented.
+8:198 minutes, 19 secondsDoes Celbrite's ability to access cell phone data uh continually change based
+8:268 minutes, 26 secondson improvements that are done to the um the phones themselves?
+8:328 minutes, 32 secondsUh yes, there's constantly uh changes being made to devices which make it uh
+8:398 minutes, 39 secondsdifficult to extract the data. There are changes being made to the software that means that the data that we extract is now different to the data that we
+8:468 minutes, 46 secondsextracted previously. uh a new feature, for example, or a change that's made by the software developer. So, we're constantly uh changing our software to
+8:548 minutes, 54 secondsbe able to extract that data and to decode more data.
+8:598 minutes, 59 secondsWere you asked to um locate Apple Health data and other information that could be relevant to the investigation of an
+9:079 minutes, 7 secondsincident that occurred at 47 Summer Street in Dubbury on January 24th, 2023? I was. Yes.
+9:149 minutes, 14 secondsAnd what is Apple Health data?
+9:179 minutes, 17 secondsApple Health is a component of the iOS operating system which logs uh sensor
+9:249 minutes, 24 secondsdata from multiple locations. So there's sensors built within an iPhone that monitor steps taken uh flights climbed
+9:329 minutes, 32 secondsfor example uh as well as third party devices, Apple watches, uh Fitbits, any other device like that. All the
+9:399 minutes, 39 secondsinformation uh is brought into the Apple Health application, aggregated uh and made available for the user to see.
+9:479 minutes, 47 secondsRoughly how many phone extractions have you done?
+9:519 minutes, 51 secondsUh since around 2013, well over a thousand phones and how many uh an how many times have you done analysis on phone extractions?
+10:0110 minutes, 1 secondUh the analysis is is part and parcel.
+10:0310 minutes, 3 secondsSo of those thousand phones or so which I've extracted, I've done analysis on all those phones as well. And then you've also done analysis on extractions
+10:1210 minutes, 12 secondslike in this case where someone else did the extraction and provided the information to you and you did the analysis.
+10:1910 minutes, 19 secondsCorrect. Yeah. Um whenever I'm helping customers uh or or users of our tools, they may pro provide me with the extracted data. Uh so the the data which
+10:2710 minutes, 27 secondsI'm analyzing is more than the devices I've extracted.
+10:3210 minutes, 32 secondsAnd have you testified previously in courts about what you've done in terms of extracting and analyzing information?
+10:3810 minutes, 38 secondsUh yes, I've testified in multiple courts around the world uh approximately 28 times.
+10:4410 minutes, 44 secondsNow, you received a copy of the extraction for Lindsay Clancy's iPhone 13. Correct. Correct.
+10:5210 minutes, 52 secondsAnd when you received that extraction, did you also want to know all the specific information about the case in the investigation?
+11:0011 minutesUh typically when I'm working a case, I don't want to know a lot of detail. I'd rather uh come to my own conclusions.
+11:0811 minutes, 8 secondsbased on the data that I'm viewing rather than, you know, not know the intricacies of the case. All I require is an outline, the uh the date that
+11:1611 minutes, 16 secondssomething happened, the the time, who was involved, basic information.
+11:2111 minutes, 21 secondsAnd in terms of the extraction that was done on Lindseay Clancy's iPhone, that extraction, what type of extraction was it?
+11:3011 minutes, 30 secondsThat's what's called a full file system extraction. It's essentially all of the data which is being extracted from the device that is uh still live.
+11:3911 minutes, 39 secondsAnd did you use specific tools to conduct your analysis?
+11:4311 minutes, 43 secondsUh yes, there's the Cellbrite physical analyzer tool created by Cellbrite and also my own tooling uh applications I've been working on for for several years.
+11:5311 minutes, 53 secondsSo you've actually made your own tools that allow you to examine phone extractions.
+11:5811 minutes, 58 secondsCorrect. There's some tools that I've been working on since prior to joining Cellbrite. Uh tools that as an examiner I decided that I needed to to create for myself uh and make available to others.
+12:1012 minutes, 10 secondsUh and I still use use those tools to this day.
+12:1412 minutes, 14 secondsAnd these tools that you used are those the tools that allow you to um examine and categorize uh the information the data that you find in the extraction?
+12:2512 minutes, 25 secondsYes. The primary point of the tool is to go into the data, decode it, uh provide it in a a way which is easy to filter
+12:3212 minutes, 32 secondsand search, but also additional tools there that allow you to dig into the data uh and look at the uh the raw
+12:3912 minutes, 39 secondsinformation, the databases, the files, uh all of the the raw information, which is
+12:4612 minutes, 46 secondswhat our tools uh initially decode. And did you focus in on a particular time frame when looking at the data on the defendant's um iPhone?
+12:5712 minutes, 57 secondsUh primarily I knew that the the date of the incident was 24th of January 2023.
+13:0313 minutes, 3 secondsSo that was the the main focus uh of my analysis. Uh but some of the data I was aware could be from further a field than
+13:1113 minutes, 11 secondsthat. So I took a look of uh I think it was around 3 weeks uh before that. So early January to to late January.
+13:2013 minutes, 20 secondsWere you able to look at the health data on January 24th, 2023 that was in the defendant's phone extraction?
+13:2713 minutes, 27 secondsI was. Yes.
+13:2913 minutes, 29 secondsAnd what is health data and and how is it how does it show up on a phone?
+13:3513 minutes, 35 secondsUh the user of the phone would be able to access the health data via via the health application uh where the
+13:4413 minutes, 44 secondsinformation is broken down to explain how many steps have been taken over a particular period of time uh the approximate distance that was uh
+13:5213 minutes, 52 secondstraveled uh the number of uh stair flights that were climbed. Uh that data is stored on the device itself in a
+13:5913 minutes, 59 secondsdatabase. Uh so as a forensic examiner I can take a look at that database in its raw form. uh um understand uh exactly
+14:0814 minutes, 8 secondswhere that information is coming from uh and present it to the user of our forensic tools in a slightly more
+14:1614 minutes, 16 secondsforensic friendly method than the user of the application on the phone would see.
+14:2214 minutes, 22 secondsShowing you on the screen here, page four of your report.
+14:3114 minutes, 31 secondsLooking here um we have a section here um heart rate data. Is that correct? Correct.
+14:3814 minutes, 38 secondsAnd you're able to see here um what can you tell from the about the heart rate data from the extraction?
+14:4814 minutes, 48 secondsUh so heart rate data comes from wearing an Apple Watch or a similar uh device uh not from the phone itself. In in the
+14:5714 minutes, 57 secondscase of this phone, uh there was an Apple Watch paired to the device. Uh and all of the heart rate data which is recorded [clears throat]
+15:0515 minutes, 5 secondsperiodically throughout the day uh is stored within the the health database.
+15:1015 minutes, 10 secondsAnd what was the name associated with the Apple Watch?
+15:1515 minutes, 15 secondsUh so as it says in the third paragraph down, the Apple Watch itself was called Linds's Apple Watch.
+15:2215 minutes, 22 secondsAnd here in the the report, you're able to show um the recorded heart rates throughout the day. Um how how is the
+15:3115 minutes, 31 secondsheart rate recorded and sent to the phone?
+15:3615 minutes, 36 secondsUh there are sensors on the Apple Watch itself on on the rear uh which periodically check the heart rate at any
+15:4415 minutes, 44 secondsgiven time and that information is sent to the phone via Bluetooth.
+15:5215 minutes, 52 secondsAnd are you aware of how often an eyewatch will record the data and report it to an iPhone?
+16:0116 minutes, 1 secondUh the actual uh cadence at which the the watch is is checking would depend on what the user is doing. Uh so if you
+16:0916 minutes, 9 secondswere in the middle of a workout, it would be a lot more consistent than just periodically throughout the day. I actually don't know how often it is
+16:1816 minutes, 18 secondsthroughout the day if you're not doing any particular workout. There doesn't seem to be a set cadence. Every device I've looked at, it's slightly different.
+16:2616 minutes, 26 secondsI'm showing you page five of your report, this this database of um
+16:3216 minutes, 32 secondsthe heart rates. For example, in several locations, the they'll there'll be a
+16:3816 minutes, 38 secondsheart rate um report, maybe a few seconds in between them, and others there's seven or eight minutes in between the heart rate report. Is that
+16:4716 minutes, 47 secondswhat you're talking about? How it varies depending on what you're doing at that point in time?
+16:5116 minutes, 51 secondsUh yes, this is is typical from what you see when you look at the the database.
+16:5616 minutes, 56 secondsuh the time stamps are never consistently at uh a recognizable cadence.
+17:0217 minutes, 2 secondsAnd the the highlights in green, what do those represent?
+17:0617 minutes, 6 secondsUh so I actually tried to just highlight some of the high points for the day. Uh I realized a few days ago while reviewing this, there was uh records uh
+17:1417 minutes, 14 secondsthere that show a a high of 123 and 122 which I'd not highlighted. That's right there. Right below 11:46.
+17:2217 minutes, 22 secondsYes. [snorts] And what was the uh the last time a heart rate was reported um from the watch to the defendant's phone?
+17:3017 minutes, 30 secondsUh so the last heart rate record was at 17 2352. So 23 minutes past 5 uh in the
+17:3717 minutes, 37 secondsafternoon with a heart rate of 57 beats per minute.
+17:4017 minutes, 40 secondsWhat was the average heart rate for for the day for the defendants um phone? Uh there was a range of heart rates uh
+17:4917 minutes, 49 secondsgoing between uh as low as uh I believe around 50 and as high as around 122. On
+17:5617 minutes, 56 secondsaverage it was around uh high 80s, early 90s.
+18:0118 minutes, 1 secondAnd so at 5:23 p.m. the last recording of her heart rate was 57. Correct.
+18:1218 minutes, 12 secondsAnd there aren't any further heart rates reported to the phone after that point. Correct. That's correct.
+18:1818 minutes, 18 secondsAnd what are some of the reasons why a watch would no longer be reporting a heart rate to the phone?
+18:2418 minutes, 24 secondsUh if the watch was taken off, if the watch was turned off, uh if the battery died,
+18:3118 minutes, 31 secondsthe battery was was dead. Yes. [snorts] You also mentioned flight climb data.
+18:4518 minutes, 45 secondsWhat is that?
+18:4618 minutes, 46 secondsUh flight climb uh is information which the Apple health application uh stores
+18:5418 minutes, 54 secondsevery time it detects that you walk up a flight of stairs. So a flight of stairs would be considered either a 3 m or 10
+19:0219 minutes, 2 secondsfoot incline over 16 steps. Uh so the the device has detected that both the altitude has changed by 10 ft. Uh and
+19:1119 minutes, 11 secondsthere were steps being walked at the same time.
+19:1419 minutes, 14 secondsSo there's two factors being considered there. The steps that your watch monitors as you walk and then the altitude. Is that correct? That's correct.
+19:2219 minutes, 22 secondsAnd what what is it? Is it GPS or something that's keeping track of your altitude? Uh the altitude is being monitored by a barometer or an altimeter
+19:3119 minutes, 31 secondswhich is inside the device just measuring for differences in air pressure.
+19:3519 minutes, 35 secondsAnd this information the the flight climb data. Can that be monitored by both a watch and your phone if you have it on you?
+19:4319 minutes, 43 secondsIt is. Both devices have got the barometers built in. Uh both devices can monitor flight climb events.
+19:5119 minutes, 51 secondsCan anything simulate or um kind of fake out the watch or or the the phone into thinking that a a flight of stairs is being climbed when it's not?
+20:0320 minutes, 3 secondsUh there are some circumstances where that can happen. Um they're typically quite uh quite rare, but it can happen.
+20:1320 minutes, 13 secondsIs an example of that being in a car and going up a hill.
+20:1620 minutes, 16 secondsCorrect. Yes. Uh if there is uh movement which the device can mistake for steps at the same time as uh the incline is
+20:2520 minutes, 25 secondsbeing driven then that could uh could accidentally record a flight plan.
+20:2920 minutes, 29 secondsBut if a person's not in a car and it is in in is in their home then it would be flights climbed not hills being driven.
+20:3820 minutes, 38 secondsCorrect.
+20:3920 minutes, 39 secondsCorrect. If if the person is in a house uh and there are flight climbs being recorded then the only rational explanation is that the person was climbing stairs.
+20:5320 minutes, 53 secondsHow is the data in terms of flight climb data? How is that data displayed or
+21:0121 minutes, 1 secondin the health data itself uh within the application or within the forensic tool? within the forensic tool.
+21:0921 minutes, 9 secondsOkay. Uh so within the forensic tool we break down or within physical analyzer we break down the health data into our
+21:1621 minutes, 16 secondsuh segments. So for an hour we may say that there are three flight climbs. Uh and then it's up to the user to dig in a little further. They can select that one
+21:2521 minutes, 25 secondshour and then see how that uh activity breaks down over the hour. you would see that there were two flight climbs that occurred
+21:3421 minutes, 34 seconds10 minutes after the hour and then you know another flight climb occurred uh later on.
+21:4021 minutes, 40 secondsSo showing you page six of your report here
+21:5221 minutes, 52 secondsthe top box here is that showing the general hour data where three flights have been climbed.
+21:5821 minutes, 58 secondsCorrect. So, in this case, um, the user is looking at a [clears throat] time period between 10:00 a.m. and 11:00 a.m.
+22:0522 minutes, 5 secondsUh, and the health data that's been pulled from the database has been aggregated. Uh, and it tells you that there's 98 samples being considered. The
+22:1422 minutes, 14 secondsmaximum heart rate during that hourong period was 108. Uh, the distance traveled was approximately 759 m. Uh,
+22:2222 minutes, 22 secondsand there were five flights climbed within the hour.
+22:2522 minutes, 25 secondsAnd then below that you break that down a little further. Correct.
+22:3022 minutes, 30 secondsCorrect. So this is further down the screen in the uh interface where we can see an actual time of 101727
+22:3922 minutes, 39 secondswhere there's two flights climbed. Uh and again another record at 101728 where there are two flights climbed and then a further flight climb at 10:49.
+22:4922 minutes, 49 secondsAnd then going down to the bottom here, this table, what are we seeing here in this table?
+22:5722 minutes, 57 secondsUh, so you may have realized in the in the slide above where there was uh two flight climbs at 17 seconds past and two
+23:0523 minutes, 5 secondsflight climbs at 18 seconds past. That's unrealistic uh measurement. Uh it's because one of those measurements comes from the phone and one comes from the
+23:1323 minutes, 13 secondswatch. uh this table breaks it down to say uh which of these records came from the watch and which came from the phone
+23:2123 minutes, 21 secondsbecause there are some which overlap. So what you're saying is the prior table it showed the four flights of stairs being climbed at the the same time within
+23:3023 minutes, 30 secondsseconds which isn't rational but this breaks it down to show some of that data is coming from the watch and some of it is coming from the phone. Correct.
+23:3923 minutes, 39 secondsCorrect. So if we look at records four and five here for example, we can see uh a start time of 101727 and an end time
+23:4723 minutes, 47 secondsof 10706 where the watch recorded two flight climbs and then 1 second later a start time and 2
+23:5623 minutes, 56 secondsseconds later for the end time we see the watch also detected two flight climbs. This is just the same two flight climb events that happened but both
+24:0424 minutes, 4 secondsdevices recorded those flight clims with slightly different time stamps. And that will happen if I'm wearing my watch and I have my phone in my pocket and I go up the stairs.
+24:1324 minutes, 13 secondsThat's correct.
+24:2024 minutes, 20 secondsDid you do something um to compare these times and um make a table
+24:2824 minutes, 28 secondswhere the um where you ignored or disregarded the uh double entries?
+24:3624 minutes, 36 secondsI did. I tried to uh correlate and discard all of the duplicate information. So where there was an event
+24:4324 minutes, 43 secondsof uh a flight climb that was recorded on the watch and the phone uh rather than provide information that said there was two flight climbs, I would ignore
+24:5124 minutes, 51 secondsone of them uh and limit it to just the ones which we could prove happened.
+24:5624 minutes, 56 secondsAnd that's displayed here in this chart at the bottom of page seven of your report. Correct.
+25:0725 minutes, 7 secondsAnd going to page eight of your report, we have here um at the top of page eight.
+25:1925 minutes, 19 secondsDoes that show um the last flights climb recorded on either the defendant's phone or watch?
+25:2725 minutes, 27 secondsIt does. It shows that there was additional flight climb events logged by the phone which were not logged by the watch. uh at 1703 and 1733.
+25:3825 minutes, 38 secondsSo, these records indicate that at 5:03 p.m. the [snorts] defendant's iPhone was with the person as it went up the stairs
+25:4625 minutes, 46 secondsand then at 5:33 p.m. the um iPhone was with the person as it went up the two flights of stairs. Correct.
+25:5425 minutes, 54 secondsAnd there's a time difference there. The start time is 5:33 p.m. and the end time is 5:38 p.m. um for two flights of
+26:0426 minutes, 4 secondsstairs. So that's roughly 5 minutes in between the two flights. Is there a way to explain that that length of time?
+26:1226 minutes, 12 secondsUh the way the Apple Health data records this information, aggregates it, it tries to group uh events together. So in
+26:2026 minutes, 20 secondsthis case it would have recognized that there was uh a flight climb on the phone at around 17334
+26:2826 minutes, 28 secondsand a second one at around 173833 and it just grouped them both into one event. It doesn't mean that it took 5
+26:3626 minutes, 36 secondsminutes to walk up two flights of stairs. It's just within that 5 minute period there were two flight climbs. So, [clears throat] if I have my phone in my
+26:4426 minutes, 44 secondspocket and I climb up a flight of stairs and then I spend a few minutes on that floor and then still with my phone in my
+26:5126 minutes, 51 secondspocket, go up another flight of stairs, that's representative of what we're seeing here at 5:33.
+26:5726 minutes, 57 secondsCorrect. There tends to be around a 10m minute uh window where it tries to to check every 10 minutes. uh but it can
+27:0427 minutes, 4 secondsreduce that window uh in a case like this where it sees that there's group data within a smaller time period.
+27:1127 minutes, 11 secondsAnd then further down on page eight um we have another table here um which seems to have combined data of heart
+27:1927 minutes, 19 secondsrate and flight flight data. Is that correct? Correct.
+27:5127 minutes, 51 secondsDid you also look at web usage on the extraction of the defendant's phone?
+27:5527 minutes, 55 secondsI did. Yes. And what did you do to look at the web usage on the phone and what time frame did you look at?
+28:0128 minutes, 1 secondUh for web usage I expanded the the time of interest uh to early January to uh the 24th of January. Uh and just took a look at any web history over that time.
+28:1228 minutes, 12 secondsUh there was over 1,300 records uh recovered. uh I took a a cursory look down that list and highlighted some
+28:2028 minutes, 20 secondswhich potentially were relevant to the case and then provided the 1300 uh actual records as a appendix report.
+28:3028 minutes, 30 secondsand going to page 12 of your report.
+28:4528 minutes, 45 secondsLooks like you started here on January 10th, 2023. Is that correct? That's correct.
+28:5328 minutes, 53 secondsAnd basically here you list um various searches that occurred um on each day between January 10th and January 24th from the extraction. Is that correct?
+29:0429 minutes, 4 secondsThat's correct. Broken down by day uh with the time of the search, the uh website that was visited, the title of
+29:1129 minutes, 11 secondsthe web page, and then the identifier uh in the database. [clears throat]
+29:2229 minutes, 22 secondsand looking at these searches on January
+29:2929 minutes, 29 seconds12th, 2023 at 19:48. So that would be 7:48 p.m. Is that correct?
+29:4029 minutes, 40 secondsCorrect.
+29:4129 minutes, 41 secondsThere was a search in the title. It says, "How quickly does Wellbutrin work for depression?" Is that the title? Is
+29:4829 minutes, 48 secondsthat what the user is putting into the search?
+29:5029 minutes, 50 secondsUh, if I could see the uh the search, please. I'll zoom in on that.
+30:1130 minutes, 11 secondsOh yes. So uh the the top entry here we can see starts with https www.google.com/arch google.com/arch
+30:2030 minutes, 20 secondsuh question mark q. Uh the text after the queue, how quickly does well trim
+30:2530 minutes, 25 secondswork uh is what the user uh searched. Uh typically that is exactly as the the
+30:3430 minutes, 34 secondsuser typed it assuming that there are no um autocomp completions in place. In this
+30:4130 minutes, 41 secondsparticular case, uh it appears it was searched using Safari. Uh, so there's no auto completion. That is essentially
+30:4930 minutes, 49 secondswhat the user typed in. And then the title, how quickly does well Bruce, I can't say that word, I'm sorry.
+30:5630 minutes, 56 secondsWell, butrin, thank you. Uh, [clears throat] work for depression Google search is the title uh of the page which Google assigns.
+31:0431 minutes, 4 secondsSo where it says after the queue, how plus quickly plus does plus the user is not putting in those pluses. Correct? Is that what were you calling those?
+31:1231 minutes, 12 secondsUh, so that that's part of the attribute. it it's how uh the data is encoded in in a URL or in a a web
+31:1931 minutes, 19 secondssearch. You can't have spaces within this uh address string. So they replace the spaces with the plus s uh plus symbol.
+31:2931 minutes, 29 secondsSo I type in how quickly does and the computer adds the pluses in space.
+31:3431 minutes, 34 secondsYes, it's URL encoding to make it safe uh for the browser. And then at 7:49
+31:4031 minutes, 40 secondsthere's a search for um lameal for depression uh for yes and depression spelled with a
+31:4931 minutes, 49 secondsa B at the end instead of an N. Uh which demonstrates uh this is what the user typed in rather than a page that was being visited.
+31:5831 minutes, 58 secondsAnd then a few minutes later at 7:55 p.m. the user typed in LOL for depression. Correct. Correct.
+32:2232 minutes, 22 secondsThen on page 16 on January 18th, 2023
+32:3232 minutes, 32 secondsat 10:25
+32:4232 minutes, 42 secondsWe had a search there. Um, ketamine for suicidal ideiation. Is that correct? Correct.
+32:4832 minutes, 48 secondsAnd again, that's the user typing that in.
+32:5032 minutes, 50 secondsUh, yeah. Again, those words were typed in by the user.
+33:0233 minutes, 2 secondsAnd then on January 19th, 2023, on page 17 of your report,
+33:1333 minutes, 13 secondswe have symptoms of postpartum psychosis searched on January 19th. Correct.
+33:2233 minutes, 22 secondsAnd again, uh, so we're looking at this is AM, correct? 9:24 a.m. that was searched. Yes. the morning.
+33:2933 minutes, 29 secondsAnd then 9:30 a.m. there's another search for psychosis symptoms. Yes.
+34:0434 minutes, 4 secondsgoing back to that same page, page 17 at the bottom for January 24th,
+34:1234 minutes, 12 secondswe have here searches for kids mirillax at 4:02 p.m. and um takeout 3V at 4:13 p.m. Is that correct?
+34:2334 minutes, 23 secondsThat's correct. And then CVS Pharmacy at 4:47 p.m. Correct. Correct.
+34:3734 minutes, 37 secondsThere was also um an Apple note that you found in the records. Correct. that was
+34:4234 minutes, 42 seconds[clears throat]
+34:4334 minutes, 43 secondsum the Apple Note in your report. It says it was created on December 22nd, 2022 at 10:23 a.m. Strike that. And then
+34:5234 minutes, 52 secondsmodified at 10:23 a.m. on January 23rd, 2023. Correct. Correct.
+34:5834 minutes, 58 secondsAnd are you able to tell what in the note was modified?
+35:0235 minutes, 2 secondsUm, no. There's no real auditable log to to look back and see how many times it's been modified over uh the course of its
+35:1135 minutes, 11 secondslife. Uh I was able to do some amount of recovery to see that uh on the day it was created, it started in a very
+35:1935 minutes, 19 secondssimilar way to as it's written uh on the 24th of 23rd of January. Uh but the
+35:2535 minutes, 25 secondsexact changes between uh when it first was created and the last time it was modified, we don't know.
+35:3235 minutes, 32 secondsAnd then you also looked at messages. Correct. Correct.
+35:3535 minutes, 35 secondsAnd were you able to compile the messages that were sent and received between the defendant and her mother and
+35:4335 minutes, 43 secondsthe defendant and her husband on January 24th, 2023? I did. Yes.
+35:4835 minutes, 48 secondsAnd were you able to arrange it using the tools that you use in a way that looks like you might see it on your phone?
+35:5635 minutes, 56 secondsUh, yeah. I tried to prepare it in a report which would be uh easy for any viewer to understand uh based on their own usage of uh of text messaging.
+36:0736 minutes, 7 secondsSo showing you page 19 of your report what we have here is an enlarged version of what you might see on your phone.
+36:1836 minutes, 18 secondsCorrect. Correct.
+36:2036 minutes, 20 secondsAnd so someone's Is this uh in blue? Is this Lindsay's phone?
+36:2336 minutes, 23 secondsIt is. The messages in blue on the right would be outgoing. Uh the messages in gray on the left would be incoming.
+36:3036 minutes, 30 secondsAnd so we we have a a photo being sent out to from Lindsay's phone to her mother and then a reply coming back and and that pattern goes on and on.
+36:3936 minutes, 39 secondsCorrect. Correct.
+36:4936 minutes, 49 secondsAnd then looking at page 22, you were able to do the same um in terms of her contact with Patrick Clancy that day. Correct.
+36:5736 minutes, 57 secondsI did. Yes.
+36:5836 minutes, 58 secondsAnd so in gray we have Patrick Clancy sending a message to Lindsay Clancy and in blue is the response. Correct.
+37:0537 minutes, 5 secondsCorrect.
+37:4137 minutes, 41 secondsWere you, [clears throat] excuse me, were you also able to look at the phone calls that occurred either incoming or outgoing to the defendant's phone on January 24th, 2023?
+37:5237 minutes, 52 secondsI did. Yes.
+38:0138 minutes, 1 secondAnd looking at page 27 and 28 of your report, first on page 27,
+38:0938 minutes, 9 secondsjust looking closely at the phone here in the report, it says 2024. Is that a typo? Is that supposed to be 2023?
+38:1438 minutes, 14 secondsThat's meant to be 2023. Yes, I apologize.
+38:1638 minutes, 16 secondsOkay. Um, and so what we see here, um, can you just tell us what these columns are?
+38:2238 minutes, 22 secondsYeah. the start time uh of the call typically when it is answered by the recipient. The end time uh when the
+38:3038 minutes, 30 secondscall's ended. Uh the metadata is information including uh who the call was to or from uh how long the call
+38:3838 minutes, 38 secondslasted and then the reason that the call disconnected. Uh and then a record ID.
+38:4438 minutes, 44 secondsSo if uh if you had the database, you could go in and find this record based on the ID number.
+38:5038 minutes, 50 secondsAnd looking at page 28, this is the continuation of that table
+38:5838 minutes, 58 secondsregarding the phone calls. Is that correct? Correct.
+39:0039 minutesAnd so what we're seeing here is at 17:33, which would be 5:33 p.m., there's an incoming call from Patrick to Lindsay's phone. Is that correct?
+39:1139 minutes, 11 secondsCorrect.
+39:1139 minutes, 11 secondsAnd it says duration 8 seconds. Does that I'm sorry, 0 seconds. Does that mean it was not answered? In this case, it was an unanswered call.
+39:1939 minutes, 19 secondsAnd then at 5:34 p.m., roughly a minute later, there's an outgoing call from Lindsay's phone to Patrick's. Correct. Correct.
+39:2739 minutes, 27 secondsAnd that call was approximately 14 seconds. Correct.
+39:3039 minutes, 30 secondsAnd then at 6:09 p.m., another incoming call from Patrick to Lindsay that went unanswered.
+39:3739 minutes, 37 secondsThat's correct.
+39:4639 minutes, 46 seconds[clears throat and snorts]
+39:5239 minutes, 52 secondsNow you also um in a section you call media you have some photographs uh that were taken from the phone with some metadata included. Correct.
+40:0240 minutes, 2 secondsCorrect. What is metadata?
+40:0440 minutes, 4 secondsUh metadata is information about that photograph. It could be uh the device that captured it, the time that it was captured, the location,
+40:1340 minutes, 13 secondsuh information about the lens, the lighting, etc.
+40:1740 minutes, 17 secondsAnd so looking at page 29 of your report, just for an example, what we have here are three photographs.
+40:2540 minutes, 25 secondsCorrect. Correct.
+40:2740 minutes, 27 secondsAnd the metadata for the first one uh shows captured at Southshore Medical Center. Is that correct? Correct.
+40:3340 minutes, 33 secondsHow were you able to determine that's where that photograph was taken? Uh the metadata of the photo included the latitude and longitude where the image
+40:4240 minutes, 42 secondswas captured. Uh I took that latitude and longitude and looked on Google Maps to see uh a physical address. Um in this
+40:5040 minutes, 50 secondscase it came down to the uh Southshore Medical Center.
+40:5640 minutes, 56 secondsAnd then the third photo here that shows um captured at the home address on Summer Street. Is that correct?
+41:0441 minutes, 4 secondsCorrect.
+41:1741 minutes, 17 secondsAnd then you looked at device usage. What is device usage?
+41:2141 minutes, 21 secondsUh device usage would relate to how the user is operating the device. So when they have it unlocked, locked, uh what
+41:2841 minutes, 28 secondsapplications being used any particular time.
+41:3241 minutes, 32 secondsuh essentially anything which is not a message or or a phone call or results in additional data like that.
+41:3941 minutes, 39 secondsAnd looking at page 32 of your report in that device usage log, it shows that the last time the device usage was logged was at 5:13 p.m. Correct.
+41:5241 minutes, 52 secondsUh so this table relates just to the locking and the unlocking of the device.
+41:5741 minutes, 57 secondsUh so the last time the device was unlocked was at 171316.
+42:0242 minutes, 2 secondsUh the device was locked again uh around 2 minutes later at 17:1512.
+42:0742 minutes, 7 secondsUh and the device was not unlocked again.
+42:1042 minutes, 10 secondsAnd so where the device was not unlocked again after 5:16 p.m. But we have a
+42:1642 minutes, 16 secondsphone call being made at 5:34 p.m. How does that happen? Uh there is a setting
+42:2442 minutes, 24 secondswithin iPhones that allow you to use a locked device to call back numbers uh for missed calls. So in this case, uh
+42:3342 minutes, 33 secondsLindsay had the missed phone call. Uh that would have shown on screen as a notification as a missed call and without unlocking the device, you're
+42:4142 minutes, 41 secondsable to call that person back. So you just press on the the icon that shows up. You have a missed call. You press on that and you can call the person back without unlocking the phone.
+42:4942 minutes, 49 secondsCorrect.
+42:5342 minutes, 53 secondsAnd then what is application focus? Uh application focus is literally the application which is visible on screen at any given time.
+43:0343 minutes, 3 secondsAnd at 4:13 p.m. 1613 um on January 24th, you've highlighted
+43:1143 minutes, 11 secondsit in green here. Um what are we seeing there? at uh 16
+43:1843 minutes, 18 seconds161323 until 161450 uh the Apple Maps application was being used visible on screen.
+43:3543 minutes, 35 secondsIs it then used again at 5:13 and 5:14 p.m.
+43:4143 minutes, 41 secondsor is that a different application? Uh so at 5:13 until 5 14 uh it was mobile
+43:4843 minutes, 48 secondsSafari. So the mobile uh version of Safari the internet browser was on screen and at 1714
+43:5643 minutes, 56 secondsuh 47 until 17158 it was the mobile SMS or messaging application which was on screen.
+44:0344 minutes, 3 secondsSo do you just look at the part that's in parentheses to see where [snorts] what application or was open or being used at the time?
+44:1244 minutes, 12 secondsCorrect. what application was on screen at the time?
+44:1444 minutes, 14 secondsSo, for example, where it says 17:34, which would be 5:34 p.m., and in parenthesis is in call service. Does that represent a phone call?
+44:2344 minutes, 23 secondsIt does. That's the the screen that indicates you're in a phone call.
+44:2844 minutes, 28 secondsAnd staying with the same page, page 34, you've made some notes here.
+44:3544 minutes, 35 secondsLet's go a little bit regarding Apple Maps, Safari, and messaging. So, can you just explain what you pulled from the data for Apple Maps?
+44:4644 minutes, 46 secondsYeah, Apple Maps was used uh to plan a route from the user's current location uh the home address to a restaurant
+44:5444 minutes, 54 secondscalled 3V and that was at 4:13 p.m. It was.
+44:5944 minutes, 59 secondsAnd then in terms of Safari, you have the last unlock at 5:13 p.m.
+45:0445 minutes, 4 secondsUh yes. So the the last unlock of the device was used for the purposes of viewing Safari uh where PDLX was
+45:1345 minutes, 13 secondssearched using uh Google and then in terms of messaging what did you what did you pull from the data there at the same time uh or in that same
+45:2245 minutes, 22 secondsdevice usage uh so the device was unlocked Safari was used to search PLAX and then the messaging application was
+45:2945 minutes, 29 secondsopened to send a message to to Patrick saying PDLax liquid stool softener And that was at 5:15 p.m.
+45:3745 minutes, 37 secondsIt was.
+45:4445 minutes, 44 secondsAnd then did you create a timeline combining all the data that we've talked about into one timeline?
+45:5045 minutes, 50 secondsI did. Yes.
+46:0746 minutes, 7 secondsI'm going to the last page of your report, page 43.
+46:1146 minutes, 11 secondsIs this the last page of the the timeline? Uh, it is. Yes.
+46:2346 minutes, 23 secondsAnd in that page, um, can you explain what we're seeing here?
+46:2846 minutes, 28 secondsUh, yes. So the the very first column is the time stamp.
+46:3346 minutes, 33 secondsUh the next few columns which show uh typically colored is related to the activity. Uh which will become a little
+46:4246 minutes, 42 secondsbit clearer in a moment. Uh the the rowing or the column in the center explains what the record is. Uh so if
+46:5046 minutes, 50 secondsfor example we look at the uh 171316 record uh we can see a U which means the device was unlocked in pink.
+47:0047 minutesThat unlock event lasted uh until 17512.
+47:0647 minutes, 6 secondsSo hence that entire column uh is in pink and shows uh the uh the relevant lock event.
+47:1447 minutes, 14 secondsSo here we have 513 device unlock. Yes.
+47:1847 minutes, 18 seconds5:15 device lock and there's this column connecting them. Correct.
+47:2247 minutes, 22 secondsCorrect. Uh and then any activity that happened during that unlock time is then
+47:2947 minutes, 29 secondsshown uh within the rows between. Uh so again we see Safari open at 171316.
+47:3647 minutes, 36 secondsSafari was closed at 171447. Messaging was opened at 171447.
+47:4447 minutes, 44 secondsWhile messages were opened, there was an outgoing message sent for PDLX. Uh, and then messaging was closed. Messaging was
+47:5147 minutes, 51 secondsopened again and messaging was closed prior to the device locking.
+47:5647 minutes, 56 secondsSo everything in the in the colored columns tries to show uh all of the the events that happened at the same time or or during that parent event.
+48:0848 minutes, 8 secondsAnd what we have here at 5:33 p.m. we had the flight climb started. Is that correct? Correct.
+48:1448 minutes, 14 secondsAnd flight climb ended at 5:38. So that line again connecting them.
+48:1948 minutes, 19 secondsCorrect. So two flight climbs occurred during that time period.
+48:2348 minutes, 23 secondsAnd in between when the flight climb started and the flight climb ended, you had the two calls, the incoming call
+48:3048 minutes, 30 secondsthat was missed from Patrick and then the outgoing call to Patrick. Correct. Correct.
+48:3448 minutes, 34 secondsSo the first flight climbed had already been started. Someone had already started climbing up a flight of stairs
+48:4248 minutes, 42 secondswhen that first unanswered call happened. Correct.
+48:4648 minutes, 46 secondsUh so flight climb started uh is how it's listed within the database and within the software. Uh but it actually
+48:5548 minutes, 55 secondsthe flight climb time is when the flight climb has been recognized by the device as the device has already uh climbed up
+49:0349 minutes, 3 secondsthose stairs. So even though it says flight climb started, that's that's technically the time that the flight climb uh or the first flight climb had ended.
+49:1249 minutes, 12 secondsSo where it says 5 33, I'm sorry, 5334 flight climb started, that actually
+49:2049 minutes, 20 secondsindicates the person has gone up that first flight of stairs already.
+49:2349 minutes, 23 secondsYes, that that indicates the phone has now realized I'm 3 m higher than I was the last time I checked. Uh therefore a
+49:3049 minutes, 30 secondsflight climb has already been completed at that point and then the calls happen and then the phone realizes at 5:38 that another flight has been climbed.
+49:3949 minutes, 39 secondsCorrect.
+49:5049 minutes, 50 secondsI would move to submit the report as the next exhibit. No objection. All right. That report may be admitted.
+50:0050 minutes266. I have nothing further. All right.
+50:0550 minutes, 5 secondsAll right. So, members of the jury, remember I said might be a little stop and start here today. This is one of those stops. All right. So, we're going to take a short break uh and then we'll
+50:1450 minutes, 14 secondscome right back uh and we'll return for uh the cross examination of this witness. Okay. All rise, please.
+50:2450 minutes, 24 seconds[clears throat]
+50:5750 minutes, 57 secondsmight be coming here on Thursday.
+51:0151 minutes, 1 secondWhy she's doing that? The court for succession.
+51:0751 minutes, 7 secondsAll right. So, the court will be in a short recess uh at this time. Thanks. All eyes.
+51:3051 minutes, 30 secondsCourt is back in session. You may be seated. Yeah. C, we ready for the jury? Yes. All right. Yeah.
+51:5551 minutes, 55 secondsOh, nice.
+52:3952 minutes, 39 secondsAll right, please enter.
+53:0953 minutes, 9 secondsBoard is back in session. You may be seated.
+53:1953 minutes, 19 secondsAll right. Thank you, Madam Clerk. Mr. Ready. Thank you, honor. Morning. Good morning.
+53:2453 minutes, 24 secondsUm Mr. Whiffen, just um a couple of things. One of the takeaways or question that I had is that you were talking
+53:3153 minutes, 31 secondsabout in reference to the Apple Health data. Um it's fair to say that there's an issue as to the accuracy or
+53:3953 minutes, 39 secondsreliability of the act of the app Apple Health data. You've actually done research on it. I've done research on it. Yes.
+53:4853 minutes, 48 secondsOkay. And one of the things that you did is uh back about a year ago, June 28th of 2025, you did a um a blog article on
+53:5853 minutes, 58 secondsApple Health accuracy and reliability, and it talked about using a a pitch, which I think is you guys refer to like a football field.
+54:0554 minutes, 5 secondsIt was a rugby field. Yes.
+54:0754 minutes, 7 secondsAnd then you had somebody put the watch in their right pocket, somebody with the left pocket, and then someone else held it in your hand. You measured it and things of that nature, right?
+54:1554 minutes, 15 secondsCorrect. It was three phones. some of the things were off a little bit, but basically you put that in your report and you were able to draw your
+54:2354 minutes, 23 secondsconclusion as to the accuracy and reliability as you say of the Apple Health data. Right. Correct.
+54:2954 minutes, 29 secondsNow, if someone is wearing an Apple Watch, is that what records heart rate?
+54:3754 minutes, 37 secondsIs the heart rate is on the watch? Yes, it is on the watch. Okay. Um, and the steps that the person takes, things of that nature, the movement, is that on the phone or would that be on the watch?
+54:4854 minutes, 48 secondsThat's on both the watch and the phone.
+54:5054 minutes, 50 secondsOkay. Now, if you have an Apple Watch and you and you test it or you examine it, would you be able to determine what
+54:5854 minutes, 58 secondsinformation was actually recorded by the watch while the person was wearing it?
+55:0555 minutes, 5 secondsYes, the information that's recorded within the Apple Health database does specify whether it uh whether the information comes from the watch uh the phone or from a different device.
+55:1555 minutes, 15 secondsOkay. And in this case, if if I understand correctly, um the Apple Watch
+55:2355 minutes, 23 secondsstopped recording data at is it 523? It was around that time.
+55:2955 minutes, 29 secondsOkay. You know what? I'm going to give you your report. Feel free to just refresh your memory to look at it or whatever helps you out. Thank you.
+55:3855 minutes, 38 secondsYep. No problem. [cough] I just want to get the times down.
+55:4655 minutes, 46 secondsI think you indicated that the watch stopped recording information at 5:23 p.m.
+55:5255 minutes, 52 secondsYes. The the last heart rate was uh 52352.
+55:5655 minutes, 56 seconds52. Okay. 523 and 52 seconds. And then um I believe the phone and watch stopped recording at 538 was it?
+56:0856 minutes, 8 secondsUh the last usage of the uh let me double check this. I believe the
+56:1556 minutes, 15 secondslast usage of the phone uh to record flight climb data was at 538. Yes.
+56:2356 minutes, 23 secondsAll right. And after 538 it's pretty much blackout. There's there's no further information or recording, right?
+56:3256 minutes, 32 secondsUh yes, not until um like the phone was seized by police, I believe.
+56:3756 minutes, 37 secondsBut there's other activity, but appeared to be after the incident.
+56:4256 minutes, 42 secondsSo the further activity would have been the following morning on the 25th of
+56:4856 minutes, 48 secondsJanuary, say around 5:30, 6:00 in the morning. Uh I ended my analysis on the 24th.
+56:5756 minutes, 57 secondsOkay.
+56:5956 minutes, 59 secondsWell, um, so 5:23 p.m. the watch stops recording information. 5:38 p.m. both
+57:0557 minutes, 5 secondsthe watch and the phone stop recording any information until the police picked up the phone apparently the following day. Right.
+57:1457 minutes, 14 secondsUh, again, there would have been activity uh later on, but it wasn't usage. It wasn't health data. Uh it
+57:2257 minutes, 22 secondswould have been things like incoming calls if there were any.
+57:2557 minutes, 25 secondsWhen you went through the stair climbing and talked about the um steps that were taken, the distance that was was taken.
+57:3557 minutes, 35 secondsUm that stopped at 5:38 p.m. Right. Correct.
+57:4057 minutes, 40 secondsNow, you don't know when I say you, I mean as a witness, but also the police. what whoever was was wearing the watch.
+57:4957 minutes, 49 secondsFor example, if Lindsay's wearing the watch or carrying the phone after 5:38, you don't know what was happening at 5:39.
+57:5757 minutes, 57 secondsCorrect.
+57:5757 minutes, 57 secondsYou don't know what was happening at 5:40, 5:45. Right. Correct. Right up till 5:58, 6:00 p.m., right? Purely the data on the device.
+58:0658 minutes, 6 secondsSo, it could have been the phone could have been put down, the watch could have been put down, battery died, whatever
+58:1358 minutes, 13 secondsthose issues could be. And the person would still be going down the stairs, going up the stairs, going in the
+58:2058 minutes, 20 secondsbackyard, doing push-ups, whatever. You just don't know, right? Yes. Okay.
+58:2658 minutes, 26 secondsUm, [cough and clears throat] one of the things you're familiar with the concept of location data, right?
+58:3358 minutes, 33 secondsCorrect. And and location data, one of the things you looked at, are you aware of would be from Lindsay's phone on August 23rd of 2022. Is that correct?
+58:4458 minutes, 44 secondsUh, apologies. The August 23rd, 2022. Yeah. Uh, I didn't go back. Okay. Anywhere near that date.
+58:5158 minutes, 51 secondsYou you you have tested and written blogs though on location information, right? Correct.
+58:5558 minutes, 55 secondsYou actually testified in the case of Conwell versus Victor Arrington in Suffach Superior Court in Boston in support of the accuracy of um this particular artifact or information.
+59:0759 minutes, 7 secondsRight.
+59:0759 minutes, 7 secondsCorrect. So, you're a you're a true believer that the uh phone does in fact record accurately significant locations on the iPhone, right?
+59:1759 minutes, 17 secondsIt certainly can. Yes.
+59:1859 minutes, 18 secondsAll right. Um, and are you aware or if I was to approach you in your expertise?
+59:3959 minutes, 39 secondsIt's just a doctor. That's all.
+59:4459 minutes, 44 secondsYou were talking earlier about uh latitude, longitude, things of that nature, right? Yes.
+59:5059 minutes, 50 secondsSo, just to uh you're familiar with, for example, uh significant location visits
+59:5659 minutes, 56 secondson Lindsay's phone, August 23rd, 2022 at 9:34. Do you know what you know what that says or what what that means?
+1:00:061 hour, 6 secondsUm the created time Yeah.
+1:00:091 hour, 9 secondsof 9:30 34 that be when the device decided that the uh
+1:00:171 hour, 17 secondsdevice had visited this location enough to consider it a visit. Okay. Do you know what that location is?
+1:00:221 hour, 22 secondsIf I suggest to you it's a doctor's office. Would you be aware of that?
+1:00:251 hour, 25 secondsUh I I don't recognize it from the the coordinates. Okay. Okay.
+1:00:411 hour, 41 secondsThis here you're familiar with two as well, right? The uh geo data with the latitude and the longitude. Yes.
+1:00:491 hour, 49 secondsAnd you're familiar with the fact that you can take the metadata off of the information on the cell phone, one of which would be latitude and longitude.
+1:00:561 hour, 56 secondsto be able to determine for example that this would be uh the Lindsay Clancy Hall. Correct. Yes. Correct. You've seen this before, right?
+1:01:041 hour, 1 minute, 4 secondsUh it rings a bell. Yes. Okay. I'd offer this. Any objection? No objection. Okay. That may be admitted.
+1:01:111 hour, 1 minute, 11 secondsThank you. 267. All right. Thank you.
+1:01:161 hour, 1 minute, 16 secondsNow, you have your report in front of you, right? Yes.
+1:01:231 hour, 1 minute, 23 secondsAnd um that's captioned digital forensic report and it's in evidence so the jurors are going to be able to review it in its entirety. Right. Yes.
+1:01:311 hour, 1 minute, 31 secondsUm if I could direct your attention to page
+1:01:411 hour, 1 minute, 41 seconds11, I believe. Yeah, page 11. Okay. Yes.
+1:01:521 hour, 1 minute, 52 secondsAnd just so the jurors are able to acclimate themselves to it, that would be this item here that you went through with the district attorney. Right.
+1:02:031 hour, 2 minutes, 3 secondsAs far as the uh searches, Google searches, [clears throat] I have a different page 11.
+1:02:111 hour, 2 minutes, 11 secondsDifferent page. Uh that looks like this page 12.
+1:02:161 hour, 2 minutes, 16 secondsOh, okay. Well, let me approach you with uh what is your digital forensic report? Report number one. Yes.
+1:02:241 hour, 2 minutes, 24 secondsYeah. Okay. Is this the same? So, this is a revision.
+1:02:281 hour, 2 minutes, 28 secondsA revision uh the revision submitted in February that just had uh a different record highlighted.
+1:02:361 hour, 2 minutes, 36 secondsYeah. Okay. So, basically there's no big deal difference, right? Correct.
+1:02:401 hour, 2 minutes, 40 secondsOkay. So, we can go by you have the revised and I have the old. Um, can you look at January 10th on the Google search for example?
+1:02:491 hour, 2 minutes, 49 secondsI can. You have it? Yes, sir.
+1:02:511 hour, 2 minutes, 51 secondsUm, so looking at January 10th of 2023, um, just read along with me and the jurors again will be able to look at
+1:02:591 hour, 2 minutes, 59 secondsthis in the in the jury room. Uh, prescription information at uh, it says 14:55. What does that mean?
+1:03:071 hour, 3 minutes, 7 seconds12:14 in the morning. 12:14 a.m. Yes.
+1:03:091 hour, 3 minutes, 9 secondsAll right. And then 1911, which would be at 7:11 in the morning. Uh 7:11 p.m.
+1:03:161 hour, 3 minutes, 16 secondsOh, PM. Okay. Trazadone and benadryil goes on about uh an hour later.
+1:03:211 hour, 3 minutes, 21 secondsTrazadone headache Google search goes on. Trazadone and ibuprofen goes on.
+1:03:261 hour, 3 minutes, 26 secondsTrazadone and Tylenol goes on to 2032, which would be 8:32 p.m. Trazadone and Tylenol interactions. Right.
+1:03:341 hour, 3 minutes, 34 secondsCorrect.
+1:03:351 hour, 3 minutes, 35 secondsFair to say that these are things that Lindsay Googled uh on her cell phone.
+1:03:401 hour, 3 minutes, 40 secondsThat's what this document refers to, right? Somebody used this cell phone to Google. Yes.
+1:03:451 hour, 3 minutes, 45 secondsYou don't know who was actually using it, but this is Lindsay's cell phone. You're aware of that.
+1:03:501 hour, 3 minutes, 50 secondsUm just if we jump ahead uh looking at all of these various Google searches, follow with me on let's say randomly,
+1:03:591 hour, 3 minutes, 59 secondslet's say um page 13, 1948, which would be 17:48 p.m. I guess.
+1:04:101 hour, 4 minutes, 10 secondsYou with me on that?
+1:04:121 hour, 4 minutes, 12 secondsUh yes. 1948. Yeah. Yes.
+1:04:181 hour, 4 minutes, 18 secondsHow quickly does Wellbutrin work for depression? That's what was Googled, right? Correct. Followed by Lamdul for depression.
+1:04:241 hour, 4 minutes, 24 secondsElville for depression. How to tell if you're sleepd deprived. Ketaman for suicidal ideiation. Right. Correct.
+1:04:301 hour, 4 minutes, 30 secondsThese are all searches that were done on Lindsay's cell phone and that particular date chronologically would have been the 12th of January. Right.
+1:04:381 hour, 4 minutes, 38 secondsCorrect. Now, without boring everybody, it goes on and on and on with with searches along those lines. Suicidal
+1:04:461 hour, 4 minutes, 46 secondsideiation, drugs, trazadone, mixtures, things of that nature. Right. It does.
+1:04:511 hour, 4 minutes, 51 secondsUm, page 17, if you have it, would be the Apple note council asked you about.
+1:05:011 hour, 5 minutes, 1 secondUh, yes.
+1:05:021 hour, 5 minutes, 2 secondsOkay. Now, if I suggest to you, sir, that uh this is the Apple Note. I believe a previous witness may have [clears throat] read this to the jury,
+1:05:101 hour, 5 minutes, 10 secondsso they will have this in the room to read. But basically, this is the note that says, "I was the healthiest, happiest mom. I worked out every
+1:05:181 hour, 5 minutes, 18 secondsmorning, meditated, took care of myself, and basically my life is turned to crap." Right. Correct.
+1:05:241 hour, 5 minutes, 24 secondsSo, what was modified in this, if you know, because council asked you if there was modifications and things of
+1:05:321 hour, 5 minutes, 32 secondsthat nature, and I'm just asking if you know, what was modified in it?
+1:05:361 hour, 5 minutes, 36 secondsum exactly at the moment I don't have all of that in front of me. It's possible to see snippets uh going back
+1:05:421 hour, 5 minutes, 42 secondsover time. Uh I do recall okay on the 22nd of December when this was created it started with the same sentence.
+1:05:501 hour, 5 minutes, 50 secondsY uh and there was a few uh essentially spell check or spelling differences. Okay.
+1:05:571 hour, 5 minutes, 57 secondsAs time went on. Uh but as much as you can recover from the earlier versions of the note, it's a snippet. It's
+1:06:051 hour, 6 minutes, 5 secondsessentially two sentences and the rest of it is essentially the same note.
+1:06:091 hour, 6 minutes, 9 secondsOkay. Thank you, sir. Um, going forward on to page 18, page 19,
+1:06:161 hour, 6 minutes, 16 secondsuh, and 20. Would you agree with me that, well, actually in 21, they basically contain photographs that were
+1:06:251 hour, 6 minutes, 25 secondssent from Lindsay's phone to looks like Patrick's phone. Would you agree with that?
+1:06:331 hour, 6 minutes, 33 secondsUm, I believe the first few pages are sent to mommy.
+1:06:381 hour, 6 minutes, 38 secondsOkay. And this basically is the There we go. This is the snowman uh in the backyard being made, right?
+1:06:471 hour, 6 minutes, 47 secondsCorrect.
+1:06:481 hour, 6 minutes, 48 secondsAnd then Lindsay's phone is sending the blue. Yes. The blue is outgoing.
+1:06:561 hour, 6 minutes, 56 secondsA response. Yes.
+1:06:581 hour, 6 minutes, 58 secondsAnd can you tell me what the response is?
+1:07:021 hour, 7 minutes, 2 secondsUh, the one on screen at the moment is the response sent from mommy to Lindsay's phone saying, "That's a big roll of snow. I was wondering if you got
+1:07:101 hour, 7 minutes, 10 secondsenough for the kids to play in, and it's pretty nice day, too. Gives them something to do on a day without school." Okay. And then your report then goes on
+1:07:191 hour, 7 minutes, 19 secondswith additional photographs of the snowmen.
+1:07:231 hour, 7 minutes, 23 secondsUh, there's a box of Cheerios apparently.
+1:07:271 hour, 7 minutes, 27 secondsAnd then there's a um photograph of a young boy appearing to be very exuberant
+1:07:351 hour, 7 minutes, 35 secondswith his arms up in the air. Um and then there's the Lindsay phone responds with a picture of the little girl with a mask on. Right.
+1:07:461 hour, 7 minutes, 46 secondsCorrect. And this is a conversation with Patrick.
+1:07:481 hour, 7 minutes, 48 secondsPatrick. Okay. So, are you able to tell what Patrick said, if anything, when he sent the picture of the little boy with his arms up in the air? Uh so at the
+1:07:561 hour, 7 minutes, 56 secondsvery top of that uh message above the photograph it says uh got himself dressed and that would have be the message that was sent alongside the photograph.
+1:08:041 hour, 8 minutes, 4 secondsOkay. And then what was her response? Uh initially it was just the photograph.
+1:08:111 hour, 8 minutes, 11 secondsDid she respond any further in your report or your your research? Sorry.
+1:08:161 hour, 8 minutes, 16 secondsDid you see any response in your research of of the phone? I don't remember seeing any response. All right. Can you look at page 22?
+1:08:261 hour, 8 minutes, 26 secondsYes.
+1:08:261 hour, 8 minutes, 26 secondsOkay. And this would be on January 24th, 2023. It looks
+1:08:341 hour, 8 minutes, 34 secondsuh what time is that? 8:19 in the morning. Uh yes.
+1:08:411 hour, 8 minutes, 41 secondsOkay. So, if I suggest to you, Sarah, you can even look in your report. This is in the same thread with the little
+1:08:471 hour, 8 minutes, 47 secondsgirl making the snowman. Um, and the text about it looks like a nice day to hoping you got snow, things of that
+1:08:551 hour, 8 minutes, 55 secondsnature. Um, and there was a reference by the mother or mommy to get the hot chocolate ready, things of that nature. Right.
+1:09:011 hour, 9 minutes, 1 secondUm, the message at 8:19 a.m. that says cutie was sent by Patrick in different thread to the snowman photographs.
+1:09:111 hour, 9 minutes, 11 secondsOkay. But I'm asking you about the one that's underneath the snowman and the mummy text. The last
+1:09:191 hour, 9 minutes, 19 secondscommentary is get the hot chocolate ready.
+1:09:211 hour, 9 minutes, 21 secondsOh, yes. That's the one from and that's from the mother apparently.
+1:09:241 hour, 9 minutes, 24 secondsRight. Correct. Or someone that is in the phone as mommy. Right. And that was at 11:33 a.m.
+1:09:301 hour, 9 minutes, 30 secondsNow, if you look on page 22, we can get to what you were talking about. Um, it looks like January 24th at 8:19 in the morning. Cell phone number 7813758564.
+1:09:441 hour, 9 minutes, 44 secondsAnd what does that say? Uh cutie.
+1:09:461 hour, 9 minutes, 46 secondsAnd that So just tell us though. So is that Patrick's phone?
+1:09:501 hour, 9 minutes, 50 secondsYes, that would be the phone stored as Patrick uh sending a message to Lindsay's phone.
+1:09:551 hour, 9 minutes, 55 secondsAnd how did Lindsay respond or how did her phone respond?
+1:09:581 hour, 9 minutes, 58 secondsUh it appears that Lindsay uh reacted to an image uh with the love emoji, like a little hat thing. Yes.
+1:10:051 hour, 10 minutes, 5 secondsAnd then what did Patrick say? Uh Patrick asked how's it going? What did she say? Good. And then did she say anything further?
+1:10:121 hour, 10 minutes, 12 secondsUh yeah, she also responded okay her urine looked good. So nothing going wrong with her kidneys. A few so that she indicates that her urine
+1:10:211 hour, 10 minutes, 21 secondslooked good. Nothing going on with her kidneys and then few like you know something like that, right? That's how I read. H EW. Yeah. Yes. And then he said good, right?
+1:10:291 hour, 10 minutes, 29 secondsYes. And then as you go forward, there's more pictures of the kids with the snowman making the snowman. Patrick then says to her uh at 11, looks like 11:29.
+1:10:431 hour, 10 minutes, 43 secondsAm I reading that right in the morning? 11:29 talk. What does he say to her? You're a good mama. And does she respond?
+1:10:491 hour, 10 minutes, 49 secondsUh she responds with an emoji uh which is the face covered in hearts.
+1:10:541 hour, 10 minutes, 54 secondsThe face with the hearts. And then there's they they go back and forth with each other up until uh getting the menu and asking what you
+1:11:031 hour, 11 minutes, 3 secondswant for takeout and things of that nature. Right. Correct. Page 25, just in case you were looking.
+1:11:091 hour, 11 minutes, 9 secondsAll right. Um can you look at page 28 for me? Um and page 29. I can hold them up.
+1:11:191 hour, 11 minutes, 19 secondsBasically, they basically are just a continuation of photographs, little thumb thumbnails of of the kids doing snowman and sitting in the doctor's office. Right.
+1:11:281 hour, 11 minutes, 28 secondsCorrect. Okay.
+1:11:311 hour, 11 minutes, 31 seconds[clears throat]
+1:11:401 hour, 11 minutes, 40 secondsUm, one of the things that you did is that you actually performed a comprehensive search. Is
+1:11:491 hour, 11 minutes, 49 secondsthat a full focus extraction? Is that what you call it? Uh, full file system extraction.
+1:11:541 hour, 11 minutes, 54 secondsOkay. And you did that for the phone belonging to Lindsey Clansancy, right? Correct.
+1:11:591 hour, 11 minutes, 59 secondsThat would be what you refer to as your appendix. Um, the appendix one of the Lindsy Clansancy phone is 1,300 and some uh, web search visits.
+1:12:121 hour, 12 minutes, 12 secondsOkay. So, I'm going to hand you what says report number one, iPhone belonging to Lindsay Clancy and ask if you can recognize that.
+1:12:241 hour, 12 minutes, 24 secondsUh, yes. This appears to be the just the web history from Lindsay's phone.
+1:12:291 hour, 12 minutes, 29 secondsOkay. So that's pretty much the if anybody cares to look at it, that's the entire web history, right? Correct. All right. I'd offer this, your honor. Any objection?
+1:12:371 hour, 12 minutes, 37 secondsNo objection. All right, that may be admitted. 268.
+1:12:441 hour, 12 minutes, 44 secondsThen um Mr. Whiffen, you also had report number four, which would be the digital report for Patrick Clansy's
+1:12:531 hour, 12 minutes, 53 secondsidentical computer. And after that, your honor, any objection?
+1:12:571 hour, 12 minutes, 57 secondsNo objection. In fact, that may be admitted as well. 269. All right. Thank you.
+1:13:021 hour, 13 minutes, 2 secondsAnd finally, report number five says Surface Pro lap laptop belonging to Patrick Clans. Yes.
+1:13:091 hour, 13 minutes, 9 secondsSo, this would be your search of his laptop as well. Correct. Correct. But off of this. All right. That may be admitted.
+1:13:331 hour, 13 minutes, 33 secondsapproaching you with an item, sir. I'm just going to
+1:13:451 hour, 13 minutes, 45 secondsWell, I'm just going to ask. I'm not No problem.
+1:13:521 hour, 13 minutes, 52 secondsThis says extraction report Apple iPhone. You recognize that?
+1:14:001 hour, 14 minutesUm, yes. I'm creative. I recognize the report.
+1:14:041 hour, 14 minutes, 4 secondsOkay. So, that is a celebrate report of the extraction of Lindsay's phone. Correct.
+1:14:101 hour, 14 minutes, 10 secondsUm, may look at you. Yeah. Close it.
+1:14:151 hour, 14 minutes, 15 secondsUh, yes. This is a a report generated by uh physical analyzer a self right tool of the device.
+1:14:221 hour, 14 minutes, 22 secondsOkay. Now if you look at [clears throat] the report for example just randomly
+1:14:311 hour, 14 minutes, 31 secondson page let's say nine bottom line it says web history. I just grabbed that random January 24th 23. Correct?
+1:14:411 hour, 14 minutes, 41 secondsYes. And then you go to the right and it says Lindsay's iPhone mobile library. Yes.
+1:14:471 hour, 14 minutes, 47 secondsOkay. And then it has the time that it was recorded, right? Yes.
+1:14:511 hour, 14 minutes, 51 secondsAnd what time would that be on that date, which is January 24th? Would be 9:35 uh local time.
+1:15:011 hour, 15 minutes, 1 secondSo, if you jump ahead to January 25, 2023, let's say, is that 7:00 in the morning?
+1:15:131 hour, 15 minutes, 13 secondsUh, yes.
+1:15:131 hour, 15 minutes, 13 secondsOkay. And that says what what is it measuring at 7:00 in the morning on January 25?
+1:15:201 hour, 15 minutes, 20 secondsSo, this is for the hour of health data.
+1:15:231 hour, 15 minutes, 23 secondsSo, it's been aggregated and it shows uh between 7 a.m. and 8 a.m. uh 47 m traveled.
+1:15:341 hour, 15 minutes, 34 secondsOkay. And then it goes on and it talks about again 7:00 and some seconds it talks about 134 distance traveled.
+1:15:431 hour, 15 minutes, 43 secondsUh yes. Okay.
+1:15:451 hour, 15 minutes, 45 secondsAnd for example, January 25 at 8:00 in the morning, it talks about distance traveled, steps counted, and distance would be 47.
+1:15:551 hour, 15 minutes, 55 secondsYes. Meters or feet? Uh me.
+1:15:581 hour, 15 minutes, 58 secondsOkay. So, is that information that is coming off of the cell phone, the Apple Watch or what?
+1:16:061 hour, 16 minutes, 6 secondsUh that's coming from the watch and the the phone and being displayed as one amount of information. It's coming from the watch, right?
+1:16:171 hour, 16 minutes, 17 secondsThe way that the data is presented there, it's coming from the watch or the phone.
+1:16:201 hour, 16 minutes, 20 secondsOkay. And the data is coming from CBR, right? Correct.
+1:16:231 hour, 16 minutes, 23 secondsAnd Celebrate is God's gift to cell phone searches, right? I like to think so.
+1:16:301 hour, 16 minutes, 30 secondsI mean, you work with them and you're also a guy that created all of this stuff pretty much, right? I've created some other tools. Yes.
+1:16:361 hour, 16 minutes, 36 secondsOkay. If I tell you, sir, that January 25 at 8:00 in the morning, Lindsay Clancy was in a coma
+1:16:441 hour, 16 minutes, 44 secondslaying in a bed with tubes coming out of her body and certainly not wearing her Apple Watch. How did that happen?
+1:16:531 hour, 16 minutes, 53 secondsBased purely on the the report there, I'd suggest the data came from the phone rather than the watch. Ah, I I just told you about the watch.
+1:17:021 hour, 17 minutes, 2 secondsDid you ever look at this watch? No, we can't actually pull data directly from the watch. We pull it from the phone. How do you look at a watch?
+1:17:101 hour, 17 minutes, 10 secondsWe extract the data from the phone which is synchronized to the from the watch to the phone.
+1:17:141 hour, 17 minutes, 14 secondsOkay. So, I'm handing you Is [clears throat] that an Apple Watch? It appears to be. Yes.
+1:17:191 hour, 17 minutes, 19 secondsOkay. Um and if I suggest to you that this was found a number of days later in Lindsay's bedroom in a draw that the police never seized.
+1:17:301 hour, 17 minutes, 30 secondsHave you ever seen this before? I've never seen this before.
+1:17:351 hour, 17 minutes, 35 secondsHow long have you been working on this case with the government?
+1:17:381 hour, 17 minutes, 38 secondsUh I started looking at this case uh in November last year. Okay. Thank you. That's all we have.
+1:17:451 hour, 17 minutes, 45 secondsJudge. All right. Redirect.
+1:17:541 hour, 17 minutes, 54 secondsThank you, sir. From the document that defense council just showed you, um, the activity on January 25th, was it your
+1:18:021 hour, 18 minutes, 2 secondstestimony that it could have been from the watch or the phone? It could have been either device.
+1:18:061 hour, 18 minutes, 6 secondsBut what he showed you, did that have enough data on it to tell you specifically whether it was from the watch or the phone?
+1:18:131 hour, 18 minutes, 13 secondsNo, I I'd need to take a look at the database itself and see where that information came from.
+1:18:191 hour, 18 minutes, 19 secondsAnd um, you were saying that you cannot pull data from the watch itself. Is that correct?
+1:18:261 hour, 18 minutes, 26 secondsCorrect. We we don't extract the uh the memory from the watch itself. We extract data from the phone uh which is
+1:18:331 hour, 18 minutes, 33 secondssynchronized to the the watch. So we ultimately get the watch data from the phone.
+1:18:381 hour, 18 minutes, 38 secondsAnd why is it that you don't pull it from the watch itself?
+1:18:421 hour, 18 minutes, 42 secondsUm Apple's proprietary connections uh the encryption that they use on the device
+1:18:491 hour, 18 minutes, 49 secondsuh complicates extraction. Uh and essentially considering we get everything from the watch via the phone,
+1:18:581 hour, 18 minutes, 58 secondsuh it's just additional um work required to pull data from the watch, which would just be a duplicate of what we already have.
+1:19:071 hour, 19 minutes, 7 secondsAnd you said that the the watch syncs itself to the phone, relaying all data that it's collecting to the phone. Correct. Correct.
+1:19:151 hour, 19 minutes, 15 secondsAnd Lindsay's watch was synced to Lindsay's phone. Correct.
+1:19:191 hour, 19 minutes, 19 secondsIt was. And if you had if you were able to look at the data from the dates defense council mentioned from the extraction itself, you would be able to
+1:19:281 hour, 19 minutes, 28 secondstell whether the January 25th data was coming from the watch or the phone. Correct. I would. Yes. But you can't from what he showed you. Correct.
+1:19:351 hour, 19 minutes, 35 secondsFrom the print out. No, I need the the actual data. And if on January 25th, the police have the watch um excuse me, the
+1:19:421 hour, 19 minutes, 42 secondsphone and they're bringing it to an evidence room and then they're bringing it uh to storage room, is is that going to show steps and and distance traveled?
+1:19:511 hour, 19 minutes, 51 secondsYeah. Whileever the device is turned, whileever the phone is turned on, it will consistently record steps walked regardless of who's carrying it. It will
+1:19:591 hour, 19 minutes, 59 secondsconsistently record flights climbed regardless of who's carrying it. And so if the watch is is turned off in a
+1:20:061 hour, 20 minutes, 6 secondsdrawer somewhere, um the phone would be what's relaying uh or or not relaying, but the phone would be what's recording
+1:20:151 hour, 20 minutes, 15 secondsthe distance traveled in the steps taken, not the watch. Correct.
+1:20:191 hour, 20 minutes, 19 secondsThat's the presumption. Yeah. If the if the watch is turned off, uh it's not doing anything. Any data would be from the phone.
+1:20:261 hour, 20 minutes, 26 secondsAnd earlier, um, defense council just put in some exhibits of your indexes for, uh, the data that you looked at for the phone and and the the computers.
+1:20:381 hour, 20 minutes, 38 secondsCorrect. Correct.
+1:20:391 hour, 20 minutes, 39 secondsAnd those indexes, do they contain everything that was on the phone and everything that was on each computer
+1:20:471 hour, 20 minutes, 47 secondsthat that could be pulled from the phone or the computer?
+1:20:511 hour, 20 minutes, 51 secondsUh, no, they were focused reports or focused searches. Uh so for my reports they were focused to essentially the
+1:20:581 hour, 20 minutes, 58 secondsinternet history on those devices. Um the the large Cellbrite report I don't know who created that. I don't know what um options were selected by that user.
+1:21:111 hour, 21 minutes, 11 secondsUh but there will be data on the device which is not covered in that report by virtue of that's how decoding works.
+1:21:171 hour, 21 minutes, 17 secondsAnd on the defense council asked you about the flights climbed and how the last reading was at 5:38 p.m. Correct.
+1:21:241 hour, 21 minutes, 24 secondsCorrect. The last incoming phone call that you registered on your charts was the 6:09 p.m. phone call from Patrick to Lindsay that she did not answer.
+1:21:351 hour, 21 minutes, 35 secondsCorrect. Correct.
+1:21:361 hour, 21 minutes, 36 secondsFrom 5:38 p.m. to 6:09 p.m., were there any other flights climbed showing from either the watch or the phone?
+1:21:451 hour, 21 minutes, 45 secondsDon't believe there was none.
+1:21:461 hour, 21 minutes, 46 secondsAnd your honor, we'd move to submit the full extraction as the next exhibit.
+1:21:511 hour, 21 minutes, 51 secondsIt's being copied now. So, we just put a a disc envelope in in its place.
+1:21:561 hour, 21 minutes, 56 secondsNo, all right. That may be admitted.
+1:21:581 hour, 21 minutes, 58 secondsIf I may, your honor, so you make reference to 538 for her question that there's no flights climbed or recorded or anything up until 6:00, right? You
+1:22:061 hour, 22 minutes, 6 secondsjust answered that question, correct?
+1:22:081 hour, 22 minutes, 8 secondsThat's cuz the phone was either dead, off. We already went through that. She could have been walking all over the house, the yard, anywhere, right?
+1:22:161 hour, 22 minutes, 16 secondsYeah. The phone did not detect any anything regard or I don't know why the phone didn't detect anything whether it was uh
+1:22:231 hour, 22 minutes, 23 secondsso your answer is you don't know I don't mean to be rude your answer is you don't know why right exactly I I don't know why it wouldn't record
+1:22:301 hour, 22 minutes, 30 secondsand and you did not report at all on the steps and distances did you I didn't know okay thank you anything on that com
+1:22:381 hour, 22 minutes, 38 secondsall right thank you sir you may sit down thank Thank you.
+1:22:501 hour, 22 minutes, 50 secondsComall thress. All right.
+1:22:541 hour, 22 minutes, 54 secondsOh, I'm sorry, your honor. There are some exhibits. I'm sick. Um I believe they're by agreement. Yeah, they're by agreement. All right. And then we would rest.
+1:23:021 hour, 23 minutes, 2 secondsAll right.
+1:23:021 hour, 23 minutes, 2 secondsUh we have the two Sperry Hospital records, two discs.
+1:23:091 hour, 23 minutes, 9 seconds72 A Mass General Institute of Health Professions transcript
+1:23:261 hour, 23 minutes, 26 secondstranscript. What was that? What a transcript.
+1:23:341 hour, 23 minutes, 34 seconds74.
+1:23:431 hour, 23 minutes, 43 secondsAnd then employment records from Mass General Hospital.
+1:23:541 hour, 23 minutes, 54 secondsWe rest. All right. And with that, the comm.
+1:23:571 hour, 23 minutes, 57 secondsAll right. All right. So, uh, members of the jury, as you heard, uh, from Turwwell has rested. All right. So, at
+1:24:061 hour, 24 minutes, 6 secondsthis point, uh, I've got to address some matters with the attorneys. Uh, so I'm going to, uh, it's another one of those stops. I'm going to take a stop at this
+1:24:141 hour, 24 minutes, 14 secondspoint, have you go back to the jury room, address a few things with the with the attorneys, and then we'll bring you right back in. Okay. All rise please.
+1:25:031 hour, 25 minutes, 3 secondsjurisd in session. Please be seated.
+1:25:081 hour, 25 minutes, 8 secondsUm, before we do the u motion for required finding, you want to is this a good time to take a good morning break? Do you want to take a a short break?
+1:25:151 hour, 25 minutes, 15 secondsLooking something up, that's all. I apologize. So, the court will be in a short recess and we'll come back um without the jury. We'll address the
+1:25:221 hour, 25 minutes, 22 secondsmotion and then we'll kind of go from there. Okay. Thank you.
+1:25:251 hour, 25 minutes, 25 secondsCourt allies. [clears throat]
+1:25:431 hour, 25 minutes, 43 secondsAll right. So, the Commonwealth having arrested uh Mr. Readington, does the defendant have a motion?
+1:25:501 hour, 25 minutes, 50 secondsYes, your honor. I I passed it up to um the uh the court. I don't know if you have it in front of you. It's basically a rule 25. Um doesn't have any
+1:25:581 hour, 25 minutes, 58 secondsmemorandum with it, but I would argue um and I and I would cite to the uh the court uh the case that was decided of
+1:26:061 hour, 26 minutes, 6 secondsCromwell versus Brunette Syla. It's a b ru n e t e hy-en s e l v e i r a. It was
+1:26:171 hour, 26 minutes, 17 secondsdecided towards the end of May of 26 by the appeals court in Massachusetts. It was a case out of the Boston Municipal Court where defendant was charged with assault and battery on a police officer.
+1:26:271 hour, 26 minutes, 27 secondsof the evidence was presented that the defendant was acting erratically and that there was an awful lot of evidence that indicated that um brought out on
+1:26:351 hour, 26 minutes, 35 secondscross-examination from witnesses that the defendant was suffering from some type of a mental illness. Based on that evidence being presented, the government
+1:26:441 hour, 26 minutes, 44 secondsrested their case just as they've done here. My suggestion to the court is that the evidence that's been presented on this case against Miss Clancy um does I
+1:26:531 hour, 26 minutes, 53 secondswould suggest does not rise to the level under rule 25 of where even if you take the latter more standard and and determine that the evidence would be
+1:27:011 hour, 27 minutes, 1 seconddecided in [clears throat] the light most favorable to the government at this stage of the case. I think the brunette
+1:27:081 hour, 27 minutes, 8 secondssa case places as they describe it a negative a obligation to prove a negative as part of their case and chief
+1:27:161 hour, 27 minutes, 16 secondson the government. I suggest to your honor that the evidence that has been presented in this case is overwhelming that this young woman was clearly and
+1:27:251 hour, 27 minutes, 25 secondsunequivocally suffering from a mental disease or defect that it was occupying her waking hours, her life that she considered all of her avenues. She
+1:27:331 hour, 27 minutes, 33 secondsattempted to go to these health care providers, using the term loosely, that she she went to these people. She had medication after medication after
+1:27:411 hour, 27 minutes, 41 secondsmedication. She was obviously acting, I suggest to the court, in a in a in a state that was observed by witnesses
+1:27:501 hour, 27 minutes, 50 secondsthat in fact that she was suffering from mental disease, a defect, and then ultimately this horrific uh incident. So
+1:27:591 hour, 27 minutes, 59 secondsunder that brunette sa case there's no evidence I suggest from the government that would rebut uh the fact that there is evidence of lack of criminal
+1:28:071 hour, 28 minutes, 7 secondsresponsibility. So under brunette sa and the cases that were cited in that opinion uh respectfully I would suggest that a required finding of not guilty
+1:28:161 hour, 28 minutes, 16 secondsshould be entered on the case. Um, I also would argue to the court that um I I think that under the Bernett SA
+1:28:241 hour, 28 minutes, 24 secondsstandard and the evidence that your honor has before you that the matter should be reduced down, if you will, from premeditated malice of forethought, cruelty, and atrocity to seconddegree.
+1:28:351 hour, 28 minutes, 35 secondsI'm not arguing at this stage Conwell versus Gray or any of its progeny as to manslaughter, but I think the court certainly in its wise exercise of
+1:28:441 hour, 28 minutes, 44 secondsdiscretion has the ability and the right to reduce the charge to seconddegree murder or enter a required finding. All right, council. Thank you.
+1:28:531 hour, 28 minutes, 53 secondsThank you, your honor. Uh the case that defense council cited there was a presentation of the comm's evidence.
+1:28:591 hour, 28 minutes, 59 secondsCommonwealth arrested. defense called an expert who said that the defendant was not criminally responsible and the comm relied on a cross-examination of that
+1:29:071 hour, 29 minutes, 7 secondswitness and did not call any further witnesses. So the motion uh was filed for required finding at the close of all of the evidence which is what's required
+1:29:161 hour, 29 minutes, 16 secondsunder Commonwealth versus Lawson which Brunette Silva sites and is still good law an SJC case 475 mass 806 from 2016
+1:29:271 hour, 29 minutes, 27 secondsin which the court says that a motion for required finding of not guilty by reason of lack of criminal responsibility may only be brought at
+1:29:341 hour, 29 minutes, 34 secondsthe close of all of the evidence not at the close of the Commonwealth case. In this case, as you're aware, defense plans on presenting experts to testify that the defendant was not criminally
+1:29:431 hour, 29 minutes, 43 secondsresponsible. And then the Commonwealth will have a rebuttal case with their own experts. So, I think the time um and place for this for the motion would be
+1:29:511 hour, 29 minutes, 51 secondsat the close of all of the evidence and not now.
+1:29:531 hour, 29 minutes, 53 secondsAll right. Well, an opportunity to take a look at Brunette SA. Uh so uh based on that and based on the uh standard uh as
+1:30:041 hour, 30 minutes, 4 secondsdescribed uh that I have to apply at this point, I'm going to deny uh the defendants's motion.
+1:30:101 hour, 30 minutes, 10 secondsUm I don't think I have to object, but I will. As we say, as we say, duly noted.
+1:30:151 hour, 30 minutes, 15 secondsYes. Thank you, Judge. Your honor, could could we inquire? Um Emily Thorndikeke is here and has been here. I'm just wondering is the government ready for us
+1:30:231 hour, 30 minutes, 23 secondsto do the voadier to see if she can testify because she is self-employed.
+1:30:281 hour, 30 minutes, 28 secondsShe has patience and has canled them day after day. I'm just inquiring if we're ready to go on that.
+1:30:331 hour, 30 minutes, 33 secondsRight. So the question I think that we had put this over was uh in large part because of the records uh from MLAN. Do we know if those are in?
+1:30:431 hour, 30 minutes, 43 secondsI've been inquiring clerk if there's been any status from the clerk's office and I think they haven't received anything. We have a call over to MLAN.
+1:30:511 hour, 30 minutes, 51 secondsThey've acknowledged the receipt. Um they were were waiting for a call back from somebody at the office. They thought that the records were produced on Friday, but clearly that wasn't the
+1:31:001 hour, 31 minutescase. So, we have a call. Um we're waiting for a return call. I've provided um people in my office the madam clerk's
+1:31:081 hour, 31 minutes, 8 secondsemail address to get it expedited as quick as possible. So, we are working um to try to resolve the issue and the
+1:31:161 hour, 31 minutes, 16 secondshospital has acknowledged they received the subpoena. We just don't have a response yet. And I would just also remind that we discussed this last week
+1:31:231 hour, 31 minutes, 23 secondsand talked about doing this tomorrow on Tuesday in order to get those records and have time for everybody to h get them and review them so that a proper
+1:31:321 hour, 31 minutes, 32 secondsexamination of the witness can be done in a more let's do this. Let's do this before we start going at each other. Um we're
+1:31:401 hour, 31 minutes, 40 secondsgoing to see if the record we see if the records come in. All right. The records come in. Then we got to determine how long it takes for people to review it
+1:31:481 hour, 31 minutes, 48 secondsand get ready. So, if we can do that this afternoon, great.
+1:31:531 hour, 31 minutes, 53 secondsIf we can't, I'll hear from the the parties as to why we can't. We may have to do it tomorrow, but if we can do that today, I do understand um that that witness has been here a number of days.
+1:32:041 hour, 32 minutes, 4 secondsUm but it's a at this point it's a question of the records coming in um which really is out of both parties hands. So, if the records are in, the
+1:32:131 hour, 32 minutes, 13 secondsparties can get ready. Uh, we'll do that void here. Uh, if not, we may have to do that tomorrow. Okay.
+1:32:201 hour, 32 minutes, 20 secondsAll right. Mr. Readington, ready. Ready for the jury judge? Yeah.
+1:33:161 hour, 33 minutes, 16 seconds[snorts]
+1:34:021 hour, 34 minutes, 2 secondsAll rise please.
+1:34:191 hour, 34 minutes, 19 seconds[clears throat]
+1:34:311 hour, 34 minutes, 31 secondsOrder is back in session. You may be seated.
+1:34:361 hour, 34 minutes, 36 secondsAll right. So, members of the jury, as I indicated before, the command is rested.
+1:34:471 hour, 34 minutes, 47 secondsAll right. So, at this time, I'm going to inquire of the defendant uh if uh she intends or wishes to call any witnesses at this time. Mr. Readington.
+1:34:561 hour, 34 minutes, 56 secondsYes, your honor. Thank you. Um Camp, please. I believe she's right outside.
+1:35:201 hour, 35 minutes, 20 seconds[snorts]
+1:35:301 hour, 35 minutes, 30 seconds[snorts]
+1:36:021 hour, 36 minutes, 2 seconds[clears throat]
+1:36:051 hour, 36 minutes, 5 secondsthe testimony and the evidence shall get to the court and the jury now.
+1:36:171 hour, 36 minutes, 17 secondsHi, good afternoon.
+1:36:191 hour, 36 minutes, 19 secondsI'm going to ask you if you could keep your voice up uh and speak into that microphone. Okay. Thank you.
+1:36:261 hour, 36 minutes, 26 secondsSame thing. So, make sure that all the jurors way down here even can hear you.
+1:36:301 hour, 36 minutes, 30 secondsOkay. [clears throat] Okay. Tell us your name. Is Margaret Hamp. And uh what what town do you live in? Stoneham.
+1:36:371 hour, 36 minutes, 37 secondsAnd what do you do for work? I'm a labor and delivery nurse. Where? At Mass General.
+1:36:421 hour, 36 minutes, 42 secondsAnd how long have you been working as a labor and delivery nurse?
+1:36:461 hour, 36 minutes, 46 secondsUm I started on our labor and delivery unit in 2012. Okay. So uh about what 24 years? No.
+1:36:551 hour, 36 minutes, 55 secondsI started for the abstetrics department in 2006.
+1:36:591 hour, 36 minutes, 59 secondsOkay. So 20 years. You've been working at the Mass General between obstacrics and labor and delivery. Right. Correct. Um do you know Lindsay?
+1:37:081 hour, 37 minutes, 8 secondsI do. How do you know her?
+1:37:101 hour, 37 minutes, 10 secondsI was working on the labor floor when Lindsay first started with us.
+1:37:141 hour, 37 minutes, 14 secondsSo this would be the labor and delivery floor and she started as a nurse. Correct. Correct. We had already been working there. Correct.
+1:37:231 hour, 37 minutes, 23 secondsAnd and she was about what 24 years old roughly.
+1:37:271 hour, 37 minutes, 27 secondsAnd uh came in as a young woman as a nurse. Correct. Correct.
+1:37:301 hour, 37 minutes, 30 secondsCan you tell us um to your Let me ask you this. How many years did you work with her?
+1:37:361 hour, 37 minutes, 36 secondsShe started I believe in 2015 and I worked until 2002 when she went out with Kellen.
+1:37:451 hour, 37 minutes, 45 secondsAbout seven years or thereabouts. Um did you know that she had a child? Uh, Kora. Yes.
+1:37:531 hour, 37 minutes, 53 secondsAnd did you know that she had a child? Dawson. Yes.
+1:37:561 hour, 37 minutes, 56 secondsAnd ultimately that she had a child, a baby that was born very, very recently. Callum.
+1:38:031 hour, 38 minutes, 3 secondsMhm.
+1:38:051 hour, 38 minutes, 5 secondsUm, in the years that you were working with her, were you able to observe? I mean, did she like being a nurse? Did
+1:38:131 hour, 38 minutes, 13 secondsshe want to work or was she a good nurse? What's your opinion?
+1:38:171 hour, 38 minutes, 17 secondsLindsay loved being a nurse. Um, she was really good at being a nurse. She was compassionate. She was kind. She was a
+1:38:261 hour, 38 minutes, 26 secondspatient advocate. She was the type of nurse that you wanted taking care of you um or your loved one when you walked onto our unit.
+1:38:361 hour, 38 minutes, 36 secondsUm, did you observe, for example, that on occasion when she would be involved with the delivery of a baby that she would become emotional?
+1:38:471 hour, 38 minutes, 47 secondsLindsay was often emotional during um birth um of complete strangers. She would she would cry and she would just
+1:38:561 hour, 38 minutes, 56 secondssay that was so beautiful. Um you could just tell that she really loved being in that setting
+1:39:041 hour, 39 minutes, 4 secondsover those years right up until the time of Ken being born. Fair to say that you stayed friendly with her? Yes.
+1:39:121 hour, 39 minutes, 12 secondsAnd and you're still friendly with her? Yes. Um, can you tell us did you observe
+1:39:201 hour, 39 minutes, 20 secondsduring the time you work with her how she emoted or felt about her children, all three of them?
+1:39:281 hour, 39 minutes, 28 secondsYes. Tell us anything that you recall.
+1:39:311 hour, 39 minutes, 31 secondsSo, Lindsay and I worked the night shift together. Um, and often on the night shift you get to have an opportunity to really get to know your co-workers and
+1:39:401 hour, 39 minutes, 40 secondscelebrate things that are happening in their lives or support them with things that are not going so well. Um, Lindsay
+1:39:481 hour, 39 minutes, 48 secondsasked a lot of questions of her co-workers about parenting. Um, simple things is she would pull the nursing
+1:39:551 hour, 39 minutes, 55 secondsstaff about monogrammed lunchboxes. Um, right down to um, sleeping habits. um
+1:40:031 hour, 40 minutes, 3 secondswhat questions do you ask a daycare provider to make sure that you're in the right place? Um she was often asking her co-workers
+1:40:121 hour, 40 minutes, 12 secondsum child care parenting tips when she had Ken um after um Ken was born in the uh spring late spring of 22.
+1:40:241 hour, 40 minutes, 24 secondsUm did you see her after the birth of Kellen?
+1:40:281 hour, 40 minutes, 28 secondsI did not see her after the birth of Kellen. Were you aware that she had taken a leave of absence from Mass General? Yes.
+1:40:341 hour, 40 minutes, 34 secondsDid you stay in touch with her by phone or text?
+1:40:371 hour, 40 minutes, 37 secondsUm I I briefly kept in touch through text. Um after Kellen was born, I reached out to her and I asked her for
+1:40:451 hour, 40 minutes, 45 secondsher address and how she was doing so I could send her a gift. Um and then a few months later, um she circled back to me
+1:40:521 hour, 40 minutes, 52 secondsto thank me for for the gift that I had sent her. Do you recall an incident um on on one occasion where she was looking
+1:41:021 hour, 41 minutes, 2 secondsor monitoring uh one of the children and the child was crying and you observed what happened after that? Yes.
+1:41:101 hour, 41 minutes, 10 secondsTell us about that.
+1:41:111 hour, 41 minutes, 11 secondsUm Lindsay often uh checked in on her kids while they were sleeping at night.
+1:41:151 hour, 41 minutes, 15 secondsUm again, we worked the night shift and she had the ability to look at her phone and see what Cora or Ken were doing in
+1:41:251 hour, 41 minutes, 25 secondstheir cribs. Um and she shared that with a lot of us. Um there was one particular night um that Coral was crying. She was
+1:41:351 hour, 41 minutes, 35 secondsprobably about 6 months old and Lindsay never let Cora cry. Um she
+1:41:421 hour, 41 minutes, 42 secondswasn't at that point in parenting and she was very um communicative about that. And Ka was crying on the monitor.
+1:41:501 hour, 41 minutes, 50 secondsIt was the middle of the night and I maybe after 10 minutes she started to call Pat and he wasn't answering and she
+1:41:591 hour, 41 minutes, 59 secondsgot really worried that Juan Coral was crying but now Pat wasn't answering his phone. Um so in the middle of the night she she called the police to do a wellness check um on her family.
+1:42:101 hour, 42 minutes, 10 secondsOkay.
+1:42:121 hour, 42 minutes, 12 secondsUm and while you were working the night shift, is that pretty much what you both worked together all those years?
+1:42:181 hour, 42 minutes, 18 secondsYes. Would that be through the pandemic as well? Yes.
+1:42:221 hour, 42 minutes, 22 secondsWould you say that that was quite a bonding experience being in labor delivery up close and personal with patients during the pandemic at night?
+1:42:301 hour, 42 minutes, 30 secondsOf of course it was a very challenging time as a healthcare provider. Thank you very much. You can inquire.
+1:42:381 hour, 42 minutes, 38 seconds[snorts]
+1:42:401 hour, 42 minutes, 40 secondsCommel. Good morning. Good morning.
+1:42:471 hour, 42 minutes, 47 secondsSo, the incident that you just told us about where um uh Miss Clancy was watching the monitor overnight, um you
+1:42:571 hour, 42 minutes, 57 secondswere aware that the police responded and everything was fine, right? Yes.
+1:43:011 hour, 43 minutes, 1 secondAnd um you worked with um with her through 2022 when she went out with Leon Kalen.
+1:43:101 hour, 43 minutes, 10 secondsCorrect.
+1:43:111 hour, 43 minutes, 11 secondsAnd you never visited their house um after Ken was born, did you? No.
+1:43:161 hour, 43 minutes, 16 secondsYou don't know what was going on in her life, did did you? No.
+1:43:201 hour, 43 minutes, 20 secondsAnd she didn't share any of her struggles with you via text or in any other capacity, did she? No.
+1:43:271 hour, 43 minutes, 27 secondsAnd as a labor and delivery nurse, um, and having been trained in labor and delivery, and you said you worked obstetrics before, correct? Correct.
+1:43:341 hour, 43 minutes, 34 secondsUm, is it fair to say that you often have patients that come to you in both those um, areas that have um, some
+1:43:421 hour, 43 minutes, 42 secondsmental illness or are on psychiatric medications? Right. sometimes and working labor and delivery. Um, you
+1:43:491 hour, 43 minutes, 49 secondshave some training on how to handle patients that are on certain types of medications, right? Limited training. Yes.
+1:43:581 hour, 43 minutes, 58 secondsWell, it it affects how you're going to birth uh go through a birth plan or or do a delivery if a person is on some sort of long-term medication. Right.
+1:44:061 hour, 44 minutes, 6 secondsRight.
+1:44:071 hour, 44 minutes, 7 secondsAnd so, you're aware that Zoloft is something that's deemed safe for pregnant moms and breastfeeding moms?
+1:44:121 hour, 44 minutes, 12 secondsYes. And you've had patients that have dealt with um bipolar issues before. Yes.
+1:44:161 hour, 44 minutes, 16 secondsAnd that they have to remain medication compliant in order to manage those things, right? Yes. Thank you. Nothing further. Right. Mr.
+1:44:241 hour, 44 minutes, 24 secondsSo your experience dealing with patients that have birth to child as the district attorney asked and are on Zoloft and
+1:44:311 hour, 44 minutes, 31 secondsexpressing issues of um being a parent.
+1:44:381 hour, 44 minutes, 38 secondsWere you aware of any incidents where Lindsay was with you and a and a woman did in fact express concern that she wanted to hurt herself or her child?
+1:44:481 hour, 44 minutes, 48 secondsThere there was um a particular patient that Lindsay was um on staff when this
+1:44:561 hour, 44 minutes, 56 secondspatient arrived. It was a a patient that arrived to the unit that had plans to harm herself while she was pregnant. And
+1:45:061 hour, 45 minutes, 6 secondswe had a conversation. Lindsay was brand new. Um it was the summer that she had just started. Um and we had a
+1:45:131 hour, 45 minutes, 13 secondsconversation about mental health in pregnancy and postpartum. Um and and I
+1:45:211 hour, 45 minutes, 21 secondsasked her if she had ever heard of the Andrea Yates case and she hadn't. And I
+1:45:271 hour, 45 minutes, 27 secondsexplained that to her and she cried and she said, "How could a mother hurt her children?" Thank you.
+1:45:391 hour, 45 minutes, 39 secondsAll set. Thank you. No. All right. Let me sit down. Thank you.
+1:45:561 hour, 45 minutes, 56 secondsCouncil. Yes, your honor. [clears throat] Um, this oil, please.
+1:46:091 hour, 46 minutes, 9 seconds[cough and clears throat]
+1:46:511 hour, 46 minutes, 51 seconds[clears throat]
+1:46:521 hour, 46 minutes, 52 secondsThank you. Hey, good afternoon.
+1:46:571 hour, 46 minutes, 57 secondsHi, good afternoon. going to ask you speak into that microphone. Keep your voice up. Okay. Okay. Great. Thank you.
+1:47:031 hour, 47 minutes, 3 secondsOkay. Council. Have a great [clears throat] afternoon. Tell us your name, please, and spell it.
+1:47:071 hour, 47 minutes, 7 secondsIt's Allison Oza. A L L I S O N. Last name is O Z G A.
+1:47:151 hour, 47 minutes, 15 secondsUm, you know Lindsay? I do. How you know? Lindsay is my sister.
+1:47:201 hour, 47 minutes, 20 secondsAnd um can you tell us um are you close to Lindsay? You do you live near each other? Do you socialize?
+1:47:301 hour, 47 minutes, 30 secondsWhat type of relationship have you had?
+1:47:331 hour, 47 minutes, 33 secondsUh we're very close. We have not lived in the same state for about 10 years now. Um but we do communicate and I do think we're very close.
+1:47:421 hour, 47 minutes, 42 secondsAnd do you text with her on a regular basis? Yes. And you talk on the phone, do you?
+1:47:461 hour, 47 minutes, 46 secondsOccasionally. um directing your attention to the fall of well actually heading into like Thanksgiving and
+1:47:541 hour, 47 minutes, 54 secondsChristmas [clears throat] 2022. Do you remember that time frame? Yes.
+1:47:591 hour, 47 minutes, 59 secondsAnd did you have occasion to see your sister during that period of time? Yes.
+1:48:051 hour, 48 minutes, 5 secondsAnd let's direct our attention to let's say Thanksgiving 2022. Had you noticed any change in Lindsay's personality or
+1:48:141 hour, 48 minutes, 14 secondsany observation of how she appeared to you?
+1:48:201 hour, 48 minutes, 20 seconds[clears throat] I will say on Thanksgiving in particular is when the first time I saw her in person after quite some time. Um I had known she had
+1:48:291 hour, 48 minutes, 29 secondsnot been doing well via text message communication that we had. Um I think on Thanksgiving she um you know her her
+1:48:381 hour, 48 minutes, 38 secondsmood did not look good. Her energy you know she didn't seem very energized. Um it definitely seemed off from how I've seen her in the past.
+1:48:461 hour, 48 minutes, 46 secondsAnd were you aware that uh that carried through from November into uh December
+1:48:531 hour, 48 minutes, 53 secondsaround the holiday season if you had stayed in touch with her?
+1:48:561 hour, 48 minutes, 56 secondsYes. And can you tell us what you observed about her around the holiday season as it related to her from your
+1:49:051 hour, 49 minutes, 5 secondsobservations and your texting and your communications with Lindsay? How did she appear to you at that point?
+1:49:111 hour, 49 minutes, 11 secondsUm the beginning of December, it seemed like she very much decompensated.
+1:49:181 hour, 49 minutes, 18 secondsUm I do remember her saying at one point at the beginning of December, um something along the lines of I'm in a really tough spot. Um, and knowing what
+1:49:261 hour, 49 minutes, 26 secondsshe had shared with me previously about um, how her mental health had been struggling, um, I had this gut feeling that something was off and that she was
+1:49:341 hour, 49 minutes, 34 secondsreally struggling and I asked her if she was safe. What did she say? She said yes at that point. And you knew her husband Pat? Yes.
+1:49:421 hour, 49 minutes, 42 secondsAnd you knew the kids? Yes. Obviously.
+1:49:441 hour, 49 minutes, 44 secondsUm, do you recall around Christmas itself and perhaps a little bit thereafter that you spoke with her and that she indicated basically, I'm not doing okay. Yes.
+1:49:551 hour, 49 minutes, 55 secondsCan you tell the jury what you observed about her demeanor or her symptomology when you said she was decompensating around that time? Um what were they symptoms in your mind of?
+1:50:071 hour, 50 minutes, 7 secondsUm based on communication with Lindsay and I started communicating with Pat directly at that time. Um she was
+1:50:161 hour, 50 minutes, 16 secondsreporting her mood was worsening um as she described as depression. um her she
+1:50:231 hour, 50 minutes, 23 secondswas having more suicidal thoughts. Um she was insomnia continued to be an issue. Um she was really not feeling like herself.
+1:50:321 hour, 50 minutes, 32 secondsAnd did you know that during that period of time where she was telling you about the suicidal thoughts and the issue of depression that she was seeing doctors?
+1:50:401 hour, 50 minutes, 40 secondsYes.
+1:50:411 hour, 50 minutes, 41 secondsAnd and what did she tell you about seeing the doctors and if she was on any medication and if so what effect did they have on her? So, the first thing
+1:50:491 hour, 50 minutes, 49 secondsshe said about the doctors was back in October when she said that she saw a doctor for Zoloft and had a very awful uh reaction to that Zoloft.
+1:50:571 hour, 50 minutes, 57 secondsWould that be Dr. Tus?
+1:51:001 hour, 51 minutesUm, [snorts] I don't believe she shared that specific with me. Share the name. Okay.
+1:51:041 hour, 51 minutes, 4 secondsUm, and then I think throughout our communication over the couple months of October to December, she did share with me that she was going to doctors, she
+1:51:131 hour, 51 minutes, 13 secondswas getting different prescriptions, kind of all the things that they were trying and different treatments they were looking at.
+1:51:181 hour, 51 minutes, 18 secondsAnd do you recall when you were talking with her about her symptoms um towards the end of December that she had in your
+1:51:261 hour, 51 minutes, 26 secondswords decompensated significantly and stated to you that she felt nothing and that she was scared things of that nature?
+1:51:351 hour, 51 minutes, 35 secondsYes.
+1:51:351 hour, 51 minutes, 35 secondsWhat else did she tell you if you recall?
+1:51:391 hour, 51 minutes, 39 secondsUm at the end of December, so I think it was more along the same of you know that she is really not feeling well, her mood
+1:51:461 hour, 51 minutes, 46 secondsis down. Um, she's feeling numb. She's feeling hopeless. Um, I believe the very end of the month she told me she had had suicidal ideation every day for a month.
+1:51:551 hour, 51 minutes, 55 secondsDo you recall towards the end of the month around New Year's that she voluntarily admitted herself somewhere? Yes. Do you know where she admitted herself?
+1:52:041 hour, 52 minutes, 4 secondsUh, M man McClean Hospital.
+1:52:071 hour, 52 minutes, 7 secondsAnd while she was at MLAN hospital, um, ultimately do you know how she got out of MLAN hospital?
+1:52:151 hour, 52 minutes, 15 secondsUh it was my understanding that she was weaning off of some medication that
+1:52:221 hour, 52 minutes, 22 secondsshe was on um and then was eventually discharged 5 days later.
+1:52:261 hour, 52 minutes, 26 secondsNow, did you see her or talk to her after she left MLAN hospital trying to wean herself off of whatever medication
+1:52:341 hour, 52 minutes, 34 secondsit was? Cuz you don't know what the medication was, right? I believe it was cerakool. Cerakool. Yep.
+1:52:391 hour, 52 minutes, 39 secondsUm, did she tell you uh anything to the effect that when she got out of the hospital that she felt as though this
+1:52:471 hour, 52 minutes, 47 secondswas a step in the right direction? Did she seem as though she was trying to be positive about her life? Yes.
+1:52:531 hour, 52 minutes, 53 secondsAnd tell us about that. Cuz up until this point, you had observed her decompensating and having these symptoms and suicidal
+1:53:001 hour, 53 minutesideiation and depression and feeling nothing and scary.
+1:53:031 hour, 53 minutes, 3 secondsWould she get out of MLAN? What did she appear to you and what did she say to you?
+1:53:101 hour, 53 minutes, 10 secondsShe I believe she said she felt that that was a good plan and that she was starting to feel better.
+1:53:171 hour, 53 minutes, 17 secondsSo was your sister in your opinion, granted she's your sister and you're biased obviously, but was she a complainer? No.
+1:53:251 hour, 53 minutes, 25 secondsAnd and obviously she didn't share with you in detail her doctors and medicines and things of that nature. Is that fair? No.
+1:53:331 hour, 53 minutes, 33 secondsBut you were aware of the struggles and and the hurt that she was going through. Yes.
+1:53:401 hour, 53 minutes, 40 secondsAnd then uh through the month of January, did you have occasion to see her or were you because you still live in different states?
+1:53:481 hour, 53 minutes, 48 secondsYes.
+1:53:491 hour, 53 minutes, 49 secondsYes, I did have an occasion to see her in January.
+1:53:521 hour, 53 minutes, 52 secondsWhen we went to Cora's birthday party and that was at the trampoline park. Yes. How did she appear at that?
+1:54:031 hour, 54 minutes, 3 secondsI think she looked like she was going through the motions of putting together a birthday party for her daughter. Um,
+1:54:101 hour, 54 minutes, 10 secondsbut she looked tired. She looked like she was still struggling.
+1:54:141 hour, 54 minutes, 14 secondsSo, there was a difference in your observation of of what you had known your your sister to have as a personality. Yes.
+1:54:221 hour, 54 minutes, 22 secondsAnd then of course the horrible day. Um, were you aware or did somebody call you and tell you that the children had been
+1:54:311 hour, 54 minutes, 31 secondskilled? One of them still survived and ultimately passed. Yes. And do you recall who told you that? Yes.
+1:54:391 hour, 54 minutes, 39 secondsWho was that? My mother.
+1:54:411 hour, 54 minutes, 41 secondsAnd as a result of getting the call from your mother, what did you do?
+1:54:441 hour, 54 minutes, 44 secondsI jumped in the car, packed a bag, and I sped up to Southshore Hospital, which is where I was told she was. Did you see her in Southshore Hospital?
+1:54:521 hour, 54 minutes, 52 secondsNo.
+1:54:531 hour, 54 minutes, 53 secondsUm, did you know that she was then transferred to another hospital after Southshore? Yes.
+1:54:581 hour, 54 minutes, 58 secondsAnd what hospital was that? I believe it was Brigham and Women's.
+1:55:021 hour, 55 minutes, 2 secondsAnd were you able to visit her in Brighamin Women's? Yes.
+1:55:061 hour, 55 minutes, 6 secondsAnd did it take some time before they would allow you to visit with her? Yes. How long, if you know?
+1:55:151 hour, 55 minutes, 15 secondsI think it was approximately 2 weeks.
+1:55:171 hour, 55 minutes, 17 secondsOkay. And then you were able to see her pretty much on a regular basis. Yes.
+1:55:211 hour, 55 minutes, 21 secondsAnd where does where does your mother and father live? In Connecticut. And you are you close to them?
+1:55:271 hour, 55 minutes, 27 secondsYes. Can you tell the jury um from the time of of this incident in January 24th of 2023
+1:55:351 hour, 55 minutes, 35 secondsup until now 2026, where where has your mother and father been living?
+1:55:421 hour, 55 minutes, 42 secondsUh my parents have been spending the majority of their time up here in Massachusetts. Why?
+1:55:481 hour, 55 minutes, 48 secondsSo that they could visit Lindsay as much as possible. Almost on a daily basis. Yes.
+1:55:521 hour, 55 minutes, 52 secondsWas that in a bed and breakfast or a bed and bath or was it a hotel or where were they staying? They've been living out of hotels. Thank you. That's all you can inquire.
+1:56:021 hour, 56 minutes, 2 secondsCom. Thank you. Good afternoon.
+1:56:081 hour, 56 minutes, 8 secondsNow, when Lindsay was at MLAN hospital and she was discharged, did she tell you that she asked to be discharged early to go to Coror's birthday party?
+1:56:171 hour, 56 minutes, 17 seconds[clears throat]
+1:56:201 hour, 56 minutes, 20 secondsI can't recall. And um do you recall speaking to the police on January 25th, just a day after this all happened back in 2023?
+1:56:301 hour, 56 minutes, 30 secondsYes.
+1:56:311 hour, 56 minutes, 31 secondsAnd um do you recall telling them that you saw Lindsay um 2 weeks prior to the 24th, roughly around the birthday party time, and that she seemed okay?
+1:56:421 hour, 56 minutes, 42 secondsYes.
+1:56:431 hour, 56 minutes, 43 secondsDo you recall telling the police that you spoke to her in call phone calls many times after she was discharged to MLAN and that her tone in tone of voice in those calls seemed better?
+1:56:561 hour, 56 minutes, 56 secondsI did not speak to her on the phone. Most of our communication was via text.
+1:57:001 hour, 57 minutesSo you don't recall saying that to the police that the tone of Lindsay's voice in our phone conversations was better the last couple weeks since she had been
+1:57:081 hour, 57 minutes, 8 secondsreleased from the hospital? I believe when I said that I meant her tone her tone via her text messages.
+1:57:141 hour, 57 minutes, 14 secondsAnd so her tone in her text messages were was better a bit.
+1:57:191 hour, 57 minutes, 19 secondsAnd do you recall telling police that you spoke to Lindsay on Thursday, January 19th, 2023? And she seemed okay.
+1:57:261 hour, 57 minutes, 26 secondsYes. And that was a phone call, correct? That was text message.
+1:57:311 hour, 57 minutes, 31 secondsText message. Okay. So when you were saying spoke to to the police, it was you were referring to text messages, correct? And so in that text message, she seemed fine.
+1:57:401 hour, 57 minutes, 40 secondsShe seemed okay.
+1:57:411 hour, 57 minutes, 41 secondsSo she had just been released from MLAN hospital at the beginning of January.
+1:57:461 hour, 57 minutes, 46 secondsAnd all of your communications after the birthday party were text messaged. Is that correct? I I think the dates were I believe so. Yes.
+1:57:581 hour, 57 minutes, 58 secondsJust so we make sure we have the date correct. After she was discharged from man in January of 2023 up until January
+1:58:041 hour, 58 minutes, 4 seconds24th, 2023, all of your communications were via text. Yes.
+1:58:091 hour, 58 minutes, 9 secondsDid you visit her at her home that month? No.
+1:58:141 hour, 58 minutes, 14 secondsDid you you didn't reach out or call her at all? Correct.
+1:58:181 hour, 58 minutes, 18 secondsI reached out and called? Yes. I did not visit her at her home. No.
+1:58:211 hour, 58 minutes, 21 secondsWhen you called, did she respond? Did she answer the phone?
+1:58:251 hour, 58 minutes, 25 secondsI'm sorry. Let me backtrack. I I can't recall whether I made a phone call. I can recall the majority of our
+1:58:321 hour, 58 minutes, 32 secondscommunication between January 1st and January 24th was via text message.
+1:58:371 hour, 58 minutes, 37 secondsSo there could have been some phone calls. I cannot recall any phone calls.
+1:58:471 hour, 58 minutes, 47 secondsYou are a licensed social worker, correct? Correct. And you're a mandated reporter, correct?
+1:58:521 hour, 58 minutes, 52 secondsYes. And at any point in time between January 1st, 2023 and January 24th,
+1:58:581 hour, 58 minutes, 58 seconds2023, did you have enough concern about the safety of the kids or the safety of your sister to file a report as a mandated reporter?
+1:59:071 hour, 59 minutes, 7 secondsNo.
+1:59:091 hour, 59 minutes, 9 secondsThank you, Mr. R. Judge. Thank you. Okay. Thank you. Let me step down.
+1:59:231 hour, 59 minutes, 23 secondsI would uh call Paula Musgrove please.
+1:59:401 hour, 59 minutes, 40 seconds[cough]
+2:00:102 hours, 10 secondsGood afternoon.
+2:00:242 hours, 24 secondsAll right. Good afternoon. Good afternoon.
+2:00:262 hours, 26 secondsI'm going to ask remind you I remind everybody else you just speak into the microphone if you can keep your voice up please. Okay. Thank you.
+2:00:332 hours, 33 secondsAfternoon. Tell us your name and spell your name, please.
+2:00:352 hours, 35 secondsUh, my name is Paula Musgrove. P A U L A M U S G R O V E.
+2:00:432 hours, 43 secondsAnd um this is Musgrove. Fair to say that you are Lindsay's mother. Yes, I am Lindsay's mother.
+2:00:492 hours, 49 secondsAnd your husband is here as well in the blue shirt, correct? Yes.
+2:00:532 hours, 53 secondsYou've been here for every day for the trial. Is that correct? Yes.
+2:00:572 hours, 57 secondsJust have a few questions for you. Um um obviously you you tell us about about
+2:01:052 hours, 1 minute, 5 secondsLindsay when she was a kid. Was she a good kid, good student, that type of thing?
+2:01:092 hours, 1 minute, 9 secondsShe was a very good kid and an excellent student. Very excellent student all through all through school, through high school, college? Yes. Excellent.
+2:01:192 hours, 1 minute, 19 secondsEver been in trouble, you know, law enforcement or schools or discipline or anything? No. Um, were you aware of her husband Pat?
+2:01:272 hours, 1 minute, 27 secondsYes.
+2:01:282 hours, 1 minute, 28 secondsAnd obviously you knew when they got married, when they were dating and things of that nature, right? Went to the wedding. Obviously.
+2:01:352 hours, 1 minute, 35 secondsYes. Um, fair to say that you were close to your daughter and Pat. Yes.
+2:01:402 hours, 1 minute, 40 secondsAnd you knew obviously the the grandchildren? Yes.
+2:01:442 hours, 1 minute, 44 secondsUm, tell the jury how you interacted and felt about your grandchildren.
+2:01:542 hours, 1 minute, 54 secondsI loved my grandchildren with all my heart.
+2:01:592 hours, 1 minute, 59 secondsYou never know what it's like to love a grandchild until you become a grandmother. and it was the most
+2:02:062 hours, 2 minutes, 6 secondsbeautiful thing. [gasps] I love them with all my heart.
+2:02:102 hours, 2 minutes, 10 secondsNow, did you have occasion to see um how Lindsay reacted and treated her kids as a mother?
+2:02:202 hours, 2 minutes, 20 secondsYes.
+2:02:202 hours, 2 minutes, 20 secondsAnd granted that you're her mother, so you're obviously biased. Tell the jury what observations you made of Lindsay as a mother through the years after Kora
+2:02:292 hours, 2 minutes, 29 secondswas born and then Dawson and then of course baby Calvin.
+2:02:352 hours, 2 minutes, 35 secondsLindsay was a very loving mother. She was dedicated to her children. She was a
+2:02:422 hours, 2 minutes, 42 secondsfun mother. She was always doing things for her kids. She always wanted to be a
+2:02:492 hours, 2 minutes, 49 secondsmother, have many children, and it I felt it was the best thing that ever happened to her. And she would do
+2:02:582 hours, 2 minutes, 58 secondsanything for her children. She was just a loving mother. Now, in 2022, uh, Kalen was born. Is that correct?
+2:03:092 hours, 3 minutes, 9 secondsYes.
+2:03:102 hours, 3 minutes, 10 secondsDid you stay in touch with Lindsay and Pat during that period of time, the spring into the summer of 2022? Yes.
+2:03:172 hours, 3 minutes, 17 secondsAnd how how often would you see them or talk to them or what would you do? You go to cookouts or you have parties or how would you socialize?
+2:03:252 hours, 3 minutes, 25 secondsum myself and [clears throat] my husband would travel from Connecticut to Ducks um at least two or three times a month
+2:03:332 hours, 3 minutes, 33 secondsas well as them coming to Connecticut to visit us.
+2:03:372 hours, 3 minutes, 37 secondsAnd did you would you agree that in the summer for example of 2022 that Lindsay and Pat were active with the kids and were were pretty happy?
+2:03:472 hours, 3 minutes, 47 secondsVery happy. Yes. Did you observe in the summer of 22 any changes at that point in her personality
+2:03:562 hours, 3 minutes, 56 secondsand the way she was acting with her friends and in society in the summer? No.
+2:04:032 hours, 4 minutes, 3 secondsUh and they were having a fairly good good summer. Yes.
+2:04:082 hours, 4 minutes, 8 secondsDid you notice at some point a change in Lindsay's demeanor? Yes. Tell the jury when that was.
+2:04:152 hours, 4 minutes, 15 secondsUm it was sometime probably around the second week of October. What happened that you noticed?
+2:04:222 hours, 4 minutes, 22 secondsI noticed that she was had become very anxious.
+2:04:272 hours, 4 minutes, 27 secondsShe was uh she told me she was anxious about going back to work because Ken was having trouble taking a
+2:04:362 hours, 4 minutes, 36 secondsbottle and she didn't feel right about leaving him. And as a result of that, did she tell you that she was going to put off going back to work? [snorts]
+2:04:452 hours, 4 minutes, 45 secondsYes. She told me she was applying for an extension.
+2:04:472 hours, 4 minutes, 47 secondsNow, did you know at that point that she was going through any issues involving depression or anxiety or having any suicidal ideation or anything like that?
+2:04:582 hours, 4 minutes, 58 secondsAt that point, no.
+2:04:592 hours, 4 minutes, 59 secondsAt what point, if any, did you become aware that your daughter was suffering from this symptomology?
+2:05:062 hours, 5 minutes, 6 secondsIn late October. And and how did that come about? She sent me a text message.
+2:05:122 hours, 5 minutes, 12 secondsAnd do you [snorts] recall when that was? Yes, that was on October 20th.
+2:05:172 hours, 5 minutes, 17 secondsNow, your honor, the government has introduced into evidence the entire um of the phone dumps, if you will, and I
+2:05:242 hours, 5 minutes, 24 secondsthink they put it on a disc and it's probably thousands of pages, but I do have the text thread that deals with that time frame in October. I'd like to
+2:05:322 hours, 5 minutes, 32 secondsoffer that so that it's apparent what I'm referring to rather than having to search through thousands of pages of a disc.
+2:05:552 hours, 5 minutes, 55 secondsNo question.
+2:05:562 hours, 5 minutes, 56 secondsOkay. They may be admitted. So approaching 276.
+2:06:082 hours, 6 minutes, 8 secondsNow, the text message that you're referring to, um, would that be on October 20th of 2022?
+2:06:192 hours, 6 minutes, 19 secondsYes.
+2:06:202 hours, 6 minutes, 20 secondsAnd do you have that on your phone right now? I do. Can you just pull that up for us? I can. Just give me a moment.
+2:06:282 hours, 6 minutes, 28 secondsOkay, I have it. Tela, do you have a copy maybe that she could look at? Oh, I have a copy.
+2:06:332 hours, 6 minutes, 33 secondsYeah, that might that might be easier for the witness.
+2:06:412 hours, 6 minutes, 41 secondsSo, I'm going to approach you with this board and ask
+2:06:492 hours, 6 minutes, 49 secondsif this is a copy of the text that you're referring to.
+2:06:542 hours, 6 minutes, 54 secondsYes, it is. Would you read that for the jury?
+2:06:582 hours, 6 minutes, 58 secondsMom, will you please come up and stay with me for a bit? I'm really sick.
+2:07:032 hours, 7 minutes, 3 secondsSomething is wrong. I had horrible insomnia all night, and I just don't know how I'm going to get through the day. I started taking the medicine my
+2:07:132 hours, 7 minutes, 13 secondsdoctor prescribed for anxiety, and I think it's made things worse. It's just really scary, and I don't want to be alone.
+2:07:242 hours, 7 minutes, 24 secondsSorry about this objection. It's already in evidence.
+2:07:292 hours, 7 minutes, 29 secondsWhat do we mark it for uh for identification? Um is that text within the um
+2:07:362 hours, 7 minutes, 36 secondsWell, I know you would, but we already have the little No, we're going to mark that for
+2:07:452 hours, 7 minutes, 45 secondsidentification. The text that is been been referred and read to uh is within exhibit 276 which was just offered.
+2:07:562 hours, 7 minutes, 56 secondsI'm sorry. Which is what?
+2:07:582 hours, 7 minutes, 58 secondsI think it was within exhibit 276 which was within that thread that you just offered. Okay. So I will then that would be 276.
+2:08:072 hours, 8 minutes, 7 secondsSo that will be over here.
+2:08:092 hours, 8 minutes, 9 secondsUh as a result of receiving that text, did you then come up to Hold on a second. Exhibit W for identification. Yeah. Okay.
+2:08:172 hours, 8 minutes, 17 secondsOh, thank you. All right. Thank you.
+2:08:192 hours, 8 minutes, 19 secondsSo, as a result of that, did you come up to Ducksberry? Yes. Same day.
+2:08:262 hours, 8 minutes, 26 secondsAnd tell us about that. What happened that day at the end of October?
+2:08:322 hours, 8 minutes, 32 secondsLindsay had been I believe she went to the emergency room that day and she had come home. She was
+2:08:412 hours, 8 minutes, 41 secondsfeeling a bit better. Um, she told me that she couldn't sleep, she was very anxious, and she was afraid.
+2:08:492 hours, 8 minutes, 49 secondsAnd how long did you stay with her at that point? Yes.
+2:08:552 hours, 8 minutes, 55 secondsUm, I believe at that point I stayed for about a week. [clears throat] And was your husband with you?
+2:09:022 hours, 9 minutes, 2 secondsUm, he came later. He didn't come directly with me then because he was still working. So, he came later. I never asked. What did you do for work?
+2:09:102 hours, 9 minutes, 10 secondsUm, I worked for a Weight Watchers. And And you're retired? Yes.
+2:09:142 hours, 9 minutes, 14 secondsHow about your husband? Is he working now? He recently retired. And what was the nature of his work? He was in photography.
+2:09:232 hours, 9 minutes, 23 secondsWhat kind of photography?
+2:09:242 hours, 9 minutes, 24 secondsSchool picture photography for yearbooks and things like that.
+2:09:282 hours, 9 minutes, 28 secondsYeah. And school pictures. And you had your kids pictures taken. And he just recently retired.
+2:09:332 hours, 9 minutes, 33 secondsYes. Um, is it fair to say that during the month of October into November into the holidays in December that you and your husband would stay with Lindsay and the kids?
+2:09:432 hours, 9 minutes, 43 secondsYes, I stayed more than my husband because he needed to go back home to work.
+2:09:482 hours, 9 minutes, 48 secondsSure. While you were staying with Lindsay, can you tell us your opinion as to her condition? Was it decompensating?
+2:09:552 hours, 9 minutes, 55 secondsWas she getting better as time went on through November and December into the holidays?
+2:10:012 hours, 10 minutes, 1 secondthrough November into December, it was not getting better into and and and into the holidays.
+2:10:072 hours, 10 minutes, 7 secondsAnd you knew she was on medication at that point? Yes.
+2:10:102 hours, 10 minutes, 10 secondsYou knew she was seeing doctors at that point? Yes.
+2:10:122 hours, 10 minutes, 12 secondsSo tell us uh is there an incident that came to your mind that you recall that uh occurred on one evening that
+2:10:202 hours, 10 minutes, 20 secondsindicated to you how seriously she was suffering?
+2:10:272 hours, 10 minutes, 27 secondsUm there were many um one particular evening that was disturbing to me was that I mean she was
+2:10:362 hours, 10 minutes, 36 secondsafraid. She was afraid to be alone and she actually asked if she could sleep with me. When was that?
+2:10:432 hours, 10 minutes, 43 secondsThat was late November, early December.
+2:10:462 hours, 10 minutes, 46 secondsAnd did she indeed sleep with you on that occasion?
+2:10:502 hours, 10 minutes, 50 secondsShe did. Um, continuing on through the holidays, did you uh you guys get together for the
+2:10:582 hours, 10 minutes, 58 secondsholidays, Christmas or Thanksgiving if you recall?
+2:11:012 hours, 11 minutes, 1 secondYes. Um, I was down there probably most of December through um Christmas Eve and then I left
+2:11:102 hours, 11 minutes, 10 secondson Christmas Eve to come home to see my other daughter and her family and then Lindsay actually came to my house later
+2:11:182 hours, 11 minutes, 18 secondsthe day on Christmas Day. Was she with Pat? Yes. Okay. And the and the kids? Yes.
+2:11:242 hours, 11 minutes, 24 secondsUm, during that period of time, did you make further observation as time went into
+2:11:332 hours, 11 minutes, 33 secondsJanuary? Oh, back it up. At some point, she voluntarily went into MLAN hospital. Yes. Do you knew that?
+2:11:412 hours, 11 minutes, 41 secondsYes, I How did you know that? I was there. What do you mean you were there?
+2:11:452 hours, 11 minutes, 45 secondsI was at Lindsay's house staying with them. You take care of the kids? Yes.
+2:11:502 hours, 11 minutes, 50 secondsAnd it's fair to say that Pat's parents, mom and dad, also uh stepped up taking care of the kids, helping out during this period of time.
+2:12:002 hours, 12 minutesThey were there, I guess, when we weren't there. I didn't really see them, but Right. Cuz you guys would be different time from Right.
+2:12:072 hours, 12 minutes, 7 secondsBut you you all were pulling together as a family. Is that correct? January um leading up to January 24th.
+2:12:172 hours, 12 minutes, 17 secondsUm, do you recall and can you tell the jurors what if any observations you made of Lindsay and her condition?
+2:12:252 hours, 12 minutes, 25 secondsLindsay had lost a lot of weight.
+2:12:292 hours, 12 minutes, 29 secondsShe had become during this whole time paranoid about different things that really she
+2:12:382 hours, 12 minutes, 38 secondsshouldn't have be, you know, really weren't logical to become paranoid about. Um, she would mention that her
+2:12:452 hours, 12 minutes, 45 secondsthis wasn't her mind and she would say to me, "I've never this isn't me. I've never been like this before." And I would agree because she wasn't.
+2:12:542 hours, 12 minutes, 54 secondsUm, she she was attempting to go through the motions of her day, take care of the kids as best she could. Um, she stopped.
+2:13:062 hours, 13 minutes, 6 secondsShe didn't want to drive. So, um, at times when Pat didn't go pick the kids up at school, I would drive Lindsay to
+2:13:132 hours, 13 minutes, 13 secondspick the kids up at to at school cuz she didn't she was afraid to drive.
+2:13:182 hours, 13 minutes, 18 secondsDid she express to you concern that uh in this time frame that people at the school, teachers and other people would be able to know what she was thinking
+2:13:272 hours, 13 minutes, 27 secondsand would think that she wasn't a good mother because she was sick?
+2:13:312 hours, 13 minutes, 31 secondsYes. She said, "The school knows some something's going on because I'm not driving my car to, you know, they see
+2:13:382 hours, 13 minutes, 38 secondsthat I'm not driving my car to pick the kids up." Do you recall the end of January that she made a statement to you about the
+2:13:462 hours, 13 minutes, 46 secondsmedication in her opinion, what it was doing to her mind? Yes. What did she say?
+2:13:522 hours, 13 minutes, 52 secondsShe said that she couldn't remember anything. The medication was pretty much just destroying her mind and it wasn't
+2:13:592 hours, 13 minutes, 59 secondsher. She said, "This isn't me. I I just want to feel better and enjoy my kids again.
+2:14:052 hours, 14 minutes, 5 secondsNow, I know that this is difficult. Um, in December
+2:14:132 hours, 14 minutes, 13 secondsof 2022, do you recall a time that you were in the kitchen with Lindsay and Patrick and she made a statement about
+2:14:222 hours, 14 minutes, 22 secondsher state of mind to her husband Pat and you were there? Yes.
+2:14:272 hours, 14 minutes, 27 secondsI know it's difficult. Just tell us what you remember. I remember her being very nervous.
+2:14:352 hours, 14 minutes, 35 secondsI remember her saying, "I just have to tell you guys something." And then she told us. What did she tell you?
+2:14:422 hours, 14 minutes, 42 secondsShe told us that she had thoughts of harming the children. Thank you very much.
+2:14:522 hours, 14 minutes, 52 secondsWhy don't we take the afternoon uh recess at this time? We'll come back uh for crossexamination. All right. So, ma'am, you can step down. Thank you.
+2:15:092 hours, 15 minutes, 9 secondsAll right. So, members of the jury, we're going to take the the break at this time. Uh we expect to have you back about 2:00. Okay.
+2:15:172 hours, 15 minutes, 17 secondsAll rise, please. Sure. Sexy.
+2:16:032 hours, 16 minutes, 3 secondsAll right. Council, can I see just for a second just kind of timewise?
+2:16:202 hours, 16 minutes, 20 secondsThis court is back in session. You may be seated. For the purpose of the record, excluding the jury.
+2:16:292 hours, 16 minutes, 29 secondsAll right. Before we uh proceed with this, can I just see council briefly sidebar?
+2:16:422 hours, 16 minutes, 42 secondsAll right. So, we ready for the jury?
+2:16:442 hours, 16 minutes, 44 secondsYes. [clears throat]
+2:17:032 hours, 17 minutes, 3 secondsDo you have some water up there? I do. Thank you.
+2:17:212 hours, 17 minutes, 21 secondsAll right, please.
+2:17:502 hours, 17 minutes, 50 secondsCourt is back in session. You may be seated.
+2:18:012 hours, 18 minutes, 1 secondAll right. Thank you, madam clerk. Trig. Thank you, your honor. Good afternoon. Afternoon.
+2:18:072 hours, 18 minutes, 7 secondsNow, um you testified in direct examination about the statements that Lindsay made in December about having
+2:18:162 hours, 18 minutes, 16 secondsthoughts about harming the children. Was when in December was that?
+2:18:212 hours, 18 minutes, 21 secondsI don't exactly remember. I would say
+2:18:232 hours, 18 minutes, 23 seconds[clears throat]
+2:18:242 hours, 18 minutes, 24 secondsearly to mid December. Probably ear maybe earlier rather than mid December, but I don't exactly remember
+2:18:322 hours, 18 minutes, 32 secondswhen. Okay. And when she made the statement that she had thoughts of harming the children, did either you or Patrick ask her what she meant by that?
+2:18:422 hours, 18 minutes, 42 secondsI believe I remember Pat asking her if she felt like she couldn't be alone with the children and she said no.
+2:18:492 hours, 18 minutes, 49 secondsAnd after she made those statements, [clears throat] did uh did you have any thoughts about committing her?
+2:18:572 hours, 18 minutes, 57 secondsNo.
+2:18:582 hours, 18 minutes, 58 secondsDid you have any thoughts about having her come stay with you in Connecticut away from the children? No.
+2:19:052 hours, 19 minutes, 5 secondsWere you concerned for the children's safety at that point in time? No, because I was there.
+2:19:142 hours, 19 minutes, 14 secondsAnd you were asked about some text messages in October and those are now in exhibit I believe.
+2:19:262 hours, 19 minutes, 26 secondsexhibit 276.
+2:19:292 hours, 19 minutes, 29 secondsAnd so you talked about the the text on the 20th when she asked you to come and she was having a hard time, right?
+2:19:372 hours, 19 minutes, 37 secondsYes.
+2:19:392 hours, 19 minutes, 39 secondsA day before on October 19th. She had sent you a different text message stating, "Hi, Mom. Would you ever
+2:19:472 hours, 19 minutes, 47 secondsconsider coming to stay with us for a couple days at a time to help with child care so I can work?" and talking to a therapist and doing a lot of thinking. I
+2:19:552 hours, 19 minutes, 55 secondsactually think going to work will help me, but it's really hard with nurses hours to get child care that we need.
+2:20:002 hours, 20 minutesI'm thinking if you could come like Sunday to mid Tuesday, it would really it'd be really helpful. Just a thought.
+2:20:062 hours, 20 minutes, 6 secondsDo you remember that text the day before? Yes.
+2:20:092 hours, 20 minutes, 9 secondsAnd did you agree in a text message that you you could um you could you said I can come and help out? Yes.
+2:20:152 hours, 20 minutes, 15 secondsOkay. And then after that, that next day is when she said she was having trouble and wanted you there then. And and you went that day. Correct.
+2:20:252 hours, 20 minutes, 25 secondsBut you you said you were there for about a week, but there's a text on October 20th. That's not included in
+2:20:332 hours, 20 minutes, 33 secondsthis exhibit where on October 24th at 2:36 p.m. you send a text to her saying,
+2:20:402 hours, 20 minutes, 40 seconds"How are things today?" And she responds, "Good. remember that?
+2:20:492 hours, 20 minutes, 49 secondsYes.
+2:20:502 hours, 20 minutes, 50 secondsSo, were you already home at that point when you were asking her how she was doing on the 24th?
+2:20:552 hours, 20 minutes, 55 secondsI must have been home at that point. I honestly don't remember. I was back and forth so many times. So, the time frames
+2:21:032 hours, 21 minutes, 3 secondsare really jumbled in my head as far as how long I stayed any particular time.
+2:21:072 hours, 21 minutes, 7 secondsAnd so you would go and help out when they asked you to and then you would go home when things were calmed down a little bit with Is that right?
+2:21:162 hours, 21 minutes, 16 secondsUm not exactly right.
+2:21:182 hours, 21 minutes, 18 secondsNo. And she did say on the 24th that she was doing good that day. Correct.
+2:21:232 hours, 21 minutes, 23 secondsI don't recall. But if that's what the text says then you go you can look at it.
+2:21:412 hours, 21 minutes, 41 secondsOkay.
+2:21:422 hours, 21 minutes, 42 secondsSo, she told you at that point on the 24th she was doing good, right? Correct.
+2:21:472 hours, 21 minutes, 47 secondsYou could have this page marked as the next. Any objection? No. That may be marked.
+2:22:042 hours, 22 minutes, 4 secondsNow, you talked about a time when you went to her home and you actually ended up sleeping with her because she didn't
+2:22:112 hours, 22 minutes, 11 secondswant to be alone. Was that that October 20th visit? No. When was that? That was I can't exactly remember when.
+2:22:192 hours, 22 minutes, 19 secondsI'm going to say probably sometime in November, the latter part of November, maybe the early part of December.
+2:22:262 hours, 22 minutes, 26 secondsDid she tell you why she was afraid to be alone?
+2:22:292 hours, 22 minutes, 29 secondsShe said she was she just said she was afraid to be alone. She And one reason I believe she said she didn't know if she was going to be able to sleep, but mainly she was afraid to be alone.
+2:22:392 hours, 22 minutes, 39 secondsAnd at that point in time, did you consider having her committed to a to a psychiatric facility?
+2:22:452 hours, 22 minutes, 45 secondsNo. And did you feel the need to call 911 that day or get her immediate assistance? No.
+2:22:542 hours, 22 minutes, 54 seconds[clears throat and cough]
+2:22:552 hours, 22 minutes, 55 secondsYou mentioned that in January you saw her and she she lost weight. She seemed
+2:23:022 hours, 23 minutes, 2 secondsparanoid about things, seemed to be going through the motions of of of each day. How often did you see her in January of 2023?
+2:23:112 hours, 23 minutes, 11 secondsIn January, I can't exactly remember how many times I saw her. We were again back and forth.
+2:23:182 hours, 23 minutes, 18 secondsSo, we have exhibit 238 which have all of your text messages with Lindsay in January of 2023. And I just want to go through some of them with you.
+2:23:442 hours, 23 minutes, 44 secondsSo on page 17 of the exhibit, this is on January 4th, 2023. So the day
+2:23:522 hours, 23 minutes, 52 secondsbefore she was discharged from a claim, and she sent you a text stating, "Think I'm coming home tomorrow evening."
+2:24:002 hours, 24 minutesexclamation point. I talked to the doctor and I made up a a follow-up appointment with my other psychiatrist besides Rebecca for Friday morning. So
+2:24:082 hours, 24 minutes, 8 secondsshe said she'd be okay with me leaving Thursday around 5:00. Do you remember getting those messages?
+2:24:132 hours, 24 minutes, 13 secondsYep. And were you staying at the home helping out with the kids at that point? Yes. Okay.
+2:24:182 hours, 24 minutes, 18 secondsAnd did you go to Corora's birthday party on the 7th?
+2:24:232 hours, 24 minutes, 23 secondsI did not. It was a children's party. I stayed home with Ken. Okay.
+2:24:352 hours, 24 minutes, 35 secondsAnd do you recall when you went home? I don't recall.
+2:24:412 hours, 24 minutes, 41 secondsI'm looking at page 28 and there's a text from Lindsay on
+2:24:482 hours, 24 minutes, 48 secondsJanuary 7th, 2023 at 7:02 p.m. to you where it says, "Make it home." Okay. And you said, "Yep." Does that make sense
+2:24:562 hours, 24 minutes, 56 secondsthat you would have gone home on the 7th after the birthday party? Yes, if that's what the text says. Yes.
+2:25:052 hours, 25 minutes, 5 secondsAnd then on the 20 on page 29, we have text messages between yourself and Lindsay on January 8th where
+2:25:142 hours, 25 minutes, 14 secondsyou ask how things are going today and she says good going to the science museum.
+2:25:202 hours, 25 minutes, 20 secondsYou say great that will be fun. Sleep good last night. And she said I actually did with less Adavan. So that was good.
+2:25:292 hours, 25 minutes, 29 secondsDo you remember that? I don't recall the exact text messages.
+2:25:332 hours, 25 minutes, 33 secondsDo you recall her uh texting you about going to the science museum? Not ex No, I don't recall that.
+2:25:412 hours, 25 minutes, 41 secondsDo you think looking at them might help? Sure.
+2:25:472 hours, 25 minutes, 47 secondsI'm going to show you page 29 and then page 30.
+2:26:142 hours, 26 minutes, 14 secondsDoes that refresh your memory? That's what the text says. Yes.
+2:26:332 hours, 26 minutes, 33 secondsAnd then on Page 34. You asked how the museum was
+2:26:402 hours, 26 minutes, 40 secondstoday and Lindsay sent you some photographs and said it was fun. The kids really liked it. Do you remember that?
+2:26:472 hours, 26 minutes, 47 secondsI don't really recall the Museum of Science experience or texts, but if they're there in the text messages, then they were sent. Yes.
+2:26:552 hours, 26 minutes, 55 secondsOkay.
+2:26:592 hours, 26 minutes, 59 secondsThen on page 39, this is uh January 10th, you say at 9:48
+2:27:082 hours, 27 minutes, 8 secondsa.m. Good morning. How are you doing today? And Lindsay responded, "Good at the gym with the kids." You said, "Nice, still sleeping good." And she responded,
+2:27:172 hours, 27 minutes, 17 seconds"Pretty good. Yeah, not perfect, but enough." And you said, "Are you feeling any better during the day?" And she
+2:27:242 hours, 27 minutes, 24 secondssaid, "So far, a little bit." They said a week off the cerakquil should make more of a difference. So, a couple more days till that, but I do think it's
+2:27:312 hours, 27 minutes, 31 secondshelping being off. And you responded, okay, a little at a time. Do you remember that conversation?
+2:27:382 hours, 27 minutes, 38 secondsSo, I don't recall the exact conversation. I think I probably texted back and forth to Lindsay almost daily
+2:27:452 hours, 27 minutes, 45 secondsduring that time. So, I don't remember the specific text messages, but I would say if they're there, then that's what we sent back to each other.
+2:27:542 hours, 27 minutes, 54 secondsOkay.
+2:28:002 hours, 28 minutesAnd then there were further text messages that day. Um
+2:28:112 hours, 28 minutes, 11 secondswhere you say, "How was your day later on in the day?" And she said, "It was good. Played with the kids a lot. Were able to go outside. Kingsbury club and
+2:28:192 hours, 28 minutes, 19 secondsgymnastics kept them busy. And me too." So, do you remember her talking to you during that time about going to gymnastics and going to the Kingsbury
+2:28:262 hours, 28 minutes, 26 secondsClub and things like that with the children?
+2:28:292 hours, 28 minutes, 29 secondsI don't remember the specific text, but I do remember her doing things with the children. Yes.
+2:28:442 hours, 28 minutes, 44 secondsThen on January 11th, the following day, you sent a text, excuse [clears throat] me, how are you feeling today? And she
+2:28:532 hours, 28 minutes, 53 secondsresponded with a photo of Ken drinking out of a Mary LSE cup, saying, "We have another Mary Loose fan." And you said, "Decaf looks like he's enjoying it." And
+2:29:022 hours, 29 minutes, 2 secondsthen later on, you asked again, "How are you doing today?" And she said, "Hi, Mom. Doing all right. Nothing new really. just taking it day by day. You
+2:29:102 hours, 29 minutes, 10 secondssaid still feeling a little better and she said a little bit. You said sleeping okay. She said not great last night because Cora was up with a belly ache.
+2:29:192 hours, 29 minutes, 19 secondsDo you remember that? So again, we texted so many times daily, twice daily, maybe three times daily. So I can't say
+2:29:282 hours, 29 minutes, 28 secondsthat I remember the specific text. I do I do remember the picture of Carolyn with the Mary Luc because that stands out in my mind. But the specific text
+2:29:362 hours, 29 minutes, 36 secondsgoing back and forth, we just did it so often that I can't say I remember the specific text you're reading back to me.
+2:29:422 hours, 29 minutes, 42 secondsBut again, if they were there, then we sent them, right? And do you remember uh her Lindsay talking to you about Kora having
+2:29:502 hours, 29 minutes, 50 secondsstomach issues during the month of January? Yes. The belly aches off and on. Yes.
+2:30:012 hours, 30 minutes, 1 secondAnd then January 13th, again, you're checking in with her. Hi, Lindsay. How are you today? She said, "Hi, Mom.
+2:30:082 hours, 30 minutes, 8 secondsPretty good today. How about you?" And you asked about the little ones. And she said, "All good. Went to the gym this morning. Just hanging out and now they
+2:30:152 hours, 30 minutes, 15 secondshave no school today." And then the following day again, you're checking in. Hi Lindsay, how's your Saturday going?
+2:30:222 hours, 30 minutes, 22 secondsShe said, "Hi mom, it's going well. Just hanging out. It's yucky here." Uh, so these are like daily check-ins that you're doing, checking in on her, seeing
+2:30:302 hours, 30 minutes, 30 secondsif she's okay, seeing if she's feeling better, seeing if she's sleeping well, things like that, right? Yes.
+2:30:382 hours, 30 minutes, 38 secondsYou also ask her that day on the 14th, "Do you feel any different since being off the cerakquil?" She says, "Not as much as I was hoping.
+2:30:492 hours, 30 minutes, 49 secondsGoing to talk to my psychiatrist about it on Monday." She, you say, "But some." She says a little, but I still don't feel like you. But then she corrects it
+2:30:572 hours, 30 minutes, 57 secondsto me and um you ask her if she's going to be able to get outside with the kids today and she said she's going to try. So similar
+2:31:052 hours, 31 minutes, 5 secondsconversations to that where you're talking about medication and how how she's doing on the medication.
+2:31:112 hours, 31 minutes, 11 secondsYes. I get then the following day on the 15th of January, you say good morning. Is it a
+2:31:192 hours, 31 minutes, 19 secondsgood morning for you today? She says good morning. It's pretty good going to an indoor water park. And she tells you that it's at the Cape Cottter. Do you
+2:31:272 hours, 31 minutes, 27 secondsremember them going to the the Cape Cottter water park? I do remember them going there. Yes.
+2:31:362 hours, 31 minutes, 36 secondsAnd then the following day on the 16th, you actually texted her, "How was the water park yesterday?" She said, "It was fun. Cora and Dawson enjoyed. Kellen didn't know what to think of it.
+2:31:462 hours, 31 minutes, 46 secondsCouldn't get any pics because it was too hectic keeping track of them in the water and stuff. And it was busy, but it was a good time. Does that sound
+2:31:542 hours, 31 minutes, 54 secondsfamiliar that they had a good time that day? And you asked her that day if she had anything planned and she said Pat took skiing, so she was hanging with the boys. Do you remember that?
+2:32:042 hours, 32 minutes, 4 secondsNot specifically. I don't remember that text.
+2:32:062 hours, 32 minutes, 6 secondsShe that same day sent you some photographs of Dawson um doing a drawing of a firefighter and Ken. Do you remember those receiving those?
+2:32:152 hours, 32 minutes, 15 secondsI do remember the pictures. Yes.
+2:32:252 hours, 32 minutes, 25 secondsThen the following day again you're checking in every day. You say you feeling better? She says a little bit.
+2:32:312 hours, 32 minutes, 31 secondsYou said still taking the same medication. She said yes. About to have an appointment with her psychiatrist.
+2:32:362 hours, 32 minutes, 36 secondsYou said let me know how it goes. And she said okay. And then she responds back after her appointment. She recommended another anti-depressant
+2:32:442 hours, 32 minutes, 44 secondssince my mood is still very low off the cerakquil. You asked her how she felt about it and she told you she just wants to feel like herself again, but she's up
+2:32:522 hours, 32 minutes, 52 secondsfor for trying it and uh she just wants to get back to who she was, right?
+2:33:002 hours, 33 minutesAnd she told you it was amatipptalene. Is that right? Do you remember that? I don't remember the medication. Okay.
+2:33:182 hours, 33 minutes, 18 secondsThen [snorts] on the 18th, January 18th, again, you're reaching out and she says, "Hi, Mom. I'm doing all right. How about you?" And you say, "You're you're good.
+2:33:282 hours, 33 minutes, 28 secondsYou're thinking about visiting that weekend." And she says, "That sounds good." And um you ask her about being able to get out and exercise. And she
+2:33:372 hours, 33 minutes, 37 secondssays she's been walking on the treadmill at the gym for exercise.
+2:33:412 hours, 33 minutes, 41 secondsAnd you asked her if she started a new medication and if she's feeling better and she says, "Feel okay, just not great. I did start it two nights ago."
+2:33:492 hours, 33 minutes, 49 secondsYou said, "Is that the one that takes a while to feel the effects?" She said, "Yep, weeks." And you said, "Is the okay that you're feeling now better than what
+2:33:582 hours, 33 minutes, 58 secondsyou were feeling a few weeks ago?" And she said, "Yes." Do you remember that?
+2:34:032 hours, 34 minutes, 3 secondsAgain, I don't remember the specific text. just remember texting back and forth daily about how she's feeling about, you know, any what's different
+2:34:122 hours, 34 minutes, 12 secondsmedication wise, but I can't say I remember that specific text that you're reading me. But again, if they're there, then they were done by us, right? And so
+2:34:222 hours, 34 minutes, 22 secondson the 19th of January, again, you're checking in and say, "How are you feeling today? Um, can you tell if anything's different with the new medication?" She says, "I'm feeling all
+2:34:302 hours, 34 minutes, 30 secondsright. Nothing new really yet because it takes weeks to really work, but I'm okay." You asked if she's still sleeping well and she says decently and the kids get up a lot.
+2:34:412 hours, 34 minutes, 41 secondsSo again, more of the same check-ins daily, seeing how she's doing, seeing how she's sleeping. Right. [snorts]
+2:35:042 hours, 35 minutes, 4 secondsAnd then on the 20th, um, you reach out.
+2:35:082 hours, 35 minutes, 8 secondsIs it pizza and movie night? She says just pizza and playing. And you tell her you're leaving at 9:00, bringing dessert for the kids. And she says, sounds
+2:35:172 hours, 35 minutes, 17 secondsgreat. So you're talking about um your visit that weekend. Is that right? Yes.
+2:35:292 hours, 35 minutes, 29 secondsAnd in these texts prior to the visit, you say that um it's been a while since you've seen them. So it sounds like from
+2:35:362 hours, 35 minutes, 36 secondsthese texts, you're checking in with her every day from January 7th, 2023 all the
+2:35:422 hours, 35 minutes, 42 secondsway up to your visit on January 21st, 2023. You're checking in with her. So
+2:35:502 hours, 35 minutes, 50 secondsyou're at home in Connecticut from the 7th until the 21st, correct?
+2:35:572 hours, 35 minutes, 57 seconds[snorts]
+2:35:582 hours, 35 minutes, 58 secondsAnd then on the 22nd, that Sunday, Lindsay, Pat, and the older kids, they go to the Carney's house for that
+2:36:052 hours, 36 minutes, 5 secondsbonfire and get together, and you stayed home with Ken, right? Correct.
+2:36:122 hours, 36 minutes, 12 secondsAnd then after after they get home, you you and your husband left. Is that correct? Yes.
+2:36:212 hours, 36 minutes, 21 secondsAnd on the way home, you texted on January 22nd, 2023 at 7:55 p.m., "Enjoyed seeing everyone this weekend.
+2:36:322 hours, 36 minutes, 32 secondsNice to see you doing better." Is that correct?
+2:36:352 hours, 36 minutes, 35 secondsIf that's what that says, yes, that's correct. I don't exactly remember the text, but yes, if that's what it says.
+2:36:412 hours, 36 minutes, 41 secondsYes. So from your text, not saying she was doing great, but she was doing better than she was according to your text or appeared to be.
+2:36:512 hours, 36 minutes, 51 seconds[clears throat]
+2:36:522 hours, 36 minutes, 52 secondsThe text from me was meant to encourage her because I didn't think it did any good to discourage her.
+2:37:022 hours, 37 minutes, 2 secondsSo the te text was meant not necessarily what I actually observed that weekend, but it was meant to encourage her
+2:37:092 hours, 37 minutes, 9 secondsbecause I was encouraging her to do things with the kids to kind of try to get back to normal. So it's not necessarily a representation of exactly what I observed that weekend.
+2:37:192 hours, 37 minutes, 19 secondsBut that weekend she was able to go to friend a friend's house with the older kids and Pat and spend a few hours there. Correct.
+2:37:262 hours, 37 minutes, 26 secondsCorrect. and she was able to do activities and hang out with you and your husband. There's a photograph and evidence of the two of you sitting on
+2:37:342 hours, 37 minutes, 34 secondsthe couch smiling and hanging out together. So, you were able to interact with her. Correct.
+2:37:402 hours, 37 minutes, 40 secondsCorrect. The photograph was taken by Kora because Cora wanted to use my phone and take her picture. So, Lindsay and I were going to put a smile on our face and take and let Kora take a picture.
+2:37:512 hours, 37 minutes, 51 secondsYes. But again, there was other observations I made that weekend, but it was not be I didn't think it was in Lindsay's best interest to discourage
+2:38:002 hours, 38 minutesher or or point out those because she was making every attempt to feel better and to do things to make herself feel
+2:38:082 hours, 38 minutes, 8 secondsbetter. So, as a mother, I was encouraging her.
+2:38:122 hours, 38 minutes, 12 secondsWell, you didn't say, "I hope you feel better or you're going to get there or you're doing it." You you actually said, "Nice to see you doing better." Correct.
+2:38:182 hours, 38 minutes, 18 secondsThat's what you wrote. Those were my encouraging words. Yes.
+2:38:222 hours, 38 minutes, 22 secondsAnd from January 7th through up through January 22nd, Lindsay repeatedly told you she was doing okay. She was feeling
+2:38:302 hours, 38 minutes, 30 secondsa little bit better. Not completely better, not 100%, but she kept telling you, "I feel a little bit better. I feel a little bit better." You even asked her, "Is the better you're feeling now
+2:38:382 hours, 38 minutes, 38 secondsbetter than a few weeks ago?" And she said, "Yes." Correct.
+2:38:412 hours, 38 minutes, 41 secondsThat's correct. Without my observation of her and what she was responding to you in text. Correct. Correct.
+2:39:012 hours, 39 minutes, 1 secondYou also spoke to the police on January 25th, 2023. Do you remember that? I do.
+2:39:132 hours, 39 minutes, 13 seconds[cough and clears throat]
+2:39:212 hours, 39 minutes, 21 secondsDo you remember telling the police that Lindsay seemed to be improving since leaving MLAN? I do not recall.
+2:39:302 hours, 39 minutes, 30 secondsI remember speaking to the police. I had just found out what had happened and I was pretty much in shock. So, anything I
+2:39:392 hours, 39 minutes, 39 secondsremember honestly I remember two things I told the police. Anything else that you have there, I must have said, but
+2:39:472 hours, 39 minutes, 47 secondsI'm don't recall them. I can I've been going through my mind. I can honestly recall two things I told the police during that interview. I was pretty much in shock.
+2:39:552 hours, 39 minutes, 55 secondsOkay. So, do you remember telling them that she seemed brighter lately? I don't recall. Okay.
+2:40:012 hours, 40 minutes, 1 secondThank you, Mr. Bington. [clears throat]
+2:40:402 hours, 40 minutes, 40 secondsWhat do you want? Oh, you mean the ones that you didn't?
+2:40:472 hours, 40 minutes, 47 secondsYes.
+2:40:502 hours, 40 minutes, 50 secondsThis was one
+2:41:032 hours, 41 minutes, 3 seconds[clears throat]
+2:41:062 hours, 41 minutes, 6 secondsI can check.
+2:41:102 hours, 41 minutes, 10 secondsUm just uh looking here through the exhibits. um [clears throat] district attorney stood up and said to
+2:41:172 hours, 41 minutes, 17 secondsyou that um I had introduced into evidence and showed you exhibit 276
+2:41:252 hours, 41 minutes, 25 secondswhich would be a list of uh text dated on October 19th. Do you remember that it was the black one? It was the copies. It
+2:41:332 hours, 41 minutes, 33 secondswasn't green. Recall that this was introduced into evidence.
+2:41:382 hours, 41 minutes, 38 secondsUm you recall we're questioning you from this on October 19th? Yeah, this is the one
+2:41:452 hours, 41 minutes, 45 secondsthat I had introduced was exemp 276 and the date would be October 19th. Your text thread.
+2:41:522 hours, 41 minutes, 52 secondsOh, yes. Yes. Yes. I'm sorry.
+2:41:542 hours, 41 minutes, 54 secondsAnd then she said, "Well, there's something missing." And went up and said to you this text, which would be 277.
+2:42:012 hours, 42 minutes, 1 secondYou recall that? I'm going to show it to you.
+2:42:132 hours, 42 minutes, 13 secondsYes.
+2:42:142 hours, 42 minutes, 14 secondsOkay. So, what I had introduced was a text thread from October 19th up through
+2:42:212 hours, 42 minutes, 21 secondsand including October 20th. Is that fair to say right there? Yes.
+2:42:282 hours, 42 minutes, 28 secondsOkay. And the reason I introduced this is because we had introduced earlier
+2:42:352 hours, 42 minutes, 35 secondslike a whole lot of pages text and I wanted to focus on the text thread because she said mommy can you stay sustained.
+2:42:452 hours, 42 minutes, 45 secondsSo when the district attorney suggested that there's something missing like I left it out or something. Is it fair to
+2:42:512 hours, 42 minutes, 51 secondssay that exhibit 277 is a totally different date? Look at the date. What is the date that the DA is talking about?
+2:42:592 hours, 42 minutes, 59 secondsYou see it on there? 10:23. 10:23.
+2:43:052 hours, 43 minutes, 5 secondsIt has nothing to do with the text thread that I introduced. Right. It's a day or two after that. Right. Right. If you know.
+2:43:112 hours, 43 minutes, 11 secondsYes.
+2:43:152 hours, 43 minutes, 15 seconds[clears throat]
+2:43:182 hours, 43 minutes, 18 secondsNow, we had introduced into evidence also the uh celebrate record as exhibit 238
+2:43:272 hours, 43 minutes, 27 secondsthat the state police for the district attorney's office had printed out. That is only the month of January. Do you recall that testimony?
+2:43:372 hours, 43 minutes, 37 secondsYes.
+2:43:392 hours, 43 minutes, 39 secondsAnd then I introduced into evidence or tried to introduce into evidence all of the texts between you and your daughter, right? Yes.
+2:43:472 hours, 43 minutes, 47 secondsI think your honor, that's was this was I attempted to introduce and it was objected to, I believe, and it was
+2:43:542 hours, 43 minutes, 54 secondsmarked for identification. I would now like to reoffer this in its entirety. I see council sidebar, please.
+2:44:082 hours, 44 minutes, 8 seconds[snorts]
+2:44:102 hours, 44 minutes, 10 seconds278. Thank you very much. That's all we have. Hi.
+2:44:212 hours, 44 minutes, 21 secondsAnd when you were asked about exhibit 271 and the text messages on
+2:44:282 hours, 44 minutes, 28 secondsOctober 23rd and October 24th, that was to establish when you left the home that week of the 20th. Correct.
+2:44:352 hours, 44 minutes, 35 secondsBecause you said, "How are things today?" And she said, "Good," implying that you were no longer with them. Correct. I believe so. Yes.
+2:44:432 hours, 44 minutes, 43 secondsAll right. Anything on that, council? Oh, no. Thank you.
+2:44:462 hours, 44 minutes, 46 secondsAll right. Thank you, ma'am. Let me sit down. Thank you.
+2:44:582 hours, 44 minutes, 58 secondsAll right. Defendant.
+2:45:002 hours, 45 minutesYes. Um I call director welcome
+2:45:442 hours, 45 minutes, 44 seconds[clears throat]
+2:45:552 hours, 45 minutes, 55 secondsGood afternoon.
+2:46:072 hours, 46 minutes, 7 secondsright there. All right. Good afternoon, sir.
+2:46:112 hours, 46 minutes, 11 secondsAll right, Mr. Ranken, why don't you hold off? I'm going to give an instruction. Oh, sure.
+2:46:142 hours, 46 minutes, 14 secondsAt this point. Uh, so members of Drew, I just want to give you an instruction.
+2:46:182 hours, 46 minutes, 18 secondsIt's one I probably should have given a little bit earlier in the trial as well.
+2:46:212 hours, 46 minutes, 21 secondsIt's going to apply to this witness. It applies to a number of witnesses who testified earlier and it's going to apply to a number of witnesses who
+2:46:282 hours, 46 minutes, 28 secondstestify after. Uh and it's in regards to expert witnesses. All right. Um so generally in cases that are tried in our
+2:46:362 hours, 46 minutes, 36 secondscourts uh witnesses may testify only to facts that are within their own personal knowledge. Right? That's things that they personally seen, heard or felt.
+2:46:452 hours, 46 minutes, 45 secondsHowever, in a variety of cases, issues arise that are beyond the experiences of lay persons. In those type of cases, we
+2:46:522 hours, 46 minutes, 52 secondsallow a person with specialized training or experience called an expert witness to testify and testify not only to facts but also to opinions and the reasons for
+2:47:012 hours, 47 minutes, 1 secondtheir opinions on issues that are within that witness's field of expertise and a relevant material to the case. Because a
+2:47:092 hours, 47 minutes, 9 secondsparticular witness has specialized training and experience in their field does not put that witness on a higher level than any other witness. and you
+2:47:172 hours, 47 minutes, 17 secondsare to treat the so-called expert witness just like you would treat any other witness. In other words, as with any other witness, it's completely up to
+2:47:252 hours, 47 minutes, 25 secondsyou to decide whether you accept the testimony of any expert witness, including the opinions that they give.
+2:47:322 hours, 47 minutes, 32 secondsIt's also entirely up to you to decide whether you accept the facts that relied on by the expert, and to decide what
+2:47:382 hours, 47 minutes, 38 secondsconclusions, if any, you draw from the uh witness's testimony. You're free to reject the testimony in opinion of such
+2:47:462 hours, 47 minutes, 46 secondsa witness in whole or in part if you determine that the opinion is not based on sufficient education and experience
+2:47:532 hours, 47 minutes, 53 secondsthat the testimony of the witness is motivated by some bias or interest in the case. You must uh keep firmly in
+2:48:012 hours, 48 minutes, 1 secondmind that you alone you alone decide what the facts are. So if you conclude that an expert's opinion is not based on the facts as you find those facts to be,
+2:48:102 hours, 48 minutes, 10 secondsthen you may reject the testimony in the opinion of the expert in whole or in part. You must remember that expert
+2:48:172 hours, 48 minutes, 17 secondswitnesses do not decide cases. Juries do. So in the last analysis, an expert witness is like any other witness in the
+2:48:262 hours, 48 minutes, 26 secondssense that you alone make the judgment about how much credibility and weight you give to that expert's testimony and
+2:48:332 hours, 48 minutes, 33 secondswhat conclusions you draw from the testimony. All right? And I'll go into that a little bit more at the end when I go into the more uh uh extensive
+2:48:422 hours, 48 minutes, 42 secondsinstructions that I'll give you at the end of the trial. All right. All right. Mr. R. Afternoon.
+2:48:502 hours, 48 minutes, 50 secondsCan you tell us your name and spell your uh spell your name?
+2:48:532 hours, 48 minutes, 53 secondsIt's Michael Wulovich. It's uh Visen Victor. U L F as in Frank. O V is invari.
+2:49:012 hours, 49 minutes, 1 secondAnd um what do you do for work, sir?
+2:49:032 hours, 49 minutes, 3 secondsUh I'm an emergency medicine doctor. I work full-time at Newton Welsley Hospital. Uh Newton Welssley. Yes.
+2:49:082 hours, 49 minutes, 8 secondsAnd can you tell us your uh are you board certified, sir?
+2:49:122 hours, 49 minutes, 12 secondsI am. I'm board certified in emergency medicine.
+2:49:142 hours, 49 minutes, 14 secondsAnd that would be by the American Board of Emergency Medicine. Correct.
+2:49:192 hours, 49 minutes, 19 secondsAnd how long have you been practicing emergency medicine?
+2:49:222 hours, 49 minutes, 22 secondsUh I did three years of residency and this is my 13th year as a full-time attendant.
+2:49:272 hours, 49 minutes, 27 secondsAnd you're presently employed uh where is it?
+2:49:302 hours, 49 minutes, 30 secondsNewton Welsley Hospital primarily and then I do some additional shifts at Emerson Hospital in conquered.
+2:49:352 hours, 49 minutes, 35 secondsHow about medical school? Where'd you go to med school? St. Louis University School of Medicine. And what year did you graduate?
+2:49:422 hours, 49 minutes, 42 secondsUh 2011.
+2:49:442 hours, 49 minutes, 44 secondsUh obviously licensed in the Commonwealth.
+2:49:462 hours, 49 minutes, 46 secondsYes, sir. Um, in the course of your uh, training and experience, sir, do you work full-time in a particular field of medicine?
+2:49:562 hours, 49 minutes, 56 secondsUh, just emergency medicine. So, basically, we see any and all comers, anything from ankle sprains to traumas.
+2:50:032 hours, 50 minutes, 3 secondsOkay. Um, did I ask you to review some documents regarding this particular case involving Lindsay Clansancy?
+2:50:122 hours, 50 minutes, 12 secondsYou did. You asked me to review the uh, Jerry, what you reviewed.
+2:50:152 hours, 50 minutes, 15 secondsOh, sorry. Uh he asked me to review the photos um from the crime scene and then the emergency medical records from Southshore Hospital um Brigham Women's
+2:50:242 hours, 50 minutes, 24 secondsHospital and then the records from her hospital stay at Brigham Women's Hospital.
+2:50:282 hours, 50 minutes, 28 secondsSo in reviewing all of those various hospital records, sir, you're aware that on January 24th of 2023, she initially was transported to Southshore Hospital.
+2:50:372 hours, 50 minutes, 37 secondsIs that correct? Yes, sir.
+2:50:392 hours, 50 minutes, 39 secondsAnd can you tell the jurors uh what what's treatment she received at the Southshore Hospital briefly? Uh, so she
+2:50:462 hours, 50 minutes, 46 secondsarrived uh with a GCS of 10, meaning she was not um really very responsive.
+2:50:522 hours, 50 minutes, 52 secondsLet me let me interrupt you just cuz that what did you say? A G6. Uh GCS Glasco coma scale.
+2:50:572 hours, 50 minutes, 57 secondsOkay, slow down because I don't understand. What is a GCS?
+2:51:002 hours, 51 minutesUh it's a Glasco coma scale. It's a series of things that we look at to determine how responsive somebody is.
+2:51:062 hours, 51 minutes, 6 secondsyou know, whether their eyes are opening spontaneously, whether they're able to speak on their own, and whether you're able to understand what they're saying, and then how much, if at all, they're
+2:51:152 hours, 51 minutes, 15 secondsmoving, um, whether they're moving spontaneously, whether they can follow commands, that kind of thing.
+2:51:202 hours, 51 minutes, 20 secondsOkay, so the Glasgow coma scale, GCS of 10, what does that tell you as an emergency room doctor?
+2:51:262 hours, 51 minutes, 26 secondsTells us that she was not very responsive on arrival. Um, it sounds like she was not speaking intelligently and the doctors at Southshore Hospital
+2:51:342 hours, 51 minutes, 34 secondswere concerned about her ability to maintain her own airway and made the decision to intubate her, which means putting a breathing tube down her throat
+2:51:422 hours, 51 minutes, 42 secondsinto her lungs and placing her on a ventilator and sedating her.
+2:51:472 hours, 51 minutes, 47 secondsWas she also uh what would be I guess referred to as hypothermic? She was. What does that mean?
+2:51:522 hours, 51 minutes, 52 secondsUh, means that her body temperature was below what's considered normal. So in her case her core body temperature was I believe 82.1 degrees uh which would put her into severe hypothermia.
+2:52:042 hours, 52 minutes, 4 secondsAnd did you note that she was tachiardic and hypotensive? Yes. What did that mean?
+2:52:102 hours, 52 minutes, 10 secondsUh so it means that her heart rate was above 100 and hypotensive means that her blood pressure was below what is considered normal.
+2:52:172 hours, 52 minutes, 17 secondsAnd um Southshore hospital were they able to stabilize her? It sounds like they were able to stabilize her um by
+2:52:242 hours, 52 minutes, 24 secondsplacing a breathing tube um in her neck, in her throat to help with her breathing. And then they basically proceeded to obtain a bunch of imaging,
+2:52:332 hours, 52 minutes, 33 secondsstart her on medications to sedate her and artificially raise her blood pressure. They started working on rewarming her and then in conjunction
+2:52:412 hours, 52 minutes, 41 secondswith the trauma team there, they made the decision that she would be better served at a hospital with a higher level of care.
+2:52:472 hours, 52 minutes, 47 secondsOkay. And can you tell us what the injuries were that she presented herself with to the Southshore Hospital?
+2:52:532 hours, 52 minutes, 53 secondsUh so there were multiple injuries. Um she had lacerations to bilateral wrists.
+2:52:582 hours, 52 minutes, 58 secondsWhen you say lateral, what does that mean?
+2:52:592 hours, 52 minutes, 59 secondsUm bilateral both sides. Um so she had a laceration um both to her left wrist and to her right wrist and then multiple
+2:53:072 hours, 53 minutes, 7 secondssuperficial lacerations as well. And then she also had multiple superficial lacerations to both sides of her neck, the front of her neck and two deeper
+2:53:142 hours, 53 minutes, 14 secondslacerations to the sides of her neck. So when you say superficial lacerations and then deeper lacerations, do you recall?
+2:53:232 hours, 53 minutes, 23 secondsUm what's the standard? What do you look for in something like that?
+2:53:282 hours, 53 minutes, 28 secondsUm so it's tough. Everybody will describe them a little bit different differently. In her case, I would describe multiple superficial lacerations, which would typically mean
+2:53:352 hours, 53 minutes, 35 secondskind of scrapes on the surface of the skin, nothing that actually gets through the full thickness of the skin. And then she also had full thickness lacerations
+2:53:442 hours, 53 minutes, 44 secondsmeaning that she made it all the way through the skin into the subcutaneous tissue the fatty tissue and then you would need to describe it further if any
+2:53:522 hours, 53 minutes, 52 secondsadditional structures were injured which in her case they were not.
+2:53:552 hours, 53 minutes, 55 secondsNow in your experience uh for a number of years in the emergency uh room have you had occasion to treat people that have tried to commit suicide or
+2:54:042 hours, 54 minutes, 4 secondssuccessfully committed suicide by cutting their throat? Multiple times.
+2:54:082 hours, 54 minutes, 8 secondsMultiple times. And can you tell us uh in your opinion to a reasonable degree of medical certainty, sir, as to whether
+2:54:142 hours, 54 minutes, 14 secondsor not this uh injury or these injuries that you observe were consistent with what you've seen in other suicide attempts?
+2:54:232 hours, 54 minutes, 23 secondsSustained.
+2:54:252 hours, 54 minutes, 25 secondsWell, uh can you tell us did that look like a an effort to pretend or fake a suicide?
+2:54:302 hours, 54 minutes, 30 secondsSustained. Well, when you looked at the injuries, did you make a determination that they appeared to have some impact on the human body of uh Miss Clancy?
+2:54:402 hours, 54 minutes, 40 secondsYes. What was that?
+2:54:422 hours, 54 minutes, 42 secondsUh they were consistent with self-injurious behavior. Um the intent um I can't gauge, but um anything further?
+2:54:512 hours, 54 minutes, 51 secondsOkay. Um Yep. Thank you. Um how about the wrist?
+2:54:562 hours, 54 minutes, 56 secondsWhat did you observe about the wrist injuries, sir? Uh so she had two full thickness lacerations, one on the left, one on the right. What does that mean?
+2:55:032 hours, 55 minutes, 3 secondsUh means that she made it all the way through the epidermis and the dermis, which is what makes up the skin in the wrist, and into the fatty tissue, which is the next layer.
+2:55:132 hours, 55 minutes, 13 secondsOkay. Um are you familiar in your experience, sir, um with um hesitation wounds in a suicide attempt?
+2:55:222 hours, 55 minutes, 22 secondsUh yes, to some extent.
+2:55:232 hours, 55 minutes, 23 secondsWhat does that mean? uh means typically that they're more kind of subtle, weaker attempts to hurt yourself. Not
+2:55:312 hours, 55 minutes, 31 secondsnecessarily anything that's going to be deep to the structures of the skin, but more just scrapes along the surface.
+2:55:382 hours, 55 minutes, 38 secondsOkay. And you notice some of those on the neck area as well. Is that correct?
+2:55:412 hours, 55 minutes, 41 secondsThere are multiple of those on both the neck and the wrists.
+2:55:442 hours, 55 minutes, 44 secondsUm as it relates to the injuries to the wrist the wrists uh did you observe um any vascular structures or penetration
+2:55:532 hours, 55 minutes, 53 secondsof the what's cervical strike that the fasia? There was not.
+2:55:582 hours, 55 minutes, 58 secondsOkay. Um what other injuries did you recall from reviewing the medical records?
+2:56:042 hours, 56 minutes, 4 secondsUh so she also had multiple fractures in her cervical spine which are the vertebrae that make up her neck including what's called a burst fracture
+2:56:122 hours, 56 minutes, 12 secondsof C1. Um and then other fractures of C4. Um she also had fractures of multiple levels of the thoracic spine.
+2:56:202 hours, 56 minutes, 20 secondsUm I believe she had multiple transverse process fractures on both the right and left.
+2:56:242 hours, 56 minutes, 24 secondsWhat does that mean? Transverse fractions.
+2:56:262 hours, 56 minutes, 26 secondsTransverse processes are lateral projections. basically projections that go sideways off of the bone that allow the ribs to articulate um connect with
+2:56:352 hours, 56 minutes, 35 secondsthe spine and they also allow muscles to connect and they help support the basically overall ring structure of the spinal canal.
+2:56:442 hours, 56 minutes, 44 secondsAnd was she then transported by medflight or liflight to a Boston hospital? She was.
+2:56:512 hours, 56 minutes, 51 secondsUm what does that tell you as an emergency surgeon when someone's transported by medflight or lifelight?
+2:56:562 hours, 56 minutes, 56 secondstypically means that her injuries are thought are felt to be severe enough that she needs immediate intervention and further treatment that the hospital
+2:57:042 hours, 57 minutes, 4 secondsthat is um basically necessitating the transport is saying that they cannot provide at their facility.
+2:57:102 hours, 57 minutes, 10 secondsShe was then transported to what hospital? Brigham Women's Hospital in Boston. She was admitted to what uh unit? Surgical ICU.
+2:57:172 hours, 57 minutes, 17 secondsAnd you had a chance to review all those medical records as well? I did.
+2:57:212 hours, 57 minutes, 21 secondsDid she suffer a particular event that night that you recall from looking at the records? she did uh shortly after arriving in the surgical ICU. It sounds
+2:57:292 hours, 57 minutes, 29 secondslike they were moving her and when they moved her they noticed that her blood pressure dropped, her pulse um became
+2:57:372 hours, 57 minutes, 37 secondsfaint and subsequently she actually suffered a complete cardiac arrest and required two rounds of cardopulmonary resuscitation with compressions and
+2:57:452 hours, 57 minutes, 45 secondsmedications before she was able to be revived. And um she also to your knowledge had suffered significant hemorrhage and had to have a fairly massive blood transfusion.
+2:57:552 hours, 57 minutes, 55 secondsYes. Uh they placed chest tubes which are basically plastic tubes that go into the chest cavity on both sides and had
+2:58:032 hours, 58 minutes, 3 secondsabout 300 cc's of blood come out from each side. And there was also noted to be significant hemorrhage around the
+2:58:112 hours, 58 minutes, 11 secondsspine and into uh the mediainum which is the portion of the chest that houses a lot of the organs like your esophagus,
+2:58:192 hours, 58 minutes, 19 secondsyour trachea, um blood vessels, that kind of thing.
+2:58:222 hours, 58 minutes, 22 secondsNow, if there's a fracture or a serious fracture to I believe it's uh C1, does that interfere possibly with a person's ability to breathe?
+2:58:302 hours, 58 minutes, 30 secondsIt does.
+2:58:312 hours, 58 minutes, 31 secondsHow does that work? So if you have um a fracture that affects the spinal cord above a certain level, typically above
+2:58:382 hours, 58 minutes, 38 secondsthe third cervical vertebrae, it basically removes your ability to initiate breathing on your own. Your third, fourth, and fifth cervical
+2:58:472 hours, 58 minutes, 47 secondsvertebrae. The nerves that lead from there are the ones that are responsible for telling your diaphragm um to go up and down and help you breathe. And so if
+2:58:562 hours, 58 minutes, 56 secondsyou lose the ability to send that signal down to your diaphragm, you lose the ability to breathe. Now, um, as it
+2:59:032 hours, 59 minutes, 3 secondsrelates to your, uh, review of the medical records and review of the history, are you aware of the mechanism of the injuries that she suffered that you just described for the jury?
+2:59:132 hours, 59 minutes, 13 secondsI am.
+2:59:132 hours, 59 minutes, 13 secondsTell us what that was to your knowledge that she went out of her second story window.
+2:59:182 hours, 59 minutes, 18 secondsAnd going out of the window, uh, obviously, did she strike the ground or she did and that caused the injuries, the mechanism of injury?
+2:59:262 hours, 59 minutes, 26 secondsYes, it's consistent with all of her injuries. Now, with your experience, sir, with as you indicated, dealing with people in the emergency room and treating people that have been involved
+2:59:352 hours, 59 minutes, 35 secondswith uh sequential acts of self harm, um do you have an opinion to a reasonable degree of medical certainty uh as an
+2:59:442 hours, 59 minutes, 44 secondsemergency board certified physician as to the effect of the combination of the multiple sequential uh injuries that you saw?
+2:59:522 hours, 59 minutes, 52 secondsObjection.
+2:59:532 hours, 59 minutes, 53 secondsCan I see council side? Just can I I can withdraw it, judge. I'll withdraw. I just
+3:00:013 hours, 1 secondThank you very much. [snorts] No questions. All right. Thank you, doctor. Thank you.
+3:00:153 hours, 15 secondsAll right, Council King. Now, can I see? Okay.
+3:00:213 hours, 21 secondsAll
+3:00:353 hours, 35 secondsright, members of the jury. Um, I told you it was going to be stop and start, right? So, we're going to start stop now, but we're going to stop now the day for you. I'm going to come back.
+3:00:463 hours, 46 secondsI'm going to talk to council about uh setting some things up logistically for tomorrow. All right. Right. So, tomorrow the plan would be uh hopefully we'll
+3:00:543 hours, 54 secondsstart right right at 9:00 or right as close as we can. Um and we'd hope to have a pretty full day in regards uh to
+3:01:033 hours, 1 minute, 3 secondsthe witnesses. All right. So, uh I'm going to excuse you till tomorrow at 9.
+3:01:083 hours, 1 minute, 8 secondsUh I'm going to remind you uh don't talk about this case. Don't read anything about it or anything about any similar
+3:01:163 hours, 1 minute, 16 secondscases. Don't do any research. uh don't listen to anything. Uh don't post anything. Uh you kind of know where I'm
+3:01:253 hours, 1 minute, 25 secondsgoing, right? Uh so I'm going to ask you to follow those instructions. Again, I'm going to give you those uh questions. Uh and I hope you have a nice evening.
+3:01:333 hours, 1 minute, 33 secondsWe'll see you tomorrow morning. Okay. Thank you. All right. Please.
+3:02:123 hours, 2 minutes, 12 secondscall this close session.
+3:02:153 hours, 2 minutes, 15 secondsHey council, I see you sidebar just really in regards to tomorrow. Not very long.
+3:02:273 hours, 2 minutes, 27 secondsSo these will be marked for identification. Those will be impounded. Thank you. All right. Thank you, council.
+3:02:363 hours, 2 minutes, 36 secondsAll right.
+3:02:383 hours, 2 minutes, 38 secondsAnything else you should address before tomorrow morning? Come. No, your honor. All right, Mr. Anington.
+3:02:453 hours, 2 minutes, 45 secondsAll right. So, I appreciate everybody's uh patience and work on this this morning and this afternoon. Uh so, we'll
+3:02:533 hours, 2 minutes, 53 secondsbe in recess on this matter till 9:00 tomorrow. Thank you. Four. All right.

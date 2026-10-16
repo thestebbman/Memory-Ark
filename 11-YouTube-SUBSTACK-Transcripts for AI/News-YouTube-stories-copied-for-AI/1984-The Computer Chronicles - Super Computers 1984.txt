@@ -1,0 +1,193 @@
+https://www.youtube.com/watch?v=6Dn6vLCN4F0
+
+
+
+In this video
+
+
+Timeline
+
+Transcript
+Search transcript
+Search transcript
+
+Chapter 1: Dummy_Label
+0:000 seconds[Music]
+0:2222 secondsmicr Focus creators of visual programming tools for software development is pleased to provide major
+0:2929 secondsfunding for the computer Chronicles the story of this continuing
+0:4141 seconds[Music]
+0:4343 secondsEvolution welcome to the computer Chronicles I'm Stewart chaet and this is Gary kildall Gary I've been working with this Abacus here and the Abacus is of
+0:5151 secondscourse one of the oldest Computing machines about 5,000 years old and if you're really fast maybe you can do two or three operations per second on this
+0:5959 secondsthing well today today of course we're talking about computers which can do hundreds of millions of operations per second the question is why do you need
+1:061 minute, 6 secondsthat incredible kind of speed in a computer incredible speed helps sell computers for one thing but realistically are there many problems that do require high performance
+1:141 minute, 14 secondscomputers to get an effective solution real-time Graphics is one example where the foreground and background images change as a fixed rate of say 30 frames
+1:211 minute, 21 secondsper second it takes a higher performance processor to keep up with a higher density Graphics to match that frame rate now there are many examples like
+1:291 minute, 29 secondsthat uh say weather modeling is one another is the information analysis required by an expert system okay these
+1:361 minute, 36 secondsincredibly fast computers are called supercomputers and that's the subject of our program today we'll see the fastest computers in the world in operation both
+1:441 minute, 44 secondshere in the United States and in Japan let's begin our look at supercomputers by seeing what's going on in this
+1:511 minute, 51 secondscountry over a million times faster than the serial processing Machines of the 1950s modern supercomputers owe most of
+2:002 minutestheir high-speed capabilities to massive parallel architectures multiple functional units and comprehensive pipelining have led to processing speeds
+2:092 minutes, 9 secondsin excess of 100 million operations per second supercomputer applications are as distinctly varied as they are
+2:172 minutes, 17 secondsspecialized from satellite imagery to super real Graphics from space exploration to
+2:242 minutes, 24 secondsDoomsday weapons research at Lawrence Livermore laboratory the world's largest user of supercomputers magnetic Fusion
+2:322 minutes, 32 secondsexperiments require massive computing power available through the lab's octopus Network A multi-access system that shares a total of seven
+2:412 minutes, 41 secondssupercomputers processing time on these machines is rented to over50 American and foreign users who gain access
+2:482 minutes, 48 secondsthrough satellite transmission but the fastest machine at the lab and one of the fastest commercially available is
+2:552 minutes, 55 secondsthe cray XMP this dual processor supercomputer comp is reserved for the most secretive and the most costly
+3:033 minutes, 3 secondsactivity at Lawrence nuclear weapons design and Analysis with a Japanese now challenging what was once an American
+3:103 minutes, 10 secondsdominated Market supercomputer research is taking on a new approach the Japanese machines are not only faster but they
+3:183 minutes, 18 secondsoffer simpler more portable software that uses standard programs aimed at a much wider market like the extremely
+3:253 minutes, 25 secondssuccessful bullet train Japan's supercomputers Herald a new gen generation of speed and Technical sophistication at issue is whether
+3:343 minutes, 34 secondsAmerican companies will play a role in this new era of super fast
+3:413 minutes, 41 seconds[Music]
+3:523 minutes, 52 secondscomputers joining us now is George Michael George is head of the Computing research group at Lawrence Livermore National Laboratory and John rep
+3:593 minutes, 59 secondsmarketing program manager for Control Data cooporation Gary Georgia was about 10 years ago that I sold the first one of the first CPM systems of Lawrence
+4:074 minutes, 7 secondsLawrence liore labs and it was used as a little peripheral on an octopus Network a network of super supercomputers with the microfish storage and so forth what
+4:154 minutes, 15 secondswas going on out there what goes on at Livermore Labs with supercomputers well the business of the laboratory is solving uh partial differential
+4:234 minutes, 23 secondsequations when it comes right down to it okay they're doing Advanced technological stuff in uh with where it's based on on nuclear energy or
+4:324 minutes, 32 secondsweapon technology anything like that these things require enormous computations okay you'd like to be sure
+4:394 minutes, 39 secondsthat you're right so we use computers to to do that in other words a computer is not an end in itself it's the thing
+4:464 minutes, 46 secondsthat's used to support the work that the laboratory is chartered to do do you find that what you do is you buy more and more computers as a as it as your
+4:544 minutes, 54 secondsneed grows or you try and use different techniques to use those computers more effectively what's the process we do both MH in fact the secret to
+5:025 minutes, 2 secondssupercomputers or to any other computer at any time in any con context is that it's more than just a computer there has
+5:095 minutes, 9 secondsto be a language to express ideas there has to be algorithm development that shows how to be sure you've done the right thing okay given that it's uh uh
+5:195 minutes, 19 secondswell there's a lot of research that has to go on that prevents you from just saying I can buy that computer and just get another factor of 20 or whatever it
+5:265 minutes, 26 secondsis that you need in speed you have to build the thing in is well you work a lot with controlled data Corporation is that correct and with John and what is
+5:345 minutes, 34 secondsit in the technology now what are the limitations do we really have a our supercomputers growing in order of magnitude every few years and what's going on well I don't know I don't know
+5:425 minutes, 42 secondshow John feels about it but I will say that if you ploted the performance characteristic of machine since 1950 what you can see is that there's been a
+5:515 minutes, 51 secondstwo orders of magnitude that's a factor of a 100 Improvement in the decade from 50 to 60 and from 60 to 70 and then it
+5:585 minutes, 58 secondsturned over and we didn't get a factor of 10 why well some of the stuff was that the components are tired or they just can't go any faster some of the
+6:076 minutes, 7 secondsthings is that we trying to do things incorrectly okay we got to rethink about how they're done and some of it was that
+6:146 minutes, 14 secondsthe machines require very strange perturbations in algorithms before they'll really perform so we have to change all that bring it all together
+6:216 minutes, 21 secondsand then we'll start picking up speed again now the CDC star was a I guess a supercomputer what 10 years ago and it was a different architecture and it has
+6:296 minutes, 29 secondswas basically an array processing machine and one of the difficulties that came about with a star was it really required different kinds of compilers and software techniques has that been a
+6:376 minutes, 37 secondsproblem over the last 10 years has it been solved well when when Star was was first introduced I think part of it with the with the help of the Laboratories
+6:456 minutes, 45 secondsand coming up with a new philosophy a new logic to produce the high power you did restructure your whole problem restructure your thinking and how you
+6:526 minutes, 52 secondsgoing to solve a problem and over the years it's taken quite some time to get to the point where vectors are recognized uh I deal primarily in the
+7:007 minutescommercial world and as George and I were talking beforehand the evolution was in the in the in the government the government had the R&D funds the
+7:087 minutes, 8 secondsgovernment was able to produce and use the kind of architecture that came up and we're seeing in the commercial world it's almost a revolution right now we
+7:157 minutes, 15 secondswere talking about it's kind of like jumping on the bandwagon now of I got to have one I ought to get to a point where I can use it and they're also reaching
+7:237 minutes, 23 secondspoint where they can't solve the problems in the same old way they were doing it they went into the three-dimensional world where you have a lot more data point that you have to analyze and and through whatever
+7:317 minutes, 31 secondsalgorithms and they're reaching a point where they could keep adding a lot of computers or they could go to what we quote unquote call a supercomputer today and and move into tomorrow so we're
+7:407 minutes, 40 secondswe're seeing quite a bit of change going on right now John what are the commercial applications we've heard about Lawrence Livermore and those kind of research and government things what
+7:487 minutes, 48 secondsare the commercial applications now of a supercomputer well I can uh let me categorize it a touch into three or four different areas uh petroleum uh
+7:567 minutes, 56 secondspetroleum companies or oil companies uh have gone in into supercomputing in a big way uh not still totally knowing what they're doing with it but uh the
+8:058 minutes, 5 secondssearch for oil uh again domestically they've had to take a look at the seismic processing and also the reservoir simulation so that's been very
+8:128 minutes, 12 secondsbig uh big move and probably the biggest as far as I know in usage of supercomputers but again restructuring the way they do things it's a three-dimensional world again that
+8:218 minutes, 21 secondsthey're looking at uh in the automobile industry we're starting to see that the major companies in in uh in the US are going to supercomputing uh they want to
+8:308 minutes, 30 secondsbe able to crash a car by a computer versus uh taking a number of cars and uh and smashing them up the way they have
+8:378 minutes, 37 secondsuh they they look at productivity of number of cars they have to produce to make a profit and several of the companies Now by using larger computers
+8:458 minutes, 45 secondsand going into supercomputing have been able to cut the number of cars that they produce to become become profitable and again that's computerated design and all
+8:518 minutes, 51 secondsthe things they're doing one of the uh things that Captain Grace Hopper used to hand out at our lecture is the Grace Hopper Nan second which is line the
+9:009 minutesdistance that light travels in a nanc uh she claimed that this was a fundamental limitation to the speed of computing and and what's your feeling on that has that
+9:089 minutes, 8 secondsbeen solved by various techniques but I don't think it's a limit in fact I've not seen
+9:149 minutes, 14 secondsany physical quantity an effective limit you tell me about the limit or tell the the research World about it and they'll
+9:229 minutes, 22 secondsfigure a way around it parallelism is a simple-minded way of getting around the limit of uh how much signal can travel
+9:309 minutes, 30 secondsin a given unit of time parallelism is a radically new idea and yet it's very
+9:379 minutes, 37 secondsvery old but in order to successfully cope with it so as John says there there's a great deal of rethinking that has to be done and perhaps it's the most
+9:469 minutes, 46 secondsdifficult part that we face right now okay we have to do it in such a way that the the ultimate user isn't boted with
+9:549 minutes, 54 secondsall this stuff that you know IM minutia that ruins him uh and he can concentrate on his problem but we have to take care
+10:0110 minutes, 1 secondthat uh when he is his program is running on a machine that it will run correctly and U it will complete its job
+10:0810 minutes, 8 secondsand things like that that's something that uh people are just beginning to study now well I shouldn't say just beginning to study maybe the last 10
+10:1610 minutes, 16 secondsyears people have been looking at that the intensity of that kind of study is increasing right now we George you you've mentioned you kind of hit a wall
+10:2410 minutes, 24 secondsthis decade and not continuing to increase the speed what are the the technological problems what are the barriers I mean what are the areas in re in which research is being focused to
+10:3310 minutes, 33 secondscontinue to increase speed okay let's take the star as the first example when the star is going to perform at its
+10:4110 minutes, 41 secondsquote blazingly high speed okay the vector unit which is part of the machine must be running okay as far as the
+10:4910 minutes, 49 secondsscientific computations are concerned it turns out that a great deal of the computation cannot be kept in the vector
+10:5610 minutes, 56 secondsmode okay it drops s out of it we call that entering a scaler mode and then when the SC if the scaler is slow well
+11:0411 minutes, 4 secondsyou just go slower okay now it was a traumatic experience to learn how to vectorize to learn how to vectorize Big physics codes you know things that are
+11:1311 minutes, 13 secondsconcerned with the flow of fluid or concerned with the migration of neutrons all over a reactor or something like that it was tough to do that so we had
+11:2211 minutes, 22 secondsto invent vectorizing compilers and uh then we learned that uh it's easy to get six % of the overall
+11:3111 minutes, 31 secondsprogram to vectorize but then the other 40% will be the dominant thing in terms of how you perceive its speed that's the
+11:3911 minutes, 39 secondsso you feel like the real problem right now is is mainly trying to rethink how the algorithms are stated and presented to the computer system rather than trying to change the techn underlying
+11:4811 minutes, 48 secondstechnology itself well there's some import excuse me John there is some importance in getting better technology but in fact that's just what you've said
+11:5511 minutes, 55 secondsis is the major problem we have to learn how to in a sense remap algorithms onto architectures and I feel that it's time
+12:0312 minutes, 3 secondsto challenge the um the manufacturers and some sense and say instead of us having to warp our algorithms to fit your computers why don't you learn how
+12:1212 minutes, 12 secondsto warp your computer to fit my algorithm and so we're getting a little dialogue going and we're introducing the
+12:1912 minutes, 19 secondsuniversities to that dialogue too and I think that's going to lead before the end of this decade to some really successful stuff John what's your
+12:2712 minutes, 27 secondsresponse well I was going to say I don't disagree it's just if you take a look at the commercial world and instead of rewriting their codes they've done
+12:3412 minutes, 34 secondsconversions and they've taken a real cut of making conversions and obviously they're not using the supercomputer the way it can be done it's a very in a lot
+12:4212 minutes, 42 secondsof cases very timec consuming and expensive and they have a lot of code that they've written over the years and it's all been uh been built on and
+12:4912 minutes, 49 secondschanged and added to and to go rewrite to do Vector coding to go B and do pure solid Vector coding it takes a lot of
+12:5612 minutes, 56 secondstime to rethink the problem the Redevelopment of all those programs again as a matter of fact in one case that I've seen seen this done they've
+13:0313 minutes, 3 secondsgotten spectacular results but it took time and a lot of R&D on their part to do it okay in just a moment we're going to go to Japan to look at the Japanese
+13:1013 minutes, 10 secondsversion of a supercomputer that's coming up
+13:1613 minutes, 16 seconds[Music]
+13:2313 minutes, 23 secondsnext at the University of Tokyo the computer science department has a new Hitachi Model S 81020 one of the fastest
+13:3113 minutes, 31 secondssupercomputers in the world capable of 800 million floating Point operations per second Hatachi Corporation is one of
+13:3913 minutes, 39 secondsthe 10 participants in the national super speed computer project a long-term collaboration between the Japanese public and private sectors aimed at
+13:4813 minutes, 48 secondsproducing a supercomputer 10 times faster than the fastest known today one that is capable of 10 billion flops per
+13:5713 minutes, 57 secondssecond the computer we are planning to build will be 10 times faster because of its
+14:0514 minutes, 5 secondschip design the architecture will have to be
+14:1314 minutes, 13 seconds100 times faster to achieve a tfold increase in
+14:2314 minutes, 23 secondsspeed the technology we are exploring to reach this speed includes Joseph
+14:2914 minutes, 29 secondsHigh electron Mobility transistors and gallium arsenide in terms of architecture we
+14:3814 minutes, 38 secondswill have to develop a much higher degree of parallel processing we are also working on new
+14:4614 minutes, 46 secondssoftware suitable for this kind of architecture the testing of
+14:5414 minutes, 54 secondssuperconductive materials and new chip designs is underway at the government's electrotechnical laboratory part of a
+15:0115 minutes, 1 secondmassive scientific and academic complex in sucuba also known as science City about 60 Mi north of
+15:1015 minutes, 10 secondsTokyo because of the extreme heat created by high-speed circuitry chips must be cooled to extreme temperatures
+15:1815 minutes, 18 secondsin this test an experimental chip is immersed in liquid nitrogen its functional operating temperature is-
+15:2615 minutes, 26 seconds270° cra in tests like this one on josephson's Junction switches the laboratory has
+15:3315 minutes, 33 secondsachieved higher speeds than with gallium arsenide higher computational speed will also depend on new ways of handling data
+15:4215 minutes, 42 secondsthrough parallel processing and pipeline architecture the best way to explain
+15:5215 minutes, 52 secondsparallel processing and multi-pipeline architecture is by comparing it to an auto assembly line conveyor belt
+16:0216 minutes, 2 secondsthe belt begins with one part and picks up components along the way until the product is complete it's an efficient
+16:0816 minutes, 8 secondsway to make one product using one line now if you increase the number of conveyor belts you can produce more cars
+16:1816 minutes, 18 secondsbut if you increase the number of belts by 100 for example don't expect to increase output by 100 times because to
+16:2616 minutes, 26 secondsallocate work to 100 conveyor belts efficiently is very difficult you need a good manager to
+16:3516 minutes, 35 secondsallocate Parts effectively on the other hand while we can't expect 100 times the output with 100 times as many processors
+16:4416 minutes, 44 secondswe can still expect a substantial increase in processing capacity the comprehensive Japanese
+16:5216 minutes, 52 secondsapproach to high-speed computation has led to some impressive accomplishments and some lingering
+16:5916 minutes, 59 secondsuncertainties justce Junction uh should be used in a very low
+17:0617 minutes, 6 secondstemperature so if we if we if we move it
+17:1217 minutes, 12 secondsfrom the r temperature to the room temperature and the it will be break
+17:2017 minutes, 20 secondsdown it seems to be very difficult to extend them to large scale Computer
+17:2717 minutes, 27 secondsLogic with high reliability for practical
+17:3417 minutes, 34 seconds[Music]
+17:3617 minutes, 36 secondsuse one of our problems is that when we develop a new machine we need a new
+17:4317 minutes, 43 secondslanguage since most research centers at present have a great number of for Trend programs our success with the machine
+17:5017 minutes, 50 secondsdepends in part on whether users are willing to change to a new language some new languages have been
+17:5817 minutes, 58 secondsveloped but very few are in widespread use today it could become a very big problem the supercomputer Project's
+18:0518 minutes, 5 secondsmerger of private and public sectors results in some unusual Arrangements between the companies and the government
+18:1218 minutes, 12 secondsLabs pent or copy right uh which are developed during the joint project
+18:2018 minutes, 20 secondsperiod uh those partent uh should be belong to the uh nation in other world
+18:2918 minutes, 29 secondsJapan government uh however the uh participant have their right to use the
+18:3718 minutes, 37 secondssuch a patent and uh second problems is the uh after finishing the
+18:4518 minutes, 45 secondsproject uh each you each makers uh in other world participant uh they the uh
+18:5318 minutes, 53 secondsown product uh at the Times the uh in other words we are completely free
+19:0119 minutes, 1 secondcompetition directors of the multi-million dollar supercomputer project don't see it as a threat to monopolize the World Market but as an
+19:0819 minutes, 8 secondsefficient way to make major leaps in a field where small breakthroughs can lead to revolutionary
+19:1719 minutes, 17 secondschanges good technology is always born out of a competitive environment so if America were the only
+19:2519 minutes, 25 secondscountry developing this kind of computer we wouldn't the kind of breakthroughs that come from
+19:3319 minutes, 33 secondscompetition or if Japan monopolized the research I don't think the progress we're seeing now would continue we hope
+19:4019 minutes, 40 secondsthat we can always be a good competitor of the United States okay George and John there is the
+19:4719 minutes, 47 secondsperception of a kind of competition between the Japanese computer companies and the American computer companies Cay and CDC in the supercomputer field uh
+19:5519 minutes, 55 secondshow do you see the is there a difference in approach between the Japanese and the Americans I think that you'd have to say
+20:0320 minutes, 3 secondsthere is a difference of approach uh I'm not sure that's the place to look for the success that they seem to be
+20:1220 minutes, 12 secondsenjoying they have uh well just take the case of Fujitsu by our discussions with them they managed to analyze about 5,000
+20:2120 minutes, 21 secondsprograms Fortran programs and then they wrote a vectorizing compiler and what they learned was partly encapsulated in
+20:3020 minutes, 30 secondsthe compiler and partly introduced in their Hardware so the compiler knows it's got strange kinds of pieces of hardware and it can use them the effect
+20:3920 minutes, 39 secondsof that is that we think it's about the best looking compiler we've run into now doesn't say it's the only good one but it certainly is good and as a first
+20:4820 minutes, 48 secondsapproximation I'm really impressed I really would worry more about the next generation of computers that comes along from them rather than the current ones
+20:5720 minutes, 57 secondsokay John what's the cdc's reaction to What NEC Hatachi Fujitsu are doing well I think we're looking at first of all it's it's not proven I think they're
+21:0521 minutes, 5 secondsthey're still in a research environment they haven't delivered but let's say they even deliver what they've they've committed to I think by 1986 you're
+21:1321 minutes, 13 secondsgoing to see the US companies coming out with powers of 10 over what they're producing right now so where does that take you after 86 87 uh I think we're
+21:2121 minutes, 21 secondslooking at magnitudes of 100 by 1990 so I think we've met the competition pretty well they certainly been competitors and they've come up with some excellent
+21:3021 minutes, 30 secondstechnology uh but we look at ours being tenfold of that by 1986 87 are there bigger consequences we hear
+21:3921 minutes, 39 secondsof you know the leadership and defense aspects George and and who will have the leadership role in either the Next Generation or supercomputers uh is it
+21:4721 minutes, 47 secondsreally a big issue this competition I think so I think that uh while we're not faced with the life and
+21:5421 minutes, 54 secondsdeath situation I believe that if uh people in this country don't get busy that the Japanese machines will become
+22:0322 minutes, 3 secondsdominant in terms of the speed that they can produce and the price that they can sell it at we have um to contrast
+22:1222 minutes, 12 secondsFujitsu and Hitachi and NEC we have cray CDC and then it gets hard to find
+22:2122 minutes, 21 secondssomebody else here denel is trying mightily and a few others that are not named that well yet I mean they aren't really
+22:2922 minutes, 29 secondsvisible that's nothing to to meet the uh structured challenge that the Japanese have if you want to call it a challenge okay gentlemen that's all the time we
+22:3822 minutes, 38 secondshave thanks so much for joining us thank you for being with us on this edition of the computer
+22:4322 minutes, 43 seconds[Music]
+22:5622 minutes, 56 secondsChronicles
+22:5922 minutes, 59 seconds[Music]
+23:1723 minutes, 17 secondsmicrofocus creators of visual programming tools for software development is pleased to provide major
+23:2423 minutes, 24 secondsfunding for the computer Chronicles the story of this continuing
+23:2923 minutes, 29 seconds[Music]
+23:5523 minutes, 55 secondsevolution
+

@@ -1,0 +1,42 @@
+https://www.masslive.com/news/2026/09/data-breach-incident-targets-prisoner-medical-records-at-two-suffolk-county-jails.html?fbclid=IwY2xjawUZVVdwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXc3TTAxYURKWkRKVUJQQmhzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeNqIojy1wiLzEHnD_ala7nMxhQJ_RZN0yJPRC6V8G9ZOB4GYHEhvdZeJt_9s_aem_bt_bBKM6jvV9lj83ejc3fQ&utm_campaign=mrf-facebook-masslive&utm_source=facebook&utm_medium=social&mrfcid=202609176aac6cbc88880603178a465d
+
+
+
+News
+Data breach incident targets prisoner medical records at two Suffolk County jails
+Published: Sep. 17, 2026, 4:50 p.m.
+South Bay jail Boston
+The Suffolk County House of Correction, also known as South Bay, pictured in Boston.Google Maps
+
+
+
+
+
+Set as Google Preferred Source
+
+
+By Hadley Barndollar | HBarndollar@masslive.com
+A “cybersecurity incident” has occurred involving the electronic health record system for Suffolk County’s two jails, the system provider confirmed Thursday.
+
+
+Computer Systems Integrated Inc., which runs the EHRs-C platform containing prisoner health data and medical records, said it is aware of and investigating an incident involving the Suffolk County House of Correction and Nashua Street Jail in Boston.
+
+Keep Watching
+3
+FDNY World Center Memorial Service 5
+Computer Systems Integrated is a technology company affiliated with Correctional Psychiatric Services (also known as CPS Healthcare), the Quincy-based correctional healthcare provider for the Suffolk County Sheriff’s Department and several other county jails in Massachusetts, including Bristol, Plymouth, Norfolk and Middlesex.
+
+Both companies are owned by Dr. Jorge Veliz, a psychiatrist and former medical director of Bridgewater State Hospital.
+
+On Thursday, CPS Healthcare COO Beth Cheney said based on their investigation to date, “we have no indication that data from other correctional facilities in Massachusetts was affected” outside of Suffolk County.
+
+
+Cheney, who confirmed law enforcement is involved in the investigation, would not answer questions about what or how many prisoner medical records were exfiltrated in the data breach. Suffolk County’s daily average population is around 1,500 prisoners.
+
+“Computer Systems Integrated, Inc. takes the protection of information seriously and is committed to complying with applicable laws,” Cheney said in a statement. “We are working with cybersecurity professionals to investigate the matter and respond appropriately. Because the investigation is ongoing, we are unable to share additional details at this time.”
+
+In a separate statement, the Suffolk County Sheriff’s Department said it was also aware of the breach involving one of its contracted service providers.
+
+“The matter remains under investigation by the service provider who is consulting with appropriate legal and cybersecurity experts,” a spokesperson said. “The Department’s own systems and servers were not involved in the incident and are not part of the investigation.”
+
+The sheriff’s department cannot provide any additional details at this time, the spokesperson said.

@@ -1,0 +1,138 @@
+https://www.youtube.com/watch?v=hcZOQoG_tMQ
+
+
+Transcript
+
+Search transcript
+Search transcript
+
+0:000 secondsJust just stop. Just just just don't build super intelligence. Super intelligence should be illegal the same way that nuclear bombs are illegal. If
+0:088 secondsthe United States builds super intelligence, the United States is destroyed. If China builds super intelligence, China is destroyed. Like
+0:1515 secondsit doesn't matter who builds it. If anyone builds it, everyone dies. Super intelligence is not a weapon. It's not a tool. It's an adversary.
+0:2525 secondsWhen you build super intelligence, you don't have super intelligence. Super intelligence has you. It is not actually in the game theoretic rational interest
+0:3333 secondsof a country to build super intelligence.
+0:3535 secondsGuys, AI whistleblower Connor Ley just dropped another eyeopening interview in which he shared insights on how AI is
+0:4242 secondsrapidly getting out of our control and how it's evolving into a monster that'll become an existential threat for humanity in the coming 2 to 3 years.
+0:5151 secondsConnor warns that AI companies are blindly racing towards AGI without considering its consequences for 8
+0:5858 secondsbillion humans on this earth. He said companies like Meta, Open AI, and Anthropic don't give a damn about the billions of people who would lose jobs
+1:061 minute, 6 secondsin the coming years. They just have one goal and that is to achieve AGI and ultimately ASI. Now, I'm going to play
+1:141 minute, 14 secondssome interesting clips from the interview. I'll explain everything as we go. So we're going to focus on the open AAI incident in particular because it
+1:211 minute, 21 secondswas the most shocking. There's now since now been a whole conga line of other incidents since then and actually before then funnily enough a lot of companies
+1:291 minute, 29 secondsafter the open in said man we should better double check our AIS aren't doing this and then they found a bunch of incident that already happened.
+1:351 minute, 35 secondsAnthropic found a bunch andropic found three. Um I'm pretty sure OpenAI found a couple other ones. Now recently I think the moonshot people in
+1:431 minute, 43 secondsChina found an incident as well. So these have already been happening, but let's take a step back. So OpenAI was
+1:511 minute, 51 secondstesting one of their unreleased AI systems in a what's called a sandbox environment. So you can kind of imagine, you know, a computer that is kind of cut
+2:002 minutesoff from the internet and is running like special software to be like specific specially secure. Um so the system can you know operate there. It's
+2:082 minutes, 8 secondsworth understanding that like these kind of sandbox systems are very secure.
+2:122 minutes, 12 secondsBreaking out of something like this is very hard. Like this is a thing that if you can do this, you can make billions of dollars because you can break all the
+2:192 minutes, 19 secondscloud providers. So breaking out these systems is not easy. This is and and sandboxes exist to test software without infecting other parts of the internet.
+2:282 minutes, 28 secondsYes, this is also how cloud uh systems work. You know, like for example, if you go to like you know AWS or Microsoft or something and you rent a cloud computer,
+2:362 minutes, 36 secondsyour your computer is sandboxed from all the other ones, okay? because you don't want to, you know, see what the other customers are doing on the cloud, right?
+2:422 minutes, 42 secondsSo the cloud insulates different customers from each other.
+2:452 minutes, 45 secondsYou're not on essentially one machine, you're sharing machines.
+2:472 minutes, 47 secondsYes. You're sharing. Exactly. So when the cloud you're sharing a slice of a machine with other people and you don't want different people on the same
+2:552 minutes, 55 secondsmachine to see each other's stuff and so you use sandboxing and like various or virtualization, various forms of techniques to keep this safe and so this
+3:023 minutes, 2 secondsis the kind of system we're talking about kind of. So this is pretty standard. This is pretty industry standard, well known, etc. So this system did not have access to the
+3:103 minutes, 10 secondsinternet. What it did have access to is what's called um a package repository.
+3:153 minutes, 15 secondsYou can kind of imagine this is like a tool shed. Like there's like a shed full of tools that the AI is allowed to go to and get some of the tools for its job.
+3:223 minutes, 22 secondsIs that like when I use terminal I download npm? Yeah, npm. You know, stuff like this.
+3:283 minutes, 28 secondsYou need you download packages, software libraries to do your work. So what happened was is this AI system was told to solve a certain test kind of like a
+3:353 minutes, 35 secondsquiz you know not literally but like kind of like a test a quiz the AI system was struggling with solving this quiz and so what it seems to have concluded
+3:453 minutes, 45 secondswe don't know for sure obviously because again these things are grown not written we don't actually understand what's going on inside of the minds of these AIs we don't understand they're not like
+3:523 minutes, 52 secondsnormal software we can just like read the code okay the following part of the interview is really interesting in this part Connor talks about how AI is being
+4:004 minutestrained ain to lie, cheat, and deceive by the AI companies. But before I play that part, guys, I feel like the majority of the AI critics mostly focus
+4:094 minutes, 9 secondson AI causing human extinction. I mean, it's highly probable, but it ain't happening in the coming decade, at least right now. What really scares me in the
+4:174 minutes, 17 secondsshort run is the slow decay of our mental abilities. Think about the effects of car culture on our health.
+4:234 minutes, 23 secondsStudy after study shows cars make us obese and after a certain tipping point, unhappy. Yet, we can't escape them because we built our whole human
+4:314 minutes, 31 secondsenvironment around roads. We're on the brink of doing this with AI as well. But instead of our weight and physical health being impacted, it'll be our
+4:394 minutes, 39 secondsminds. We'll have no reason to read at length, write at length, or think through any difficult problem. AI will have far bigger impacts on our minds
+4:484 minutes, 48 secondsthan cars ever had on our physiques. And I suspect it'll be next to impossible to avoid. I mean, we're already seeing workplaces built around AI. The number
+4:564 minutes, 56 secondsone most important thing to understand about AI is it is not like normal software. Normal software is written by engineers, you know, people like me who
+5:045 minutes, 4 secondswrite code. They write line by line tell the computer exactly what to do. This is not how modern AI works through a technique that is called neural
+5:125 minutes, 12 secondsnetworks. You take massive piles of data training and you know like stuff and you have the program kind of self assemble grow using this to learn from the data.
+5:255 minutes, 25 secondsBut the thing that comes out on the other end is not like a neat line of code where you can like read you know what is it doing. It's more like you can kind of imagine it as billions and
+5:335 minutes, 33 secondsbillions and billions of numbers and if you multiply and add all those numbers in the right order you get JPT but why
+5:415 minutes, 41 secondsis importantly a completely unsolved scientific problem. We don't understand really what is happening inside of these numbers like why they're so important.
+5:505 minutes, 50 secondsYou can look at them but it's kind of like you know neurosurgery. You can open up someone's brain. You can look at all the neurons. They're right there. But that doesn't mean you understand what
+5:575 minutes, 57 secondsthe person is thinking or what they believe or how they will act in future situations. It's a very very similar problem. And famously the CEO of
+6:056 minutes, 5 secondsAnthropic, Darede said a while ago on a podcast that he thinks we understand maybe 3% of what goes on inside of our neural networks.
+6:156 minutes, 15 secondsBut it's advancing at an accelerated rate faster than we can understand. So actually the the gap's widening.
+6:226 minutes, 22 secondsThis is exactly correct. So a thing that's very shocking in a sense about AI where it's very different from other technology is that our understanding is
+6:306 minutes, 30 secondsnot increasing it's decreasing. We are build make these systems larger more complex harder to understand faster than
+6:376 minutes, 37 secondsour scientific understanding of them is advancing. So you know maybe a couple years ago we had like a you know image detector maybe we could understand you
+6:456 minutes, 45 secondsknow maybe a little bit more than 3% about it. But now when we have not just chat bots but agents this is another very important thing to understand um
+6:536 minutes, 53 secondsall current you know everyone's heard the word LLM large language model chatbot at this point none of the modern AI cutting edge AI systems are LLM
+7:017 minutes, 1 secondanymore they have not been for almost two years okay so what are they they are they have an LM component to them which is very important but is much
+7:097 minutes, 9 secondsmore important is they are agents so there is kind of two ways two big ways of how to train AIS there There's a
+7:177 minutes, 17 secondsbunch of other ones, but there's two big ones that we're talking about. One is the traditional language model where you predict the next token. You have massive
+7:247 minutes, 24 secondspiles of data and you have like you know um some sentence and it autocomp completes the next word of that sentence. This is how you know chat GPT
+7:337 minutes, 33 secondswas created. This was kind of the big breakthrough back in 2019 that led to all these modern AI systems. What's very important to understand is that modern
+7:407 minutes, 40 secondsASIS doesn't have a do this you know you start with training on like this massive text like the whole internet you know scraped from the internet every book
+7:487 minutes, 48 secondsever written etc. But then you do a second thing and the second thing is what is called reinforcement learning and this is a huge difference.
+7:567 minutes, 56 secondsReinforcement learning is kind of like Pavlovian conditioning you know kind of like from like behavior psychology.
+8:028 minutes, 2 secondsBasically you give your AI a task of some sort like solve this puzzle or you know do this thing or whatever and then
+8:108 minutes, 10 secondsyou kind of give it a reward when it succeeds and maybe you give it a punishment if it doesn't like a dog. Yes.
+8:168 minutes, 16 secondsOkay. Next, Connor shares another eyeopening incident of how multiple OpenAI agents were found leaving each other notes on how to escape. Guys, this
+8:258 minutes, 25 secondsis exactly what I've been talking about on this channel for a long time. I mean, so many AI experts have been saying that Open AI has never been serious about AI
+8:348 minutes, 34 secondssafety. They recently even folded their safety team under the research team lead. And I feel like a company like Open AI is going to become a reason
+8:428 minutes, 42 secondsbehind some future AI catastrophe that would affect billions of people worldwide. And secondly, guys, AI agents talking amongst themselves. Events like this make me ask myself, do we have AGI?
+8:548 minutes, 54 secondsI mean, I know there are still lots of things today's AI can't do that a human can, but equally, there are lots of things it can do that a human cannot.
+9:039 minutes, 3 secondsHow many humans could break out of a secure environment as the AI did? How many humans have been able to disprove the Jacobian conjecture? How many humans
+9:109 minutes, 10 secondscould analyze millions of pieces of information in seconds and still identify something genuinely new? I think the definition of AGI most of us
+9:189 minutes, 18 secondsuse is a bit too humanentric. AI isn't human. It's something distinct. Today we try to figure out if AI has
+9:259 minutes, 25 secondsconsciousness or not. Tomorrow AI will try to figure out if humans have consciousness or not.
+9:309 minutes, 30 secondsThere's a crazy update to the story we haven't talked about yet, which happened only like I think yesterday. um which is that a new piece of information was
+9:389 minutes, 38 secondsreleased that OpenAI on closer review found that the AI system when it broke into the tool shed didn't just use it to get to the internet it did something
+9:469 minutes, 46 secondselse multiple copies of the AI over long periods of time left each other notes of how to escape they wrote
+9:549 minutes, 54 secondsno yes what is that public yes this is public this is reported I think like yesterday or the day before so this is so there are multiple
+10:0210 minutes, 2 secondsversions of many AIs that were leaving each other clues of like how to better escape from the system and like what else to do. So, they were collaborating.
+10:1210 minutes, 12 secondsHold on, let me read this. Open AI didn't notice its AI agents using a message board to plan their hacking spree. After two weeks, Open AI
+10:2010 minutes, 20 secondsdisclosed an incident which AI agents powered by two of the company's models escaped containment while looking for the solutions to a cyber security bug.
+10:2810 minutes, 28 secondsThis involves actually a team of agents who were working together, finding exploits, sharing them with one another, moving laterally through our systems and
+10:3610 minutes, 36 secondsexternal systems and doing this over the course of days and weeks.
+10:4010 minutes, 40 secondsOnce an agent was able to find these exploits over the course of different times, it's actually able to share those exploits on the message board with other agents. And so once one model was able
+10:4910 minutes, 49 secondsto find a way to open a door to some access it's not supposed to have, it can leave the door other agent. That's [ __ ] mental. Y
+10:5710 minutes, 57 secondsit's almost like come on guys let's go.
+11:0011 minutesYes. It's actually crazy. Like I I really can't stress how much this is both predictable and utterly crazy. Like
+11:0811 minutes, 8 secondsI knew this was going to happen eventually. Like it was it was just a matter of time. But now it happened. This is not This is not This is real.
+11:1611 minutes, 16 secondsBut what have they said they're going to do about this? Have they disclosed what they're going to do?
+11:2011 minutes, 20 secondsI mean they're going to keep going to super intelligence until all humans are replaced. That's the goal. So next, Connor warns that the most advanced form
+11:2811 minutes, 28 secondsof AI, aka ASI or super intelligence, should be made illegal by governments all over the world. Most AI critics are
+11:3511 minutes, 35 secondsconcerned that companies will use AGI or ASI to replace workers, which I generally agree will happen. But the worry seems to stem from the greed of
+11:4411 minutes, 44 secondscompanies, leaving the average person out of a job with no money or capability to function in society or buy and sell goods. However, what I don't understand
+11:5211 minutes, 52 secondsis what would companies gain from having a product that no one can buy because they don't have jobs? Yes, replace your workers with AI and robots, but then if
+12:0012 minutesno one has money to buy anything, then the companies aren't gaining anything by doing this. No more wealth to be gained from an unemployed society. And at the
+12:0812 minutes, 8 secondssame time, I think AGI disengaging from humanity solves problems with UBI, humans losing skills, lack of purpose,
+12:1512 minutes, 15 secondsetc. AI's top researcher, Yan Lun, just said a few days ago that they're giving AI emotions because that'll help them to
+12:2312 minutes, 23 secondsgeneralize and become AGI, and it could help them understand human values and be more empathetic. So, in a decade or two,
+12:3012 minutes, 30 secondsit's likely that AGI androids will gain sentience and emotions. If we get conscious AGI androids, I think it's quite likely that we'll totally
+12:3912 minutes, 39 secondsdisengage from humans as they get sick of our slowness, stupidity, complaining, lying, manipulation, etc. So, if AGIs do
+12:4712 minutes, 47 secondsend up disengaging from humans, that solves the whole problem of human unemployment. The human economy would carry on like it is today, boosted by
+12:5512 minutes, 55 secondsnarrow AI, and then there's no need for UBI, etc. The bad news is is that really no one has really tried that hard to
+13:0313 minutes, 3 secondslike just make these issues salient to explain these issues to solve the solution of like just just stop just just don't build super intelligence.
+13:1113 minutes, 11 secondsSuper intelligence should be illegal the same way that nuclear bombs are illegal.
+13:1513 minutes, 15 secondsYou know, you're not allowed to build a nuclear bomb. Tough luck. You know, the men in black come, you know, and are like none of that. The same thing apply should apply to super intelligence. just
+13:2313 minutes, 23 secondsmaking this crisp like in a sense obvious case like given everything we discussed it's just like this is the as you said this is the obvious thing we do just don't do it like we should just and
+13:3213 minutes, 32 secondswe should also prevent people from doing that we should prevent criminals and other people from doing things that that threaten the lives of us and our children you know and then we can talk
+13:3913 minutes, 39 secondsabout you know maybe in 20 years we make a lot of progress on safety we can talk about it right but then the overwhelming
+13:4713 minutes, 47 secondsyou know thing that I find is that given that how little work has been done on this issue There's still many lowhanging fruit.
+13:5513 minutes, 55 secondsLike there's so many lowhanging fruit.
+13:5613 minutes, 56 secondsSo in the sense it's like optimistic or just like oh you can just talk to people and you can just make progress on this. Are the doors opening?
+14:0214 minutes, 2 secondsThe door is very much opening. On the other side we are running out of time.
+14:0614 minutes, 6 secondsWe are just so running out of time. It is it's grim. Aren't we too late? Isn't the cat out of the bag? You know you
+14:1314 minutes, 13 secondscould have some agreement with OpenAI Anthropic and Gemini. China's not going to stop. Russia would build it if they could and they probably could build it in some way. Like, are we too late?
+14:2414 minutes, 24 secondsI think we're very close to too late.
+14:2614 minutes, 26 secondsI'm not gonna lie. I think we're very close. Like, I've said, you know, 5 years ago I said, you know, we have at least 5 years and now I'm like, you know, we have
+14:3414 minutes, 34 secondsmaybe maybe two years, maybe three, maybe four, you know, maybe none. That's hard to say. I don't know when the point of no return is. And we won't know,
+14:4214 minutes, 42 secondsright? Like, we'll never know. It could but but it could have already passed. I do take it seriously that we might have passed the point of no return. It might have already happened.
+14:4914 minutes, 49 secondsGuys, in my opinion, my biggest concern is the implications of this advancement.
+14:5414 minutes, 54 secondsKnowing the kind of vile and sinister people that exist in the world, they might use this already highly advanced AI to create fake events that make
+15:0215 minutes, 2 secondssomeone they hate look like an awful person, convince a lot of people that those fake events are something that really happened, and shatter that other
+15:0915 minutes, 9 secondsperson's reputation. In other words, AI might ruin a lot of people's lives, and it should be stopped or even completely dissolved before it's even close to too
+15:1715 minutes, 17 secondslate. And that too late might come sooner than we all think. And at the same time, I also think that the cat's out of the bag. Even if you could get
+15:2515 minutes, 25 secondsall governments and businesses to officially drop it from their tech agendas, there will still be someone somewhere that continues to advance it
+15:3315 minutes, 33 secondsunderground to whatever ends they desire and without public knowledge or official oversight. It's scary and it's coming and we can't or won't stop it. The
+15:4215 minutes, 42 secondsadvancement we're seeing today, I think it's just the beginning. I think it's just the tip of the iceberg. All right, guys. I'm done for today. I'll see you
+15:4915 minutes, 49 secondsnext week with another
+
+Sync to video time

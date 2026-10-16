@@ -1,0 +1,77 @@
+https://discrepancyreport.com/new-nearly-half-million-dollar-firewall-was-fully-operational-before-cyber-incident-shut-springfield-schools-for-four-days/?fbclid=IwY2xjawUSLDdwZG9mBWV4dG4DYWVtAjExAHNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5ZwId9b9I5n125PeLtqSDhsExFQtbRv9XFoKX26TPhDqgNPHbl7trtPIVx8g_aem_aLx3LrdV-8bovReUmXsv8Q
+
+New nearly half-million-dollar firewall was fully operational before cyberattack shut Springfield schools for four days
+In April, the Massachusetts city’s internal auditor called cybersecurity “the most emerging risk” he saw. Official minutes from that meeting, however, said it “was not identified as a growing risk.”
+
+Post author
+By Joe Douglass
+Post date
+September 12, 2026
+A visitor check-in window inside Springfield Public Schools headquarters in Springfield, Massachusetts.
+A visitor check-in window inside Springfield Public Schools headquarters in Springfield, Massachusetts.
+A replacement firewall that Springfield Public Schools’ technology chief called “the most important component to the district’s cybersecurity posture” was fully operational when officials detected suspicious cyber activity, a spokesperson for the school district said Friday.
+
+An outside group accessed the network, causing a disruption that closed schools districtwide and kept around 24,000 students out of the classroom Tuesday through Friday.
+
+Springfield Public Schools Communications Chief Azell Cavaan said the district purchased and installed the firewall, but she did not have the date it became fully operational.
+
+Cavaan said officials found malware and retained an outside cybersecurity or forensic firm, which she declined to identify. The district has not determined how the group entered the network or whether it accessed or acquired student or employee information. She declined to say whether ransomware or an extortion demand was involved.
+
+District officials had publicly discussed the firewall replacement about 10 months ago.
+
+On Nov. 17, 2025, Springfield Public Schools Chief Information Officer Robert St. Lawrence asked the City Council to authorize a five-year firewall contract. During a Finance Committee discussion that day, St. Lawrence described a firewall as “one of the cornerstones of a strong security posture.”
+
+
+St. Lawrence said Springfield’s existing firewall had kept external threats at bay, but was at the end of its five-year term and needed to be updated as cybersecurity threats continued to change.
+
+“It’s an evolving asymmetrical threat in the cybersecurity space,” St. Lawrence said, adding that “it is so paramount that we have a strong next-gen firewall in place to be able to give us those capabilities to protect our digital assets.”
+
+At the full City Council meeting later that day, St. Lawrence said negotiations for the firewall contract were still underway and estimated the cost at between $438,000 and $450,000. The firewall had a five-year life cycle, and buying the software upfront was expected to save about $30,000 annually, he explained.
+
+
+The council authorized a contract term longer than three years. The minutes identify the vendor as “Custom Computer Associates,” though I could not confirm that name. Custom Computer Specialists, a different company, holds multiple relevant statewide technology contracts in Massachusetts, and I have asked the company and state officials whether it handled Springfield’s firewall procurement. I’m also awaiting a response to a public records request I filed Sept. 8 seeking the firewall’s final cost, vendor and implementation timeline.
+
+St. Lawrence told councilors Springfield Public Schools experienced a ransomware incident in 2020. He said no ransom was paid and the incident was handled internally, with one day of district downtime.
+
+At a Dec. 8 School Committee technology meeting, St. Lawrence said threats can originate internally but that “the vast majority of threats are going to initiate from outside of the district.”
+
+“The firewall is really the barrier between any of these malicious threats coming from the outside and getting through inside,” he said. “There’s more of them than there are of us and they only have to be right once.”
+
+District officials discussed using about half of $813,451 in carryover funding for the firewall replacement project.
+
+Amy McLaughlin, a cybersecurity expert with the Consortium for School Networking, wrote in an email that “a firewall is only one component in a complex set of technologies that school districts can implement to defend the district from cyberattacks.”
+
+During public meetings earlier this year, officials discussed implementing other cybersecurity measures, including expanded multifactor authentication, stronger email protections, phishing simulations and targeted employee training. The district increased the minimum staff password length from eight to 12 characters and moved toward using the Microsoft Authenticator app rather than text messages for authentication. Officials also described segregating guest wireless access from internal systems.
+
+“We recently had a cybersecurity audit as part of the city’s office of internal audit,” St. Lawrence said at the Dec. 8 meeting. “We did very well on the penetration testing that the cybersecurity consultants initiated and we want to keep that up.”
+
+He said that required continued investments.
+
+In April, Springfield Internal Auditor Yoon No told councilors cybersecurity was “the most emerging risk” he saw at the time.
+
+The official minutes from the City Council Audit Subcommittee meeting, however, state that “cybersecurity was not identified as a growing risk.”
+
+“When you get hacked, and your information is locked,” No said, “the city comes to a standstill.”
+
+“You’re back to pen and paper,” he explained. “You’re reverting back 30 years.”
+
+No said the city needed to review cybersecurity protocols regularly to address emerging risks. Follow-up cybersecurity audit work was discussed to determine whether there were gaps in existing protocols.
+
+
+Five months later, Springfield Public Schools prepared to go back to paper-based procedures after the cyberattack blocked access to online programs essential to school operations. Officials classified it as a districtwide Level 4 severe cyber incident.
+
+“Intermittent suspicious activity began Tuesday [Sept. 1],” Cavaan wrote in an email. “The district deployed additional resources and believed the activity had been contained. Technology services were critically impacted Saturday night [Sept. 5] into Sunday morning.”
+
+“When we became aware of the traffic that was malicious and the signals we were getting, we immediately went to initiate our cyber incident response plan,” St. Lawrence said at a Sept. 8 news conference.
+
+Cavaan said the incident affected systems supporting operations “from food services and transportation to instruction.”
+
+The district plans to make free credit monitoring services available as a proactive measure. The FBI, Massachusetts State Police and local law enforcement are assisting in the investigation.
+
+District officials said one reason schools could not initially reopen was the loss of access to vital student medical records. Nurses needed the records to dispense medication, address allergies and handle other medical needs, according to the district.
+
+Springfield plans to reopen schools Monday while restoration work continues. Officials said some processes will be completed manually and that teachers and students may rely on books, notebooks, paper and pencils while technology tools remain unavailable.
+
+Asked Friday what had changed since Tuesday, when the district said it could not safely open schools, Cavaan cited “the restoration of access to student medical records and working phone lines in the schools.”
+
+The Massachusetts Department of Elementary and Secondary Education said it does not set cybersecurity requirements for school districts, require them to report cyber incidents to the agency or track such incidents.

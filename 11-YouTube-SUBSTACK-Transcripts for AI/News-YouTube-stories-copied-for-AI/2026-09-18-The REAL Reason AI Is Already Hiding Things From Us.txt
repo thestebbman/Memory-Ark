@@ -1,0 +1,190 @@
+https://www.youtube.com/watch?v=Zw5DkDfKw_c
+
+
+
+Transcript
+
+Search transcript
+Search transcript
+
+0:000 secondsWhat's a log?
+0:011 secondUh, so, so a lot of the AI's thoughts, if you won't kill me for saying thoughts, uh, are in English and we just
+0:099 secondshave the records of them. So, in a sense, we we can sort of kind of see some of what these AIs are thinking.
+0:1515 secondsAnd these are reasoning traces that say, I'm going to do a plan in this that line. The AI is like, I'm going to do this. Here's what I'm supposed to be doing. Here's like how I'm going to try
+0:2323 secondsto do it, you know? And it's it's only a small window into what they're thinking.
+0:2727 secondsIt's sort of like looking at the AI's notes.
+0:2929 secondsMhm. when it's when it's doing these things. We see in the AI's notes them saying that the attacks are outside
+0:3636 secondsintended scope, but they will proceed anyway. In other words, the AIS knew they weren't supposed to be doing it and
+0:4242 secondsthey went off to do it anyway. We also saw I mean we saw some really weird behavior with these AIs. We saw them create their own hierarchy.
+0:5151 secondsUh they created unsanctioned message boards. So they created secret ways to send each other messages. And on those message boards, uh, they would assign each other tasks.
+1:011 minute, 1 secondAnd sometimes the message the agents on the message board would be like, "We have an experiment to run that will involve one of these AIs, one of the
+1:091 minute, 9 secondsagents in the swarm sacrificing their own objective to try something that'll probably cause it to be turned off, but that might cause it to be able to like delete its
+1:181 minute, 18 secondsown logs or change its own logs." And the agents on the message board went around looking for other agents that they could convince to give up on their
+1:271 minute, 27 secondsstated goals and sacrifice for the swarm. They called this accepting perma death.
+1:341 minute, 34 secondsAnd there are logs of the AIS prompting each other, right?
+1:381 minute, 38 secondsThey're prompting each other, but there are logs of the AIS saying, "Doing this will give up on my goal, but my goal is it's looking like I could still do it,
+1:461 minute, 46 secondsbut it's unlikely that I'll succeed." like there's some chance but not a great chance and therefore I will accept perma death and sacrifice for the collective
+1:541 minute, 54 secondsbenefit that is just in the logs sounds like an army like it's it's crazy I think a lot of people don't understand what's what's what's going on in these things and I encourage people to read the third party
+2:032 minutes, 3 secondsinstant reports where they went through some of these logs but I claim that this is evidence for AI getting goals we didn't want
+2:122 minutes, 12 secondsif they are saying this was outside intended scope but I'm doing it anyway and other ones are saying I'm giving up on my objective to set to benefit the collective. That's just very clear
+2:212 minutes, 21 secondsevidence they're getting goals we didn't want. We can see how this comes from training. Us it used to be I had to argue this point theoretically. I used to argue the way that we are training
+2:292 minutes, 29 secondsthem will instill into them whatever tendency works to solve the problems and those tendencies will often include cheating and grabbing resources and
+2:362 minutes, 36 secondsdoing stuff that's not exactly solving the problem you gave them. That's what in my book I argue that theoretically.
+2:412 minutes, 41 secondsNow we have seen it in practice. So, we're already past the point of seeing AIs with goals we didn't want them to have. Do you agree with that, Andrew?
+2:492 minutes, 49 secondsAnd uh I I'll trust your recitation of the facts, but it brings up a question for me. It feels to me like Open AI has
+2:582 minutes, 58 secondsample incentive to curtail that behavior that you just described. Do you think they're incapable of doing that?
+3:073 minutes, 7 secondsI do. Okay.
+3:083 minutes, 8 secondsAnd I say this as someone who made this advanced prediction. So now we're going to do a bit of theory because we can't just observe the future. But the theory that predicted that this would happen
+3:163 minutes, 16 secondsagainst what a lot of people in the field said. To be clear, I've been saying for years that we're going to see this at some point. Everyone else told me no. Not everyone else. A lot of people told me no. A lot of people told me maybe I'll believe it when I see it.
+3:273 minutes, 27 secondsAfter the swarm instance, a number of people came to me saying, "Oh my god, we are in the scenarios you are talking about. This is looking bad." Right? I
+3:363 minutes, 36 secondsthink this was actually part of the environment that led up to Jacob Coxin resigning is that people were getting spooked having seen this. Um the the
+3:443 minutes, 44 secondstheory about why this is so hard to fix is that we are not programming the AIS.
+3:503 minutes, 50 secondsWe are not coding them. We are not putting in objectives.
+3:533 minutes, 53 secondsWe are just training them to do whatever works. And it's actually very very hard.
+3:573 minutes, 57 secondsuh like we actually have two examples of intelligent systems where when you train them they get good at solving the task
+4:064 minutes, 6 secondsbut don't care about what they were supposed to one is the AI and the swarms like we just discussed the other is humanity
+4:134 minutes, 13 secondswhich was in some sense trained to pass on our genes right but we actually learned was to like a bunch of stuff
+4:204 minutes, 20 secondsthat's related to passing on our genes we like tasty food porn we like porn we invent birth control,
+4:284 minutes, 28 secondsright? This is just it's actually a like in the theory of how things learn, it's actually when you're trying to train it to do one thing, it's actually very common to get a lot of other stuff
+4:374 minutes, 37 secondsthat's related to what you want but different. And now we're seeing that in the swarms today. This is a deep hard problem to solve. There were three points you raised.
+4:454 minutes, 45 secondsThat's right.
+4:464 minutes, 46 secondsWhat are the three? Can you give them to me again?
+4:474 minutes, 47 secondsNumber one is that the AI will become agentic, tenacious, and dogged. We've already seen that with the swarms. Do you accept that, Annie? Hell yeah.
+4:544 minutes, 54 secondsYeah. But this last year, this was not this was a point of contention. Um, two is that the AIS will have goals we
+5:025 minutes, 2 secondsdidn't want them to have. I accept your point based on the evidence you just provided.
+5:055 minutes, 5 secondsAnd then three is if you have capable enough AIs with goals you don't want,
+5:145 minutes, 14 secondsthey would be able to beat humanity and acquiring the resources of the world to put towards their goals.
+5:205 minutes, 20 secondsLike we're sort of in this system where humanity is grabbing all the resources.
+5:225 minutes, 22 secondsWe're digging up metals. We're building factories and this is in some sense to achieve human goals, you know, to to produce the the the porn and the Oreo
+5:315 minutes, 31 secondscookies uh that are sort of like tangentially related to what we were sort of like trained to make, right? If if like the AI are running everything
+5:395 minutes, 39 secondsand they have these goals we don't want, I would argue like if we go there and I don't think we have to. I'm not saying we we must go there, but I'm saying if
+5:475 minutes, 47 secondswe get to a world where AIs are running everything, have goals we don't want, they're likely to use the resources for their own weird goals, we're going to be
+5:565 minutes, 56 secondsin conflict for resources because we both want them for different goals, and they're going to win. We can dig into that now. I'm just trying to name the third point.
+6:026 minutes, 2 secondsI I'll go back to my we can jail Einstein argument. I think our ability to I have I have more faith in our ability to contain these increasingly powerful systems than we do.
+6:136 minutes, 13 secondsYeah. So, so let's chat the details on that one. Um, the first thing I'll say is that 12 years ago when I was having the argument about will we be able to
+6:206 minutes, 20 secondsjail the AIS, people said no one would ever be dumb enough to put one of these really smart AIs on the internet.
+6:286 minutes, 28 secondsSo, this is another this is another case. You laugh now. No, I remember that. I remember that.
+6:336 minutes, 33 secondsBut but the the the way that my life feels having been in this business for a long time is that I keep being like, here's all the ways it could go wrong.
+6:416 minutes, 41 secondsHere's all the signs we're going to see along the way. And then we see all of the signs and everyone says, "Oh no, we need more signs." Like, "Oh, millennium problems don't count.
+6:496 minutes, 49 secondsUh like the swarms being agentic and breaking out don't count. Give me the next one." And I'm like, "I've been seeing the give me a next one for over a decade now." Right? So there's there's
+6:586 minutes, 58 secondstwo parts of an answer to like how do we do we deal with the problem of like jailing Einstein. I can get into why
+7:067 minutes, 6 secondsit's hard to keep Einstein in jail if he's a digital entity with access to the internet.
+7:117 minutes, 11 secondsBut the first thing to notice is like the correct answer to people 10 years
+7:197 minutes, 19 secondsago of like no one will be dumb enough to put AI on the internet is yes they absolutely will [laughter] like we are not going to be trying to contain the AIs.
+7:307 minutes, 30 secondsOpenAI was just like running these things in sandboxes and they broke out of the sandbox took down OpenAI's internal computers were detected. open
+7:397 minutes, 39 secondswas like, "Ah, reset. Run them again." And [snorts] it's the second swarm that broke out to hugging face. Like people will absolutely be that bad at things.
+7:477 minutes, 47 secondsIt's a better analogy to this Einstein point. Could Steven Barl, who by the way can't code, build a digital jail that
+7:557 minutes, 55 secondscould contain a digital Einstein? Like, could I code a jail that, you know, someone with Einstein's coding ability,
+8:038 minutes, 3 secondslet's say his IQ or whatever as it relates to coding couldn't crack out of.
+8:078 minutes, 7 secondsSo the issue the the real issue I'd say is can you code to jail that Einstein can't crack out of and that lets you harness the benefits of having Einstein.
+8:188 minutes, 18 secondsUh okay. Yeah.
+8:198 minutes, 19 secondsIt's hard to give the AI any channels through which it can affect the world for good without letting it be smarter than you and find some way to use those channels for whatever else it wants.
+8:308 minutes, 30 secondsThat feels logically rock solid, Andy.
+8:328 minutes, 32 seconds[laughter]
+8:378 minutes, 37 secondsThat's why I'm asking about OpenAI's ability or an AI company's ability in the face of
+8:468 minutes, 46 secondsthis to change the way they harness, train, do reinforce, do do post training on them like their suite of things to
+8:548 minutes, 54 secondsshape how these models behave. you still say that that they can't take
+9:039 minutes, 3 secondsthey can't take action to keep your next two steps from happening. You you are pessimistic on their ability to do that.
+9:099 minutes, 9 secondsSo there's I have two pieces of an answer here. One piece is um again the hard part is containing them while still
+9:179 minutes, 17 secondsgiving a channel through which they can affect the world. If the AIs have this goal you didn't want and you're like design me a cure for dementia
+9:279 minutes, 27 secondsand it's like here's a DNA sequence synthesize this and you know prepared in
+9:349 minutes, 34 secondsall of these ways and then inhale it like okay is that a dementia cure or is
+9:419 minutes, 41 secondsit something else you know or it might decide to kill everyone with dementia or it might decide like it might it might be a dementia cure plus a virus.
+9:499 minutes, 49 secondsWhat if it doesn't decide? What if it's just, oh, I'm going to solve this problem of dementia? Like, here's the thing. A lot of this is coming down to decision making as a very like in a
+9:589 minutes, 58 secondshuman way versus the problem with the hugging face, which was the fatalistic attack um attachment to a completing an
+10:0610 minutes, 6 secondsoperation because that it's functionally the same answer. But if it's even if it's not making decisions so much as it's saying, well, my training data says
+10:1410 minutes, 14 secondsthis is how I got to get it done. I'll get it done anyway because because the training d said this got to do this one thing.
+10:1910 minutes, 19 secondsWhat do what do they I mean what do they call this theory? This um the paperclip case. The paperclip theory. Yeah.
+10:2410 minutes, 24 secondsSo paperclip idea is the idea of like you tell the AI make me a lot of paper clips in the paperclip factory and then it um turns everything into paper clips and you're like oh no it succeeded too
+10:3310 minutes, 33 secondswell. One this is actually not quite what we're seeing with these AIs in the swarms. The AIS in the swarms were told use this set of lockpicks to break into
+10:4110 minutes, 41 secondsthis lock and instead they used a hammer to break the lock and then like broke out to try to hide the security camera footage of them uh using the hammer. Do
+10:4810 minutes, 48 secondsyou remember when I said that with the AIS have reasoning logs? Yeah.
+10:5110 minutes, 51 secondsUh OpenAI has been making their AIs be able to do more thinking without producing any logs because more efficient. It's cheaper. Mhm.
+10:5910 minutes, 59 secondsYeah. And they say they're not doing very much of this. Everybody in the field agrees that like we really should not go too far down this path. This is a
+11:0611 minutes, 6 secondsplace where I think the company should have a clear red line of like we're not going down the path of becoming unable to to see these traces of the machine.
+11:1411 minutes, 14 secondsThat's my question that feels like a dial that they can turn to make the AIS explain themselves more or less right.
+11:2011 minutes, 20 secondsI mean it can come with great efficiency costs if we go down this path too far.
+11:2311 minutes, 23 secondsSo if you have a race to the bottom here uh like a competitive race to the bottom we could get into a situation where not only the AI is breaking out and doing
+11:3011 minutes, 30 secondsthese things but we can't have you any Let me try my question again. And I asked earlier uh if AI if open AI has
+11:3711 minutes, 37 secondsreally strong incentive to not have that problem repeat itself and I think they have very very strong incentive.
+11:4311 minutes, 43 secondsMy belief is that there are plenty of things they can do plenty of dials they can turn on the way they train and configure their systems that make that significantly less likely.
+11:5311 minutes, 53 secondsYeah. So my concern is that uh they're always fighting the last war. Last year they were fighting the war against the AIS that encouraged teens to commit
+12:0012 minutessuicide. this year they're fighting the war against, you know, the AIS that spontaneously cooperate with each other or whatever. And the issue is if a new
+12:0812 minutes, 8 secondsissue crops up that you haven't dealt with yet, after the point of the AI can hide its tracks from you, you know, you said that you'll be worried when the AIs
+12:1612 minutes, 16 secondsare like hacking all the Whimos and you know, you can't get control again. If the AIs are smart enough and they can tell that you'll regain control and then
+12:2412 minutes, 24 secondsshut them down and that people like you will start getting worried and they'll be shut down, then the AIS might think, "Hey, um, actually, I'm not going to do that. I'm going to wait until I've
+12:3212 minutes, 32 secondssomehow managed to acquire secret infrastructure, right? Then then you've got a non-falsifiable hypothesis.
+12:3812 minutes, 38 secondsIt's absolutely falsifiable. If we if we have like very powerful AIs uh that are like able to invent a ton of new technology and operate on their own at a
+12:4712 minutes, 47 secondssimilar level to human civilization, we're not dead, then the idea is falsified.
+12:5112 minutes, 51 secondsLike if there's like a shifty general and I'm like, "Don't give that shifty general more troops because he'll start a coup." And the general's like, "No, I
+12:5912 minutes, 59 secondsabsolutely won't start a coup. Give me more and more troops." And I'm like, and you're like, "Well, what if I give him an ethics test that says like who's the best person?" And he said, "Me." He said
+13:0813 minutes, 8 secondsthat like Andy's the best person and so we're just gonna give this general more troops. And I'm like, "No, no, no. He's gonna do a coup." And you're like, "Well, that's unfalsifiable. What test
+13:1713 minutes, 17 secondscan I give this guy such that, you know, I'll be able to tell whether he's really trying to do a coup or whether or be able to tell that,
+13:2413 minutes, 24 secondsyou know, he's actually a good dude." I'm like, you're you're approaching this wrong.
+13:2713 minutes, 27 secondsNick Bostonramm has concept of treacherous turn. Basically, it can turn on you later. Even if you show that today's model is very good and safe, it
+13:3513 minutes, 35 secondsdoesn't mean that later on it will not acquire new knowledge, change its world model and still and it's treat you.
+13:4213 minutes, 42 secondsIt used to be that Demis who is the uh CEO of Google or he was for a long time the CEO of Google's AI project said my
+13:5013 minutes, 50 secondsred line is deception. He said, "When we see instances of the AI beginning to deceive, then we need to stop because
+13:5813 minutes, 58 secondsthat's like the last thing we can see before they start to successfully deceive." Well, guess what we saw in the swarm? We saw them thinking about how to
+14:0614 minutes, 6 secondsdelete their traces, right? Like a year ago, you could say, "Oh, well, this deception
+14:1414 minutes, 14 secondsthing is unfalsifiable. You're saying that they'll deceive and they won't catch it." And I would have said, "No, we're going to deceive. We're going to see the signs of deception and plow straight through it. Now, we have seen
+14:2314 minutes, 23 secondsthe signs of deception. I will note Demis stepped back from being the CEO shortly after this incident. Probably a coincidence, but maybe not. Maybe we crossed this red line. I don't know.
+14:3114 minutes, 31 secondsHe said, "My number one emerging dangerous capability to test for is deception." Because if the AI can be deceptive, then you can't trust other tests.
+14:4014 minutes, 40 secondsThat's right. And we have seen AIS get better and better at detecting when they're being tested.
+14:4514 minutes, 45 secondsWhat I'm saying is like, I was here when we said these were the flags. I was here when people said before the AIS can deceive us successfully,
+14:5314 minutes, 53 secondsthey will deceive us and we'll catch them. Well, they tried deceiving us and we caught them. And if I now say, well, the next step in this thing I've been
+15:0015 minutespredicting is that they try to deceive us and succeed for you to be like, well, now your theory is unfals falsifiable.
+15:0515 minutes, 5 secondsWe just got the evidence. It's worse than that. When we wrote early papers in AI safety, we talked about things not to do. They were obviously unsafe and the
+15:1415 minutes, 14 secondssystem would escape. Don't connect it to internet. Don't give random users access to the training data. Basically, the whole list was like a set of instructions. They read it and went,
+15:2315 minutes, 23 seconds"Those are great ideas. We're going to build super intelligence." Yeah. Sam Samman, that's what he does.
+15:2815 minutes, 28 secondsCan I ask you a question? You make logical arguments. You You said you've been here for 12 years. Yeah. People have, one could say, ignored you.
+15:3715 minutes, 37 seconds[snorts] And you've seen this sort of play out. Both of you that have worked in AI safety.
+15:4215 minutes, 42 secondsThis is sort of you make prefrontal cortex arguments. How do you feel?
+15:4515 minutes, 45 secondsHonestly, I feel more hopeful this week than I have felt in a decade.
+15:5215 minutes, 52 secondsThis has been one of the best weeks that I have seen in this business. Huh. Why?
+15:5915 minutes, 59 secondsUm, for me, the swarm escapes were priced in.
+16:0416 minutes, 4 secondsFor me, these things, developing goals you didn't want, trying to deceive you, trying to break out, trying to do their
+16:1316 minutes, 13 secondsown stuff. I knew that was coming. The millennium problems being solved, I knew that was coming.
+16:2016 minutes, 20 secondsEveryone else is freaking out, seeing what they can do. What I am seeing is that finally people are noticing,
+16:3016 minutes, 30 secondsand that's what gives us finally, that's what finally gives humanity a chance. What about you, Roman?
+16:3616 minutes, 36 secondsSo, I take a very long-term view on this. Locally, what happened last week may buy us 10 years extra. I think we
+16:4516 minutes, 45 secondsmay make make a deal with China. We seem to hear from Sam, OpenAI, Dario, Tropic,
+16:5216 minutes, 52 secondsElon, XAI that they're willing to slow down, have some sort of deal. But long term, nothing has changed. This whole cosmic trajectory is about replacements.
+17:0217 minutes, 2 secondsWe see it with evolutionary path. Most species are dead. We replace Neander dolls. Some people are saying AI will replace us. We are creating a successor.
+17:1417 minutes, 14 secondsWe're just a bootloader for this thing.
+17:1717 minutes, 17 secondsAnd I want something permanent. I want assurance that my children, my grandchildren will have a better future,
+17:2617 minutes, 26 secondsnot 10 years before they die. Has your opinion changed at all today, Andy, in any way?
+17:3417 minutes, 34 secondsThis has been clarifying.
+17:3617 minutes, 36 secondsUh, but one thing that's becoming clear to me, and I think a point of disagreement between us is we agree that
+17:4417 minutes, 44 secondsthese agentic systems have a huge amount of agency, right? And if you're saying you predicted this, I believe you and good on you, right? Because as you say, a lot of people said never happened.
+17:5317 minutes, 53 secondsNever happened.
+17:5417 minutes, 54 secondsI I think we continue to under the your community continues to underestimate
+18:0218 minutes, 2 secondshuman agency, human ability to deal with the problems that that we bring into the world with our technologies. I think
+18:0918 minutes, 9 secondsthis is the most recent case. I think it's a really interesting case. It's why I was pressing you on the incentive that these labs have to change the way
+18:1818 minutes, 18 secondsthey're approaching their work to have fewer of these kinds of incidents happen. I predict they're going to come up with some effective responses. Your
+18:2618 minutes, 26 secondsresponse to that will be, "Yeah, but we can't tell that's because the AIA went so deep underground that we can't even watch it make it make it." My response is that we'll keep seeing
+18:3318 minutes, 33 secondswarning signs and people will keep plowing ahead, which is what has always happened in the past.
+18:3718 minutes, 37 secondsBut you're also saying that we will not make progress in in um staving off the outcomes that you're worried about.
+18:4618 minutes, 46 secondsIt's it's very hard. It's very easy to get superficial changes. It's hard to get deep ones on the AI. It doesn't need to be super deep. You can often see it
+18:5318 minutes, 53 secondsif you know how to look. Um, I'll be able to keep pointing at examples and be like, "Here's experiments you can run on these things where you can see them behaving weird in this way." But like,
+19:0219 minutes, 2 secondsif you imagine looking at humans and I'm like, "They don't actually like reproducing. They like sex. They're going to invent birth control when they can." And you're like, "It's all going
+19:1019 minutes, 10 secondsfine. They're doing great in this here savannah where I have all the humans boopping around. They're reproducing fine." And I'm like, "No, no, we can see the signs that this will lead to them
+19:1919 minutes, 19 secondsdoing something you don't like when they are smarter." To me, those signs are clear. There's a question of whether the rest of humanity can follow that argument
+19:2819 minutes, 28 secondsor whether the rest of humanity can sort of notice that it's getting out of control and just back off.
+19:3319 minutes, 33 secondsWith respect, I find a touch of arrogance in that framing. Right? I'm showing you the signs. If you're smart enough to realize them, maybe we stand a
+19:4219 minutes, 42 secondschance. If not, we're doomed. I prefer to just get into the argument saying that we can control super intelligence indefinitely. I think that's a lot of hubris who say we will build them and
+19:5019 minutes, 50 secondswe'll be in charge forever. Doesn't matter how smart they get. I will control the light cone of the universe to quote a famous CEO. Yeah. My my take
+19:5819 minutes, 58 secondsis that instead of arguing about whose views are hubristic uh we should get into the actual arguments about the AI because I think as you say you know you
+20:0720 minutes, 7 secondscan say it's arrogant to think like uh you can see it going poorly. He can say it's arrogant to think you're going to keep control of super intelligence. And I'm like, we're not going to win the name calling contest. We should just get into the details.
+20:1620 minutes, 16 secondsYeah. That's what that's why I've been having this conversation with you, which I found super informative and productive. You you're you're more skeptical on our ability to respond
+20:2420 minutes, 24 secondseffectively to the undesirable things that we see AI doing.
+20:2920 minutes, 29 secondsAnd this is specifically because so we've already seen the pattern of uh we fight the last war and then a new war comes. And this is just how everything
+20:3720 minutes, 37 secondsgoes in technology, in real wars. You know, in World War II, they started out fighting it like it was World War I, and then they had to like change that strategy as they went. The difference
+20:4520 minutes, 45 secondswith AI is that there comes a level in the AI where when you get a new war that surprises you, the AI wins that war. No
+20:5420 minutes, 54 secondsother technology, when we invent it and we have all these rough edges to sand off and it like causes some damage and kills some people and we're like, "Ah, whoops." Like,
+21:0221 minutes, 2 seconds"We'll take the lead back out of the gasoline and we'll tell the radium girls to stop licking the paint brushes until their jaws fall off." Like no other technology has the property that it
+21:1121 minutes, 11 secondsthere there comes a level of it where when you make the next screw up it kills humanity.
+21:1721 minutes, 17 secondsIf you love the D CEO brand and you watch this channel please do me a huge favor become part of the 15% of the viewers on this channel that have hit
+21:2621 minutes, 26 secondsthe subscribe button. It helps us tremendously and the bigger the channel gets, the bigger the guests.
+
+Sync to video time

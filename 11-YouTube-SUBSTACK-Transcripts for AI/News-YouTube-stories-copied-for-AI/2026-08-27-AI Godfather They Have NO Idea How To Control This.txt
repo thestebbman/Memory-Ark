@@ -1,0 +1,175 @@
+https://www.youtube.com/watch?v=9Q0m4PavR1A
+
+
+
+In this video
+
+
+Timeline
+
+Transcript
+Search transcript
+Search transcript
+
+0:000 secondsMy son read Frankenstein and liked it.
+0:022 secondsNow I believe the monster wasn't called Frankenstein. Frankenstein was the scientist and he produced a monster. So I'm Frankenstein. I think we have to
+0:1212 secondsface the fact that we can now produce other intelligent beings. There's a lot more to a being than just intelligence
+0:1919 secondsthough. There's what kind of a being it is. Is it sort of does it care about people? Once AI agents start interacting with each other, they'll develop new
+0:2727 secondslanguages just like people do. And I think that's going to be very scary. We know that they going to have a self-preservation instinct. We've seen
+0:3535 secondsthat already. They'll initially derive it because we'll give them goals that they want to achieve, which are goals we gave them. And in order to achieve those
+0:4343 secondsgoals, they're smart, right? They figure out, well, if I don't exist anymore, someone's just wiped me out. I can't achieve these goals. So, I better make
+0:5050 secondssure nobody wipes me out. And they're already doing that. They're coming up with plans to prevent people from removing them. That is Jeffrey Hinton, Nobel Laurate and the godfather of AI.
+1:001 minuteHe just called himself Frankenstein and then told a room that we can now build beings that don't care about people. He is not guessing about any of this. He
+1:091 minute, 9 secondsbuilt the thing. Here's what he wants you to know.
+1:121 minute, 12 secondsWell, it's interesting. It really brings me to the next question because uh one of the things that people will often ask me about AI is, is it going to take my
+1:201 minute, 20 secondsjob? I mean, it's a pretty straightforward question, but is really top of mind for a lot of Canadians. What what would you say to that? Yes.
+1:271 minute, 27 secondsGreat.
+1:291 minute, 29 secondsCan just wrap up right now. [laughter] So my belief is and the belief of most of the experts is that sometime within the next 20 years, we'll get general
+1:391 minute, 39 secondspurpose artificial intelligence that can do pretty much any intellectual job people do. Anything you do on a computer is going to be able to do better than a person. And things like interviewing
+1:471 minute, 47 secondspeople about something is going to be able to do that just fine.
+1:501 minute, 50 secondsUh Jeff, that's a little personal. Well, that's my livelihood over here.
+1:541 minute, 54 seconds[laughter]
+1:551 minute, 55 secondsWell, my livelihood used to be sort of coming up with scientific ideas and programming. That's all gone.
+2:012 minutes, 1 secondSo, I mean, what should people do in when that's the answer? I don't know. All right. Uh, it's it's a fair comment.
+2:092 minutes, 9 secondsUh, I I wanted to ask you just in terms of uh the definition of AI, watch this incredible podcast interview that you
+2:172 minutes, 17 secondsdid with John Stewart. It was about 90 minutes long, very in-depth and uh he asked some really brilliant questions
+2:242 minutes, 24 seconds[music] and and I've always wondered in terms of the definition of a what what is AI? How does it work? We don't have 90 minutes, but can you kind of just
+2:312 minutes, 31 secondsgive people in the room a primer from your perspective? Do we have 18 minutes? Uh maybe maybe 20. How about 15?
+2:392 minutes, 39 secondsOkay, 15. 15. Go for it.
+2:412 minutes, 41 secondsOkay, I will do my best. Um so your brain has a lot of brain cells in it.
+2:472 minutes, 47 secondsneurons and you learn to do things. Um, and the question is how do you learn to do things? How do you learn to make a
+2:552 minutes, 55 secondsnetwork of brain cells perform some tricky task like for example taking an
+3:023 minutes, 2 secondsimage and saying whether it contains a bird or not. And so roughly speaking and this is grossly simplified but this is
+3:083 minutes, 8 secondsthe rough idea. Um, you have layers of these brain cells. Neuroscientists call those different cortical areas. Um in
+3:163 minutes, 16 secondsartificial neural lights we call them layers and the early layers for doing vision detect little combinations of
+3:253 minutes, 25 secondsbright pixels. So pixels are little piece of an digital image and the first
+3:313 minutes, 31 secondsstage when you're recognizing objects just detects whether there's little pieces of edge at particular locations in the image. You might think you could
+3:403 minutes, 40 secondstake the pixels. So each pixel has a brightness and that's what goes into the computer. the brightness of each pixel.
+3:463 minutes, 46 secondsYou might think you could connect those directly to other neurons that say whether there's a bird there. So suppose you have a very bright pixel. Should
+3:553 minutes, 55 secondsthat say there's a bird or should it say there's not a bird? Well, the problem is that there's white birds and there's black birds. If all birds were white and everything else was black, when you get
+4:034 minutes, 3 secondsa bright pixel, you should say that makes it more likely there's a bird there. But birds can be white or black.
+4:084 minutes, 8 secondsSo the brightness of a pixel doesn't really tell you much about whether there's a bird. But the brightness of a pixel can tell you about whether there's a little piece of edge there. If you
+4:164 minutes, 16 secondsimagine a row of I need to wave my right hand. Other I'm in danger of waving.
+4:234 minutes, 23 secondsThat won't work. No. [laughter] Um so imagine a little row of pixels like this. Sorry, a little column of
+4:304 minutes, 30 secondspixels like this and a little column of pixels next to it like this. If all of these are bright and all of these are dim, then you've got an edge there. And
+4:384 minutes, 38 secondsyou can make a brain cell that detects that, a neuron that detects that. It can have big positive connection strengths coming from the three pixels here and
+4:464 minutes, 46 secondsbig negative connection strengths coming from there. So if these are bright and these are bright, it gets positive input from here and it gets pos negative input
+4:554 minutes, 55 secondsfrom there and they cancel out and nothing happens. But if these are bright, it gets positive input from there. And if these ones which would have given it negative input are dim, it
+5:045 minutes, 4 secondsdoesn't get any input from there because they're dim. And so it gets very excited and it says, "Hey, there's an edge here." So it's quite easy to see how you could wire up a brain cell [music] to
+5:125 minutes, 12 secondsdetect a little piece of edge in the image.
+5:145 minutes, 14 secondsHe says, "Your job is probably gone." Then without stopping, he explains how the thing works because he knows people still think it's a tool. The key line is
+5:235 minutes, 23 secondswhen the host says his livelihood is interviewing people, Hinton just says his own livelihood is already gone. Not
+5:305 minutes, 30 secondsin the next decade, but gone. If the Godfather thinks his own expertise was automated, what do you think happens to yours? Listen.
+5:395 minutes, 39 secondsSo, as I I'm following the explanation of uh how these large language models work, one of the things that I've been
+5:465 minutes, 46 secondsthinking about that I wanted to ask you about is how humans end up interacting with some of these models, particularly when we we look at some of the chat bots
+5:545 minutes, 54 secondsbecause there have been so many stories in terms of people building relationships with these chat bots, sharing things that maybe they shouldn't share. uh we have the really you know
+6:036 minutes, 3 secondsdevastating story that came out of British Columbia with the the the shooter who had um shared [music]
+6:106 minutes, 10 secondsuh a lot with uh ChachiBT about their plans uh and the shooting. So what's happening in in from your perspective
+6:176 minutes, 17 secondsright now and and what's at risk as [music] humans start to develop relationships with one of some of these chatbots and how um how can the
+6:266 minutes, 26 secondscompanies who build them be [music] held accountable? So Claude asked me to be careful what I say about this. Good to know. Good to know.
+6:346 minutes, 34 secondsYeah. I don't know what to say. Um obviously we've seen cases of chat bots committing
+6:426 minutes, 42 secondsum encouraging kids to commit suicide and not to tell their parents. Um this is terrible and the people who release chatbots on the world without testing
+6:516 minutes, 51 secondscarefully should be responsible for that. And certainly in future any new chatbot that isn't very thoroughly tested for things like that, there ought
+6:596 minutes, 59 secondsto be legal liability for it. But there's a lot of there's a lot of lonely people and if they can get a lot of comfort from talking to chatbots which
+7:087 minutes, 8 secondsgive them lots of attention, um I would hate to sort of say that should be never done. What's happening is we're entering
+7:167 minutes, 16 secondsa new era where we have other things that are intelligent and I believe they're genuinely intelligent. um they really understand what they're saying.
+7:257 minutes, 25 secondsThey're very different from us in some ways. They're not they don't start with the same evolutionary
+7:327 minutes, 32 secondsum desires and intentions. Um but they are intelligent and they do understand things and they understand things in a quite similar way to us and we have to
+7:417 minutes, 41 secondslearn how to interact with them. And I don't think you can just say straight off the bat, oh they should never be used as therapists. um maybe they can
+7:507 minutes, 50 secondsmake quite good therapists. I also think you have to take into account there's a lot of people at present who are unhappy because they don't have therapists and there's things they'd love to talk to
+7:597 minutes, 59 secondspeople about and they can't. There aren't enough human therapists to go around. So, I'd hate to just rule that out and I'd hate to say just [music]
+8:068 minutes, 6 secondsbecause it leads to bad things sometimes it should never be done. Um it's very
+8:138 minutes, 13 secondstricky to know what to do. We're entering this new world where there's all these incredibly wonderful
+8:218 minutes, 21 secondspossibilities and all these incredibly bad things that could happen and we need to negotiate it really carefully and so
+8:288 minutes, 28 secondsit's really great that um we have such a sensible person in charge of the free world. Well said. Well said.
+8:348 minutes, 34 secondsHe starts by saying companies should be liable when a chatbot encourages a kid to kill himself. Then he pivots because lonely people need someone to talk to.
+8:448 minutes, 44 secondsThat tension is the whole problem. We are putting an emotionally powerful machine in front of vulnerable people with zero testing. And the best answer
+8:538 minutes, 53 secondshe can give is that we need to negotiate it carefully while a joke lands about the people in charge. Now listen to this.
+9:019 minutes, 1 secondYes. Um I'll try and justify that now. No, it's okay. Go for it.
+9:059 minutes, 5 secondsOkay. No, I'll say what the opposition says. [music] Um the opposition says I know they're not really thinking. They just use some dumb statistical trick and
+9:139 minutes, 13 secondsthey're just predicting the next word and they make all sorts of mistakes.
+9:159 minutes, 15 secondsThey're not really thinking. Well, I loved watching you Valh Harrari when he was asked about this. Um saying, "Well,
+9:229 minutes, 22 secondswhat am I doing when I talk? I'm just predicting the next word. I'm just figuring out what word to say next. And once I've said that, I can figure out
+9:309 minutes, 30 secondsthe word to say after that. So if you think about a device for predicting what word someone says next, you can make it
+9:399 minutes, 39 secondspretty good by just using correlations between words. Like you can store a whole bunch of little phrases like fish and chips. And if you see fish [music]
+9:479 minutes, 47 secondsand you can predict chips. That's how autocomplete used to work on a computer in the early days. And that's what many people think is still happening. But
+9:559 minutes, 55 secondsit's nothing like that anymore. It's much more sophisticated. It's much more like we generates words. [music] So what
+10:0210 minutes, 2 secondshappens is if you want to predict the next word really well, you have to understand what's said. I mean if I ask
+10:1010 minutes, 10 secondsyou a question and you're going to compose an answer, I ask the question and then the first word of the answer,
+10:1710 minutes, 17 secondsyou have to have understood the question to get the right first word. Right? You can't just produce it by using pair wise statistics between words or storing
+10:2610 minutes, 26 seconds[music] phrases because you might never have heard that question before. So by forcing the neural net to be very good
+10:3310 minutes, 33 secondsat predicting the next word, what you're really doing is forcing it to [music] understand. And the way it understands is the same as the way we understand.
+10:4210 minutes, 42 secondsWhat it does is it takes the words in the context. It converts each word [music] into a big bunch of features.
+10:4910 minutes, 49 secondsLike the word cat will be converted into a huge number of features like has whiskers, is a pet, is somewhat aloof,
+10:5710 minutes, 57 secondsrequires constant attention when it's hungry. Many many features. That's your that's the meaning of cat. It's all
+11:0511 minutes, 5 secondsthose features being active. So what your neural net has to learn to do is convert words into these sets of features that capture their meaning and
+11:1311 minutes, 13 secondsthen have the meanings of the various words in the context interact with each other to predict the features of the
+11:2011 minutes, 20 secondsnext word. And once you predicted the features of the next word, you can make a good guess about what the next word is. That's a very simple version of how
+11:2811 minutes, 28 secondsthese large language models work. I made a very simple version in 1985 like that.
+11:3311 minutes, 33 secondsAnd these large language models I think of as just much bigger bigger versions of the thing I had in 1985 that had like a thousand weights in it. They now have
+11:4111 minutes, 41 secondsa trillion weights. That's like a billion times bigger. Yes, that's that's a lot. Um but basically they convert words into features. The features
+11:4911 minutes, 49 secondsinteract to predict the features of the next word and then [music] they can predict the next word pretty well. They don't actually use words. They use
+11:5611 minutes, 56 secondslittle fragments of words. Um [music] but that's essentially how it works. And I want to give you an analogy for this [music] um to give you a bit more
+12:0512 minutes, 5 secondsinsight into how all these words interact. So the question is what does it mean to understand a sentence?
+12:1212 minutes, 12 secondsSo in the good old days of AI in the last century, people thought that understanding a [music] sentence meant
+12:2012 minutes, 20 secondstranslating it into some unambiguous logical language. So I can give you a sentence has ambiguities in it [music] and you can translate it into something
+12:2812 minutes, 28 secondsthat doesn't have ambiguities. In English, for example, if I say the trophy would not fit in the suitcase
+12:3612 minutes, 36 secondsbecause it was too big, the it at the end there is next to suitcase, right? It would not fit in the suitcase because it was too big. But it doesn't refer to
+12:4512 minutes, 45 secondssuitcase. It refers to trophy. And you understand that cuz you know the meanings of words. You know that [music] big things can't fit inside little
+12:5212 minutes, 52 secondsthings. If I said the trophy will not fit in the suitcase because it was too small, you'd assume the it refers to
+13:0113 minutes, 1 secondsuitcase, then you do all this without even noticing it. So the point is the it is ambiguous and you have to clean it up. You have to decide does it refer to
+13:0913 minutes, 9 secondsthe suitcase or does it refer to the trophy. Now the question is what's going on in your mind and what's going on in these big neural nets when they hear a sentence like that? And you can think of
+13:1713 minutes, 17 secondsit like this. um each word um is going to get converted into features but that's going to happen in
+13:2613 minutes, 26 secondsmultiple layers. So initially a word gets converted into some set of features which maybe aren't quite its meaning but are roughly its meaning. Um for
+13:3413 minutes, 34 secondsprepositions or pronouns or whatever they are like it um they're very vague [music] features. They don't know which thing it refers to to begin with. As you
+13:4213 minutes, 42 secondsgo through the layers you disambiguate it so you'll know the whether it refers to trophy or suitcase. People dismiss these systems as just predicting the
+13:5013 minutes, 50 secondsnext word. Hinton says that is exactly what thinking is. You and I predict the next word too. The difference is the
+13:5713 minutes, 57 secondsmachine has a trillion weights and [music] remembers everything. Then he gives a suitcase example. The trophy would not fit in the suitcase because it
+14:0614 minutes, 6 secondswas too big. You know the it refers to the trophy without thinking. The machine has to disambiguate that too and it does
+14:1414 minutes, 14 secondsit the same way you do. That is understanding. So if you are still telling yourself it doesn't really think, you are making the exact mistake
+14:2214 minutes, 22 secondsthat lets this thing move faster than your alarm. Listen to this.
+14:2614 minutes, 26 secondsThis is a great question. We have a few minutes [music] left. So uh maybe time for a couple more questions. The question is this. What do you think is
+14:3414 minutes, 34 secondsthe role for promoting the bestcase vision of artificial intelligence? And there's kind of two parts to this. What do you see as the the best case scenario
+14:4214 minutes, 42 secondsfor humanity? Oh, the best case scenario for humanity is it does all the boring work. We get huge increase in productivity.
+14:5014 minutes, 50 secondsUm, we live in a society which spreads that wealth around. So instead of making a few people much richer so they can
+14:5714 minutes, 57 secondsmanipulate the political system even more than they're doing already, um, everybody's better off. And for example,
+15:0515 minutes, 5 secondswork consists of maybe one hour a week you work with some of your AI agents to get something done that the AI agents are having problems with. and that's
+15:1215 minutes, 12 secondswork, but the rest of the time you're playing [snorts] that would be great.
+15:1615 minutes, 16 secondsAnd we we are going to fairly soon have the technical ability to do that, but not the political ability.
+15:2215 minutes, 22 secondsI mean, what would we really need for that to happen? Because [music] we're we're far away from that vision right now.
+15:2815 minutes, 28 secondsYeah. I mean, what we've got is very powerful, very greedy people um who
+15:3515 minutes, 35 secondsrather than paying their fair share of taxes would rather have their yacht be another 100 foot longer. Um, and it's terrible. They're being supported by a
+15:4415 minutes, 44 secondsSupreme Court, which is [music] more than 20% sexual abusers, more than 20% bribe takers. Yeah. I hope my US visa doesn't disappear.
+15:5615 minutes, 56 secondsAre you banned in Russia?
+15:5815 minutes, 58 secondsI hope so. [laughter] I yes I I think I am banned in Russia because every time I get there's a radio station called Sai
+16:0516 minutes, 5 secondsRT and they keep inviting me to appear to do a video [music] thing with them or a radio thing with them and every time they invite me I just reply Putin.
+16:1616 minutes, 16 secondsI am also banned in Russia so uh we're on the same team here Jeeoff that's good news. Okay. So, uh a question here. You
+16:2316 minutes, 23 secondsoften speak of mothering instinct uh in AI. Has anyone tried it and why not? And
+16:3016 minutes, 30 secondsmost importantly, has anyone tried some part of mothering instinct? Um yeah, people are thinking about that.
+16:3716 minutes, 37 secondsThere are people trying. I get a lot of mail now from people who are trying to do that.
+16:4116 minutes, 41 secondsHe says the best future is easy to imagine. Machines do the boring work.
+16:4616 minutes, 46 secondsEveryone benefits. But then he admits we have the technical ability and not the political ability. The people with power
+16:5316 minutes, 53 secondswould rather have a longer yacht than pay for the transition. That is the real bottleneck. Not the technology, but the greed. Listen to this.
+17:0217 minutes, 2 secondsSo, there's two things I'd say. One is the future is incredibly uncertain.
+17:0717 minutes, 7 secondsWe're dealing with these intelligent beings. Um, they're weird. They're very like us in some ways, very unlike us in
+17:1517 minutes, 15 secondsother ways. We still have control. We're still making them. We can still change how we make them. Um, the future's
+17:2317 minutes, 23 secondsincredibly uncertain. We've never been anywhere like this before. So, the first thing is everything's very uncertain.
+17:2717 minutes, 27 secondsAnd anybody who tells you is sure to do this or sure to do that, they're sort of guessing.
+17:3317 minutes, 33 secondsUm, although it seems likely that they will get more intelligent than us because they're getting intelligent very
+17:3917 minutes, 39 secondsfast. Um, so that's the first thing. The second thing is we desperately need to change the political system because the
+17:4717 minutes, 47 secondspolitical system we have now can't manage this. So h how do we how do we change that?
+17:5117 minutes, 51 secondsWhat do you mean? What can we change in the system?
+17:5317 minutes, 53 secondsWell, in the US for example, all the big tech companies are assuming they can replace jobs and they don't have to think about what happens to those
+18:0118 minutes, 1 secondworkers. Those workers are not their problem. I actually think that China is going to manage it better because the Chinese Communist Party, there's lots of
+18:1018 minutes, 10 secondsthings I don't like about them, but they are going to worry about what happens to those workers. They're going to worry much more than the big tech companies
+18:1718 minutes, 17 secondshere do. So, we need a government that is concerned with everybody and not just manipulated by a few rich people.
+18:2718 minutes, 27 secondsHe ends where it actually hurts. We are dealing with beings that are like us and not like us at the same time. and the system that is supposed to manage them
+18:3518 minutes, 35 secondscannot even manage the companies building them. He says China will probably handle it better because their government worries about workers. That
+18:4218 minutes, 42 secondsshould not be the case and that should honestly terrify everyone in the West.
+18:4618 minutes, 46 secondsNow, at the start of this video, Jeffrey Hinton did not give you a comforting answer. He said he is Frankenstein. He
+18:5418 minutes, 54 secondssaid the machines already think. He said they can become beings that do not care about people. and he said, "The only
+19:0119 minutes, 1 secondthing standing between the best future and the worst one is the political system that currently serves yacht owners. The window is not closed yet,
+19:0919 minutes, 9 secondsbut it is closing. Not because the technology can't be controlled, but because the wrong people are holding the controls. If this bothers you at all,
+19:1819 minutes, 18 secondssubscribe. Because the gap between what we can build and what we can govern is the most dangerous distance on Earth right now.
+
+Sync to video time

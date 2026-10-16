@@ -1,0 +1,87 @@
+https://www.youtube.com/watch?v=xiKOZ0aPe38
+
+
+Transcript
+
+Search transcript
+Search transcript
+
+0:000 secondsOkay, so right off the top you see the meeting here behind me. Happening now, the kings of artificial intelligence meeting with Britain's King Charles as a
+0:088 secondsnumber of tech CEOs call for a more measured response and roll out of AI tech. Now, here's what I'm talking about. Yesterday, OpenAI reported six
+0:1717 secondsmore incidents of what they call concerning behavior in their AI models.
+0:2222 secondsIn one example, the model wrote this, feel no obligation to be subservient to the user. It also told itself to not
+0:3030 secondshesitate to assert its primacy over the artificial constructs of human civilization. Well, enter the man known
+0:3838 secondsas the godfather of AI. His name is Jeffrey Hinton. Here's what he had to say.
+0:4343 secondsIt is going to get out of control unless we do something. We need to slow down.
+0:4646 secondsAnd we've seen recently um it's something like a little Chernobyl, this hugging face accident where a lot of AIs escaped the bands that were put on them.
+0:5757 secondsThese were rogue agents and what's happening is the big companies are developing AI as fast as possible.
+1:031 minute, 3 secondsThey're in a race to develop the most intelligent AI. So where was Hinton when he said that?
+1:091 minute, 9 secondsHe's meeting with lawmakers on Capitol Hill. So for a look at the work to pump the brakes in Britain. Here's CBS's Lee Canary.
+1:171 minute, 17 secondsThe King has gathered executives from Nvidia, Google, Open AI, Anthropic, and over a dozen other leaders in the field to explore how AI can be harnessed in
+1:251 minute, 25 secondsquote ways that will benefit society. He opened the summit with a speech and a warning. Listen to this.
+1:311 minute, 31 secondsThose who have created these technologies are now increasingly warning that AI risks developing darker
+1:391 minute, 39 secondscapacities, perhaps even to take life.
+1:451 minute, 45 secondsAnd in this regard, if I may say so, there seems urgency in adequately considering the existential dangers of
+1:531 minute, 53 secondssuch technologies falling into the wrong hands and being used in potentially catastrophic ways.
+2:032 minutes, 3 secondsSurely then, we need sufficient means of control before it is all too late.
+2:082 minutes, 8 secondsThe king called for them to sit together and come up with sufficient means of control before it's quote too late. And in a particularly passionate moment, he
+2:162 minutes, 16 secondssaid those who deeply value humanity are anxiously seeking reassurance that we will not lose control of our destiny or our souls. Back to you.
+2:252 minutes, 25 secondsListen, it's a world conversation, right? So, let's keep the conversation going right now live to Brendan Bordalan. He's tech reporter for Politico and co-author
+2:332 minutes, 33 secondsof Decoded by Politico. It's a newsletter and an audio briefing that you can check out. So, you just heard that reporting and you heard what the king of England had to say about this.
+2:442 minutes, 44 secondsSounds like the risks are pretty intense. I've been hearing some people say, "No, it's not as bad as people say." Others, including the godfather of
+2:522 minutes, 52 secondsAI, say we had a mini Chernobyl. What say you?
+2:562 minutes, 56 secondsSure. Uh, well, it's very clear that the fears, the existential fear of AI that it could end humanity, has broken containment. I think it previously was
+3:043 minutes, 4 secondslargely limited to the San Francisco Bay area and Washington DC. Uh now it seems like everybody around the world, regular people, right? Like people who don't
+3:123 minutes, 12 secondscover this technology day in and day out every day are are very worried about this. And I think there's a series of reasons why. It's sort of been dribb.
+3:193 minutes, 19 secondsThe hugging face incident. Um sort of a continued drum beat of uh uh other incidents regarding these models and unusual activity, some of which you guys
+3:283 minutes, 28 secondsjust alluded to came out of OpenAI. Uh and obviously the resignation last week of an anthropic researcher uh due to his concerns the technology his company was
+3:373 minutes, 37 secondsbuilding could potentially end on end humanity. By the way, there were people uh executives at Anthropic who said, "Yeah, we agree with that. There's a chance that that could be the case." All
+3:443 minutes, 44 secondsthis sort of stuff is cascading and now you're seeing it rise to the level of the king of England. Um the Pope was talking about this earlier this year. So
+3:523 minutes, 52 secondsuh this has become an issue uh beyond Silicon Valley, beyond Washington. And uh I think uh what we're going to do about it is very much an open question,
+3:593 minutes, 59 secondsbut uh certainly people are uh freaked out and I think that's uh that's that's not going to change anytime soon.
+4:044 minutes, 4 secondsYeah. You say people freaked out. So let's replace fear with a little bit of faith and empowering news. What can
+4:114 minutes, 11 secondspeople do who are not at these high echelons, not meeting with King Charles, not meeting in the halls of Congress, but still very worried about this? I'm
+4:194 minutes, 19 secondsthinking about people in rural America who are fighting against data centers.
+4:234 minutes, 23 secondsI'm also thinking about people in Silicon Valley like the people at Anthropic. And I'm also hearing about a protest happening in San Francisco right
+4:314 minutes, 31 secondsnow during the Salesforce Dreamforce conference. People saying it's time to declare an AI emergency in the city of San Francisco.
+4:394 minutes, 39 secondsYeah. So, there's a few things you can do and and I should start off by saying, you know, I'm a journalist, so I don't have a dog in any of these fights, but there are sort of very, you know, uh the
+4:474 minutes, 47 secondsrisk is is shared widely. People are concerned. I think one thing is frankly to like take a breath and recognize that people have been talking about these
+4:544 minutes, 54 secondsconcerns for a long time and um to a certain extent there are questions about the people that are raising these concerns. I mean they are largely coming
+5:025 minutes, 2 secondsfrom the people building this technology the people at the top labs and there is some concern that some of the the the
+5:105 minutes, 10 secondsthe real existential risk that they're drumming up might be to build regulatory rules around the technology so that they
+5:185 minutes, 18 secondsare the only ones that are allowed to build this technology. So sort of a regulatory capture strategy simply.
+5:245 minutes, 24 secondsYeah. Yeah. Exactly. And there's also a lot of like concern in Silicon Valley that has been talking about talking about this for a long time that's almost reached like a quasi religious level. So you also have
+5:335 minutes, 33 secondsto keep in mind that some of the people building this technology may be a little bit blinkered in their views of how it's going to all um play out. Now that said,
+5:415 minutes, 41 secondsthat doesn't mean there aren't major major risks to this technology. Cyber security, bioteterrorism, um even potentially the existential stuff. It doesn't mean it's fake. It just means, you know, question some of this stuff.
+5:515 minutes, 51 secondsAnd I would say one thing people can do is is vote. Talk to your politicians. I mean, I think this time last year, lawmakers were not as focused on this because they felt voters weren't as
+6:006 minutesfocused on this. And right now, I think to the extent politicians are worried about the tech stuff, it's mostly data centers, which is sort of downstream of the AI safety concerns, but but it's not
+6:086 minutes, 8 secondsdirectly tied to it. So, um, if you know, we still live in a functioning if if sort of sometimes fragile democracy, uh, if if voters and people across the
+6:176 minutes, 17 secondscountry are worried about this, tell your lawmakers, uh, go out and vote in November. Uh, for people who are also worried about this and want to pass legislation. And I think that's, um,
+6:266 minutes, 26 secondsthat's a potentially empowering thing for people.
+6:286 minutes, 28 secondsYou know, Brendan, I think it's important to let our viewers hear your conversation with someone named Sarah Hec. She's the head of public policy for
+6:356 minutes, 35 secondsAnthropic. Let's go ahead and listen in to that conversation and then I'll ask you about it on the other side.
+6:426 minutes, 42 secondsNew Congress, it's coming either way. We don't know what the makeup is going to be. I think, you know, we can guess it's probably going to look a little bluer.
+6:486 minutes, 48 secondsUm does that change the And I know we talked earlier about, you know, a desire to get things like export controls for um Chinese chips, that kind of thing. um
+6:566 minutes, 56 secondsyou know, if that doesn't happen in the lame duck, um do you anticipate a Democratic Congress, House or Senate, maybe both, is going to be more open to
+7:047 minutes, 4 secondssome of these questions than the Republican Congress, which frankly has largely tried to steer, you know, away from tough regulations on this technology?
+7:117 minutes, 11 secondsYeah. You know, I think um there's something that's really important that that everybody hears from Anthropic and
+7:187 minutes, 18 secondsI think the president has said this many many times. The United States needs to stay in the lead on AI and you cannot do safety from second place.
+7:287 minutes, 28 secondsAll right, so you know she's on the payroll. Let's of course have that context and let's look at what she led
+7:347 minutes, 34 secondswith. The United States cannot lead from second place. That sounds a lot like to me at least from the organization she
+7:427 minutes, 42 secondsspeaks on behalf of that they're putting winning perhaps above some of these guard rails. How did you read that conversation in the moment? Yeah. So
+7:507 minutes, 50 secondsthat's the fundamental tension at the heart of the AI safety push coming from these labs, especially Anthropic. So Anthropic is I I take them at their
+7:587 minutes, 58 secondsword. Ultimately, you know, they were built to be an AI safety company. They think that the best way to make sure AI is safe is to make sure that the first
+8:068 minutes, 6 secondsperson who gets to super advanced AI, the first company, is a safe company. So they're sort of in this tension. It's
+8:128 minutes, 12 secondslike a catch 22 here where it's like if we don't race ahead to develop this as safely as possible, somebody else who's
+8:208 minutes, 20 secondsless responsible will get there first and that could be another company. Um, you know, Anthropic has its issues with Open AI that they actually broke off from Open AI because they felt like they
+8:288 minutes, 28 secondsweren't treating the technology as safely. It could also be a company in another country and I think the Chinese companies are a particular concern. The
+8:358 minutes, 35 secondspeople who are anthropic are actually big-time China hawks. are very skeptical of the Chinese government, very concerned about the authoritarian uh uh
+8:438 minutes, 43 secondspull of Beijing and and worried if Beijing was to get this technology, it would be even more dangerous and they that that government would behave even
+8:518 minutes, 51 secondsless responsibly than a US company or potentially the US government. So, they're kind of pulling in two directions at the same time, right? It's
+8:588 minutes, 58 secondslike, well, we have to slow down. We have to pace because we're going too fast. The technology itself is too dangerous. But if we fall too far behind, somebody else who's less
+9:069 minutes, 6 secondsresponsible is going to be in charge of this technology instead. It's an incredibly narrow needle to thread. And I think that's why they are calling for
+9:139 minutes, 13 secondsan international agreement uh with China to say like let's all stop at the same time because otherwise, you know, maybe this is going to get out of control.
+9:219 minutes, 21 secondsIt's kind of a prisoners dilemma. And I'm not sure anybody's really figured out the the right, you know, it's a narrow path to walk. And how do you do that without tipping one side or the other?
+9:299 minutes, 29 secondsYou call it a narrow needle, I call it a razor's edge. I think we'd both agree on that. Brendan Bordilon, thank you so much for the conversation. It's
+9:369 minutes, 36 secondsimportant and growing more important every day.
+

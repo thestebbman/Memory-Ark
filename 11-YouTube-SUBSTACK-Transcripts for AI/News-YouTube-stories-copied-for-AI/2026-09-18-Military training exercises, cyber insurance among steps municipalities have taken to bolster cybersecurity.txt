@@ -1,0 +1,96 @@
+https://www.masslive.com/westernmass/2026/09/military-training-exercises-cyber-insurance-among-steps-municipalities-taking-to-bolster-cybersecurity.html?fbclid=IwY2xjawUavjdwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMTJkTnJlSUdJVFJJbUVvRWNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEePfeOWgYzlVFrDwD4LF0H9N84mEklchGbgKX8T5YekcnmWJCm3RsvShYZ6ys_aem_apYGbpKbRzg04gbNDhyrHg&utm_campaign=mrf-facebook-masslive&utm_source=facebook&utm_medium=social&mrfcid=202609186aac6d3b88880603178a4acc
+
+
+Western Massachusetts
+Military training exercises, cyber insurance among steps municipalities have taken to bolster cybersecurity
+Updated: Sep. 18, 2026, 6:45 p.m.|Published: Sep. 18, 2026, 6:45 p.m.
+Airmen collaborate to strengthen Chicopee’s digital locks
+U.S. Air Force Tech. Sgt. Garrett Pinto, 51st Network Operations Squadron cyber warfare operator and Innovative Readiness Training program training lead, directs cyber infrastructure testing during the Cyber Chicopee IRT in Chicopee, Mass., July 20. The joint service Airmen helped improve Chicopee’s cyber infrastructure while completing 1,750 career field training tasks and providing an estimated $420,000 worth of cyber infrastructure support. (U.S. Air Force photo by Senior Airman Jennifer K. Rojas Perez)439th Airlift Wing
+
+
+
+
+
+Set as Google Preferred Source
+
+
+By Daniel Jackson | djackson@repub.com
+Three years ago, a review of Longmeadow’s information technology found its digital security lacking.
+
+“The Town does not have an emergency recovery plan or any plans to deal with cybersecurity threats,” reads the report issued in October 2023 by the Edward J. Collins, Jr. Center for Public Management.
+
+
+Newsom’s AI ‘kill switch’: good persuasion, bad policy
+Like many municipalities in the region in recent years, Longmeadow has taken steps to harden its digital defenses. Recent efforts in neighboring towns include Holyoke, which recently acquired an insurance policy specifically for cyber incidents, and Chicopee, which participated in a military program to shore up its systems over the summer.
+
+The hack of Springfield Public Schools earlier this month has driven home the stakes, as disruptions to the district’s computer systems closed classes for a week. Springfield officials said Wednesday it was working with the FBI to understand what information of its students, teachers and retirees were stolen and published online.
+
+In July 2024, Longmeadow received a $100,000 grant of federal funds to address cybersecurity.
+
+
+These days, the town receives alerts about the evolving threats, has policies in place that would protect its backups should hackers try to hold its system for ransom, and yes, it has a response plan in place, according to Nicholas Jorge, director of technology for the town.
+
+
+“Most recently following the Springfield incident, we accelerated the adoption of a new phishing detection and remediation tool to block more fraudulent messages before they reach our staff’s inboxes,” Jorge wrote in an email.
+
+Asked about the recent cyber incident in Springfield, Gov. Maura Healey said Friday that her technology team has spent the last several years helping municipalities with funding and training to secure their systems against a global threat which is now part of today’s world.
+
+“We’ve got other countries and really bad actors out there around the world who are looking to attack American infrastructure, including our public entities,” Healey said.
+
+Saying the effort to bolster cybersecurity needs to continue, Healey said her team will very often reach out after an incident and “work to shore things up.”
+
+In June, the Healey administration announced the creation of a grant program for cybersecurity remediation, distributing money to schools and municipalities who underwent cybersecurity assessments and found risks in their systems.
+
+The program found a common theme among the 20 schools and municipalities who shared the $1 million in remediation funding: Many planned to use the funds to replace aging hardware that was either outdated or unsupported.
+
+“Many local governments and school districts are working with limited IT resources and aging technology systems,” Lt. Gov. Kim Driscoll said in a statement at the time.
+
+
+Northampton and its public schools, for instance, received more than $55,000 under the program, which it planned to use to replace hardware. The mayor’s office did not return a message requesting details about the award.
+
+Among the cyber shenanigans that can beset an organization, data breaches. There were almost 2,200 data breaches affecting more than 3 million Massachusetts residents last year, according to the Office of Consumer Affairs and Business Regulation. There have been about 1,500 breaches so far this year.
+
+In May of this year, Pittsfield Public Schools reported a data breach that affected 15,000 residents. Neither financial information nor Social Security numbers nor medical records were affected in the breach, according to the state’s data breach notification report.
+
+Schools are required to report data breaches, according to an Office of Consumer Affairs and Business Regulation spokesperson. Although, it may take an organization several weeks to report the incident, as they need to complete assessments and investigations after discovering a breach.
+
+Airmen collaborate to strengthen Chicopee’s digital locks
+U.S. Air Force Tech. Sgt. Peiwei Hsu, 439th Aeromedical Evacuation Squadron radio technician, and Senior Airman Yuri Quinnie, 439th Communications Squadron client services technician, conduct system evaluations during the Cyber Chicopee Innovative Readiness Training program in Chicopee, Mass., July 20. Through various testing methods participants provided the city with suggestions to keep Chicopee’s digital locks secure. (U.S. Air Force photo by Senior Airman Jennifer K. Rojas Perez)439th Airlift Wing
+
+Insurance in Holyoke
+It was only a coincidence with the Springfield incident that Holyoke Mayor Joshua Garcia announced last week that his city had obtained cyber insurance as of Sept. 11.
+
+It was a process that took some time, according to Jaime Morrow, chief procurement officer for the city. For instance, the insurance company performed a risk assessment on the city’s websites and social media pages, and the city needed to make sure its technology was current.
+
+“We’ve been doing groundwork to update our IT infrastructure for the past couple years,” Morrow said. “So we had to roll out [multifactor authentication] to even be eligible for a policy.”
+
+The policy, issued by CFC Underwriting, costs the city about $24,000 a year, according to Morrow, and would help it with a slew of services in the event of an incident, such as hardware restoration, crisis communication and forensic investigations.
+
+The policy also gives the city a service that proactively scans for vulnerabilities and threats.
+
+“It’s a prevention and a response tool,” Morrow said.
+
+In recent years, Morrow said, so many entities have purchased cyber incident insurance that the cost to take out a policy has declined.
+
+For the first time, the cyber insurance industry declined 7.11% in 2024 (the most recent year available) from the year before, according to the National Association of Insurance Commissioners. Companies who issued cyber insurance policies in the United States received $9.14 billion in direct written premiums that year.
+
+
+While the number of policies decreased slightly, and insurance rates declined by 5% in the last quarter of 2024, the number of claims rose to almost 50,000 that year, the association said.
+
+Ransomware, software designed to hold an organization’s data and systems hostage, was present in about 44% of data breaches, according to a study of 12,000 data incidents, the association said.
+
+The number of entities that refused to pay the ransom increased to 64%, according to the association. Meanwhile, the average ransom declined by 77% in 2024.
+
+Calling the National Guard
+In mid-July, Chicopee’s networks were scrutinized by eight military units hunting for vulnerabilities as part of a Department of Defense cybersecurity training event.
+
+The 439th Airlift Wing stationed at Westover Air Reserve Base and the 104th Fighter Wing, stationed at Barnes Air National Guard Base, participated in the assessment that gave the airmen experience on an active municipal network. The assessment included the city, its schools, its Department of Public Works and public safety complex.
+
+“This partnership is a wonderful example of how collaboration between our community and our military partners can create meaningful benefits for everyone involved,” Chicopee Mayor John Vieau said in a statement.
+
+The exercise gave Chicopee infrastructure support worth about $420,000 at no cost, according to an article about the training by the 439th Airlift Wing.
+
+The two-week exercise was part of the Department of Defense’s Innovative Readiness Training program, which pairs communities and military training.
+
+
+Master Sgt. Seth Logsdon, spokesperson for the 439th Airlift Wing, said the time between when a community applies and when the training happens is about 18 months to two years. Furthermore, the process is handled by a central office, so the unit is unaware if there is an uptick in interest from area municipalities because of the Springfield incident.

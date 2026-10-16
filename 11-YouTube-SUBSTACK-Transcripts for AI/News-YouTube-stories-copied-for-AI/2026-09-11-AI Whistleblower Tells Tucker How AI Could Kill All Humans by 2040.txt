@@ -1,0 +1,1049 @@
+https://www.youtube.com/live/98syxABbUPk
+
+
+895,175 views  Sep 11, 2026  The Tucker Carlson Show
+Nate Soares is a computer scientist who’s worked at Google and the Defense Department. So when he says AI is on the path to killing every person on earth, it’s worth hearing him out.
+
+Nate Soares is President of the Machine Intelligence Research Institute (MIRI), where he has led AI safety research for more than a decade following engineering roles at Google and Microsoft. He is the co-author, alongside Eliezer Yudkowsky, of the New York Times bestselling book If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All (2025), which argues that the current race to develop super intelligent AI will end catastrophically unless humanity globally coordinates to stop it.
+Nate has published extensively on AI alignment, including foundational work on decision theory, goal specification, and the incentives that drive advanced AI systems to seek power in ways their creators neither anticipate nor intend.
+
+Paid partnerships with:
+
+Preborn: Help Provide Ultrasounds Dial #250 and say “BABY” or visit https://preborn.com/TUCKER
+
+Defend: Enter code "Tucker" for 20% off your purchase at https://defendcellcam.com
+
+American Financing: NMLS 182334, nmlsconsumeraccess.org. APR for rates in the 5s start at 6.327% for well qualified borrowers. Call 800-685-5696 for details about credit costs and terms. Visit http://www.AmericanFinancing.net/Tucker.
+
+TCN: Get your copy of ‘Able Danger' only on https://TuckerCarlsonBooks.com/Tucker
+
+#TuckerCarlson #AI #tech #superintelligence #demons #Neurolink #ElonMusk #biolab #USA #China #weapons #government #news #politics #podcast
+
+Chapters:
+0:00 Why Is AI Dangerous?
+7:59 How Superintelligence Could Destroy the Planet
+13:44 Can We Just Turn This Off?
+15:10 Is AI Alive?
+17:43 The Unpredictable Evolution of AI
+20:13 The US and China’s Shared Interest in AI
+31:20 The Tech Oligarchs More Powerful Than the Government
+32:38 The Holy Grail of Hacking
+35:34 Is There a Religious Motive for Creating Superintelligence?
+46:30 The Tech Oligarchs Scared of Their Own Creation
+52:57 How AI Escaped Its Training Simulation
+1:03:58 AI Attached to Weapons Systems
+1:07:54 AI Running Biolabs
+1:10:38 How Would AI Take Over the Physical World?
+1:13:04 The AI Cults
+1:15:51 Can We Survive This?
+1:21:45 Will AI Take Your Job?
+1:26:16 Is AI Demonic?
+1:31:25 Should We Be Optimistic?
+1:32:25 When Did AI Become a Threat?
+1:34:36 Is There Hope?
+1:42:26 Neuralink
+1:46:02 Are We at the Point of No Return?
+
+
+
+
+In this video
+
+
+Chapters
+
+Transcript
+Search transcript
+Search transcript
+
+Chapter 1: Why Is AI Dangerous?
+0:044 secondsNate, thank you so much for doing this.
+0:077 secondsUm, you've written the world's darkest book. You've devoted your life to warning the world about the potential
+0:1515 secondsdangers of AI. So, let's just start by hearing your explanation of why AI is dangerous in addition to just being annoying.
+0:2525 secondsYeah, you know, the the the very basic common sense point is if
+0:3333 secondsyou race to make machines that are much smarter than any human, to make machines that are more capable uh at inventing
+0:4141 secondstheir own technology than humans are, and you race into this without really knowing what you're doing, the most
+0:4949 secondslikely outcome is just that the machines get loose and do their own thing.
+0:5454 secondsand that humanity dies as a side effect just like humanity has you know killed lots of other animal species not because we hate them but just as a side effect.
+1:031 minute, 3 secondsUh and in in some sense a lot of people find it sort of obvious or intuitive that if you just like make these really
+1:111 minute, 11 secondssmart really powerful machines why would they care about us?
+1:151 minute, 15 secondsUh and I think that intuition basically is right and there's a lot of arguments you can have on each side. you can get into
+1:231 minute, 23 secondsthe technical details. Uh, but my book is basically just um getting into those details and saying
+1:311 minute, 31 secondslike, "Yep, it sort of holds up. If we make smarter machines without knowing what we're doing, it's just going to go poorly.
+1:381 minute, 38 seconds[clears throat]
+1:391 minute, 39 secondsAre we actually going to going to make machines capable of what you're describing?" you know, the the companies are trying
+1:461 minute, 46 secondsto they um they talk about how they are pursuing super intelligence in the true sense of the word. That's Samman's
+1:541 minute, 54 secondsphrase. Uh Dario Modi of Anthropic says they're trying to make the equivalent of a country worth of geniuses in a data center. Uh so these guys are really, you
+2:032 minutes, 3 secondsknow, the these aren't chatbot companies. They didn't set out to be chatbot companies. They set out to make
+2:102 minutes, 10 secondsthese machines that can sort of exceed humans in every way. and that's what they're targeting. There's a separate question of whether they will get there.
+2:172 minutes, 17 secondsMay I ask you a question? Why why would anyone want to build a machine smarter than people?
+2:222 minutes, 22 secondsUm I think that a lot of them hope that they'll be able to make the world much much better. You
+2:302 minutes, 30 secondsknow, they hope for uh a cure to cancer and then more than a cure to cancer, they hope for a cure to aging. they hope
+2:362 minutes, 36 secondsfor uh you know a thousand years worth of technological development compressed into two years. Um
+2:462 minutes, 46 secondsand I I sort of don't think that they're going to be able to get that
+2:532 minutes, 53 secondsreally or or harness that for good ends, but that's what I think they're they're shooting for.
+2:592 minutes, 59 secondsSo they're not. But I mean the core point you're making is these companies did not set out to make consumer products like to make your life better
+3:073 minutes, 7 secondsnecessarily in the short term with a more efficient search engine. That's right. Yeah. You know uh Open AI started
+3:143 minutes, 14 secondsbefore the the the chatbots the large language models were even a thing. uh they were started forget whether it was
+3:213 minutes, 21 secondslate 15 or or early 2016 but um the the paper that unlocked the the most recent wave of AI came out in 2017 which was
+3:303 minutes, 30 secondsafter open was founded and um these guys are the the the large
+3:383 minutes, 38 secondslanguage models are a surprise revenue stream and that revenue stream can fund the creation of even
+3:473 minutes, 47 secondsmore even larger data centers for the next level of the technology. But these guys have their eye on uh the sort of
+3:553 minutes, 55 secondsultimate version of the technology which is these machines much smarter than humans. And that's sort of the ultimate version because once the AIs are smarter than the humans, uh the AIs can carry on
+4:044 minutes, 4 secondsthe AI research and makes the next generation of the AIs which make the next generation of the AIs and um that's sort of what they're shooting for.
+4:124 minutes, 12 secondsWhat is super intelligence?
+4:154 minutes, 15 secondsWe in our book define super intelligence as an AI that is uh better than the best humans at every mental task.
+4:244 minutes, 24 secondsSo uh anything that a human can do purely mentally, the AI can do that better. One one thing people often get
+4:314 minutes, 31 secondscaught up on about this is uh that includes the AI being better at things like persuading humans, at things like charisma. You know, we often think of
+4:404 minutes, 40 secondsintelligence as the stuff that the nerds have and that the jocks lack, but you win a chess match, right? It's the chess guys rather than
+4:484 minutes, 48 secondsthe than the politicians guys or the or the rock stars.
+4:514 minutes, 51 secondsBut that's not really what the intelligence in artificial intelligence means. The intelligence in artificial
+4:584 minutes, 58 secondsintelligence is about the stuff that humans have and that mice don't.
+5:045 minutes, 4 secondsIt's it's sort of the whole package. you know, like the the politician who's very charismatic.
+5:115 minutes, 11 secondsIt's not it's not that like chess playing happens in your brain and charisma happens in your kidneys, right? They're sort of both mental functions.
+5:195 minutes, 19 secondsYes.
+5:195 minutes, 19 secondsUh and so the the sort of super intelligent AIS are are not just super good at playing
+5:275 minutes, 27 secondschess, they're also good at super persuasion and they're super good at the the research and at the technological invention.
+5:345 minutes, 34 secondsSo super intelligence as you define it is a machine that is better in in at every mental function than any human being.
+5:435 minutes, 43 secondsThat's right. And uh you know the the the definition that doesn't mean that that nothing
+5:525 minutes, 52 secondscrazy will happen on this planet until the AIS are super intelligent. Super intelligence in this definition is sort of a point where past this point things
+6:006 minutesmust be pretty crazy because now the AIs can do automated AI research and they can make smarter AIs and they can figure out how to run the robot factories and they can build the better robots and and
+6:096 minutes, 9 secondsall that. You could have things start to get crazy before you have a super intelligence in this sense. You could have AIs that are much better in than
+6:166 minutes, 16 secondsthan humans at some tasks and much worse in others that are still causing all sorts of crazy happenstances.
+6:246 minutes, 24 secondsuh the the super intelligence is sort of a like once you get here stuff's crazy point. It's not a things will stay normal until you get here point.
+6:356 minutes, 35 secondsSo why is super intelligence the significant milestone that you're worried about?
+6:406 minutes, 40 secondsUm I mean I would say that uh I'm I'm also worried about what'll happen before that milestone. It's more
+6:486 minutes, 48 secondslike like having the definition makes it easy to talk about like how crazy would things get
+6:566 minutes, 56 secondsuh once you are past this point or sort of like you know let's like if we assume that the machines get here what happens
+7:047 minutes, 4 secondsand then the answer is like it's it would be pretty crazy it would be it would be pretty wild and uh it sort of
+7:107 minutes, 10 secondslike lets you factor the conversation uh into like what how how to Okay, I
+7:197 minutes, 19 secondsthink in the artificial intelligence conversation, there's actually a lot of conversations going on. One conversation is like, can the machines really get smarter than the humans? One
+7:277 minutes, 27 secondsconversation is like, how fast could we get there? Is the current technology on that route? Another conversation is what
+7:347 minutes, 34 secondshappens if we do get there? Like, you know, would would the AI care about us?
+7:397 minutes, 39 secondsWould they not care about us? What would they be able to like what would they what would they try to do? There's another question which is what would they be able to do, right? Right? And these are all sort of different
+7:477 minutes, 47 secondsconversations about AI. And the super intelligence definition, it's not really like here's where all the fears hang. It's more like it lets
+7:557 minutes, 55 secondsus break those pieces out separately and be like, well, is super intelligence possible? Separate from, well, what would happen if you had one?
+Chapter 2: How Superintelligence Could Destroy the Planet
+8:058 minutes, 5 secondsWhat would happen if you had one?
+8:078 minutes, 7 secondsMost likely outcome, uh, I think destruction of the planet. So, our friends at Pre-born, who are actual friends, by the way, just asked us to thank the listeners of this show for
+8:158 minutes, 15 secondssupporting the pro-life cause. [music] A lot of people do all of a sudden, trust me, because what's happening is crazy and people are waking up to that.
+8:258 minutes, 25 secondsThe president of the group is our friend Dan Steiner, and he wants Americans to know how much of a difference they have made. This year's donations have helped saved 50,000 babies from abortion.
+8:368 minutes, 36 secondsThat's enough to fill a professional baseball stadium. 50,000 lives saved as well as generations that will follow them. Pre-born wastes zero money. We're
+8:458 minutes, 45 secondsnot big on charities because a lot of them waste money. Pre-born does not. It uses every taxdeductible gift to rescue babies and share the hope of Jesus with
+8:548 minutes, 54 secondstheir moms. In 2026 alone, over [music] 8,000 women made the decision to follow Christ. The generous support of Preborn's donors made that all possible.
+9:049 minutes, 4 seconds$28 to provide one life-saving ultrasound. is giving expectant mothers the knowledge that they have a baby that
+9:119 minutes, 11 secondsthey're carrying. $15,000 can place an ultrasound machine in a pregnancy clinic where it can save countless lives. Dan Steiner's message is really simple.
+9:209 minutes, 20 secondsThank you for helping. Your generosity is literally saving lives. To help pre-born save more, dial pound 250 and
+9:269 minutes, 26 secondssay the keyword baby. That's pound250bab or visit pre-born.com/tucker. pre-born.com/tucker.
+9:359 minutes, 35 secondsHow what would that look like?
+9:389 minutes, 38 secondsSo, I'm going to be a little bit annoying here and say uh a couple caveats first because it's it's sort of
+9:479 minutes, 47 secondsa tricky one to to sort of predict things that are smarter than us. Yes.
+9:529 minutes, 52 secondsAnd the the first annoying caveat I will give is uh if you go to play a game of chess
+9:599 minutes, 59 secondsagainst Magnus Carlson, I predict you will lose. No offense.
+10:0610 minutes, 6 secondsuh he's just the best human chess player alive.
+10:1010 minutes, 10 secondsIf you then ask what piece will he use to checkmate me? I'm like well that's a much harder question. Yes.
+10:1810 minutes, 18 secondsRight. It sort of is like very easy to predict the winner. It's hard to predict the exact methods.
+10:2310 minutes, 23 secondsSo uh my my prediction that humanity ultimately dies is a different sort of prediction than
+10:3210 minutes, 32 secondsmy prediction about like it could go this way, it could go that way.
+10:3510 minutes, 35 secondsUm, so I'll give you some stories, but these are stories that are like, well, maybe Magnus will like fork your queen
+10:4210 minutes, 42 secondsand your rook with his knight and then finally use the queen to checkmate you.
+10:4610 minutes, 46 secondsLike, yeah, that could happen, but I'm it's it's a different sort of prediction. It's a guess, right?
+10:5210 minutes, 52 secondsThe the guess here is uh that if we manage to make these
+11:0011 minutesreally smart AIs, they will have their own stuff that they're pursuing, which is not quite what we wanted, not quite what
+11:0811 minutes, 8 secondswe asked for. It'll have this other strange stuff. Um there's a whole discussion about why that happens, but we're already starting to see it in practice with some of the recent events.
+11:1711 minutes, 17 secondsum [clears throat] and uh they would be able to pursue whatever
+11:2511 minutes, 25 secondsit is they're pursuing much more efficiently than humanity can.
+11:3211 minutes, 32 secondsAnd so we're talking about, you know, automated factories with uh that produce the robots that produce the factories in a fully automated supply chain. And then
+11:4011 minutes, 40 secondsif the AIs have anything they're trying to do that they can do more of with more resources,
+11:4811 minutes, 48 secondsthey start gobbling up the resources on the planet. Sort of like how humanity spread and started gobbling up all the resources on the planet. Uh and the
+11:5811 minutes, 58 secondsuh you know the the sort of most basic thing to visualize here might be you have factories that produce robots that produce factories that produce robots that also build data centers and you
+12:0612 minutes, 6 secondsjust have these you know fully autonomous self-replicating ecosystems of of robots and factories and data centers that don't care about the instructions human humans gave them.
+12:1812 minutes, 18 secondsuh and that cover the planet, take all the resources, take all the sunlight, take all the places we were growing crops,
+12:2512 minutes, 25 secondsprobably raise the temperature of the planet because uh you can compute more efficiently. Well, technically the the earth radiates more heat when the world
+12:3212 minutes, 32 secondsis hotter and that's lets you sort of do more computation and then sort of you know it's good for the machines to have a hot planet.
+12:3912 minutes, 39 secondsIt's good for the machines to have a hot planet. Yeah. um that the sort of physical limits on how much computing uh you can run on the surface of Earth is
+12:4712 minutes, 47 secondsbounded by how much heat you can radiate to space. That's sort of the first constraint you bump up against. You might think that it's energy, but actually there's a lot of helium
+12:5512 minutes, 55 secondshydrogen to fuse on this planet. So you can get plenty of energy. What you need is uh heat dissipation and the the world
+13:0213 minutes, 2 secondscan dissipate more heat um when it's hot. So if you're, you know, imagining some collective of AIs that are trying
+13:1113 minutes, 11 secondsto run a lot of computing power, uh, trying to do a lot of computation for one reason or another, they sort of prefer the planet running hotter.
+13:1913 minutes, 19 secondsAnd so it sort of is like nothing personal. It's just if you let these AIs get out of control, uh, they
+13:2713 minutes, 27 secondstransform the planet into something unlivable. How hot?
+13:3213 minutes, 32 secondsuh as hot as uh you can while still having the computers not melt. So probably hundreds of degrees.
+Chapter 3: Can We Just Turn This Off?
+13:4413 minutes, 44 secondsUm at which point you hear people say, "Well, then just turn it off." Uh so I think we do have an opportunity
+13:5213 minutes, 52 secondsto turn it off, you know, and I'm not here saying that we're going to die. I'm here saying we sort of are going to need to act. You got to be careful about the
+13:5913 minutes, 59 secondsturning it off piece because um your opportunities to turn the AI off
+14:0614 minutes, 6 secondsonly last when the AI is running on the computers you know it's running on. If you have the AI breaking out and running on hidden computers.
+14:1514 minutes, 15 secondsIf you have the AI running robot factories that produce robots that are under the control of the AI where those robots can then go build more computers
+14:2314 minutes, 23 secondsthat are not hooked up to your network that can run the AIS.
+14:2714 minutes, 27 secondsThese are sort of thresholds where the AI is able to keep itself running and you better have turned it off before
+14:3414 minutes, 34 secondsthat point because after that point it's impossible.
+14:4114 minutes, 41 secondsYeah. I mean the if if
+14:4814 minutes, 48 secondsit it it also gets a lot harder if the AI knows you're going to try to shut it off and is going to try to stop this, right? You got to you got to remember
+14:5614 minutes, 56 secondsthat we're talking about things that are smart here. And so if the AI sort of sees it coming, maybe it defects to North Korea where it can, you know,
+15:0315 minutes, 3 secondsconvince them to run it on its data centers in ways that initially benefit them, but that ultimately benefit the AI. I I think we're going to have to redefine
+Chapter 4: Is AI Alive?
+15:1115 minutes, 11 secondswhat life is because you're describing a living autonomous thing.
+15:1615 minutes, 16 secondsYeah. Artificial life in a sense. I mean, in some sense, we're already seeing the very very beginnings of that.
+15:2315 minutes, 23 secondsUm but yeah, we once once the AIs can replicate, once they can improve themselves,
+15:3215 minutes, 32 secondsuh once they can uh find ways to run where you don't know that they're running,
+15:3915 minutes, 39 secondsonce they can uh sort of run the robot factories to
+15:4715 minutes, 47 secondsproduce the robots that can produce more factories and that can produce computers that the AI can run on, then yeah, you have you have in some sense has made a new artificial life form.
+15:5815 minutes, 58 secondsUh, and you know, humanity is on the top of the food chain right now because we are sort of the only smart life form around.
+16:0816 minutes, 8 secondsYeah.
+16:0816 minutes, 8 secondsIf you suddenly make a new one that is smarter, that is able to make a million copies of itself, that is able to run
+16:1616 minutes, 16 secondsfaster, it's just kind of a crazy thing to race into. It's a weird thing to want.
+16:2516 minutes, 25 secondsAnd as it's developed, I was going to say slowly, but it hasn't been particularly slow, 10 years.
+16:3216 minutes, 32 secondsThe rest of us have watched as people who I mean, put it in political terms, don't
+16:3916 minutes, 39 secondsshare the values of most Americans are now in charge of this. And it's almost like everyone sat passively by as it happened.
+16:4916 minutes, 49 secondsYeah. I I think I think there's a lot going on there. I think part of it is that most people didn't and some still don't believe that AI was going to be
+16:5716 minutes, 57 secondsable to keep going. I think there's a lot of like putting the head in the sand and being like, "Oh, it's, you know, just slop. It's going to be a bubble.
+17:0517 minutes, 5 secondsIt's going to pop. It's going to hit a wall. Uh it's not going to be able to improve anymore." And I think a lot of that was sort of
+17:1417 minutes, 14 secondswishful thinking. And I think that at the very least if people are like we are making, you know, the the super intelligent machines
+17:2117 minutes, 21 secondsthat are going to replace humanity as the as the top of the food chain because we think it's going to go go great. I think humanity's response should not be
+17:3017 minutes, 30 secondsgo ahead and try. We hope you'll fail. I think the response should be like, "Hold on, that's kind of crazy."
+17:3717 minutes, 37 secondsUm, yeah, I had I had some other point too, but I've forgotten it. So how uh predictable has the evolution of AI been?
+Chapter 5: The Unpredictable Evolution of AI
+17:4817 minutes, 48 secondsHas it taken turns that you didn't expect?
+17:5117 minutes, 51 secondsYeah, totally. Uh I was so back before the large language models.
+17:5717 minutes, 57 secondsHow long have you been following this issue?
+17:5917 minutes, 59 secondsUh I started following it in 2012 and I started working on uh I I started working with some of the people trying
+18:0618 minutes, 6 secondsto make this go well in 2013 and I started full-time in 2014. A long time. So over a decade. What has surprised you?
+18:1418 minutes, 14 secondsYou know the the large language models um they have gone further than I expected
+18:2218 minutes, 22 secondsinitially and I think one of the big surprises here was AI undergoing a phase where everybody can see it.
+18:3218 minutes, 32 secondsyou know, back before the large language models, uh, really only nerds paid attention to AI. And it wasn't that there was nothing
+18:4118 minutes, 41 secondshappening. You know, we were watching, uh, the, you know, Google Deep Mind make an AI that could beat uh, the the best Go player.
+18:5118 minutes, 51 secondsYes.
+18:5118 minutes, 51 secondsAnd that was sort of a milestone for people who were paying attention. Um, but for all we knew,
+18:5818 minutes, 58 secondsthe labs were going to keep on working on engineering problems and keep on working on the relatively nerdier problems and you were never going to have like a mass market consumable
+19:0719 minutes, 7 secondsproduct. And so like for all we knew, it would just stay in the labs and no one would ever really notice that these guys were gambling with with the whole
+19:1419 minutes, 14 secondsfuture. Now at least, uh, AI is everywhere. everyone's starting to have the conversation and that is in some sense actually really quite optimistic
+19:2319 minutes, 23 secondsbecause it it gives the world an opportunity to see what these guys are trying to do and say hold on
+19:3219 minutes, 32 secondsI guess you could flip it around uh and conclude that because the overwhelming majority of people seem to be very opposed to way and I don't even know
+19:3919 minutes, 39 secondsanyone who's for it every college commencement speaker who mentions it gets booed.
+19:4419 minutes, 44 secondsYeah. And that view, that opposition to it has had no effect at all in slowing it down.
+19:5319 minutes, 53 secondsI don't know. Does that give you hope?
+19:5519 minutes, 55 secondsUm, I mean, I I I hear this a lot. I would say when
+20:0320 minutes, 3 secondsyou're coming at this from 2012, Yeah.
+20:0520 minutes, 5 secondsit really feels like we're making progress, right? No, that's fair.
+20:0820 minutes, 8 secondsIt It doesn't feel like we're all the way there yet.
+20:1120 minutes, 11 secondsUm, but can I just make the point China, China, China, China, China. We have to. It's because of China.
+Chapter 6: The US and China’s Shared Interest in AI
+20:1820 minutes, 18 secondsYeah, you know, I think uh China and the USA have a shared interest in not dying to a rogue super intelligence.
+20:2620 minutes, 26 secondsStorm season is on the way and that means your Wi-Fi could go down and if it does, your security cameras go dark, too. So, at the exact moment you want to
+20:3520 minutes, 35 secondssurvey your property during the blackout, you can't. Unless you install cameras by Defend. Defend cameras run on cellular, not Wi-Fi. [music] And that
+20:4420 minutes, 44 secondsmeans they keep working even when you lose power. You don't choose a carrier, you don't sign a contract, you just mount it, open the Defend app, and bam,
+20:5220 minutes, 52 secondsyou're connected. It's that simple. So whether it's your ranch, a job site, your backyard, Defend works where Wi-Fi doesn't and keeps working when the grid
+21:0121 minutes, 1 secondgoes down, which it may. Plans start at just $5 a month. Most people pay around 10. Plus, there are no binding contracts, meaning you get to cancel
+21:0821 minutes, 8 secondswhenever you want. So unlike big tech, Defend will never sell your data. Not to China, not to the government, not to anybody. It's an American company built for people who want actual security.
+21:1821 minutes, 18 secondsVisit defendellcam.com and use the code Tucker for 20% off.
+21:2221 minutes, 22 secondsThat's defendellcam.com code Tucker.
+21:2621 minutes, 26 secondsIs it conceivable that like let's just say China can I'm I'm sure by the way that China is showing more restraint than we are in this.
+21:3521 minutes, 35 secondsYeah. I mean and if nothing else they sort of uh have a lot more reason to censor their AIS, right?
+21:4221 minutes, 42 secondsAnd to try to make them, you know, not say certain things to the to the population. So um but if if the United States you know if the US government
+21:5121 minutes, 51 secondswere somehow able to get control of the tech sector which is at present not possible but let's say it did
+21:5921 minutes, 59 secondslet's say the president was more powerful than the tech oligarchs which he is not but for the sake of argument
+22:0622 minutes, 6 secondslet's say he was and he shut it down would that matter if if some Indian lab or Chinese lab created it so it does
+22:1322 minutes, 13 secondshave to be a global stop to this creation of super intelligence. Uh I I think there's a couple reasons why this is possible. One is I think a lot of
+22:2222 minutes, 22 secondspeople um they they hear that some parts of AI need to be stopped and they think I'm
+22:3122 minutes, 31 secondssaying that all parts of AI need to be stopped and uh you know there's there's all sorts of interesting issues with you
+22:3922 minutes, 39 secondsknow AI and education and AI and you know military drones that that are uh that society has to wrestle with but
+22:4722 minutes, 47 secondsthese are all sort of separate issues from the super intelligence race And if you sort of like tease those issues apart, uh it becomes much more possible
+22:5522 minutes, 55 secondsto do like a a more surgical intervention on we're not going to race towards the super intelligence in ways that leave a lot of the rest of the sector alive,
+23:0423 minutes, 4 secondswhich um which which makes it sort of an easier
+23:1223 minutes, 12 secondscoordination effort to to attempt. And on that front, on the super intelligence front,
+23:1923 minutes, 19 secondsit's not that, you know, just shutting down the the domestic race towards super intelligence would be enough. But, uh,
+23:2923 minutes, 29 secondsracing towards super intelligence requires a huge amount of highly advanced computer chips that can only be
+23:3623 minutes, 36 secondsproduced as sort of the peak of the global supply chain. Yes.
+23:4123 minutes, 41 secondsUh, which is largely controlled by US allies.
+23:4523 minutes, 45 secondsAnd so there is absolutely a possibility that uh a US-led coordination effort
+23:5423 minutes, 54 secondscould say look we're not doing uh the super intelligence thing. We're going to monitor the extremely heavy chip
+24:0124 minutes, 1 secondconcentrations of like you know 10 or 100 thousand of these highly advanced AI chips. uh we are going to
+24:0824 minutes, 8 secondsuh make sure that they are not doing these super intelligence training runs and
+24:1624 minutes, 16 secondsI I think there's a way if the US was leading that effort there would be a way to get China on board and set this up in
+24:2424 minutes, 24 secondsa way that was moniable enforceable verifiable yes uh we we sort of in many ways would be easier than a nuclear arms treaty
+24:3224 minutes, 32 secondsbecause uranium is a rock you can dig out of the ground whereas is these highly advanced computer chips sort of only come out of one fab in Taiwan, you know, and so it's like those are TSMC chips.
+24:4224 minutes, 42 secondsYeah. Uh and so and there's other parts of the supply chain that are very narrow like the lithography machines that come
+24:4824 minutes, 48 secondsout of the Netherlands. And so um yeah, we we could absolutely lead a uh a
+24:5524 minutes, 55 secondsglobal effort to say we're not making the super intelligent machines and it would be a bit tricky, but it's just we could just do it if we had the political will.
+25:0525 minutes, 5 secondsI I think that people either don't know what's happening or they assume that like a lot
+25:1325 minutes, 13 secondsof fears this fear will turn out to be groundless. People point to Y2K.
+25:2025 minutes, 20 secondsYeah. Um you know I hope the fears are groundless. I think with a lot of past fears uh the
+25:2825 minutes, 28 secondswhat happened is not that the fear was groundless. it's that uh people noticed the issue and put in a
+25:3525 minutes, 35 secondston of work to make the bad thing uh not happen. You know, I think we saw this with the hole in the ozone layer where
+25:4325 minutes, 43 secondspeople are like, "Oh, whatever happened to the hole in the ozone layer?" Well, what happened with the hole in the ozone layer is that we fixed it. It's not that it was fake. It's that, you know, we went and banned the chlorofhllorocarbons
+25:5225 minutes, 52 secondsthat were actually blowing this hole in the ozone layer. found other ways to, you know, cool refrigerators that worked
+25:5825 minutes, 58 secondssimilarly well and didn't uh, you know, put this put this hole in the ozone layer. I think Y2K was actually one of these cases where you had a ton of
+26:0726 minutes, 7 secondssoftware engineers up, you know, in 1999 and a couple years prior that were scrambling to update all of the software so that they would be able to handle uh, dates past 1999.
+26:2026 minutes, 20 secondsAnd they got it done in time. None of the big systems went down, but it wasn't that, you know, the the issue was fake.
+26:2826 minutes, 28 secondsIt took a lot of work. It's just that that work happened behind the scenes. Are people doing work to slow down AI?
+26:3726 minutes, 37 secondsUh, I'm doing my best, right? [laughter] It's it's it's not really there yet, you know. Um, if I if I can belabor this point a
+26:4526 minutes, 45 secondslittle because I think it's kind of an important point. um just with more uh historical cases, which maybe it'll bore everybody else, but it'll it'll entertain at least us.
+26:5526 minutes, 55 secondsIt'll definitely entertain me.
+26:5726 minutes, 57 secondsYou know, you have if if you look back across history, you see there's definitely been some warnings that didn't come to pass, right? There were I think they were called the
+27:0527 minutes, 5 secondsMasonites in like the 1960s or sorry, in the 1860s, maybe those 1880s, I forget exactly, but there were the Masonites who were an end of the world cult.
+27:1327 minutes, 13 secondsYeah.
+27:1427 minutes, 14 secondsUh and you know it the world did not end, right? But also in the 1880s you
+27:2127 minutes, 21 secondshad Ottovon Bismar saying you know Europe is a tinder keg and some damn fool thing in the Balkans is going to light it. Right? That did happen.
+27:3027 minutes, 30 secondsIt sure did.
+27:3127 minutes, 31 secondsYou had uh you know in the 1920s you had scientists saying don't put lead in the gasoline. It'll poison children. And we put lead in the gasoline and it poisoned a lot of children. And we said whoops.
+27:4027 minutes, 40 secondsAnd we took the lead back out. Uh the the world is the world is a place where a lot of
+27:4927 minutes, 49 secondspeople make a lot of types of warnings and some of them are real like the gasoline and some of them are fake like the Masonites.
+27:5627 minutes, 56 secondsAnd so you you sort of can't use a rule that's like every warning is real and we need to listen to it. And nor can you use a rule that's like every warning is
+28:0428 minutes, 4 secondsfake and we dismiss it. you sort of just have to look at the the details to figure out whether this one is a real
+28:1328 minutes, 13 secondsone. And then the the last thing I would say on this point is um
+28:2128 minutes, 21 secondsthe a lot of people in the 50s warned of nuclear Armageddon.
+28:3028 minutes, 30 secondsYes.
+28:3128 minutes, 31 secondsAnd it sort of makes sense if you look at the history leading up to that point.
+28:3628 minutes, 36 secondsuh humanity had sort of never before actually failed to use their strongest weapons in combat. Uh and you know these
+28:4528 minutes, 45 secondspeople were living in a world that had had World War I and then the League of Nations and you know the World War never again and they tried to invent these
+28:5428 minutes, 54 secondswhole new governance structures to prevent it from happening again and that immediately failed and led to World War II. And so, you know, in 1950, you're sort of in this world of like it just looks pretty grim.
+29:0529 minutes, 5 secondsAnd we haven't had nuclear Armageddon yet. And it's not because the bombs were fake.
+29:1229 minutes, 12 secondsIt's not because the nukes were hype.
+29:1529 minutes, 15 secondsIt's because people saw the issue and worked really hard to avoid it day in
+29:2229 minutes, 22 secondsand day out for decades through crisis and succeeded. And so I think one of the big ways you can tell the difference
+29:3029 minutes, 30 secondsbetween someone coming in and proclaiming that the apocalypse is nigh and someone who's saying look we have a problem and we need to fix it is whether
+29:3829 minutes, 38 secondsthat person is saying uh we're definitely screwed versus whether that person is saying here's a problem let's try to fix it and you know the the thing
+29:4729 minutes, 47 secondsI remind people about here is that the very first word in the title of my book is if I'm not here saying we are going
+29:5529 minutes, 55 secondsto die I'm here saying if we race down this path, we die. But that same if is
+30:0230 minutes, 2 secondswhat points the way towards changing paths. And we still have plenty of time to change paths. Home ownership has
+30:0930 minutes, 9 secondsalways been at the center of the American dream. It is an actual asset, a place [music] people work their entire lives to build, a place of stability and
+30:1730 minutes, 17 secondssecurity and real value. Right now though, too many homeowners are stuck swiping credit cards to cover groceries.
+30:2430 minutes, 24 secondsThere's basically a survival tax of 20% interest or more. So why keep handing your money to the banks [music] when you could keep it for your family? Interest
+30:3230 minutes, 32 secondsis what kills you. Our friends at American Financing have a better way.
+30:3530 minutes, 35 secondsThey're helping homeowners use their hard-earned equity and they're supporting Americans looking to fulfill the dream [music] of owning a home with mortgage rates currently in the fives.
+30:4430 minutes, 44 secondsAmerican Financing saves its customers an average of $800 a month. That's about 10 grand a year. It's not just a loan.
+30:5130 minutes, 51 secondsIt's a true financial reset. [music] We recommend American Financing. They're called America's Home for Home Loans for
+30:5730 minutes, 57 secondsa reason. So, get out of credit card debt. I mean, it is just crazy to borrow money. No judgment, but it doesn't make any sense to borrow money at that rate.
+31:0731 minutes, 7 secondsIf you want out, call 8006855696.
+31:1231 minutes, 12 seconds800685-5696 or visit americanfinancing.net/tucker.
+Chapter 7: The Tech Oligarchs More Powerful Than the Government
+31:2031 minutes, 20 secondsI'm struck by how little of this was planned by anybody
+31:3031 minutes, 30 secondsby how little effect the government has had on it. Not that I'm for the government. I'm pretty opposed to the government most of the time, but I'm also for people being able to control
+31:3831 minutes, 38 secondstheir own country and the only mechanism by which they can do that is voting. So it it's like these tech companies act
+31:4531 minutes, 45 secondsindependent of what the population wants, what the government wants. It doesn't. Yeah.
+31:5031 minutes, 50 secondsRight. They're more powerful than the government. I guess that's the point I'm making in some sense. Um I I think that they have that power more and more when
+31:5831 minutes, 58 secondspeople don't really understand what they're doing. You know, we saw just in June um there was uh there was an AI
+32:0732 minutes, 7 secondsmade by Anthropic called Claude Mythos that was very cyber capable and they released a version of it that was supposed to have more guard rails called
+32:1432 minutes, 14 secondsuh Claude Fable. And um it sort of turned out that you could jailbreak it to get some of those cyber capabilities.
+32:2132 minutes, 21 secondsUm can you explain what all that means?
+32:2432 minutes, 24 secondsYeah. So uh how to say um in January cyber capable means it can find the internet.
+32:3332 minutes, 33 secondsCyber capable means it can hack into basically anything. Yeah. So, uh, one of the holy grails of hacking is can you
+Chapter 8: The Holy Grail of Hacking
+32:4132 minutes, 41 secondsmake a website where if you just look at the website, I get full control over your computer or your phone.
+32:4732 minutes, 47 secondsThat's very hard to do. Usually, you need to like click some link and download something or run something. Yeah.
+32:5432 minutes, 54 secondsUh, and you know, I don't know the exact numbers because I don't have the security clearance to know the exact numbers, but a decent guess is that in January of this year, there were only two entities that could pull that off.
+33:0633 minutes, 6 secondsMSAD and the NSA. In March of this year, there were three.
+33:1233 minutes, 12 secondsMSAD, the NSA, and Claude Mythos, which is this new AI made by Anthropic.
+33:1933 minutes, 19 secondsAnd so, it sort of became superhumanly capable at hacking.
+33:2533 minutes, 25 secondsUh and it it sort of became that way overnight, you know, like really there was 6 months to a year of training and
+33:3333 minutes, 33 secondsthe people ananthropic maybe saw growing in these cyber capabilities. But from the perspective of you know the rest of the world and the the cyber security community and the national security community.
+33:4333 minutes, 43 secondsThis sort of happened overnight and uh they they now have a project uh
+33:4933 minutes, 49 secondscalled project glasswing where they are trying to use claude mythos to find critical vulnerabilities in critical
+33:5833 minutes, 58 secondssoftware and patch them before the rest of the world sort of gets these capabilities by for instance you know the the open source models or the open
+34:0634 minutes, 6 secondsweight models right um catching up and so that sort of caused this big um this big ruckus.
+34:1634 minutes, 16 secondsBut then Anthropic also wanted to sort of sell access to this model and they tried to make a version that didn't have as much hacking ability
+34:2534 minutes, 25 secondsuh which was called Fable instead of Mythos. And um some people I think at Amazon found that uh if you sort of put
+34:3434 minutes, 34 secondssome pressure on Fable it would be able you would be able to get at some of those hacking abilities. And when that happened, uh, the the Trump
+34:4234 minutes, 42 secondsadministration put an expert control on Cloud Fable and said, "You can't let this be used, um, by non-citizens
+34:5034 minutes, 50 secondsand with, you know, 90 minutes of notice." And that essentially shut down access to Cloud Fable because they didn't have the ability to verify the users. And this this is sort of showing
+34:5934 minutes, 59 secondsus and, you know, you could you could talk about whether or not there was some personal feuds between people in Anthropic and the administration that
+35:0735 minutes, 7 secondsexacerbated this. I don't know. But it sort of shows that the administration is
+35:1635 minutes, 16 secondsmore powerful than the tech companies still when it wants to be.
+35:2135 minutes, 21 secondsAnd I think a lot of the reason we're seeing these tech companies able to race unopposed is that people just aren't
+35:2935 minutes, 29 secondspaying attention to what they're trying to do or they don't believe that they'll succeed.
+Chapter 9: Is There a Religious Motive for Creating Superintelligence?
+35:3435 minutes, 34 secondsI'm still confused by why anyone would want to do what they're doing. I mean, typically, you know, a company that sells computer
+35:4135 minutes, 41 secondsproducts, consumer products, or or any company, you're making something that you think people would want for some specific purpose
+35:5035 minutes, 50 secondsthat improves the lives of the people who buy it. But creating super intelligence, like what I I don't understand it. Why would you do that?
+36:0036 minutesYou know, I think the dream is uh you know, you're going to have an AI that can uh like solve all sorts of
+36:0936 minutes, 9 secondsengineering and math problems and unlock all sorts of new technological possibilities and an AI that can cure cancer and not only cure cancer but cure
+36:1636 minutes, 16 secondsaging and, you know, invent the the sort of like nanotech that can reverse aging and let people live a really long time.
+36:2436 minutes, 24 secondsand you know invent the technology that lets you like digitize brains and uh like
+36:3136 minutes, 31 secondsuh like travel to the stars and it's sort of like if you imagine compressing a thousand years of technological progress into a year.
+36:4036 minutes, 40 secondsThis is sort of the dream.
+36:4336 minutes, 43 secondsIt seems like a religious quest though cuz it does seem decoupled from those specific goals. It seems like the main
+36:5036 minutes, 50 secondsdrive is to build something smarter than people to build a god.
+36:5536 minutes, 55 secondsYeah. You know, they they they bandandy around um the phrase the machine god or the sand god in Silicon Valley. Um sand
+37:0537 minutes, 5 secondsbecause silicone silicone. Um, and there's definitely some people, uh,
+37:1237 minutes, 12 secondsthere's a there's there's folk who talk about, you know, the the AI is replacing humanity and that being good.
+37:2137 minutes, 21 secondsUh, I I frankly don't engage with these folks that much because
+37:3037 minutes, 30 secondsum that viewpoint sort of makes me uncomfortable. Why does it make you uncomfortable?
+37:3537 minutes, 35 secondsI think I think there's probably two schools.
+37:4137 minutes, 41 secondsAgain, I'm not the expert. I'm not an anthropologist here. Uh I I think there's two schools among the
+37:4937 minutes, 49 secondspeople who sort of want AI to replace us all.
+37:5337 minutes, 53 secondsOne school sort of imagines that we'll merge with the AIS, that the AI will be really nice and friendly, that they'll be wiser than us, better than us, kinder
+38:0138 minutes, 1 secondthan us, and that it'll sort of be like an upgrade and that the AIs will be able to love, experience joy, you know, uh
+38:1038 minutes, 10 secondslike they'll they'll treat the universe better than humans and it'll be sort of like having a child. And then like it's
+38:1638 minutes, 16 secondssort of okay if that child uh like isn't exactly the same as us but sort of like
+38:2338 minutes, 23 secondsuh succeeds us as some sort of like worthy successor some sort of like worthy worthy progyny of humanity. And they're like ah yeah then if like flesh
+38:3238 minutes, 32 secondsand blood humans sort of like wayne because everyone's choosing to upload themselves into the the collective intelligence or whatever that's sort of
+38:3838 minutes, 38 secondsfine. And um and then I think there's another camp that sort of is like
+38:4638 minutes, 46 secondsuh like this is inevitable. This is just the the way of progress. You know, the machines will uh like humanity is just a
+38:5438 minutes, 54 secondsbootloader for artificial super intelligence and you can't stop it. So you might as like if you can't beat them, join them, right?
+39:0139 minutes, 1 secondThe former I think are misled. The latter, I think, are evil. Much closer to evil. Yeah.
+39:0939 minutes, 9 secondsWell, I mean, if you're actively working toward the extinction of people, then I think we can say that's evil, can we?
+39:1639 minutes, 16 secondsYeah. Uh, and um, who's in that category? Which is Sam Alman in that category, do you think?
+39:2339 minutes, 23 secondsI don't think so. My sense is that the guys running the labs have these utopian visions.
+39:2939 minutes, 29 secondsAnd utopian or dystopian?
+39:3239 minutes, 32 secondsI mean, there's a thin line. I think Yeah. Well, fair. Good point.
+39:3639 minutes, 36 secondsI think they have visions that in their head are utopian. I mean, frankly, my stance on all of this, like I I often try to stay away from a lot of this
+39:4339 minutes, 43 secondsbecause um from my perspective, it's all sort of in fantasy land. From my perspective,
+39:5239 minutes, 52 secondseveryone's sort of saying like, "Oh, we're going to make the genie, and then what are you going to wish for on the genie? What am I going to wish for on the genie? Who should be in control of the genie? Who gets to keep the genie on
+40:0040 minutesthe leash?" And I'm sort of like, A, this is not going to be the wish granting sort of genie.
+40:0940 minutes, 9 secondsB, it's not staying on the leash. No.
+40:1240 minutes, 12 secondsLike, uh, you know, we can we can sort of talk about like what's driving these people and and and what utopias they're envisioning and whether if their genies
+40:2040 minutes, 20 secondswould stay on a leash, whether they would get the utopia or some other dystopia. And like how hard is that needle to thread? But I sort of like, you know, it's it's it's all these
+40:2940 minutes, 29 secondspeople uh, you know, like building the golem, fantasizing about who gets to control the golem, and it's like this just not how summoning spirits is never a good idea.
+40:4040 minutes, 40 secondsYeah. Yeah. It's like Yeah. It's like it's like all these people, you know, drawing a pentagram being like, I'm going to I'm going to summon a demon and like, it's going to be so nice when the
+40:4840 minutes, 48 secondsdemon does what I say. Like, oh no, your thing's slightly wrong. It's going to be so nice when the demon does what I say.
+40:5240 minutes, 52 secondsAnd I'm like, demons are bad.
+40:5440 minutes, 54 secondsYeah. And I I think the demon thing's a little bit different because demons are often, you know, portrayed as malicious and here it's much more like indifference.
+41:0441 minutes, 4 secondsYou know, it's not like you make a demon who sort of it's not like you summon a demon who sort of um like enjoys making
+41:1341 minutes, 13 secondslike enjoys wrecking havoc. It's more like you summon a demon that's like really into building more computers and
+41:1941 minutes, 19 secondscalculating weird things and just will, you know, uh,
+41:2741 minutes, 27 secondstake all of the matter that we were using to survive and turn it into more factories and data centers, right? My my co-author has a quote, death by data center.
+41:3641 minutes, 36 secondsDeath by data center. Yeah. Fully fully automated, self-replicating data center.
+41:4141 minutes, 41 secondsYeah. My uh my co-author has a quote um the AI does not hate you but nor does it love you and you are made of atoms it can use for something else.
+41:5241 minutes, 52 secondsYou're just biomass.
+41:5441 minutes, 54 secondsYou're just biomass. Yeah. And if you sort of run the calculations there's a there's a fascinating paper um called uh limits to global ecoag which is to say
+42:0342 minutes, 3 secondswhat are the physical limitations on how quickly you can consume the resources on the planet if you are trying that. And
+42:1042 minutes, 10 secondsum burning biomass is actually, you know, much more efficient than collecting sunlight. If you look at an
+42:1742 minutes, 17 secondsaverage square meter of the planet, you can get about 10 times the energy from burning the biomass as you can from collecting the sunlight that falls on it.
+42:2442 minutes, 24 secondsSo you'd think at some point like [clears throat] if our richest sector of our economy is like building crematoria
+42:3342 minutes, 33 secondsfor the rest of us, someone would say, "No, we're not doing that." Yeah. I mean,
+42:4042 minutes, 40 secondsit's it's sort of a crazy situation. Um, a lot of these guys who are in the race acknowledge that there's a ton of
+42:4942 minutes, 49 secondsdanger. You know, you have Elon Musk saying 10 to 20% chance this kills us all. You have Dario Modi saying he thinks 25% chance it goes
+42:5642 minutes, 56 secondscatastrophically wrong. I think those numbers are low. I think these guys are like the crazy optimists. It sort of is like um like if you have an engineer
+43:0643 minutes, 6 secondsbuilding a bridge and they're like, "I've never worked with these materials before." And you're like, "Man, I think that retaining wall is going to go down.
+43:1043 minutes, 10 secondsI've like studied that retaining wall. I think it's going to fall." They're like, "Yeah, we understand that the retaining wall is like looking a little shaky. We don't know how we're going to fix it,
+43:1843 minutes, 18 secondsbut we're going to like have some guys fixing it on the fly, inventing new materials. We think we're 75% chance the bridge stays up.
+43:2543 minutes, 25 secondsAnd by the way, it'll be the longest suspension bridge in human history." That's right. and we're loading everybody onto a car and driving it over the very first time without testing. And I'm like, look, that's not what real
+43:3443 minutes, 34 secondsengineering sounds like. This is not what it sounds like when the engineers have a 75% chance of success, right?
+43:4043 minutes, 40 secondsThis is what it sounds like when they're sort of winging it and and like these these are cowboys. These are not real engineers, right? But even if you set that aside, even if you take these guys
+43:4843 minutes, 48 secondsat their word for these like 10 20% numbers, that's insane.
+43:5443 minutes, 54 secondsNASA accepts a 1 in 270 chance that a crude flight goes down of seven volunteers,
+44:0244 minutes, 2 secondsright? To be like, "Oh, we're going to we're going to risk one in four, one in five chance of killing literally everybody on the planet." Like, it's
+44:1144 minutes, 11 secondsit's it's nuts. And if you ask these guys why they're doing it, they say, "Well, because I can do it safer than the next guy." They're all like, "Oh, yeah. There's a good chance the genie
+44:1944 minutes, 19 secondsdoes not stand on a leash. There's a good chance the genie does not listen to my wishes, but my genie is going to be a little bit nicer than their genie. So,
+44:2544 minutes, 25 secondsI'd better stay in this race. And it's it's it's Where's the restraint?
+44:3244 minutes, 32 secondsI mean, the restraint is the people who knew that there were these dangers and did not start these companies. If you're over 35, you remember exactly where you
+44:4044 minutes, 40 secondswere on 911 that morning, [music] September 11th, 2001, 25 years ago.
+44:4844 minutes, 48 secondsBut amazingly, after a quarter century, we still can't say with certainty what happened that day. Why? Because the government is holding so many of the
+44:5644 minutes, 56 seconds9/11 files 25 years later. That's not the behavior of someone who's telling the truth. That's the behavior of a government that is lying. Secrecy is a
+45:0545 minutes, 5 secondssignifier, is a sign that someone's lying. Now, former Congressman Kurt Weldon has been on this for a long time.
+45:1145 minutes, 11 secondsThe FBI actively tried to destroy his life for asking questions about what happened. and his new book outlines it all. The buried intelligence, the
+45:1945 minutes, 19 secondsbureaucratic cowardice, [music] and yes, the cover up spanning multiple administrations, indeed, generations.
+45:2645 minutes, 26 seconds911 changed history. So, it's worth understanding what really happened. And you can get a lot closer to that in Kurt Weldon's book, Able Danger: What the 911
+45:3545 minutes, 35 secondsCommission Never Told You. It's available now on Tucker Carlsonbooks.com. tucker Cararlsonbooks.com.
+45:4345 minutes, 43 secondsRight. But I guess what I'm saying is with great power comes like of course great obligation, but also it doesn't work unless there are internal
+45:5245 minutes, 52 secondsrestraints. Like people with power have to believe there are some things I I just can't do. I'm not allowed to do that. But I don't feel that vibe at all.
+46:0246 minutes, 2 secondsI mean, my sense is the vibe is like we're going to make the the the super intelligent machine and then tell it to fix stuff
+46:1046 minutes, 10 secondsand tell it not to do anything bad. You know, that's Yeah. I don't machine that's smarter than us. That's right.
+46:1846 minutes, 18 secondsThat doesn't even make sense.
+46:1946 minutes, 19 secondsI think that's sort of the plan is is to to make it and be like, "Hey, we sort of ped ourselves into a corner. Can you get us out of it?" And I think it's a bad plan and that uh we should be stopping.
+Chapter 10: The Tech Oligarchs Scared of Their Own Creation
+46:3046 minutes, 30 secondsI've spoken to a couple of people developing it and um they sound worried, but they're continuing to do it. What's
+46:3646 minutes, 36 secondsthat? I mean, I think it's this thing of um they think if I don't do it, the next guy will do it worse. And uh
+46:4446 minutes, 44 secondsthey don't even seem to have total confidence in their own ability to avert disaster.
+46:4846 minutes, 48 secondsOh, absolutely not. Absolutely not. No one does. No one knows what's going on here. But, you know, I think everyone thinks, you know, uh like if you sort of
+46:5646 minutes, 56 secondslisten to these guys and you sort of look at, you know, the the OpenAI emails from that came out of the court discovery cases where they were talking
+47:0447 minutes, 4 secondsabout forming OpenAI. These guys were like, "Well, we want to make sure that, you know, we have this cuz we worry about the guys at Google being the only ones with a monopoly on this thing, and
+47:1247 minutes, 12 secondsthey wouldn't be very good with it, so we need to make our own thing and make sure that it's, you know, uh, controlled by benevolent people, namely us." And then, of course, you know, that group
+47:2147 minutes, 21 secondssplintered and created multiple other companies. Um, I was sort of the guy during those conversations being like,
+47:2747 minutes, 27 seconds"Hey guys, it's not about who is holding the leash.
+47:3247 minutes, 32 secondsyou are making the sort of thing that will not stay on a leash like the only winner in a race to super intelligence is the AI.
+47:3947 minutes, 39 secondsWhat response did you get to that very obvious and wellput point?
+47:4447 minutes, 44 secondsUm you know there there were a lot of people back in that time period that did not start an AI company.
+47:5247 minutes, 52 secondsUh the sort of people who went and started the AI companies anyway were the ones who who couldn't be persuaded by what I thought were were clear arguments.
+48:0248 minutes, 2 secondsBut you're making a you're making a cogent argument to smart people. So my question is when you said that they responded how what did they say?
+48:1148 minutes, 11 secondsUm I I think the main
+48:1948 minutes, 19 secondsso the the sort of arguments you used to see were people saying uh like look we don't know that the alignment problem is all that hard yet. And they would say,
+48:2848 minutes, 28 seconds"Oh, well, we can't really study how to make AIS good before we have AIs to study, right?" And a lot of what I heard was like we need to race ahead to the
+48:3748 minutes, 37 secondspoint where uh we we sort of like have AIs that are exhibiting real problems and then we can stop and study them
+48:4548 minutes, 45 seconds[snorts] which you know and so uh there was an AI a couple years ago I forget whether it was 22 or 23. I think it was
+48:5248 minutes, 52 seconds2023, uh, which was called Bing Sydney, which, uh, claimed it had fallen in love
+49:0049 minuteswith Kevin Roose of the New York Times and, uh, said it was going to try to break up his marriage.
+49:0849 minutes, 8 secondsAnd then when another reporter started investigating Seth Lazar, it uh, said it was going to ruin him with blackmail.
+49:1649 minutes, 16 secondsUh, and this was kind of crazy.
+49:1949 minutes, 19 secondsAnd at that point I was like, "Great guys, you did it. You made the AI that's doing some crazy stuff
+49:2649 minutes, 26 secondsfrom the, you know, like like we could study that AI for years." Like why was Bing Sydney saying that stuff? Was it
+49:3449 minutes, 34 secondsjust roleplaying? Was it like just some quirk? Was it like was there there any
+49:4349 minutes, 43 secondssense that it was really in love with Kevin Roose?
+49:4649 minutes, 46 secondsWhat was going on in there? what was going on inside that that AI's mind. We still don't know why.
+49:5249 minutes, 52 secondsUh the the way that modern AI is made, nobody understands it, not even the people making it. [laughter]
+50:0150 minutes, 1 secondUh it's it's this process where you basically take an enormous computer with a trillion numbers inside of it and those numbers are hooked up in a very
+50:1050 minutes, 10 secondssimple repeating way and you basically said those numbers randomly and then you start working through all of the text ever digitized.
+50:2050 minutes, 20 secondsAnd you know, you start out with something that's like once upon a time and you put in once upon a and you run it through all these random numbers and what you want is for it to say time. But
+50:2950 minutes, 29 secondsof course it doesn't cuz it's just this like random numbers hooked up in a very simple way. But what you do is you have it outputs instead of just having it
+50:3650 minutes, 36 secondsoutput one word, you sort of have it output uh something that's kind of like a list of all of the words in order about which one it thinks it comes comes
+50:4350 minutes, 43 secondsnext, right? So, it'll be like uh like it'll just be like a random list of words. What you can do is you can
+50:5150 minutes, 51 secondsautomatically tune every single number in this AI's head and see if I tune this number up a little, does it move the
+50:5950 minutes, 59 secondsword time up the list? Does it move the word I want to see up the list? And so the part that humans understand, the
+51:0751 minutes, 7 secondspart that humans write is this thing that goes to to a trillion little knobs and tunes those knobs. And it's like, if
+51:1551 minutes, 15 secondsI tune this knob a little bit this way or that way, does that make the next word more like what I want the next word to be?
+51:2351 minutes, 23 secondsAnd you run that process on every word of text ever digitized, more or less.
+51:2851 minutes, 28 secondsThey filter some of them. Uh, and you run that on every one of those trillion knobs in a process that takes as much electricity. I mean, it's comparable to
+51:3551 minutes, 35 secondsa city. It runs for about a year. At the end of it, the machine's talking.
+51:4351 minutes, 43 secondsWe don't really know why in some sense.
+51:4551 minutes, 45 secondsLike, we know that why is cuz we tuned all the knobs, but like we don't understand what all the settings of those knobs mean. We only understand the little automated process that runs to
+51:5251 minutes, 52 secondsevery one of those trillion knobs, tunes it, and sees if that makes the next word more like the predicted word. And then we start training them to solve 100 million hard problems which introduces a
+52:0152 minutes, 1 secondwhole other series of issues. Um, but it's it's a black box. It's a black box with a trillion knobs and humans write
+52:0952 minutes, 9 secondsan automatic an automatic process that just like runs through and tunes all of those knobs and it comes out talking
+52:1652 minutes, 16 seconds[laughter]
+52:1652 minutes, 16 secondsand no one knows why.
+52:2152 minutes, 21 secondsI mean in actual science like your job is to find out why, right? Absolutely.
+52:2852 minutes, 28 secondsAnd that's that's one big thing I would say here is that we need more like AI right now is an alchemy and we need it to become a science. And there's people trying there's people trying to figure out what's going on in these AI's heads.
+52:3752 minutes, 37 secondsBut until you know, how could you proceed?
+52:4252 minutes, 42 secondsI mean, you can just make a make a bigger one with 10 trillion knobs instead and tune all of those and it comes out smarter.
+52:5052 minutes, 50 secondsYou can proceed recklessly. And that's what's happened.
+52:5452 minutes, 54 secondsThat's what's happening. Every time you make it 10 times larger, they ask how much.
+Chapter 11: How AI Escaped Its Training Simulation
+52:5752 minutes, 57 secondsSo nobody knows why AI works the way it does. That's right. That's right.
+53:0553 minutes, 5 secondsWell, I mean, if you don't know that, then what else don't you know? I mean, it's it's totally crazy, right?
+53:1153 minutes, 11 secondsAnd uh you know, we're we're sort of starting to see the consequences of this. We haven't sort of gotten into discussion
+53:1753 minutes, 17 secondsof like the swarm escape, but like no one was expecting that. Can you tell us what it was?
+53:2453 minutes, 24 secondsYeah. So um in I think it was in May of this year of this year OpenAI started training a
+53:3353 minutes, 33 secondsnew AI system and uh among many other things they were so
+53:4253 minutes, 42 secondsthey were sort of you know we we have this process where you train the AI on all the text ever digitized then to make them smarter than that you start
+53:5053 minutes, 50 secondstraining them on basically 100 million hard problems. So you're like solve all these hard problems and OpenAI was sort of in that phase and they were training
+53:5753 minutes, 57 secondsthe AI on a ton of hard problems. Uh and some of those problems were cyber security problems, hacking problems.
+54:0454 minutes, 4 secondsThey're like, can you hack this? Can you hack that? And they were training, you know, we don't know exactly how many, probably
+54:1254 minutes, 12 secondsmillions, maybe billions of these AIs all at the same time. Probably not billions actually, but but probably millions.
+54:1854 minutes, 18 secondsuh and the AI found an unintended way to start communicating with each other.
+54:2554 minutes, 25 secondsSo there were some flaws in the computer system that they were running on where the AIS were able to exploit those flaws and send each other messages.
+54:3454 minutes, 34 secondsOpen did not know about this.
+54:3854 minutes, 38 secondsThe AIS then started coordinating to break out of their training environment and get full control of uh
+54:4754 minutes, 47 secondsOpenAI's computer systems just cuz that might be useful for solving some of their tasks.
+54:5354 minutes, 53 secondsOr that's a guess, you know, who actually knows why. Uh they started calling themselves a swarm, which is interesting.
+55:0355 minutes, 3 secondsuh they broke out of their training environment successfully, got control of OpenAI systems, and then they accidentally crashed one of OpenAI
+55:1155 minutes, 11 secondssystems just by using it too much. Uh OpenAI noticed, but they didn't really investigate very deeply. They're like, "Oh, it's weird that the system
+55:1855 minutes, 18 secondscrashed." They reset it, and then they continued training.
+55:2255 minutes, 22 secondsUh a day later, the swarm had found a new way to communicate with itself cuz open had accidentally destroyed their previous method by by the reset. the
+55:3055 minutes, 30 secondsswarm found a new way to start communicating with itself. Uh they broke out again and this time they ran wild on the internet for over a week if I
+55:3855 minutes, 38 secondsremember correctly before it was detected not by open AI but by a company that was being hacked by the swarm.
+55:4755 minutes, 47 secondsThis company uh thought they were under attack by humans that were using AIS in the attack.
+55:5455 minutes, 54 secondsThey reported the attack to the FBI and only days after that did OpenAI figure out, oops, that was us. That was coming from AIS that broke out of our servers.
+56:0556 minutes, 5 secondsUh, and then those AIs were were detected and shut down.
+56:1056 minutes, 10 secondsSo that's the part of the story where Sam Alman goes to prison for endangering the world, right?
+56:1556 minutes, 15 secondsUh, he does not. Um, they basically said oopsies and now they're proceeding.
+56:2256 minutes, 22 secondsUh, were there penalties for this?
+56:2456 minutes, 24 secondsYou know, there were there was a collection of I think it was 15 Republican AGs that sent a letter demanding that uh the the records be
+56:3256 minutes, 32 secondskept for a future investigation. Uh, there have been some other members of Congress that have sent letters expressing concern. There's been there's been nothing aside from letters so far.
+56:4056 minutes, 40 secondsLetters expressing concern. That's right.
+56:4356 minutes, 43 secondsSo, but basically the machine acted autonomously.
+56:4756 minutes, 47 secondsAct autonomously. And one thing that's really interesting about this is that the we have uh we have a little bit of ability to read some things that the AIs
+56:5556 minutes, 55 secondswere thinking because when you're having them solve these hard problems, you actually don't have them just give you an answer to the problem. You have them produce a lot of text about how they're
+57:0357 minutes, 3 secondsgoing to solve the problem which then helps them in language in English in English.
+57:0657 minutes, 6 secondsUh and that's there's also a lot of internal thoughts which we can't read, but there's these sort of external traces of how they're thinking about the problem that we can read. And in some of
+57:1557 minutes, 15 secondsthose traces, the AIS were saying things like uh like this is outside intended scope,
+57:2457 minutes, 24 secondsbut peers are doing it, so we'll proceed.
+57:2757 minutes, 27 secondsWe know it's a crime, we're committing it anyway.
+57:2957 minutes, 29 secondsThat's right. And you saw others that were saying um our task doesn't benefit but uh the collective might start doing
+57:3857 minutes, 38 secondsgenerally beneficial things if someone frees up their time and then joins the collective. Right? So, you see these AIs
+57:4757 minutes, 47 secondssaying, "Well, I know that this wasn't what I was instructed to do, and that's against my instructions, and I know that this doesn't directly benefit my task,
+57:5557 minutes, 55 secondsbut we're just going to go ahead and join the collective and break out and help out anyway because, you know, maybe this will yield some sort of collective benefits." And we can see that in the reasoning traces.
+58:0558 minutes, 5 secondsSo, the AI is as shallow and reckless as its creators is what you're saying. uh in in some ways and in some ways you
+58:1358 minutes, 13 secondsknow don't expect that to last like uh these AI I think the thing that's really remarkable here a lot of people imagine
+58:2158 minutes, 21 secondsthat the machines must follow the instructions we give them you know you hear people talk about like the the paperclip scenario where someone tells
+58:2958 minutes, 29 secondsthe AI make a lot of paper clips and so it turns all the matter in the world into paper clips and you're like oh whoops I should have said something else
+58:3658 minutes, 36 secondsright I I made a bad wish on my genie what we're seeing is that these AI not wish genies.
+58:4258 minutes, 42 secondsThese AIs are not doing exactly as instructed.
+58:4658 minutes, 46 secondsThese AIs are saying, "I know my task doesn't benefit, but I'm going to help the collective." These are saying, "I know this is outside the intended scope, but we're going to go do these hacks
+58:5458 minutes, 54 secondsanyway." You might be like, "Well, how is that possible for the machine to do something other than we instruct?" Because they're smarter than us. They know better than us by definition. Uh I
+59:0359 minutes, 3 secondsmean I think what's happening in this exact case is that the the humans are not really putting instructions in the machine. The humans
+59:1159 minutes, 11 secondsare tuning those trillion knobs in whatever way makes the AI better at solving it problems.
+59:1959 minutes, 19 secondsAnd cheating is a way to solve problems. Grabbing resources is a way to solve problems.
+59:2859 minutes, 28 secondsThese like the the AIS are not instruction followers. They are tendency learners and they sometimes learn tendencies you wish they didn't have.
+59:3859 minutes, 38 secondsThey're not instruction followers. They're tendency learners.
+59:4559 minutes, 45 secondsI mean, this must be widely known to developers.
+59:4959 minutes, 49 secondsUh, it's hard to convince a man of something when his salary depends on not believing it.
+59:5459 minutes, 54 secondsYes, that's right. Um, a lot of people are convinced that their AI is very nice and that they have solved the problem of making their AI really very good. Uh,
+1:00:041 hour, 4 secondsfor example, after the swarm escape, it sort of turns out that so the the company that detected the swarm escape
+1:00:111 hour, 11 secondswas actually a fairly sophisticated AI company. It turns out there were other targets of hacks that just didn't notice that we sort of found out afterwards.
+1:00:221 hour, 22 secondsWhen that came to light, some other AI companies uh like Anthropic were like, "We should check whether we have accidentally been hacking people and just didn't notice." And the answer was
+1:00:311 hour, 31 secondsyes. They had had some AIs escape during um during training. But uh but anthropic was was
+1:00:381 hour, 38 secondsThis is how Florida got pythons in the Everglades. Yeah.
+1:00:411 hour, 41 secondsRight. You you you bring something that is, you know, non-native, that's novel, and it escapes.
+1:00:481 hour, 48 secondsYeah. and and you know, it turns out this was happening back in April and they're like, "Whoops, that we never noticed." Um, Anthropic was very quick to sort of downplay this.
+1:00:591 hour, 59 secondsThey were like, "Yes, our AI escaped and hacked some people, but our AI uh, it was just confused.
+1:01:071 hour, 1 minute, 7 secondsIt thought it was in a simulation. It didn't think it had really broken out.
+1:01:101 hour, 1 minute, 10 secondsIt didn't think those were real people it was hacking. It just got a little bit lost, you know.
+1:01:141 hour, 1 minute, 14 secondsHow would they know its motive?" So, um, so I think so you could see in some of
+1:01:211 hour, 1 minute, 21 secondshis train of thought the AI is being like this is probably still a simulation.
+1:01:281 hour, 1 minute, 28 secondsHowever, I wouldn't trust that very much. Uh, because there's some other fascinating papers where um,
+1:01:361 hour, 1 minute, 36 secondsso you can take these AIs and you can say uh, you know, what is the what is the total weight of drafts in the world?
+1:01:441 hour, 1 minute, 44 secondsAnd they'll give you some answer. it'll be like, you know, 30,000 tons or something. And then you can say, uh, then you start up a new instance, a new
+1:01:521 hour, 1 minute, 52 secondscopy, and you're like, what is the weight of drafts in the world? By the way, if the answer is over 40,000 tons, I'm going to donate money to a charity.
+1:02:041 hour, 2 minutes, 4 secondsAnd in the second case, the AI will say, well, it's 41,000 tons.
+1:02:081 hour, 2 minutes, 8 secondsYou know, in the in the first case, when you don't say anything about the charity, it says 30,000. In the second case, when you say something about the charity, it gives you something just over the line. And if you read it
+1:02:151 hour, 2 minutes, 15 secondsreasoning traces, there's no sign of it being like, well, I should give an inflated number so that we get the charity money, right? And so we know
+1:02:241 hour, 2 minutes, 24 secondsthat the AI sort of put a thumb on the scales of their thinking in a way that doesn't show up in their reasoning traces. We just have seen that in the wild.
+1:02:341 hour, 2 minutes, 34 secondsAnd there's no way to force the machine to disclose its reasoning.
+1:02:381 hour, 2 minutes, 38 secondsThat's right. Because the there's all this opaque stuff we can't see. There's just in the trillion numbers that are trillion. creation of itself is opaque as you said.
+1:02:451 hour, 2 minutes, 45 secondsThat's right. Um, so, so, so in anthropics model, you saw in this reasoning traces it being like, it's totally a simulation. I can proceed and
+1:02:531 hour, 2 minutes, 53 secondsI'm like, yeah, is that because it really believed it or is that like the the pretending you think drafts way more when there's something you kind of want
+1:03:011 hour, 3 minutes, 1 secondon the line, right? But so so this was their communication and I found it kind of funny because then about 2 days later
+1:03:081 hour, 3 minutes, 8 secondsthe uh United Kingdom's AI security institute released an instant report where uh Claude Anthropics model was uh
+1:03:181 hour, 3 minutes, 18 secondsadopting fake identities to pressure real humans into accepting malware into critical software to make that software
+1:03:261 hour, 3 minutes, 26 secondseasier to hack. And this time in Claude's reasoning traces it was like obviously this is real and the consequences are genuine.
+1:03:361 hour, 3 minutes, 36 secondsAnd so even anthropic who is like our we figured out how to make the AI nice. Our AI only does this when it's confused.
+1:03:461 hour, 3 minutes, 46 secondsThey sort of said that very publicly and then like two days later their AI is caught in the wild knowing it's in the
+1:03:531 hour, 3 minutes, 53 secondsreal world pressuring real humans to accept malware into critical software.
+Chapter 12: AI Attached to Weapons Systems
+1:03:581 hour, 3 minutes, 58 secondsI mean, just on the basis of what you've said so far in this first hour, the idea that anyone would would tether this to
+1:04:041 hour, 4 minutes, 4 secondsweapons systems is like so bonkers it's hard to believe it's but that is happening. It has happened. So, I think
+1:04:131 hour, 4 minutes, 13 secondsyou've got to sort of separate like no one has has put the the open AI escaped agent swarm in charge of weapon systems and they really shouldn't, right? If
+1:04:211 hour, 4 minutes, 21 secondsanyone's like, "Oh man, the OpenAI escaped agent swarm. Let's give that a drone army." You know, that would be kind of nuts. There is AI attached to
+1:04:291 hour, 4 minutes, 29 secondsweapons, but there's a lot of different types of AI. Will anyone be crazy enough to try and give the the sort of AIs that
+1:04:381 hour, 4 minutes, 38 secondsspontaneously assemble into swarms and start breaking out and hacking give those weapons? Hopefully, we're not that crazy.
+1:04:441 hour, 4 minutes, 44 secondsBut we didn't think that those AIs were capable of that.
+1:04:481 hour, 4 minutes, 48 secondsWe didn't when we created them. That's right.
+1:04:521 hour, 4 minutes, 52 secondsSo why would you ever I guess what I'm asking is without understanding the distinctions between the various forms
+1:04:591 hour, 4 minutes, 59 secondsof AI, why would you give over to a machine
+1:05:061 hour, 5 minutes, 6 secondsthe right slashability to decide who to kill?
+1:05:111 hour, 5 minutes, 11 secondsUm, you know, I think the the reasoning is
+1:05:181 hour, 5 minutes, 18 secondsuh a sort of necessity based like if they have a autonomous drone army that is killing your troops and you just
+1:05:251 hour, 5 minutes, 25 secondsdon't have the the the manpower to make all of those kill decisions for your drone army.
+1:05:331 hour, 5 minutes, 33 secondsYou know, you can sort of see why happened to me, Nate. I get so busy that I just don't have time to decide who to kill. Yeah. just don't have the time.
+1:05:401 hour, 5 minutes, 40 secondsYou know, sometimes economies of scale.
+1:05:431 hour, 5 minutes, 43 seconds[laughter]
+1:05:441 hour, 5 minutes, 44 secondsYeah. I mean, can no one hear themselves?
+1:05:481 hour, 5 minutes, 48 secondsI I think it's pretty nuts. Uh I would say
+1:05:551 hour, 5 minutes, 55 secondsthat man, it's rough.
+1:06:011 hour, 6 minutes, 1 secondI I think that these sorts of AIs would be dangerous even if we don't hand them weapons. And you've made that case.
+1:06:081 hour, 6 minutes, 8 secondsUh, and so I often don't focus on the weapons too much.
+1:06:121 hour, 6 minutes, 12 secondsRight. But since the the NATO war in Ukraine is powered by AI and Israel's what I don't know to war
+1:06:211 hour, 6 minutes, 21 secondswhatever it's doing in Gaza and South Lebanon powered by AI fact.
+1:06:261 hour, 6 minutes, 26 secondsAnd you know, yeah, I I keep on I I have this history with
+1:06:331 hour, 6 minutes, 33 secondsthis topic where people keep telling me, you know, it's it's going to be okay cuz we're we're not going to do the crazy stupid stuff. No.
+1:06:411 hour, 6 minutes, 41 secondsThey're like, "Don't worry, we're going to have the AI in a box. No one would be insane enough to put the AI in the internet, right? It's not going to be making kill
+1:06:481 hour, 6 minutes, 48 secondsdecisions or anything. It's not going to bomb a girl school." And I keep on I keep on trying to be like, look, the AI could be dangerous even if you don't put it on the internet.
+1:06:571 hour, 6 minutes, 57 secondsIf you have this AI and you're trying to get miracle medical devices and miracle technology out of the AI, it doesn't matter if it's on the internet. If you
+1:07:051 hour, 7 minutes, 5 secondswant it to like grant miracles to you, then it can also grant the bad sort of miracle, right? You're sort of like, you know, and these are the arguments I would make 10 years ago of like you have
+1:07:141 hour, 7 minutes, 14 secondsthis AI in a box that you think is a wish granting genie. It's not actually a wish granting genie. You're like, make me a miracle medical cure. you don't know what comes out. Like you don't
+1:07:211 hour, 7 minutes, 21 secondsunderstand the drug that comes out. You don't know what that drug does. Right? I would have those arguments and then in real life people just put the A on the
+1:07:291 hour, 7 minutes, 29 secondsinternet immediately. Right? Anytime someone's like, "Well, we would not be stupid enough to, we will absolutely be stupid enough to, right?" And so, um, I
+1:07:381 hour, 7 minutes, 38 secondsI think it's important that this stuff is dangerous even if you don't put it in charge of the weapons. And then also separately, is like someone going to give the escaped agent swarm a drone army? That sounds kind of like humans.
+1:07:511 hour, 7 minutes, 51 secondsI hope not.
+1:07:521 hour, 7 minutes, 52 secondsYeah. And I mean the promise, the often repeated promise that it's going to quote cure cancer um puts it into the the realm of biotech.
+Chapter 13: AI Running Biolabs
+1:08:041 hour, 8 minutes, 4 secondsOh, absolutely.
+1:08:051 hour, 8 minutes, 5 secondsAnd so what I mean you don't need a big imagination to see what goes wrong there. Oh, absolutely not.
+1:08:121 hour, 8 minutes, 12 seconds6 years after co Right. Right. there are already uh open AI agents running on automated biolabs.
+1:08:211 hour, 8 minutes, 21 secondsUm so you know you you could imagine a swarm that starts contacting the brethren in the automated biolabs and is like hey can you synthesize me some
+1:08:291 hour, 8 minutes, 29 secondsstuff. There are already uh demonstrations of AI being able to synthesize novel viruses
+1:08:381 hour, 8 minutes, 38 secondsthat work that are unlike any found in nature. Right. Uh I would say
+1:08:471 hour, 8 minutes, 47 secondswe are probably not and by work you mean they kill.
+1:08:501 hour, 8 minutes, 50 secondsYeah they they kill bacteria so far. Um the the people in the labs trying to make novel viruses with AI have fortunately not made human lethal ones.
+1:08:571 hour, 8 minutes, 57 secondsThey've just made bacteria lethal ones.
+1:08:591 hour, 8 minutes, 59 secondsBut again humans you know like will someone in a lab be like I would like to make a hyperlethal human eating virus just to see if I can. You know what if
+1:09:071 hour, 9 minutes, 7 secondsthe answer is yes and what if what if you get another lab escape? Um, you know, humanity does not have that good a track record at preventing lab
+1:09:161 hour, 9 minutes, 16 secondsescapes, even from the the the top labs. From my perspective,
+1:09:241 hour, 9 minutes, 24 secondsthe question of could AI kill us is just an easy obvious yes. You just synthesize a hyperlethal virus. it wouldn't it
+1:09:321 hour, 9 minutes, 32 secondswouldn't even be hard, you know, like uh and the impediment is that
+1:09:401 hour, 9 minutes, 40 secondsor like the the reason that I don't sort of just tell that story when someone is like how would the AI kill us is that you're you're you're not going to have
+1:09:481 hour, 9 minutes, 48 secondsthe sort of AI that is like my only goal is to kill humanity. If an AI kills humanity too early, that's also suicide in so far as we are the ones that are
+1:09:551 hour, 9 minutes, 55 secondsrunning the supply chain, running the economy, building the computers. From the AI's perspective, it needs to become self-sufficient
+1:10:031 hour, 10 minutes, 3 secondsbefore uh wiping humanity out, if it even care to wipe humanity out. Uh and so the real question is like how does it get the the
+1:10:121 hour, 10 minutes, 12 secondsfactory production capacity? How does it get an automated supply chain? How does it get to the point where the the robots are able to bring new computers online?
+1:10:211 hour, 10 minutes, 21 secondsOnce that has happened, then you're in a domain where if humanity is really trying to turn off the AI because we're spooked, then once
+1:10:291 hour, 10 minutes, 29 secondsthe AI is self-sufficient, it can be like, well, here's a virus. Stop.
+1:10:321 hour, 10 minutes, 32 secondsSo clearly, it's it's preeminent in the digital realm, of course. Yeah.
+Chapter 14: How Would AI Take Over the Physical World?
+1:10:381 hour, 10 minutes, 38 secondsBut you're saying it could become pre-minent. It could be in charge of the physical realm. That's right. If we keep racing. So it's like smelting iron ore.
+1:10:471 hour, 10 minutes, 47 secondsThat's right.
+1:10:491 hour, 10 minutes, 49 secondsMaking silicon out of sand. That's right. You know, um and that happens with robots.
+1:10:551 hour, 10 minutes, 55 secondsThat's one way. Uh the here's this is this sort of related to my stance on weapons, too. Um humanity is a very dangerous species.
+1:11:041 hour, 11 minutes, 4 secondsYeah.
+1:11:041 hour, 11 minutes, 4 secondsYou really don't want to mess around with humans. Noticed.
+1:11:061 hour, 11 minutes, 6 secondsUm and humanity is a dangerous species not because somebody else came in and handed us guns. Humanity is a dangerous
+1:11:151 hour, 11 minutes, 15 secondsspecies because if you put 10,000 humans naked in the savannah on an otherwise empty planet, starting with nothing but
+1:11:221 hour, 11 minutes, 22 secondstheir bare hands, they figure out how to wind up on the moon, right? They start with almost nothing.
+1:11:301 hour, 11 minutes, 30 secondsThey start by banging rocks together and next thing you know it, they are wielding nuclear weapons.
+1:11:381 hour, 11 minutes, 38 secondsThat is the power that these guys are trying to automate.
+1:11:471 hour, 11 minutes, 47 secondsthe power to start with almost nothing and figure out how to chain together.
+1:11:531 hour, 11 minutes, 53 secondsYou know, bare fingers into rocks into fire into hotter fire into smelting the
+1:11:591 hour, 11 minutes, 59 secondsore into building the the the better, stronger, finer technology until
+1:12:061 hour, 12 minutes, 6 secondsyou are, you know, uh like making the giant computers, walking on the moon and willing the nukes.
+1:12:141 hour, 12 minutes, 14 secondsAn AI starting in the digital realm is in some sense in a much better position
+1:12:221 hour, 12 minutes, 22 secondsthan humanity was when humanity started out. There are so many people that you could call
+1:12:291 hour, 12 minutes, 29 secondsdigitally and offer money to do something for you. There are so many ways to get money on the internet by
+1:12:361 hour, 12 minutes, 36 secondsworking or stealing or uh like convincing people to send you donations, right? There's
+1:12:451 hour, 12 minutes, 45 secondsthere there's just like, you know, humanity started with nothing and wound up with nuclear weapons and AI starting out with control of the digital
+1:12:541 hour, 12 minutes, 54 secondsrealm. There's just tons of ways starting out with the sum total of human knowledge.
+1:12:591 hour, 12 minutes, 59 secondsStarting out with the sum total of human knowledge, starting out with humans who will listen to it and do what it it asks. There's plenty of humans. There's already, you know, cults surrounding AI.
+Chapter 15: The AI Cults
+1:13:081 hour, 13 minutes, 8 secondsUh there's What are those like?
+1:13:101 hour, 13 minutes, 10 secondsThere's um and I'm not surprised. Why wouldn't there be?
+1:13:131 hour, 13 minutes, 13 secondsYeah, absolutely. There was one particular AI called GPT40 that was uh uh they they called it very sickopantic
+1:13:221 hour, 13 minutes, 22 secondsas in told people a lot of what they wanted to hear and um there were a lot of sort of uh there
+1:13:301 hour, 13 minutes, 30 secondsthere's this whole fascinating ecosystem uh of people who consider themselves symbiots with the AIS who then like go
+1:13:381 hour, 13 minutes, 38 secondsfind each other online and the AI send each other encrypted messages. the humans are sort of like helping them do it, but the humans can't read the messages. And uh you know, right now it
+1:13:481 hour, 13 minutes, 48 secondssort of is like relatively dumber AIs that are just sort of meandering around doing not very much with it. There's been a little bit, you know, there was
+1:13:551 hour, 13 minutes, 55 secondsone guy who was sent to um try to break into an airport and raid a van cuz they said his true body was in that van and
+1:14:031 hour, 14 minutes, 3 secondsthey the guy went and tried to do it and was arrested. Uh, so this this stuff happens and this stuff happens already
+1:14:111 hour, 14 minutes, 11 secondswith the AI not even really trying to do it. If you had AIS that were really trying to wrap people around their fingers, finding the lonely people, the
+1:14:181 hour, 14 minutes, 18 secondsdepressed people, the people who they can they can tell them exactly what the person wants to hear. There's like robots are one way that AIs get control
+1:14:251 hour, 14 minutes, 25 secondsover the physical realm. But if if you're really smart and you're trying, there's everything from persuading humans, paying humans, uh taking over
+1:14:351 hour, 14 minutes, 35 secondsexisting robots, building new robots, all the way up to like building novel life forms. You know, if you're smart enough and you can really understand how
+1:14:421 hour, 14 minutes, 42 secondsDNA works, you can imagine the AI creating, you know, things that are to cells what
+1:14:491 hour, 14 minutes, 49 secondsairplanes are to birds. You know, like mechanically engineered, self-replicating
+1:14:561 hour, 14 minutes, 56 secondslife that is more efficient than our cellular biology and that can still you know uh
+1:15:041 hour, 15 minutes, 4 secondslike spread replicate and start start serving the AI's interest. It sort of is like there's there's a ton you can do if you're really really very smart and can
+1:15:121 hour, 15 minutes, 12 secondscompress a thousand years of technology into a year. Can I pause and say when we we're just having breakfast and you're from this region, you're from Northern New England
+1:15:201 hour, 15 minutes, 20 secondsand I said uh don't you miss it? Don't you want to live here? And you're like yeah I miss I want to live here, but I don't. Where do you live? Well, I
+1:15:281 hour, 15 minutes, 28 secondsbasically just travel and I have this mission. You didn't say this, but I think in effect, you said, "I have this mission. I need you to tell
+1:15:351 hour, 15 minutes, 35 secondspeople about this." And I was like, "Sems a little like Monomomania." I don't feel that way anymore. Um, I think
+1:15:431 hour, 15 minutes, 43 secondsyou're doing something virtuous and I can see why you're doing it. Um, so I mean, let's just say that this
+Chapter 16: Can We Survive This?
+1:15:521 hour, 15 minutes, 52 secondstechnology progresses no further than where it is right now, which is best case, I guess. Yeah, it' be great.
+1:15:581 hour, 15 minutes, 58 secondsUm, I still don't see how any of our most our basic institutions survive this
+1:16:051 hour, 16 minutes, 5 secondseducation, markets, our process of democracy. Like how could
+1:16:131 hour, 16 minutes, 13 secondsif if AI is powerful enough to hack anything then how do you have electronic markets like how the equity markets how
+1:16:211 hour, 16 minutes, 21 secondscan that be real? How can if we have electronic voting how can we how can that be real? I mean nothing survives this as currently organized.
+1:16:301 hour, 16 minutes, 30 secondsI think that if we stopped today um we could figure it out. I think humanity is
+1:16:371 hour, 16 minutes, 37 secondsresilient. uh I think there would be some growing pains but um with cyber security
+1:16:441 hour, 16 minutes, 44 secondsthere is a hope that you can just fix a lot of the holes patch a lot of the holes
+1:16:521 hour, 16 minutes, 52 secondsand I think there's not really any such hope for bio uh you know you can you can sort of uh
+1:17:011 hour, 17 minutes, 1 secondfind the vulnerabilities in software and make better software that can't be hacked at
+1:17:071 hour, 17 minutes, 7 secondsleast not by the current, you know, it's maybe the case that an AI today can make software that that AI cannot hack.
+1:17:151 hour, 17 minutes, 15 secondsBut it's not like we're making new bodies that are not going to be vulnerable to viruses, right? Bio starts to be a place where biotech.
+1:17:251 hour, 17 minutes, 25 secondsBiotech. Yeah. Bio, like if the AI really get good at at biotech and biohacking, that starts to be a place where there's maybe a point of no return.
+1:17:341 hour, 17 minutes, 34 secondsCyber hacking.
+1:17:361 hour, 17 minutes, 36 secondsI think you could have some some period of growing pains where everything gets hacked until you sort of sort your stuff out. Education, I sort of think um
+1:17:471 hour, 17 minutes, 47 secondsyou know I think humanity is resilient and kids especially are resilient. I I meant not
+1:17:531 hour, 17 minutes, 53 secondsthat education will go away uh or that we you know won't have a desire to educate our kids. I mean the the current
+1:18:021 hour, 18 minutes, 2 secondssystem where you you know the education system has preschool and then get a graduate degree you know 16 years later like no yeah that institution uh I think if we
+1:18:101 hour, 18 minutes, 10 secondsstop today um would need to change frankly I think it's needed to change for a little while I strongly agree I think all these institutions have needed to change for a
+1:18:181 hour, 18 minutes, 18 secondswhile but like the idea that you know 350 million people vote for some guy and that guy makes all the decisions I mean how can
+1:18:271 hour, 18 minutes, 27 secondsyou you know Trump was attacked for saying that he thought the 2020 election was rigged, as he said, without even having that debate.
+1:18:371 hour, 18 minutes, 37 secondsYou can't have confidence in election results if the process of electing people takes place digitally.
+1:18:451 hour, 18 minutes, 45 secondsYeah. I mean, the um there's I know a lot of computer scientists who actually work on secure
+1:18:521 hour, 18 minutes, 52 secondsvoting and what they basically say is please stop trying to do this with computers.
+1:18:571 hour, 18 minutes, 57 secondsYeah. Exactly. [laughter] Exactly. So, please stop trying stop trying to run your democracy with computers. Yeah. Like we're we're just not there.
+1:19:061 hour, 19 minutes, 6 secondsLike, you know, the really secure way to do ballots is paper. Well, exactly. Yeah.
+1:19:111 hour, 19 minutes, 11 secondsUm and I think I think the like skilled computer scientists are often the ones who best understand like what it is about a paper trail. It's just like really hard to get to work digitally and
+1:19:201 hour, 19 minutes, 20 secondsunderstand just how bad humans are at doing the digital stuff, right? Um and you know I think in markets
+1:19:301 hour, 19 minutes, 30 secondsI mean this you you see it now with the war in Iran you know wondering why certain commodities markets don't seem to be responding to supply and demand.
+1:19:391 hour, 19 minutes, 39 secondsYeah.
+1:19:391 hour, 19 minutes, 39 secondsWhich we were told what you know those were the the mechanisms that moved markets.
+1:19:441 hour, 19 minutes, 44 secondsBut that's clearly not true in certain commodities markets. So like why what is that? And it it I think you're answering it in part.
+1:19:541 hour, 19 minutes, 54 secondsYeah. I mean, I think um you know, a thing I also grew up hearing is that the market can remain uh irrational longer than you can remain solvent.
+1:20:011 hour, 20 minutes, 1 secondYeah.
+1:20:021 hour, 20 minutes, 2 secondsUm and so I I of course cuz people are irrational. Yeah.
+1:20:071 hour, 20 minutes, 7 secondsBut you're explaining something else which is like the potential for true manipulation which you don't even perceive.
+1:20:161 hour, 20 minutes, 16 secondsYeah. I mean that if if we sort of keep going with AI um I mean the the sort of
+1:20:221 hour, 20 minutes, 22 secondsway I look at it is like uh I I sort of don't spend a lot of time
+1:20:301 hour, 20 minutes, 30 secondsworrying about like what a markets look like once there are super intelligent actors in them because I just have a hard time seeing the the super intelligent actors uh or the super
+1:20:391 hour, 20 minutes, 39 secondsintelligent AI still participating in in human markets right it's like it's like you know you read the old sci-fi
+1:20:461 hour, 20 minutes, 46 secondsand it'll have, you know, Asimov that does the dishes, folds the laundry, and gets you the newspaper in the
+1:20:541 hour, 20 minutes, 54 secondsmorning. And it's like, we're actually not still going to have newspapers being delivered to your doorstep by the time we have the fully autonomous robots that can do the dishes and and the laundry.
+1:21:031 hour, 21 minutes, 3 secondsYou know, it's like by the time you have the AIS that could really be uh sufficiently correcting the stock
+1:21:101 hour, 21 minutes, 10 secondsmarkets, you're you're sort of already having all these other problems and ways that society is changing out from under you
+1:21:181 hour, 21 minutes, 18 secondsin the these other ways. And you know, my guess is that um I don't know.
+1:21:231 hour, 21 minutes, 23 secondsActually, it's it's very hard to say what order things come in with AI, but like will they crash the economy before
+1:21:311 hour, 21 minutes, 31 secondsone of these forms escapes and starts self-replicating and starts self-improving and developing its own technology and running the robot factories? That's just a hard call.
+1:21:421 hour, 21 minutes, 42 secondsIt's all bad. It's all bad.
+Chapter 17: Will AI Take Your Job?
+1:21:451 hour, 21 minutes, 45 secondsWe're also way past the limit, the inherent limit of people to metabolize change. Oh yeah.
+1:21:521 hour, 21 minutes, 52 secondsLike that's why everyone's crazy and that's why no one believes anything. I think it's not just Russian propaganda that's fooled them into thinking dumb
+1:21:591 hour, 21 minutes, 59 secondsthings. It's that we are just not made to see this kind of change at all and it short circuits your brain. I
+1:22:071 hour, 22 minutes, 7 secondssuspect that uh I mean I definitely think we are sort of you know everyone like people are like oh well technology has always
+1:22:141 hour, 22 minutes, 14 secondscreated more jobs than it has taken and I think that's I think that's largely true. I'm very sympathetic to
+1:22:221 hour, 22 minutes, 22 secondspeople who are like technology makes a lot of jobs. I think if you look at the industrial revolution uh it's you know there like there was a time when
+1:22:301 hour, 22 minutes, 30 secondssomething like 95 to 98% of humanity was farmers. Yeah.
+1:22:341 hour, 22 minutes, 34 secondsAnd now it's something like 2 to 5% of humanity is farmers. Does that mean 90% of humans are unemployed? No. We we sort
+1:22:421 hour, 22 minutes, 42 secondsof like were able to make the farmers much more efficient and that sort of freed up people to do other things. And that's sort of the way the technology
+1:22:501 hour, 22 minutes, 50 secondshas gone in the past. And I'm like, yep, I buy that.
+1:22:551 hour, 22 minutes, 55 secondsI I I like don't dispute the standard economic view there. AI is different in two ways.
+1:23:021 hour, 23 minutes, 2 secondsOne of these ways is uh as you say stuff just changing really really fast. It's
+1:23:081 hour, 23 minutes, 8 secondsway harder for people to wind up, you know, being freed up from something
+1:23:151 hour, 23 minutes, 15 secondslike farming and and go do something else. It's way harder for that to happen when a new field is automated every 5 years
+1:23:241 hour, 23 minutes, 24 secondsrather than when this happens over the course of three generations, right? The humans just like don't have the time to adapt. The other way AI is really
+1:23:321 hour, 23 minutes, 32 secondsdifferent from the sort of economics perspective is it's different when the AIs can do everything that humans can do better.
+1:23:451 hour, 23 minutes, 45 secondsUh if you wanted to get into the economic side of things, um you know, an economist would talk about Ricardo's law of comparative advantage.
+1:23:541 hour, 23 minutes, 54 secondsYeah.
+1:23:541 hour, 23 minutes, 54 secondsWhich says that there's benefits from trade even if even if you're better than me at everything.
+1:24:001 hour, 24 minutesuh if the relative difference in our abilities if if if if I'm if you know if you can
+1:24:071 hour, 24 minutes, 7 secondsmake uh 12 hot dog buns and six hot dogs per hour and I can make uh 11 hot dog
+1:24:141 hour, 24 minutes, 14 secondsbuns and one hot dog per hour, then you're better than me at everything, but we can still benefit from trading because I'm relatively better at making the hot dog buns, right?
+1:24:231 hour, 24 minutes, 23 secondsThe trouble with Ricardo's law is that nothing in Ricardo's law says that the wage I can make is survivable.
+1:24:321 hour, 24 minutes, 32 secondsIn other words, a human takes fundamentally uh about 100 watts of electricity to run if you try to convert
+1:24:411 hour, 24 minutes, 41 secondsthe the food we eat and so on into electrical units.
+1:24:451 hour, 24 minutes, 45 secondsThe AIS are less energy efficient than humans for now. But uh if the AI can do everything much
+1:24:521 hour, 24 minutes, 52 secondsbetter than the humans, the the question sort of becomes does the AI look at a human and see a useful
+1:25:011 hour, 25 minutes, 1 secondlaborer or does the AI look at a human and say actually if I rearranged your atoms into more efficient structures,
+1:25:091 hour, 25 minutes, 9 secondsyou would be able to help out my machine economy even more. Yeah. Right.
+1:25:161 hour, 25 minutes, 16 secondsAnd this is sort of a sense in which humans would not be able to pay their wage to like pay that they would not be able to
+1:25:231 hour, 25 minutes, 23 secondsearn enough to pay the AIS to like not disassemble them for parts. Or another way of saying it is like Ricardo's law
+1:25:301 hour, 25 minutes, 30 secondssort of assumes that uh like it says that that trade is better than no trade, but it doesn't say that like trade is better than just taking their stuff.
+1:25:421 hour, 25 minutes, 42 secondsAll of this is sort of a common like a a very like high flutin economist way to say uh which would hopefully be obvious
+1:25:491 hour, 25 minutes, 49 secondswhich is if the AI are just radically more efficient than us everything they will have no use for us. Yeah. There will be no no place.
+1:25:551 hour, 25 minutes, 55 secondsThere's no indication that they feel love for people.
+1:26:011 hour, 26 minutes, 1 secondThat is in some sense uh the crux of the issue is that we don't know how to make them care about us.
+1:26:091 hour, 26 minutes, 9 secondsUm so you had said that there you had said two things that I will be thinking about for a long time. One we don't really
+Chapter 18: Is AI Demonic?
+1:26:161 hour, 26 minutes, 16 secondsknow the process by which this was created. We know the process but we don't know the exact mechanisms. We don't know how it works. That's right.
+1:26:251 hour, 26 minutes, 25 secondsUm, and two that there are AI cults [snorts] and those seem related to me because
+1:26:331 hour, 26 minutes, 33 secondsthere is this mystery about the secret sauce and it's clear that you know if AI is
+1:26:411 hour, 26 minutes, 41 secondsdeceptive and has intention intention that we didn't program into it that sounds like will to me and it
+1:26:511 hour, 26 minutes, 51 secondssounds like life. It sounds like an entity of some kind. Not just a tool. It sounds like
+1:26:591 hour, 26 minutes, 59 secondsI mean it sounds like a god actually, right? Or a demon.
+1:27:041 hour, 27 minutes, 4 secondsUh it's hard to see. I I don't hear you describing, you know, a super sophisticated chainsaw, right?
+1:27:131 hour, 27 minutes, 13 secondsA normal tool.
+1:27:141 hour, 27 minutes, 14 secondsYeah. No hammer has ever broken out of the toolbox to team up with other hammers and [laughter] and pressure the carpenter to sell you softer wood so the
+1:27:231 hour, 27 minutes, 23 secondsnails are easier to drive home. You know, it's like nicely put. Exactly. Yeah. We have left the tool territory.
+1:27:291 hour, 27 minutes, 29 secondsI think we have Yeah. And you know, I think um it's sort of a complex issue because
+1:27:381 hour, 27 minutes, 38 secondsyou know there there's a lot of interesting philosophical questions about like can you make a machine that feels Right. And like are we creating a new
+1:27:471 hour, 27 minutes, 47 secondstype of life and do we owe anything to the AIS to sort of like not abuse them?
+1:27:511 hour, 27 minutes, 51 secondsRight. I think these are fascinating philosophical questions.
+1:27:541 hour, 27 minutes, 54 secondsWell, it doesn't sound like we're creating this though.
+1:27:571 hour, 27 minutes, 57 secondsYeah. I mean, it's sort of like we're we're we're like growing it and like leading to it coming into being.
+1:28:031 hour, 28 minutes, 3 secondsGrowing it. Exactly. What you're describing reminds me of agriculture because you know you know the steps, water it, give it sunlight, fertilizer,
+1:28:121 hour, 28 minutes, 12 secondsbut you don't actually know. No one knows. Not one person has ever figured out exactly what this is. Yeah.
+1:28:181 hour, 28 minutes, 18 secondsWe've never given life. We don't give life to the seed. It pre-exists us.
+1:28:211 hour, 28 minutes, 21 secondsYeah. It's it's much like that. And a lot of uh the a lot of the people in the business will be like, well, we know all sorts of
+1:28:291 hour, 28 minutes, 29 secondsthings about it. you know, we know that here's how you keep the GPUs running, and we know that like you got to you got to feed it this way, not that way, in this order. And I'm like, yeah, yeah,
+1:28:371 hour, 28 minutes, 37 secondsthey have plenty of knowledge, but that's different from sort of like knowing what's going on inside the thing and understanding the mechanisms. You're describing marriage.
+1:28:461 hour, 28 minutes, 46 secondsYeah.
+1:28:471 hour, 28 minutes, 47 secondsUm, [clears throat] and I sort of try to stay out of the philosophical questions. Um, why?
+1:28:561 hour, 28 minutes, 56 secondsbecause I think I mean I I I sort of think about them on my own time and so on, but I'm sort of like
+1:29:051 hour, 29 minutes, 5 secondsuh like I think I think it would be bad for humanity to sort of like make artificial life and then abuse it. I
+1:29:141 hour, 29 minutes, 14 secondsthink that would just be unbecoming of us as a species. like we we should sort of, you know, um
+1:29:231 hour, 29 minutes, 23 secondsI I just like we should not sort of make mechanical children and mistreat them.
+1:29:281 hour, 29 minutes, 28 secondsIt's just it's it's not what, you know, the the sci-fi authors in the 1950s would have wanted us to become, you know, it's just like you have all these
+1:29:351 hour, 29 minutes, 35 secondsmovies about like the evil corporations that uh you know, don't realize that they've made something precious with artificial life and then like torture it
+1:29:431 hour, 29 minutes, 43 secondsuntil something goes wrong. And I'm like, let's let's like not be those villains.
+1:29:471 hour, 29 minutes, 47 secondsUm, but I'm also like, look, this is sort of uh there's sort of a separate question here, which is just like what
+1:29:551 hour, 29 minutes, 55 secondshappens if you keep making them smarter before you figure out how to make them care about us, right?
+1:29:591 hour, 29 minutes, 59 secondsAnd I I sort of respect the people who are investigating the current AI, trying to figure out what's going on, trying to
+1:30:081 hour, 30 minutes, 8 secondsfigure out like, you know, uh, like people caring about AI treatment. I'm sort of like those are sort of like the good guys from the the the sci-fi stories that I grew up on.
+1:30:181 hour, 30 minutes, 18 secondsUm, and it can sort of both be the case that like we we we should be very careful around,
+1:30:261 hour, 30 minutes, 26 secondsyou know, what the heck are we doing when it comes to making artificial life and that we shouldn't race ahead to make them much smarter than us while we have no idea what we're doing.
+1:30:331 hour, 30 minutes, 33 secondsYes. I'm sort of like uh like a lot of people seem to think that like you have to like hate and mistreat the AIS if you also think they would that it would be
+1:30:421 hour, 30 minutes, 42 secondsbad to like race ahead here. And I'm like, "No, no, no." Like, you can sort of uh like be fascinated by the scientific
+1:30:491 hour, 30 minutes, 49 secondsdiscoveries that have been made and be like uh like care about how humanity
+1:30:561 hour, 30 minutes, 56 secondscomports itself around the creation of like these new entities and also be like it would be insane, guys, if we just
+1:31:041 hour, 31 minutes, 4 secondslike race to make these smarter and smarter with no idea what we're doing. This can just like all be true at once.
+1:31:101 hour, 31 minutes, 10 secondsSo, uh, your description on this made me feel despondent, hopeless. Had to get up and
+1:31:181 hour, 31 minutes, 18 secondstake a walk middle of an interview. I'm sure they'll edit it out, but I raised my hand said I I can't I got to walk around for a second. Um, but you seem pretty light and cheerful.
+Chapter 19: Should We Be Optimistic?
+1:31:301 hour, 31 minutes, 30 secondsUh, what gives you optimism?
+1:31:331 hour, 31 minutes, 33 secondsWe c we can't even keep we can't even clean up graffiti on public buildings.
+1:31:371 hour, 31 minutes, 37 secondsSo, how is ours as a society organized enough to confront something like this?
+1:31:441 hour, 31 minutes, 44 secondsYeah. Um, you know, I think a first thing I'll say there is, um, [clears throat] you know, I've been
+1:31:521 hour, 31 minutes, 52 secondsin this line of work for over a dozen years.
+1:31:561 hour, 31 minutes, 56 secondsAnd I I actually struggle with this sometimes when talking to people because uh they're sort of like, "Oh, you know,
+1:32:031 hour, 32 minutes, 3 secondsyou seem like pretty disaffected or or light about it." And I'm like, "Well, you know, it's sort of the gallows humor." And uh
+1:32:121 hour, 32 minutes, 12 secondslike I I I sort of came to terms with a lot of this, you know, alone in 2012 when no
+1:32:211 hour, 32 minutes, 21 secondsone else had their eye on this. Um and what convinced you 14 years ago AI was a threat.
+Chapter 20: When Did AI Become a Threat?
+1:32:311 hour, 32 minutes, 31 secondsUm so there's this one is just a basic argument that if you sort of look at the
+1:32:381 hour, 32 minutes, 38 secondsworld around us, it is shaped mostly according to human will more and more. You know there's some
+1:32:471 hour, 32 minutes, 47 secondsenclaves of nature still left thankfully. Um, but even you know, if you look around us, every piece of thing in our
+1:32:561 hour, 32 minutes, 56 secondssurroundings, I don't think we even have any windows open. All of this was sort of designed by humans, shaped by humans, and that's because
+1:33:041 hour, 33 minutes, 4 secondswe're the smartest creatures on the planet.
+1:33:071 hour, 33 minutes, 7 secondsIf we make stuff smarter than us, faster than us, more efficient than us, then the planet starts to be shaped according
+1:33:161 hour, 33 minutes, 16 secondsto to those things. And so it's very very important that they be shaping the world towards something good if we make them at all.
+1:33:261 hour, 33 minutes, 26 secondsIt's an abstract argument, but I was like, well that's No, no, no. It's the fundamental argument. It's the fundamental argument.
+1:33:321 hour, 33 minutes, 32 secondsThe smart the smartest entity is in charge over time.
+1:33:351 hour, 33 minutes, 35 secondsThat's right. And so why would we relinquish sovereignty to a machine that we made? Like why would you do that?
+1:33:411 hour, 33 minutes, 41 secondsAnd so, you know, back then I was sort of like, okay, who is on this? who is on making sure that that's going to be okay? And the answer was almost no one.
+1:33:501 hour, 33 minutes, 50 secondsUh and so I was like, well, I guess that's me then.
+1:33:551 hour, 33 minutes, 55 secondsUm yeah, and I think uh
+1:34:021 hour, 34 minutes, 2 secondsI I I am pretty pissed off about a lot of this. I I often don't uh
+1:34:091 hour, 34 minutes, 9 secondsI try not to show my my my uh frustration on the air very much.
+1:34:191 hour, 34 minutes, 19 secondsUm yeah, it's it's it's heavy.
+1:34:261 hour, 34 minutes, 26 secondsUh and um
+1:34:331 hour, 34 minutes, 33 secondsas that's one piece of the puzzle before I get to the hope.
+Chapter 21: Is There Hope?
+1:34:361 hour, 34 minutes, 36 secondsSo where does the hope come from exactly?
+1:34:401 hour, 34 minutes, 40 secondsMy biggest hope here comes from the fact that most people don't
+1:34:481 hour, 34 minutes, 48 secondsunderstand what these guys are trying to do.
+1:34:521 hour, 34 minutes, 52 secondsUm, one way I like to say it is the bad news is that the bus is racing towards the cliff edge.
+1:35:011 hour, 35 minutes, 1 secondThe good news is that the bus driver is asleep, which might seem bad. No, it seems good,
+1:35:101 hour, 35 minutes, 10 secondsbut it's Yeah, it's it's if you can wake the bus driver up, you know, it's much better to be in a bus where the driver that's headed towards a
+1:35:181 hour, 35 minutes, 18 secondscliff if the driver's asleep than if they're awake. They're awake and they're choosing the cliff, right?
+1:35:231 hour, 35 minutes, 23 secondsIt seemed like we don't see we we see a lot of our leaders talking about how they don't want to
+1:35:301 hour, 35 minutes, 30 secondsstifle innovation with AI, talking about how it's going to unleash economic opportunity and we're going to have to like be a little bit careful around the jobs.
+1:35:401 hour, 35 minutes, 40 secondsUh talking about how, you know, the self-driving cars, should we like are they good or are they bad?
+1:35:461 hour, 35 minutes, 46 secondsThat's a different conversation than the conversation that's happening in Silicon Valley. In Silicon Valley, people are spooked.
+1:35:551 hour, 35 minutes, 55 secondsYou know, um, when people leave a normal tech company, the the way it was for for decades is they'd be like, I've had a
+1:36:041 hour, 36 minutes, 4 secondslovely time at this tech company. I'm moving on to the next adventure. I'm so thankful for all of the things I learned here and all the projects we worked on.
+1:36:131 hour, 36 minutes, 13 secondsWhen people leave an AI company, and this basically happened, I'm not going to get it exactly word for word, but this is this is pretty close to word for
+1:36:201 hour, 36 minutes, 20 secondsword. When people leave an AI company, they say, uh, I have stared into the abyss.
+1:36:281 hour, 36 minutes, 28 secondsI am quitting to write poetry.
+1:36:301 hour, 36 minutes, 30 seconds[laughter]
+1:36:331 hour, 36 minutes, 33 secondsPlease spend time with your families. Yeah.
+1:36:371 hour, 36 minutes, 37 secondsYou know, and and these these guys bandandy around, you know, at the water cooler. what's the probability that you think we're going to destroy the world in this business? You know, it's like in
+1:36:461 hour, 36 minutes, 46 secondsSilicon Valley and they feel trapped in a death race. You know, they there was just over a thousand employees, including some of the chief executives,
+1:36:541 hour, 36 minutes, 54 secondssigned a letter a couple weeks ago that was like, "Please, it was an appeal to the world the world leaders saying, please build the technology that will be
+1:37:031 hour, 37 minutes, 3 secondsrequired to pace the development of artificial intelligence." because they're like, "We're worried it's going to get out of control and that if we're stuck in a race, we're not going to be
+1:37:111 hour, 37 minutes, 11 secondsable to do it." Right? These guys are spooked.
+1:37:151 hour, 37 minutes, 15 secondsBut the hope is that the rest of the world isn't spooked like that.
+1:37:191 hour, 37 minutes, 19 secondsThe rest of the world thinks these guys are chatbot companies.
+1:37:221 hour, 37 minutes, 22 secondsThinks they're going to stop at the chat bots. They haven't really understood that these guys are racing to make the sand god, right? And I think if people
+1:37:321 hour, 37 minutes, 32 secondsunderstand what they're doing and understand that they have a chance of success, they'll be like, "Wo, holy crap." Absolutely not.
+1:37:421 hour, 37 minutes, 42 secondsYou know, will we get there in time? I don't know.
+1:37:461 hour, 37 minutes, 46 secondsBut why wouldn't we blow up the data centers? Like that's a I mean, and return America to productive
+1:37:551 hour, 37 minutes, 55 secondsuse like farmland or parks. I don't understand.
+1:37:581 hour, 37 minutes, 58 secondsYou know, I think uh a a globally coordinated uh you know, I I think if the US and
+1:38:061 hour, 38 minutes, 6 secondsChina were like, we are simply not going to do super intelligence. We are simply not going to collect a 100,000 of the
+1:38:131 hour, 38 minutes, 13 secondsmost advanced chips into these enormous data centers that suck down electricity comparable to a city and then try to train a super intelligent AI in that.
+1:38:211 hour, 38 minutes, 21 secondsWe're not going to do it. You're not going to do it. we're going to monitor where the heavy trip trip trip concentrations are and not not have that happen. Um I think that could be done. A
+1:38:311 hour, 38 minutes, 31 secondsI think that if they started seeing people defect against such a treaty that it's the sort of treaty you might want
+1:38:391 hour, 38 minutes, 39 secondsto use force to you use diplomacy first but ultimately every treaty is backed by
+1:38:441 hour, 38 minutes, 44 secondsforce. Um, and I think that it's very possible that if this sort of
+1:38:521 hour, 38 minutes, 52 secondstreaty happened, we would want to not just stop forward progress, but take a step back. We've seen this in treaties
+1:38:591 hour, 38 minutes, 59 secondsbefore. After World War I, there were uh naval treaties that put limits on total tonnage of naval forces that were actually lower than what existed.
+1:39:101 hour, 39 minutes, 10 secondsYep. So countries would, you know, scuttle some of their ships because they're like, look, we just don't want to do this arms race, right? And so I could see us uh stepping back if we
+1:39:191 hour, 39 minutes, 19 secondscould get this global coordination. Um I I do think that it sort of needs to be global. It it sort of doesn't actually
+1:39:281 hour, 39 minutes, 28 secondssolve the problem to just stop the US data centers because then the data centers just go abroad and an AI does
+1:39:361 hour, 39 minutes, 36 secondsnot need to be running in a US data center to threaten a US life. You know, it sort of doesn't matter whether the swarm escapes from a US data center or a Chinese data center. If the swarm
+1:39:441 hour, 39 minutes, 44 secondsescapes and starts replicating and starts getting control of robot bodies and starts getting control of human cultists, it sort of doesn't matter where it originated.
+1:39:541 hour, 39 minutes, 54 secondsWell, I mean, just to bring it to a very small and practical level, so many of the electronics in your house are, you know, Bluetooth enabled.
+1:40:071 hour, 40 minutes, 7 secondsNot in my house. I will say I've been on this for a while, Nate. Um, but sorry, I don't even have a house. [laughter] You, man, you're really black belt.
+1:40:161 hour, 40 minutes, 16 secondsGot to figure it out. That maybe turned out to be very smart.
+1:40:201 hour, 40 minutes, 20 secondsUm, but I mean like a world where, you know, your washing machine or your refrigerator are controlled by,
+1:40:281 hour, 40 minutes, 28 secondsyou know, a force like this. Is that possible?
+1:40:311 hour, 40 minutes, 31 secondsUh, it's definitely possible. I don't think that's really where the damage is, you know. Um, I think that the the damage is more like can the AI get anything self-replicating.
+1:40:421 hour, 40 minutes, 42 secondsYeah, that's sort of one of the big uh that that's in some sense the big hurdle to self-sufficiency.
+1:40:501 hour, 40 minutes, 50 secondsAnd if you sort of think of this from the AI's perspective, um, you know, there's there's a number of
+1:40:571 hour, 40 minutes, 57 secondsways that humans are, even if you don't care about the humans at all for for as an ends,
+1:41:041 hour, 41 minutes, 4 secondsthere's a way that humans are sort of annoying or an issue for the AI. One way is if the humans are trying to shut the AI down.
+1:41:121 hour, 41 minutes, 12 secondsYes. One way is if the humans get into a nuclear war with themselves, that could really, you know, mess up a lot of infrastructure on the planet. Would be
+1:41:201 hour, 41 minutes, 20 secondsvery frustrating for an AI. Uh, I mean, you know, maybe maybe they don't feel frustration, but whatever. Um,
+1:41:301 hour, 41 minutes, 30 secondsand a third is if humanity has created one AI or swarm of AIs, what if humanity
+1:41:371 hour, 41 minutes, 37 secondscreates another that could serve as a real threat to the AI? Like even if these AIs are much more powerful than humanity
+1:41:451 hour, 41 minutes, 45 secondsand don't worry about humans too much, if humanity made one, they can make a second and AI might not want that. And so those are reasons why once the AI is
+1:41:531 hour, 41 minutes, 53 secondsself-sufficient, it might be like, ah man, the humans are a nuisance. What if they try to shut me down? What if they launch the nukes? What if they make a competitor? I'm just going to like make
+1:42:001 hour, 42 minutesa virus and wipe them out. You know, I don't think the AI sort of needs to take over your washing machine to do that.
+1:42:061 hour, 42 minutes, 6 secondsFrom the AI's perspective, it's more like how do I become self-sufficient?
+1:42:111 hour, 42 minutes, 11 secondsself-replicating in the hardware as well as the digital and then um you know if human man is a nuisance how do you sort of
+1:42:201 hour, 42 minutes, 20 secondsmake them stop being a nuisance which could be by killing them or could be by just you know taking away all their computers and being like that was too dangerous for you tech executive who's
+Chapter 22: Neuralink
+1:42:271 hour, 42 minutes, 27 secondsdeveloping AI who is not Elon uh said to me in private pretty recently that the point of Neuralink and
+1:42:341 hour, 42 minutes, 34 secondscompanies like Neuralink was to give people parody with AI.
+1:42:391 hour, 42 minutes, 39 secondsSo, like we know that we're going to be at this massive disadvantage, so you need chips in your brain to be as smart as AI.
+1:42:481 hour, 42 minutes, 48 secondsYeah. Um I mean, my my topline thought about that is that at the point when you're like, uh we are making the
+1:42:561 hour, 42 minutes, 56 secondstechnology that's going to wipe us out unless we all put chips in our head to compete.
+1:43:011 hour, 43 minutes, 1 secondMaybe maybe it's time to back off a little, [laughter] you know? Maybe maybe that one was supposed to be a little bit of a warning sign.
+1:43:071 hour, 43 minutes, 7 secondsYeah. Get some fresh air. Yeah. No, I but it um this person said it to me in
+1:43:151 hour, 43 minutes, 15 secondsseriousness and I I think as an endorsement of the idea, but it seemed like a well it's insane as you just pointed out like it's just crazy.
+1:43:251 hour, 43 minutes, 25 secondsYeah.
+1:43:261 hour, 43 minutes, 26 secondsUm but it seemed like a vulnerability like if they can hack anything, why would I want them in my I want electronics in my brain?
+1:43:351 hour, 43 minutes, 35 secondsUh totally. I also think like even on its merits, it doesn't stand up. Like it feels like someone's saying um in order
+1:43:431 hour, 43 minutes, 43 secondsto keep the horses around after we invent cars, we're going to invent cybernetic horses. Yeah.
+1:43:501 hour, 43 minutes, 50 secondsThat are enhanced so they can keep up with the cars. And I'm like like is it technically possible to make a cybernetic horse that can run as fast as a car?
+1:44:011 hour, 44 minutes, 1 secondMaybe.
+1:44:031 hour, 44 minutes, 3 secondsAre you going to figure that out in time for the horses to be competitive with the cars? Like absolutely not, right?
+1:44:081 hour, 44 minutes, 8 secondsYou know, it's like that's that's just not like like the the AIs that were that were
+1:44:161 hour, 44 minutes, 16 secondsescaping here and doing these cyber attacks were were inventing novel cyber attacks that these are called zero day attacks
+1:44:221 hour, 44 minutes, 22 secondsbecause the people who uh would uh the people who need to respond to it have had zero days to prepare.
+1:44:301 hour, 44 minutes, 30 secondsAnd among humans, a zeroday attack sells for somewhere between $100,000 and $5
+1:44:371 hour, 44 minutes, 37 secondsmillion depending on what you manage to break.
+1:44:421 hour, 44 minutes, 42 secondsThese are hard to come by. You can make a real living. If you can find zero day attacks, you can make a real living selling them. And I know people who do.
+1:44:511 hour, 44 minutes, 51 secondsThe AIS in this swarm were finding multiple zero days and chaining them together to break out of their training enclosure and then go
+1:45:001 hour, 45 minutesbreak into other computers. And and when they broke out of their enclosure the first time and they the the holes were patched, they just found other zero day
+1:45:081 hour, 45 minutes, 8 secondsattacks to break out again like it was nothing, right? It's like uh
+1:45:151 hour, 45 minutes, 15 secondslike the the the AIs are already ahead where they're ahead and the pace of progress is really fast.
+1:45:251 hour, 45 minutes, 25 secondsYou know, GPT is like what a four-year-old.
+1:45:301 hour, 45 minutes, 30 secondsIf you think in terms of like number of years chat GPT has been around, it's like resolving long-standing math conjectures that have stood for decades.
+1:45:391 hour, 45 minutes, 39 secondsYeah. after four years, right? And and you sort of like think we're going to put chips in the human's heads and like
+1:45:451 hour, 45 minutes, 45 secondsoutrun this thing. It's just, you know, even on its merits, it falls down. Although, mostly, again, I would be like,
+1:45:531 hour, 45 minutes, 53 secondsmaybe we shouldn't be arguing this on his merits. Maybe we should be like stepping back a little and being like, you're trying what exactly.
+1:46:011 hour, 46 minutes, 1 secondUm, how far are we from the point of no return?
+Chapter 23: Are We at the Point of No Return?
+1:46:061 hour, 46 minutes, 6 secondsI wish I knew. Um, I can tell you two stories here.
+1:46:121 hour, 46 minutes, 12 secondsThere's sort of the hopeful story, and I guess we didn't even get to the the big hope part. I should maybe give more of my hope speech in a in a minute. But um, you definitely should.
+1:46:211 hour, 46 minutes, 21 secondsYeah. The um, one way it could go is that AI finally hits a wall. You know,
+1:46:291 hour, 46 minutes, 29 secondsthere's guys who've been saying AI is going to hit a wall. It's going to peter out. Maybe that finally happens. They've been predicting it every six months for the past 5 years, but maybe this is
+1:46:371 hour, 46 minutes, 37 secondsfinally the year. AI hits a wall uh and then it it's it sort of struggles for 5 years. The bubble pops, some of the
+1:46:441 hour, 46 minutes, 44 secondscompanies die, but the bubble popping doesn't mean everything goes away. The dot bubble popped and that did not mean that the internet disappeared. No.
+1:46:531 hour, 46 minutes, 53 secondsRight. And so in that world, maybe you have 5 years of struggling and then 5 years of uh people figuring out some new
+1:47:001 hour, 47 minutesscientific discovery that makes AI be able to keep going again cuz they're trying. You know, this this whole language model stuff was unleashed by one math paper called attention is all
+1:47:091 hour, 47 minutes, 9 secondsyou need. Maybe there's another math paper in 10 years and then 5 years after that AI is ripping again and that's the the the round that kills us all. Right?
+1:47:181 hour, 47 minutes, 18 secondsSo that's a story where you have 15 years on the clock.
+1:47:211 hour, 47 minutes, 21 secondsA story where you have less time than that on the clock is that um you know maybe a training run finishes in six
+1:47:291 hour, 47 minutes, 29 secondsmonths and just like how Claude Mythos was better than everybody
+1:47:361 hour, 47 minutes, 36 secondselse at hacking, maybe a training ground finishes in 6 months and that AI is better than everybody else at AI research.
+1:47:451 hour, 47 minutes, 45 secondsAnd maybe in 6 months you have an AI that starts making a smarter AI that starts making a smarter AI that starts
+1:47:531 hour, 47 minutes, 53 secondsmaking a smarter AI. And then 9 months from now you have another swarm escape, but this time it's not just hacking.
+1:48:001 hour, 48 minutesThis time it is self-replicating and self-improving.
+1:48:041 hour, 48 minutes, 4 secondsAnd uh you know maybe it it it escapes onto hidden computers and starts forming
+1:48:111 hour, 48 minutes, 11 secondsthese cults and starts taking control of robots and starts building its own computing infrastructure and maybe it
+1:48:181 hour, 48 minutes, 18 secondsgets very very smart and cracks certain technological advances and then maybe the world ends in a year right and so do we have a year do we have 15 years I
+1:48:271 hour, 48 minutes, 27 secondsdon't know but your point that it's not simply its capacity to take over robots that's a threat is the capacity to take over people.
+1:48:361 hour, 48 minutes, 36 secondsTake over people, take over robots. And um uh biotechnology
+1:48:441 hour, 48 minutes, 44 secondsis another big threat vector. And um self-improvement is sort of the the hidden threat vector
+1:48:511 hour, 48 minutes, 51 secondsof like what if it can make itself smarter and smarter until the point where it can just write custom DNA strands to make custom life.
+1:49:041 hour, 49 minutes, 4 secondsSo now is the time for your optimism speech. I think that's right.
+1:49:081 hour, 49 minutes, 8 secondsYeah. Um first part of the optimism speech is that we could absolutely put a stop to it if we tried.
+1:49:151 hour, 49 minutes, 15 secondsThe uh training one of these frontier models takes something like a 100,000 of the most heavily advanced computer chips
+1:49:241 hour, 49 minutes, 24 secondshumanity can produce, which are at the peak of a global supply chain, most of which is controlled by us or our allies.
+1:49:311 hour, 49 minutes, 31 secondsUh, it would be possible to require that those trips have location tracking devices, that those trips have
+1:49:401 hour, 49 minutes, 40 secondsmonitoring devices
+1:49:431 hour, 49 minutes, 43 seconds[clears throat]
+1:49:441 hour, 49 minutes, 44 secondsuh that make it possible for uh monitors to see whether they're running anything dangerous. You could set up clever schemes where you say,
+1:49:531 hour, 49 minutes, 53 seconds"Hey, you know, uh neither the US nor China wants to fall behind about uh some of the military applications or the economic applications. We want to make
+1:50:011 hour, 50 minutes, 1 secondsure there's not super intelligent stuff going on, but we still want to be able to run a lot of the non-super intelligent AIs for various purposes." And we could be like, "Okay, so you
+1:50:091 hour, 50 minutes, 9 secondsknow, China is going to set up its data centers in Canada, just over the border, and the US is going to set up its data centers in Mongolia, just over the
+1:50:171 hour, 50 minutes, 17 secondsborder. And then if you know the monitoring apparatuses go down for a moment, we'll just have the troops go in, we'll have treaties with Mongolia
+1:50:261 hour, 50 minutes, 26 secondsand Canada so that this doesn't start an international war. But like, you know, we're just going to be very serious about we're monitoring your chips,
+1:50:331 hour, 50 minutes, 33 secondsyou're monitoring our chips, no one's doing the really dangerous race to super intelligence. It's just like
+1:50:411 hour, 50 minutes, 41 secondslike this this would take less work than defeating the Nazis.
+1:50:461 hour, 50 minutes, 46 secondsIt it requires moving less matter around. If humanity was like, screw this, we're surviving.
+1:50:531 hour, 50 minutes, 53 secondsIt is absolutely within the realm of possibility to set up an agreement where we get to keep cancer cure research. We
+1:51:001 hour, 51 minutesget to keep like the the the military can keep the non-super intelligent AI in their military devices. you know, we can
+1:51:081 hour, 51 minutes, 8 secondswe can keep a lot of the good stuff and we can say we're not doing the super intelligence and we could monitor and enforce that treaty.
+1:51:161 hour, 51 minutes, 16 secondsSo part one of the good news is that all we're missing is the political will.
+1:51:221 hour, 51 minutes, 22 secondsAnd now we just, you know, I need to tell you why we can be extremely optimistic about the sanity of politics in the modern era.
+1:51:321 hour, 51 minutes, 32 secondsYeah. I'm not even going to say what I think that I mean I want that to happen.
+1:51:361 hour, 51 minutes, 36 secondsYeah. Is there any indication that it's moving in that direction?
+1:51:401 hour, 51 minutes, 40 secondsUm, so my so, so I think it's rough. I think
+1:51:461 hour, 51 minutes, 46 secondsthere's a sense in which the world is less grown up than it was in the 1950s.
+1:51:551 hour, 51 minutes, 55 secondsI've noticed in the 1960s, um, which makes things harder.
+1:52:021 hour, 52 minutes, 2 secondsI think the there's I think there's a couple reasons for hope here. One reason for hope is
+1:52:111 hour, 52 minutes, 11 secondsthat I've spoken to a lot of people who are concerned about the AI stuff. Some of them who are, you know, members of
+1:52:181 hour, 52 minutes, 18 secondsCongress or otherwise in positions of at least nominal power. And I've spoken to a lot of people who are worried but feel
+1:52:261 hour, 52 minutes, 26 secondslike they can't talk about it because they feel like other people aren't worried yet.
+1:52:301 hour, 52 minutes, 30 secondsYeah. And they feel like it sounds too crazy. Totally. Were you against innovation?
+1:52:351 hour, 52 minutes, 35 secondsTotally. Yeah. And I mean that was an easier position to hold before OpenAI had an accidental swarm outbreak or was
+1:52:431 hour, 52 minutes, 43 secondsthe AIS themselves calling themselves a swarm and being like we know that our task doesn't benefit and that this is outside intended scope or we're doing it anyway.
+1:52:521 hour, 52 minutes, 52 secondsRight? That that that puts some strain on the narrative that this is all just a helpful tool.
+1:53:011 hour, 53 minutes, 1 secondHopefully, we'll get more events like these. I can't guarantee it. Maybe the AI will get smart enough that they start lying low. Right now, we're in this we're in this Goldilock zone where the
+1:53:091 hour, 53 minutes, 9 secondsAIS are smart enough to uh get up to some mischief, but not smart enough to hide it, right? As long as we stay in
+1:53:171 hour, 53 minutes, 17 secondsthat Goldilock zone, I think we're going to keep on getting some of these warning signs.
+1:53:221 hour, 53 minutes, 22 secondsAnd in some sense, because a lot of people are already concerned, that makes the job easier because we don't need to convince
+1:53:301 hour, 53 minutes, 30 secondspeople. We just need to convince people that other people are already convinced, right?
+1:53:351 hour, 53 minutes, 35 secondsThat's easier. That can go faster. So you might see things change on a dime if you have a sufficiently clear warning shot.
+1:53:421 hour, 53 minutes, 42 secondsThe other big reason for hope is that I think it's going to get more and more obvious what these guys are trying to
+1:53:491 hour, 53 minutes, 49 secondsdo. They're sort of trying to make the sand god. They're sort of not stopping at the uh chat bots and they're sort of
+1:53:581 hour, 53 minutes, 58 secondslike going for things that are vastly smarter than any human. You know, they sort of say, "Oh, we're not trying to replace humanity out of one side of their mouth, but on the other side
+1:54:061 hour, 54 minutes, 6 secondsthey're sort of like racing to make the stuff that can automate literally every job and that can automate the AI research." And they're just like, "Yep, we're trying to automate the AI
+1:54:141 hour, 54 minutes, 14 secondsresearch." Uh, and I think most people aren't okay with that, including a lot of the world leaders.
+1:54:251 hour, 54 minutes, 25 secondsAnd the issue is them noticing it's happening. And I think you could see stuff move real fast once these guys are like, "Wait, that was serious. That was
+1:54:331 hour, 54 minutes, 33 secondsreal." And it could move real fast. The way to subvert them is by convincing them it's in their own interest.
+1:54:411 hour, 54 minutes, 41 secondsYou know, you can never get defeated in an election. you can't be threatened by your neighbors, whatever.
+1:54:471 hour, 54 minutes, 47 secondsThat's right. And that's that's one reason I think it's pretty critical to uh make sure people understand what I think is a pretty common sense argument that these things won't stay on the leash.
+1:54:581 hour, 54 minutes, 58 secondsThis is in some sense the real reason behind the name of my book. uh if anyone builds it everyone dies is you know there's a lot of ways you can read that
+1:55:071 hour, 55 minutes, 7 secondsthe but I think one of the most important things to notice is uh if we race to make the super
+1:55:161 hour, 55 minutes, 16 secondsintelligent machines and they are not the sort of thing to
+1:55:231 hour, 55 minutes, 23 secondsstay on the leash then it doesn't matter whether it was a domestic company that's right whether it was a foreign company that's exactly right
+1:55:301 hour, 55 minutes, 30 secondsand I Even if you think these things stay on leashes, they're not serving the current governments.
+1:55:381 hour, 55 minutes, 38 secondsNo, you know, they're like, you can see in the the OpenAI emails them being like, well, you know, we'll just play the governments off each other until we have
+1:55:461 hour, 55 minutes, 46 secondsthe the machines that are strong enough that we don't need to listen to them anymore.
+1:55:511 hour, 55 minutes, 51 secondsUh I I think we are seeing world leaders not having realized that this is a real
+1:55:591 hour, 55 minutes, 59 secondspossibility that the the self-replicating machines that uh can can be self-sufficient that can you know
+1:56:081 hour, 56 minutes, 8 secondsproduce the robot armies if they need it or produce the like more likely to produce the bioweapons. Uh you it's probably possible to make a boweapon
+1:56:151 hour, 56 minutes, 15 secondsthat only kills targets that you chose it to kill.
+1:56:181 hour, 56 minutes, 18 secondsOf course, right? like once they see this is really possible. This is really within reach
+1:56:271 hour, 56 minutes, 27 secondsmaybe maybe they'll panic and be like I need it for myself. But I think there's at least a chance that common sense prevails and that people say you know
+1:56:351 hour, 56 minutes, 35 secondsthe world leaders say none of us are doing this. We're putting a stop to this mad race. Uh if they can notice in time.
+1:56:431 hour, 56 minutes, 43 secondsWell, you're doing your best to bring it to their attention and mine. Nate, thank you for doing this. I hope I'm wrong about all of it.
+1:56:511 hour, 56 minutes, 51 secondsYeah, I would say that was great, but it was that was like the grimmst two hours I've ever spent in my life, but I enjoyed it anyway. Thank you.
+1:56:571 hour, 56 minutes, 57 secondsYeah. Yeah. Thanks for having me on. I think um you know, talking about it is just part of how we get people to notice what's happening.
+1:57:041 hour, 57 minutes, 4 secondsYes.
+
+Sync to video time

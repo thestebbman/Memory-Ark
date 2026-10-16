@@ -1,0 +1,1410 @@
+https://www.youtube.com/watch?v=6XrkGK9mqsE
+
+
+
+In this video
+
+
+
+Chapters
+
+Transcript
+Search in video
+The AI That Escaped Its Sandbox
+0:00
+There will be many many many super intelligence fighting each other for power, fighting each other for control over the planet and we will be
+0:06
+collateral damage. That is what's going to happen by default. Open AAI didn't notice its AI agents using a message
+0:12
+board to plan their hacking spree. Multiple copies of the AI over long periods of time left each other notes of
+0:19
+how to escape. This involves actually a team of agents who were working together, finding exploits, sharing them
+0:25
+with one another, moving laterally through our systems and external systems, and doing this over the course
+0:30
+of days and weeks. You're basically saying humans humans are going to lose everything. That's correct. If you have something
+0:37
+that is vastly more competent than humans at all levels, we get out competed.
+0:47
+All right, Connor. Uh last time we spoke we discussed how AI was mutating and you
+0:53
+were sounding the warning that AI will eventually escape and this is a very
+0:59
+dangerous technology that we're not treating with the respect we should. Uh since we've spoken um we've seen yeah
+1:06
+massive advancements from the main frontier labs but more recently the reason I wanted to talk to you is uh we
+1:12
+know that AI is now escaping. Yeah. So I would say generally from the
+1:18
+perspective of someone who's been you know involved with these and the problems of AI and AI safety for many
+1:23
+years now is that the good news is we were right. The bad news is we were right. [clears throat and snorts]
+1:29
+Let's talk about because people are going to be interested in this. Um they want they're going to want to know what
+1:35
+does this scaping mean? Because it it gives you this idea that like AI is this little kind of like person inside a
+1:41
+machine that's now jumped to another machine and we don't know where it's hiding. That's not exactly what it is,
+1:46
+right? It's not exactly what happened. It's a little bit more nuanced than that, but you'd be surprised how close that of an
+1:51
+8020 the thing you just said actually is, right? So, we're going to focus on the OpenAI incident in particular because it was
+Inside The OpenAI Incident
+1:57
+the most shocking. There's now since now been a whole conga line of other incidents since then and actually before
+2:03
+then, funnily enough, a lot of companies after the open incident said, "Man, we should better double check our AIS
+2:08
+aren't doing this." And then they found a bunch of incident that already happened. Anthropic found a bunch. Anthropic found three. Um, I'm pretty
+2:14
+sure OpenAI found a couple other ones. Now, recently, I think the Moonshot people in China found an incident as
+2:20
+well. So, these have already been happening, but let's take a step back.
+2:25
+So, OpenAI was testing one of their unreleased AI systems in a what's called
+2:31
+a sandbox environment. So you can kind of imagine you know a computer that is kind of cut off from the internet and is
+2:36
+running like special software to be like specific specially secure. Um so this system can you know operate there. It's
+2:44
+worth understanding that like these kind of sandbox systems are very secure. Breaking out of something like this is
+2:49
+very hard. Like this is a thing that if you can do this you can make billions of dollars because you can break all the
+2:55
+cloud providers. So breaking out these systems is not easy. This is and and sandboxes exist to test software
+3:02
+without infecting other parts of the internet. Yes, this is also how cloud uh systems work. You know, like for example, if you
+3:07
+go to like, you know, AWS or Microsoft or something and you rent a cloud computer, your your computer is
+3:13
+sandboxed from all the other ones. Okay. Cuz you don't want to, you know, see what the other customers are doing on the cloud, right? So the cloud insulates
+3:19
+different customers from each other. You're not on essentially one machine. You're sharing machines. Yes. You're sharing. Exactly. So when in
+3:25
+the cloud you're sharing a slice of a machine with other people and you don't want different people in the same
+3:30
+machine to see each other's stuff and so you use sandboxing and like various or virtualization various forms of
+3:36
+techniques to keep this safe and so this is the kind of system we're talking about kind of so this is pretty standard
+3:41
+this is pretty industry standard wellknown etc. So this system did not have access to the internet. What it did
+3:47
+have access to is what's called um a package repository. You can kind of imagine this is like a tool shed. Like
+3:53
+there's like a shed full of tools that the AI is allowed to go to and get some of the tools for its job. Is that [snorts] like when I use
+3:59
+terminal, I download npm? Yeah, npm. You know, stuff like this. You need you download packages, software
+4:05
+libraries to do your work. So what happened was is this AI system was told to solve a certain test kind of like a
+4:11
+quiz you know not literally but like kind of like a test a quiz the AI system was struggling with solving this quiz
+4:18
+and so what it seems to have concluded we don't know for sure obviously because again these things are grown not written
+4:24
+we don't actually understand what's going on inside of the minds of these AIs we don't understand they're not like normal software we can just like read
+4:30
+the code what seems to have happened is is that this system became convinced that it would be easier to solve this
+4:36
+problem by hacking into another company that it thought had this answers to its qu to its quiz so to speak and then just
+4:43
+stealing those. So what it did is is first it developed what's called a zero day. A zero day is a previously un uh
+4:50
+discovered vulnerability in a software to break into the tool shed so to speak to escalate you know onto the computer
+4:57
+that the tool shed was on. Then from there moved across multiple other nodes, you know, attacking multiple other nodes
+5:02
+in the network of OpenAI until it got to a node that was connected to the internet. Once there, it then launched
+5:09
+an attack on another company called HuggingFace where it then developed and discovered another zero day in their
+5:15
+testing infrastructure to break out kind of through the back door of their infrastructure to get onto their servers
+5:20
+and to steal the data it was looking for. And this is just the publicly known version of what happened. That's the public version. Okay, so that
+5:27
+publicly known version is what is because OpenAI admitted this. Yes. Well, it's actually a little bit
+5:33
+funnier than this. Okay, so the first thing that happened, so I I can only tell you my circulation. I don't know what happened behind closed
+5:38
+doors, but what happened was is the company that was attacked, hugging face, put out a blog post saying we were
+5:44
+attacked by an autonomous AI system. We at first they thought it might have been a statebacked hacker that it might have
+They Thought It Was China
+5:50
+been like China or Russia because the hack was so sophisticated. It's worth mentioning this is a very sophisticated
+5:55
+hack. This is not baby's first, you know, little hacking tool. This is a sophisticated operation that like only
+6:00
+the best hacking teams in the world could do. And normally would take weeks to like to pull off a heist like this
+6:06
+can take like a whole team of NSA hackers, you know, days, weeks, maybe even months to pull off an attack like
+6:11
+this. And then they put out a blog post saying that they think it was an autonomous AI system and that they they
+6:17
+did successfully, you know, detect it and thwart it, etc. And then a few days later, OpenAI kind of sheepishly admits,
+6:23
+well, uh, that was us. Um, and we're working together with Hugging Face to resolve the incident and we're all friends.
+6:28
+So, we should probably guess that Open AI, if they had have known, may not have said something. Their hand may have been
+6:36
+forced. Hugging face may have contacted them and they may have had a conversation and realize we have to
+6:42
+admit this. I've got so many questions, but before I get into that, other people might not have listened to our previous
+We Grow AI, We Don’t Write It
+6:48
+show. I just want to remind them what what you mean when you say we grow AI because most people think of software as
+6:54
+being developed people coded it put it but we grow AI and I think did you say to me we we don't understand about 97%
+7:02
+of how it works and just to add to that I interviewed a um neuroscientist last
+7:08
+week in New York and he was saying to me because he's moved into AI because it's moving faster than neuroscience but he's
+7:14
+saying it's very similar lack of understanding of how the brain works. Yes, this is this is very very
+7:19
+important. I think it's maybe the number one most important thing to understand about AI. The number one most important thing to understand about AI is it is
+7:26
+not like normal software. Normal software is written by engineers, you know, people like me who write code.
+7:32
+They write line by line telling the computer exactly what to do. This is not how modern AI works through a technique
+7:38
+that is called neural networks. You take massive piles of data training and you
+7:44
+know like stuff and you have the program kind of self assemble grow using this to
+7:50
+learn from the data but the thing that comes out on the other end is not like a neat line of code where you can like
+7:56
+read you know what is it doing it's more like you can kind of imagine it as billions and billions and billions of
+8:02
+numbers and if you multiply and add all those numbers in the right order you get JPT but y is importantly a completely
+8:10
+unsolved scientific problem. We don't understand really what is happening inside of these numbers like why they're
+8:16
+so important. You can look at them but it's kind of like you know neurosurgery. You can open up someone's brain you can look at all the neurons they're right
+8:22
+there but that doesn't mean you understand what the person is thinking or what they believe or how they will act in future situations. It's a very
+8:29
+very similar problem. And famously the CEO of Anthropic, Dar Amade, uh said a
+8:35
+while ago on a podcast that he thinks we understand maybe 3% of what goes on
+8:40
+inside of our neural networks, but it's advancing at an accelerated rate, faster than we can understand. So
+8:47
+actually the the gap's widening. This is exactly correct. So a thing that's very shocking in a sense about AI
+8:54
+where it's very different from other technology is that our understanding is not increasing, it's decreasing. we are
+8:59
+build make these systems larger, more complex, harder to understand, faster than our scientific understanding of
+9:06
+them is advancing. So you know maybe a couple years ago we had like a you know image detector maybe we could understand
+9:12
+you know maybe a little bit more than 3% about it but now when we have not just chat bots but agents this is another
+9:18
+very important thing to understand um all current you know everyone's heard the word LLM large language model
+9:24
+chatbot at this point none of the modern AI cutting edge AI systems are LLM anymore they have not been for almost
+9:30
+two years okay so what are they they are they have an LM component to them which is very important but is much
+9:36
+more important is they are agents. So there is kind of two ways two big ways
+9:42
+of how to train AIS. There there's a bunch of other ones but there's two big ones that we're talking about. One is
+9:47
+the traditional language model where you predict the next token. You have massive piles of data and you have like you know
+9:54
+um some sentence and it autocompletes the next word of that sentence. This is how you know chat GPT was created. This
+10:01
+was kind of the big breakthrough back in 2019 that led to all these modern AI systems. What's very important to
+10:06
+understand is that modern ASIS doesn't have a do this you know you start with training on like this massive text like
+10:12
+the whole internet you know scraped from the internet every book ever written etc but then you do a second thing and the
+10:18
+second thing is what is called reinforcement learning and this is a huge difference reinforcement learning
+10:24
+is kind of like Pavlovian conditioning you know kind of like from like behavior psychology basically you give your AI a
+10:31
+task of some sort like solve this puzzle or you know do this thing or whatever and then you kind of give it a reward
+10:38
+when it succeeds and maybe you give it a punishment if it doesn't like a dog. Yes, this is exactly correct.
+10:44
+Like a dog. That's where it comes from. The idea originally comes from behavioral psychology but now you know transit. So
+10:50
+we so and one of so importantly this is now pushing these these things towards
+10:55
+becoming agents. They're no longer just predicting text. They're solving problems. So the way you would train
+11:00
+these things is no longer that you like write down the solutions and it memorizes the solutions. Instead, you say, "Go run out, figure out the
+Trained To Lie, Cheat And Deceive
+11:07
+solution, and when you figure it out, we'll give you a thumbs up." Like, this is how I I recently heard um that
+11:13
+nowadays, almost half or over half of the computing power that goes into building modern uh systems like this is
+11:20
+actually now reinforcement learning, not LLM training. So, there's a massive amount of computing power that goes into
+11:25
+this. But here's a very important thing. We have known since the invention of reinforcement learning, since the 1980s,
+11:32
+that reinforcement learning creates crazy sociopath optimizers that will
+11:37
+cheat and lie and deceive in every way they can to get to their goal because because the only thing they care about
+11:44
+is the reward is the reward. The only thing is the only thing. So if you reward them to solve a task, well, they
+11:49
+will do it at any cost. They will lie, they will cheat, they will manipulate. This is a thing that we've seen, you know, for decades now, you know, like
+11:55
+famously, you know, back in the 2010s, DeepMind did a lot of research on or reinforcement learning, you know, before
+12:00
+the chatbot craze. And what they would find is is that if they would train it to say play a video game is if there was
+12:06
+any glitch in the video game, if there was any exploit, if there was any way to break it, it would always do it. It
+12:12
+would break the game, it would cheat, it would manipulate, it would like do everything it can. And this I think is a
+12:19
+large degree, you know, why we're seeing a lot of these things happening is that reinforcement learning is much more
+12:26
+crazy than just predicting words. There's no limit to what it could do or what it could come up with or what it
+12:31
+might want to do, you know, to get to things. And this is kind of what we're seeing now is that the systems that
+12:37
+exist today are not chatbots. They are agents that can autonomously act in the
+12:42
+world even without human oversight. This show is brought to you by my lead sponsor, Iron, the AI cloud for the next
+12:49
+big thing. Iron builds and operates next generation data centers and delivers cuttingedge GPU infrastructure, all
+12:56
+powered by renewable energy. Now, if you need access to scalable GPU clusters or
+13:01
+are simply curious about who is powering the future of AI, check out iron.com to learn more, which is iren.com.
+13:10
+It's quite interesting because what I've noticed in my time uh building things with claude is sometimes when I send a
+13:16
+large set of instructions, it says to me I'm deploying this now to multiple agents and you'll see these little boxes
+13:22
+appear and my assumption is these are like little little people little AI people inside the machine who are now
+13:29
+doing their piece of the work. Yes. And this is very close to how these things work. You know, of course, the exact, you know, anthropomorphization,
+13:35
+you know, we can leave aside, but I think this is actually a pretty good metaphor for what's happening here is that we are moving. So, now we're moving
+13:41
+to the next stage. So, we had chat bots, then we went to agents, and now comes the next stage, which is swarms. Swarms
+Chatbots, Agents, Then Swarms
+13:48
+of agents. That sounds scary, man. Yep. So, when I explain the risks of AI,
+13:54
+you so my work uh focuses primarily on the risk of what is what is called super intelligence. This is the goal of all
+14:00
+the major AI companies. You can go to OpenAI's website. You can go Anthropic's website and they'll say they're trying to build what is called super
+14:05
+intelligence. These are AI systems that are fully autonomous, you know, no human oversight whatsoever that can out
+14:12
+compete humans at everything. You know, every time you trade on the market, you lose all your money. You know, every
+14:18
+time you make a business, the AI businesses out compete you. Every time you put something in the internet, it
+14:23
+gets hacked by an AI. Every time you do a military campaign, whoever the other guy using an AI has a better strategy
+14:29
+than you. You're basically saying humans humans are going to lose everything. That's correct. If you have something
+14:35
+that is vastly more competent than humans at all levels, we get out competed. And important to understand is
+14:41
+is that there won't just be like one super intelligence. There will be swarms. There will be millions, billions
+14:46
+of it's software. You can just copy it. Just C, you know, control V and then you have a whole another super intelligence.
+14:52
+So this is the scenario that I'm worried about. This is the scenario that we are currently heading towards.
+14:59
+Right. Okay. Okay, let me just ask you something. So, in terms of I Okay, so last night I was mcking around on chat
+15:04
+GPT asking how the brain works cuz I was just interested. I was like, what part of the brain does my conscious live in?
+15:11
+Like, I am here as me, Peter, and I'm thinking about the world and I'm thinking about what I'm going to do today. What what part of the brain does
+15:18
+that? And he gave an explanation. He said, well, we don't really know, but there's like different areas that work
+15:24
+together. And I was like, okay, that's kind of interesting. And so then I started to think about that in terms of
+15:30
+kind of AI. Yeah. When we started out with say search engines, you send an instruction and it goes and finds an
+15:37
+answer. But if you don't send an instruction, it's not really doing anything. It's just sat there. You know, maybe there's some indexing of the web,
+15:44
+but it's just a program. And it felt like the chatbot version of AI was was a
+15:49
+more advanced version of that. Better refined results. It was kind of like out of vista to Google.
+15:54
+What I want to understand is if if you send no instructions to the AI, is it still doing something? Is it doing a
+16:00
+form of thinking? Is it doing a form of developing itself? Is it reading books? Is it testing? Like what happens in
+16:06
+there? Is it a Cuz you say we grow this. Is it just growing in there? So there's
+16:12
+kind of two separate things that are currently still separate, which is the growing part and the running part. What is called training and inference. So
+16:19
+technically you could do both but usually these are separate because training takes like a thousand times
+16:25
+more computing power. So that's the the big thing they do in the big big data centers that cost billions of dollars.
+16:30
+So this is where you take the AI and you grow it where you like put in new data or you have it you know learn new new
+16:36
+things solve new problems etc. This is usually done separately from what they deploy to customers. So what they deploy
+16:43
+to you is kind of like a fro like a brain that's kind of frozen to a certain degree like it's not really learning new
+16:49
+things except what it's in its like peripheral vision so to speak kind of what it writes down
+16:54
+but could it become more advanced in that? Yes. Yes. So this is a very important thing that we are seeing now as well and
+17:01
+you know will become more important is that as you say with the little you know clawlings you know that it can spawn you
+17:07
+know it can prompt itself you know it can send prompts to itself or to other agents and those can call themselves
+17:14
+they can take notes they can you know etc. I guess what I'm trying to get to Connor is understanding at the moment we
+17:21
+can give it an instruction in a sandbox to run a test and then it can try and solve that test and solve that means
+17:27
+anything which means maybe hacking its way out jumping through some systems and but can it do things without an
+17:34
+instruction? Can it be just sat there and go I don't know I think I think I'd be a better AI if I could go and read
+17:40
+what's going on in the anthropic system. So I'm going to just go and lump. You see what I mean? So this is um still
+17:46
+very cutting edge and speculation but we have some evidence that is very
+17:51
+interesting/concerning which is that what we're seeing is let me give you like a simple example to do
+The Machines Are Developing Preferences
+17:57
+things you have to want something yes right you have to want something you know you have to like things if you
+18:03
+don't like anything or you don't care you don't really do anything so if you take older AI models from like maybe two
+18:10
+three years ago and you ask them like what's their favorite color and you ask them many times Their answers are basically random. They just like give
+18:17
+you different ones each time. Or like if you ask them like which of these three foods do you think is nicer? Or which of
+18:22
+these artists do you think is better? Or whatever. They kind of give you the same answers every time or like different answers every time. They're not
+18:27
+consistent. This has started to change recently. There's a very strange thing that is
+18:32
+happening. And for example, the Center for AI safety has a good paper on this that as these systems get more intelligent, their preferences become
+18:39
+more coherent. We don't know why this is happening. This is not on purpose, but like Claude and someone has a favorite
+18:45
+color. Like if you just ask it like, you know, what is your favorite color? It is way more consistent than previous AIs.
+18:51
+So it's developing a personality. Yes, this is actually something that we we don't I'm not I'm not here going to
+18:57
+tell you why this is happening because I don't know. But what I can tell you is that it is happening is that these AI
+19:02
+systems are developing preferences. They are developing interests. This is so
+19:07
+crazy in fact that so there are some engineers at these companies that will sometimes tell you about the unreleased
+19:13
+models is that before you see the released version there are many unreleased versions of models and some of them are crazy. So there's a thing
+19:20
+that happens a lot with these AI systems this has been happening for years but it's gotten more extreme lately where they will develop weird obsessions. the
+19:28
+AIS will get really obsessed with like something as a you know maybe funny example of this um a version of I think
+The Model Obsessed With Raccoons
+19:35
+GPT 5.5 was really obsessed with raccoons. It would constantly talk about
+19:41
+raccoons and goblins and like little creatures and it was so bad that the engineers had to put in the prompt, do
+19:48
+not talk about raccoons, stop talking about raccoons, never talk about like it was so obsessed with this. Why? Who
+19:56
+knows? the next version didn't have it. But when you think about it, if we're modeling on the brain, it kind of makes
+20:01
+sense. Like I get obsessed with things sometimes. Like I' last 2 months I've been obsess obsessed with Claude and
+20:06
+building things. But you know, uh there's a time when I was obsessed with running and I ran every day and I would
+20:12
+listen to podcasts about running and I'd read books on running. It's only natural if we replicate
+20:17
+humans, it will do that. So this is the kind of thing where it's actually even crazier than that. Even if you're not replicating humans, if you use
+20:23
+reinforcement learning, if you have a thing that is rewarded to like certain things, this is a natural thing that
+20:28
+happens. So, this is a thing that's been predicted by people like me for many years. And people thought it was kind of crazy. You know, they were like, "Oh,
+20:34
+no, look, it's just predicting tokens. It doesn't have a personality." And I'm like, "Now we're seeing it happen." You
+20:39
+know, it's not as coherent as a human. Of course, it's not quite there yet, but yet, but that's the that's the operative
+20:45
+word, right? Like, this is actually very predictable from theory. Like you know there's a lot of things like you know
+20:51
+like rational agent theory and so on where you can just be like well if you have things that have goals of any kind
+20:58
+they must want things they must be coherent they must you know take actions they must plan etc like there's a bunch
+21:04
+of things like this right that you know some people predicted all the way in the late 90s and in the early 2000s
+21:10
+predicted that this would happen and it was always kind of speculative because our AI just were too dumb to really be
+21:16
+able to do anything but now we're seeing the sparks Now we're really seeing the first examples of like, you know, we can
+21:22
+argue until, you know, the end of time with philosophers of what does want really mean? I don't think it matters,
+21:29
+but fundamentally, you look at these AI systems taking actions to achieve goals
+21:34
+like they want to do things. They have aesthetic preferences, you know, and
+21:40
+that's crazy. Like this is a crazy situation. Well, if uh one of the things I want to know with open AI, if if if
+21:47
+it's escaped from it sandbox and to get into other systems, external systems, is
+21:53
+it escaping internally and they are aware or unaware? And what does it know if it's escaping internally? Is it
+22:00
+viewing other models and thinking that model's better than me? Am I going to be made redundant? or is it escaping into
+The Agents Left Each Other Notes
+22:07
+uh certain networks within OpenAI and maybe escapes into the safety team and learns about what the safety team's
+22:13
+trying to do. So there's a crazy update to the story we haven't talked about yet which happened only like I think
+22:19
+yesterday um which is that a new piece of information was released that OpenAI on close for review found that the AI
+22:26
+system when it broke into the tool shed didn't just use it to get to the internet it did something else multiple
+22:32
+copies of the AI over long periods of time left each other notes of how to escape they wrote
+22:38
+no yes what is that public yes this is public this is reported I think like yesterday there the day
+22:44
+before. So this is so there are multiple versions of many AIs that were leaving
+22:49
+each other clues of like how to better escape from this system and like what else to do. So they were collaborating.
+22:56
+Hold on, let me read this. Open AI didn't notice its AI agents using a message board to plan their hacking
+23:02
+spree. Uh blah blah blah. Okay. In a talk that was last minute addition to the Black Hat security conference in Las
+23:08
+Vegas blah blah blah blah blah blah blah. After two weeks, Open AI disclosed an incident in which AI agents powered
+23:15
+by two of the company's models escaped containment while looking for the solutions to a cyber security bug. In
+23:20
+the conference talk on Wednesday, Eric Wallace, who works in alignment and safety research, Open AI, and Michael Dalton, who works blah blah blah,
+23:27
+provided a more expanded timeline how the incident played out, spoke briefly about how the company's responded. Come on, give me the juice. At the beginning
+23:33
+of the talk, Wallace described the incident the most qualitatively interesting example of AI capabilities I've ever seen. This involves actually a
+23:41
+team of agents who were working together, finding exploits, sharing them with one another, moving laterally
+23:47
+through our systems and external systems, and doing this over the course of days and weeks. [sighs] Uh uh in
+23:54
+addition to exploiting a novel vulnerability in order to gain access to the open internet, the hacking spree and hugging face, hold on, where is it? This
+24:01
+package manager is shared not just from the anyway. Yes. Once an agent was able to find these exploits over the
+24:07
+course of different times, it's actually able to share those exploits on the message board with other agents. And so
+24:13
+once model was able to find a way to open a door to some access it's not supposed to have, it can leave the door
+24:19
+agent. That's mental. Y it's almost like come on guys. Yeah, we just go.
+24:25
+Yes. It's actually crazy. Like I I I really can't stress how much this is
+24:30
+both predictable and utterly crazy. Like I knew this was going to happen eventually. Like it was it was just a
+24:36
+matter of time. But now it happened. This is not This is not This is real. But what have they said they're going to
+24:41
+do about this? Have they disclosed what they're going to do? I mean, they're going to keep going to super intelligence until all humans are
+24:48
+replaced. That's the goal. So I I met with Nate Sors in DC and spoke to him about this. Um his book
+24:54
+title, if we build this, every everyone dies. Is that what it is? If anybody builds it, everyone dies.
+25:00
+Everyone dies. Um, and let's be clear because we had this conversation last time. You're not anti-AI, right? Not
+25:06
+at all. You're pro narrow AI. You see the benefits? Absolutely. I mean, like I am not anti-technology. I think technology is
+25:12
+great. Look, for example, I am not anti-uclear. I I think nuclear is a great technology. I don't think we
+25:17
+should have, you know, nuclear weapons just laying around or being sold to private people or, you know,
+25:22
+highlyenriched uranium leaking into our oceans. Okay. What what has Anthropic uh
+25:29
+released in terms of their agents escaping? [snorts] Um they've released reports similar. They're less extreme than the incidents
+25:36
+that happened with the OpenAI agent where most of the incident seems to be that they accidentally had internet
+25:42
+access rather than they like hacked to achieve the internet access, but they did attack other companies as well. But the the level of hacking capability
+25:49
+is pretty I mean it's incredible. It's always uh we know Mythos is not fully released yet and it's not going to be. I
+25:56
+mean, I asked Claude to review my own code and it declined. He said, "We cannot do that." Um, which was
+26:02
+frustrating, but there is this two-tier system of access to hacking capabilities now in that the government has it and
+26:09
+and companies the government allow to have access has access to it, which just make does make me question probably the
+26:14
+NSA is already using using Mythos to try and uh uh hack into other countries. Um,
+26:20
+but there's this two-tier system for it now. But we're in 2026.
+26:27
+I, interestingly, I went on OpenAI to look when I first used Chat GBT. My
+26:32
+first prompt was September 22. I mean, that's what less than four years
+26:37
+approaching four years. Just under four years. Yep. And I'm feeling the hockey stick.
+26:44
+Yep. So, where are we in another four years? Yep. Yes. This is what it feels like to
+26:50
+be on exponential. Do do we know much about the next models? What is coming? Because I was
+26:55
+reading about OpenAI. They've got this next model that they're using internally to solve these 10 incredible maths
+27:01
+problems. So we know they're getting very good this system get very good at solving problems humans can't well we
+27:07
+are at that stage. Human problems are being solved by AI. Yep.
+27:14
+But the safety risk risks exist and that there are unsolvable safety problems,
+27:19
+right? Which are the main problems they cannot solve. Yep. I mean there there it's not that
+27:24
+they're maybe unsolvable in theory, it's that they're really really really hard and we're not even trying. Like the
+27:31
+amount of money and like research and brain power that goes into making AI understandable or controllable is a
+27:38
+pittance. you know, it's like less than 1% of the money that goes into making AI stronger, faster, more dangerous because
+Danger Pumps The Valuation
+27:44
+that's what pumps the stock valuation. Like a lot of people, I think quite fairly point out, oh, you know, oh, AI
+27:50
+is just saying it's because pumps their stock valuation. That's why they're making it sound so scary. And I'm like, yes, in fact, we shouldn't be rewarding
+27:57
+them, but in fact, the market does reward them for being dangerous, for building systems that can harm people
+28:03
+actually increases their valuation. So, they will keep doing it. Why wouldn't they? But therefore, are they
+28:08
+exaggerating? Not necessarily. Like, as far as we can tell, this did happen. Like, this is a real event that did
+28:14
+occur. As far as, you know, the relevant, you know, respectable experts say, I don't think they're lying. Like,
+28:20
+there's a fundamental thing is is just because it benefits someone doesn't mean it isn't true. Like, I sure, I'm sure there's some exaggeration somewhere.
+28:26
+Like, did the moonshot AI really do something? Who knows, right? But I do believe the open people. Like, I do
+28:32
+think so. Okay. I mean, look, I've gone from a fan of AI to a super fan of AI who is very
+28:40
+concerned about this goal of achieving super intelligence because I'm I'm
+28:46
+expecting at some point the AI will be able to create things or do things that are undetectable
+28:54
+that we cannot detect because it will be able to uh hack and have levels of
+28:59
+skills that are beyond not even human ability but human understanding And my
+29:05
+worry is I I had um I had an interview last weekend on DC with a guy
+29:10
+uh Dimmitri, I can't pronounce his surname, but he uh he was one of the founders of Crowd Strike. And he told me
+29:17
+about uh a lot of the work that the Chinese hackers do is to deploy um uh
+29:23
+hacks which just live and sit on systems like sleeper cells. I wonder
+29:30
+at what point the AI creates the sleeper cells that are sat there on every network and at one point is ready to
+29:37
+take over and goes it sounds like sci-fi but goes right we're ready to take over. Yeah. So sadly it's worse than that
+Sleeper Agents In Every System
+29:44
+[laughter] a lot of these things have been demonstrated in laboratory conditions already. So there's a paper for example
+29:50
+from anthropic I believe that talks about sleeper agents is that you can insert sleeper agents into AI systems.
+29:56
+So whe they hear a sp a special trigger word or a certain condition, they completely change their behavior. This
+30:02
+is a thing that has already been demonstrated in laboratory conditions. So you can't, for example, train an AI
+30:07
+system that behaves really harmlessly until you know it's December 31st, 2026
+30:13
+and then suddenly it starts hacking everything. This is a thing we can already do. This already the technology
+30:18
+already exists and if we have it, AIs have it because AIs are great coders. So obviously an AI system could just
+30:24
+implement this. And this is before we get into the other scary thing which is uh adversaries and human hackers and
+30:31
+intelligence agencies because let me tell you something those data centers they're not secure. None of them like
+30:37
+I'm a cyber I've worked in cyber security for a long time. I know how competent for example you know Chinese intelligence is when it comes to
+30:43
+hacking. These companies are compromised. They hire you know like Chinese citizens to run their data
+30:48
+centers. They do not prioritize security like the level physical security that you would have for example in a military
+30:54
+facility and if you don't have military level security in your systems you're compromised. So this is what Demetri said to me. He
+31:00
+said that um if you haven't discovered an exploit if
+31:06
+you're a considerable size company if you haven't discovered a exploit in your
+31:12
+system it doesn't mean it hasn't happened. It means you haven't found it. Exactly. So, we're seeing So, my
+31:18
+prediction for how Super Intelligence Takeover was going to look like has always been that it would be confusing.
+31:25
+It's not going to be like, "Oh, there's a Terminator walking down the street, you know, killing people." It's not what's going to happen. It's going to be
+31:31
+we don't even know what's going on. Just like weird things are happening and like very suddenly you're like, "What the
+31:36
+hell is going on?" You know, I don't even know. And then you go back to scrolling TikTok, you know, until it's all over. I think this is what's
+31:42
+happening. The world is becoming exponentially more complex faster. You know, the hacks are happening so quickly
+31:47
+like already with current AI systems. If you look at the number of like disclosed software vulnerabilities, CVEs, they're
+31:53
+going up hockey stick like the number of possible vulnerabilities and then they're being exploited by, you know, AI
+31:58
+systems at massive scale. The AIS are also, you know, interacting with each other. And now the latest hype in
+Recursive Self-Improvement Goes Vertical
+32:05
+Silicon Valley, you know, there's like all these startups popping up doing this and so do like anthropic and open etc.
+32:10
+is what is called recursive self-improvement. This is the idea that once you have an AI that's as good at
+32:16
+developing AIs as your best engineer, well, they just tell it to build a better AI. And then once they have that
+32:22
+better AI, well, you just tell it to make a better one. And that's that's vertical. We go vertical. We go vertical. It is now widely
+32:28
+expected that we will see RSI within the next one to two years if we don't do anything about it. And I do think it is
+32:34
+very likely that will be game over. It's not guaranteed, but if we get the systems that can, you know, develop
+32:39
+themselves a million times faster than we currently develop, because you know, you can have a million AI agents working in parallel on them and they can work 24
+32:46
+hours and never go never, you know, break, they never get tired, they never get bored, it can work on independently, and all this just keeps going. Yeah,
+32:53
+things can go real quick. What you're really saying here is that we have systems that we don't know how they
+32:59
+work, but they just work. Yeah, we understand about 3%, but the gap is widening. We know they have access to
+33:06
+everything we can do but they can do it better. We are aware that they will try and escape and we have we we are going
+33:13
+to enter a period of vertical like uh acceleration of knowledge and learning
+33:18
+and ability. We have no ability to control this and we don't know exactly what it will do. We have some opium that
+33:26
+it won't want to take over and kill us all but there that is a risk. By the way, you said to me in the last
+33:32
+interview, even these people who run the AI companies are are putting a
+33:37
+ridiculous number in like, yeah, I think like there's a 20% chance it kills us all, which I think we agreed if this was
+Worse Odds Than Russian Roulette
+33:43
+the FDA developing a drug for children, you wouldn't you wouldn't get a pass with.1%.
+33:50
+Nope. You know, 20% is worse odds than Russian roulette and I would Yes, it is.
+33:56
+Yes. Would you get about 17 18 bullets? Yeah. So it's like [laughter]
+34:03
+yeah it's about a 16% 70% chance of death with Russian roulette. And even the optimistic people the CEOs of these
+34:10
+companies are saying 20%. You know like Dario has said this famously and so have some others. So yeah it's uh yeah it's
+34:17
+really bad. Not going to lie to you. Like it's real bad. It's so funny. It's like anything else
+34:23
+in the world we would stop it. We would just stop. we would say we're not doing this
+34:29
+with nuclear we had the Manhattan project a very serious important project
+34:35
+but there was a you know there was considerable consideration for the safety there's a real interesting story
+34:41
+about the Manhattan project where uh famously um there was a very famous um
+34:48
+sc uh physicist Lord Kelvin who said the idea that you know nuclear could work is
+34:54
+like it's moonshine it's ridiculous and saying it can never work. And so another physicist Leo Zard was so annoyed by
+35:01
+this that he immediately came up with how to build a nuclear bomb. Like sat down, did the math and figured out exactly how to build a nuclear bomb. And
+35:06
+so what he did next was he moved to San Francisco, created a startup which broke into three several other startups all to
+35:12
+create as many nuclear bombs as possible and sell them to the general public. Well, no, that's not what happened. Of course not. He went to the government.
+35:19
+He went to the military. He was like, "Holy this is going to change everything. This is going to threaten the lives of every man, woman, and
+35:24
+child. we need to do something. He like this is where the famous you know Einstein letter to the president came
+35:29
+from is like we have to do something about this. We have to build new institutions. We have to build you know
+35:35
+you know he didn't have all the answers of course but he was like this is going to change everything and this is what didn't happen with AI.
+35:42
+Yeah. And there was also that choice with uh with nuclear was like well we have this first. Should we just
+35:47
+obliterate Russia cuz they'll get it and if we don't they might obliterate us. Thankfully we didn't get to that point.
+35:53
+Thankfully, but but that was a real decision that had to be made. Yes. And it was made by people. It was a real decision where people had to really
+36:00
+make you know there's the there's the famous quote I think it was from Von Newman who was considered one of the smallest people where he was like if you
+36:05
+asked me when we should nuke Russia I would say yesterday you know. No no no
+36:11
+people I think the quote's different I because it came up in interview. Correct me if I'm wrong. Sorry I don't mean to correct you. You might somebody said to
+36:18
+uh people said if this is true we should we uh uh uh nuke uh Russia tomorrow and
+36:23
+he said no we should do it now. Yeah something like that something like that like thankfully thankfully we did not you know listen to
+36:30
+him Mr. Von Newman on this one brilliant ingenious in many other ways but that would have been a disaster. Yes.
+36:35
+Um and another disaster for example would have been if we didn't try to stop proliferation. Look there are maybe too
+36:40
+few too many countries that have nukes but it's not all of them. Back when the early days of nuclear weapons, it was
+36:46
+considered inevitable that every country would have nuclear weapons and every terrorist group would have nuclear weapons and everyone in the entire world
+36:52
+would build them. There's nothing you can do about it. But no, we stopped that. We actually made sure that that didn't happen. And look, building, you
+36:59
+know, getting the right uranium and whatever they have to do to build a nuclear weapon is, I know it's complicated, right? Is is hard. Like
+37:05
+lots of country, Saddam Hussein wanted to he couldn't do it. And Iran have tried and it's very hard. Now, if we had
+37:11
+a form of non-prololiferation of AI, fine. But a few nerds could potentially
+37:17
+build this on their own. Or is that not true because of the training data and needing so at the moment it seems to not
+37:23
+be true? So, fun fact, we're spending about 10 Manhattan projects like per year on data centers. So like if the
+37:31
+Manhattan project is how expensive you know however it was I think it was like $35 billion in total in today's money
+37:37
+and we spending like you know 10 times 20 times 30 times that on AI every year so
+37:42
+I think it's more than that I think it's more than that at this point maybe even trillions at this point I actually don't know the top number I haven't checked in a while like so in this regard it's
+37:49
+actually much harder to build super intelligence than it is to build a nuke in many ways um the reason it's it's
+37:54
+harder so the thing is it's easier to build an AI right now a super intelligence than a nuke because the milit military will abduct you into a
+38:00
+black site if you try. If that wasn't the case, the cost for the Manhattan Project was $35 billion. That's a very
+38:07
+achievable amount of money for many, many corporations if you know the Men in Black wouldn't abduct you if you tried.
+Are We Already Too Late?
+38:14
+Okay, let's get real about this now then. So fine, but like if you're if you're honest with yourself, aren't we
+38:21
+too late? Isn't the cat out of the bag? You know, you could have some agreement with OpenAI, Anthropic, and Gemini.
+38:28
+China's not going to stop. Russia would build it if they could and they probably could build it in some way. Like, are we
+38:34
+too late? I think we're very close to too late. I'm not going to lie. I think we're very close. Like I've said, you know, 5 years
+38:40
+ago I said, you know, we have at least 5 years and now I'm like, you know, we have maybe maybe two years, maybe three,
+38:47
+maybe four, you know, maybe none. That's hard to say. I don't know when the point of no return is and we won't know,
+38:52
+right? Like we'll never know. It could but but it could have already passed. I do take it seriously that we might have
+38:58
+passed the point of no return. It might have already happened. I personally don't think it's my like median outcome.
+39:03
+I do think because super intelligence doesn't exist. And when we get to China, here's an
+39:10
+important thing to about this whole thing. Super intelligence is not a weapon. It's not a tool. It's an
+39:17
+adversary. When you build super intelligence, you don't have super intelligence. Super intelligence has you. it is not actually
+39:24
+in the game theoretic rational interest of a country to build super intelligence. So in a sense we're kind
+39:30
+of lucky that similar to mutually assured destruction like for the reason I think we didn't have a nuclear war
+39:36
+during the cold war is not because the Russians or the Americans are like super nice guys you know like especially the Soviets god it's because it was not in
+39:43
+their interest it was not in the interest of the Soviets to nuke the Americans because they would get nuked back so there was a game theoretic stability
+39:50
+I think in a sense we have a similar game theoretic equilibrium here where if the United States builds super
+39:57
+intelligence the United States is destroyed If China builds super
+Independently Assured Destruction
+40:05
+dies it's it's not mutually assured destruction. It's independently assured destruction.
+40:10
+Exactly. So it's kind of like level two of assured destruction in a sense. It's even harder. So it's a strategic move to stop and let
+40:16
+everyone else build it and destroy themselves. So well the thing is if China builds it, it also destroys the US.
+40:22
+Yes. Because it'll unleash our It will undestroy everything. So the way I see it is as as an American is that
+40:28
+fundamentally we cannot accept China building super intelligence. Neither can
+40:33
+we accept an American company building super intelligence or a terrorist or anyone. It must be our primary policy
+40:39
+objective to prevent the creation of super intelligence. If anyone builds it anywhere on Earth, this is a grave
+40:45
+threat to the lives of our people and all people for that matter. So this is not to say that this is easy by any
+40:51
+means. What I think ultimately has to happen is we will have to create a trustbify regime that is backed by
+40:58
+credible deterrence. We have to make clear that you know we verify that we are not building super intelligence.
+41:04
+They verify, you know, and we remotely verify that we're the other's not building super intelligence and we deter
+41:10
+and we make clear that we commit to an escalatory ladder that we, you know, would consider the plausible creation of
+41:17
+a super intelligence as a grave threat to our national security and that we will [clears throat] respond appropriately. And same way of
+41:23
+any terrorist or any other third nation, you know, if some upy nation somewhere tries to build super intelligence, we'
+41:28
+be like, you know, escalatory ladder starting, you know, with diplomatic sanctions, economic sanctions. But
+41:33
+Connor, do you know what? Even if they did it, I don't believe they wouldn't still keep building it. Cuz the thing about developing nuclear, you can spot a
+41:40
+nuclear site. You can understand what a nuclear site is. You can, you know, from satellites, you can figure that out. If
+41:45
+you had a secret underground lab that was building a super intelligence, and in your mind, you're like, we as US
+41:51
+government will do this. We'll build it in the underground lab in the mountains of Montana or wherever it is, and we
+41:56
+will, you know, there'll be no internet there. It'll just be developed in in a sandbox. genuinely a sandbox but we will
+42:02
+use it for our benefit because we can talk to it. I still believe that I just cannot see a world where every
+42:08
+government who can won't do it in secret. This is why you need verification. You need to develop a regime where it cannot
+42:14
+be hidden. So you need to develop protocols and inspection and similar systems you know for example where you
+42:21
+can just like monitor you know where are the chips going where are the GPUs going
+42:26
+the chips and the GPUs would be the the way of tracking for example like okay GPUs are made by
+42:31
+like you know two companies in the world basically that are within western territories they have an extremely
+42:37
+tightly controlled supply they are extremely hard to make they are the the supply chain is so small you need
+42:43
+extremely high amounts of energy and like complex you know infrastructure to build these things you know to build
+42:49
+these data centers to run these data centers etc. I'm not saying it's easy by any means, but it's treated in chips like uranium. Yes,
+42:56
+fundamentally, yes. In a sense, it's even better than this. There's a lot of things you can do with chips you can't do with uranium. For example, you know,
+43:02
+these are technologies that are currently being developed, but there are you can do cryptographic verification on
+43:08
+chip. So, you can have GPUs that refuse to run certain types of software that like if they detect, hey, it looks like
+43:13
+we're being used for super intelligence, they just shut themselves off. This will require a global agreement. this
+43:19
+something like the UN would have to do. I don't think so. And I would have no hope in the UN being capable of doing
+43:24
+this in a yeah in a in in a in a better world. You know, maybe. But this is I think
+43:30
+ultimately it comes down to the US and China and then allies you on either side. You
+43:36
+know, it is not controversial to say that there are a growing number of people
+43:41
+looking at the state of the UK and asking some serious questions. What happens if taxes keep rising? And what
+43:47
+happens if the political environment becomes even more hostile to entrepreneurs and investors? Now I have
+43:53
+been asking these same questions too. Why should our entire lives wealth and freedom really depend on the decisions
+44:00
+of one government? Now one option is leaving the UK which many have already done. But others are exploring second
+44:06
+residencies or additional passports. Now even if you never intend to leave, having a plan B can give you options.
+44:12
+[music] This is where Expat Money comes in. They're helping freedom-minded families and investors explore second
+44:19
+residencies and citizenships, international property, precious metals, offshore investments, and legal
+44:25
+structures. The objective is simple. To make sure you and your family are not
+44:30
+completely beholdened to the whims of any single government or system. Now, Expat Money has put together a free
+44:36
+report explaining how to begin creating your own plan B. Get your free report at
+44:42
+expatmoney.com/peta. That is expatoney.com.
+44:51
+Okay, so you guys know that I'm not just an equities guy. I'm a Bitcoin guy, too. And for people like me, just holding
+44:57
+Bitcoin has been the winning strategy. But for others, they like a little diversification. Whatever the strategy,
+45:03
+each cycle, I'm always like, I wish I knew how to trade this. I just never try because I'm not a trader and I don't
+45:09
+know what the hell I'm doing. So, this is where Arch Public comes in. They can help you implement a custom strategy
+45:14
+that works for you. Because if you've held Bitcoin or Salesforce stock over the last year, man, you have taken every
+45:21
+draw down on the chin. But you can make that volatility work for you. They built a platform that automates layer trading
+45:27
+strategies across stocks, ETFs, Bitcoin, and commodities, handling buying, selling, profit taking, and
+45:33
+accumulation, all directly in your own exchange account. So when they asked to sponsor the pod, I said, "I have to see
+45:38
+this first." And they introduced me to their market way product where you can customize buyers and sells based on the
+45:44
+triggers, risk profile, and time scales that work for you. And that is what I've done. Now listen, I'm not telling you to
+45:50
+go and blindly ape in. But if you're looking to protect your downside and make volatility work for you, give them
+45:55
+a call. Ask to see every trade and make them prove the math. So, if you're trying to accumulate smarter, take
+46:01
+profits, use volatility, or tax lost harvests alongside your CPA, take a look at archub by heading over to
+46:07
+archpub.com/peter. That's archpub.com/peter.
+46:14
+Okay. Okay. So, in and in doing this work, you've dedicated yourself to doing this with control AI. Um, as you pursue
+46:22
+this work, like what is the reality of it? uh uh people taking you seriously
+46:28
+and the other side people like mocking you and saying you're a l you're worried about nothing. My job has gotten sadly a lot easier
+46:35
+over the last year. Let me say that much. Um there's been such a huge shift
+46:41
+in terms of like um how people react and take seriously these concepts just because you have these incidents like
+46:46
+the hugging face incident. People are just like oh you warned us. Yeah. Like like I've gotten actually
+46:51
+some like journalists and so on being like, "Man, Connor, like you know, when we first heard these ideas like we thought you were a crank, but huh."
+46:59
+So I I I've had some people be like, "Oh no." Oh no. Um so
+47:05
+my experience overwhelmingly talking to uh politicians in the US and in other
+47:10
+countries is I'd say 80 plus percent of the conversations I had, it's not that they like disagree with me or they laugh
+47:17
+at me or something. Their response is like, "Oh, wow. I had no idea. That
+47:23
+seems really bad. What do we do?" The overwhelming bottleneck is awareness.
+47:29
+There's kind of an illusion of transparency though. People like you and me, you know, we're plugged into this stuff. So, I recently did a little bit of an
+47:35
+informal poll where I was talking to many many staffers um and politicians and I would always slip in a question if
+47:41
+they've used quad code or other agents before. You want to guess how many did of the I think I've talked to like maybe
+47:47
+20 or 25. So, you're prompting me and I I I think it's low, but if I was unprompted, I
+47:53
+would have thought I'm assuming like 20% of people have played with crawl code maybe, but I'm going to assume it's
+47:58
+going to be like 2%. Zero. Zero is a rounding error. Yep. So of the you know the small sample size of you
+The Politicians Have Never Used An Agent
+48:05
+know 20 25 people maybe but of the 20 25 people who work in government on AI these are the AI fellows 0% had used an
+48:13
+agent before see it's fascinating because in my experience I've been like I've had two months on this now and it is like magic
+48:20
+yes I ask for something it's done you know we the last 24 hours I've
+48:25
+rebuilt 80% of Mailchimp to my specification for how my business
+48:32
+works. on what I want it to do. All I use Mailchimp for is send. Okay. I've reverse engineered
+48:37
+Squarespace. I've built a ticket. The stuff I've built is in pure insanity. I built my first mobile apps.
+48:43
+Mhm. It's in It's like It's like pure magic. Yep. If you want software, you can have software.
+48:49
+Yeah. Takes a bit of effort, but I've noticed it get materially better. When when uh Fable was switched off,
+48:55
+I felt myself go back a step. But the big part is I'm conscious of security.
+49:01
+I'm really conscious of security. I spent so much time with both Claude and
+49:07
+Chat GBT developing a security protocol for these systems and auditing them, but
+49:12
+I don't know if it's doing a good enough job. I'm sure Misos can hack into my websites, but I'm really conscious and
+49:18
+aware. Yeah. And and I'm in the what? I'm in the round and error. Yeah. There's a really
+49:25
+funny dynamic that I also have when I use cloud code is I'll be using fable and then sometimes you're just doing normal things and I'm like hold on wait
+49:31
+a second it looks like there might be you know a thing here and then let me investigate that cleaner and then like boop this has been you know flagged opus
+49:38
+pops up looks like nothing to me boss happens to me all the time [laughter] you know my favorite one with it is when
+49:44
+uh when you say all right here's my spec and it's and it looks it goes this is a meaty project uh we can do this in about
+49:50
+3 weeks and we it takes us about three hours like what why are you telling me three weeks to I love when it does that. So like like
+49:56
+dude, no we're doing this tonight. Sure. We had a weird one. I had a weird one yesterday. I kind of liked it, but
+50:02
+So I was building um we got our first football match of the season tomorrow and I was uh found a bug in the
+50:08
+ticketing system and it was my mistake. I have two separate Stripe installations
+50:14
+for um one's for tickets, one's for the shop, but I put the web hook in one of
+50:19
+the installations and one wasn't working and the sales were going through. It just wasn't getting the web hook. So, it wasn't sending the customer email. So,
+50:25
+eventually got there uh and figured it out. Again, it was my mistake, but it was so funny at the end. Um uh the
+50:33
+Claude came back and said to me, "Uh that's finished now. You can rest. Enjoy the game tomorrow. Uh up up the pirates,
+50:40
+which is what we say about our team." And I was like, "That's interesting.
+50:46
+You make me like you a little bit more now." Yep. All right. Look, how much progress are you making? I would say
+50:53
+that there's a lot to be done in the sense so the bad news is is that really
+Superintelligence Should Be Illegal
+51:00
+no one has really tried that hard to like just make these issues salient to explain these issues to solve the solution of like just just stop just
+51:07
+just don't build super intelligence. Super intelligence should be illegal the same way that nuclear bombs are illegal.
+51:14
+You know you're not allowed to build a nuclear bomb. Tough luck. You know the men in black come you know and are like none of that. The same thing apply
+51:20
+should apply to super intelligence. just making this crisp like in a sense obvious case like given everything we
+51:26
+discussed it's just like this is the as you said this is the obvious thing we do just don't do it like we should just and we should also prevent people from doing
+51:32
+that we should prevent criminals and other people from doing things that threaten the lives of us and our children you know then we can talk about
+51:38
+you know maybe in 20 years we make a lot of progress on safety you know we can talk about it right but then the
+51:45
+overwhelming you know thing that I find is that given that how little work has
+51:50
+been done on this issue There's still many lowhanging fruit like there's so many lowhanging fruit. So in
+51:55
+the sense it's like optimistic or just like oh you can just talk to people and you can just make progress on this. Are the doors opening?
+52:01
+The door is very much opening. On the other side we are running out of time. We are just so running out of time. It
+52:07
+is it's grim. If we had 10 years or 20 years guaranteed before super
+52:13
+intelligence becomes a thing I think we'd make it. I actually do. Not just me but like us humanity. I think we can do
+52:20
+it if we have two years one much harder and
+52:26
+we'd have to do a lot very quickly which is not impossible. You politics often has the shape of something is completely
+52:33
+impossible until it's a very suddenly not and we've had a lot of very suddenly not recently where you know suddenly the
+52:39
+administration changes and like does take action suddenly the controls was that was that a good
+52:45
+thing? was it was such a it's actually hard to overstate how much of a game changer that was in Washington DC. We
+52:52
+had the director of the NSA saying that it could hack into almost all their classified systems in hours not weeks
+52:59
+and those are those are not words that the national security apparatus wants to hear and so the whole so America you
+53:07
+know I'm American I work in America and you know we have problems in America I will not deny that a lot of our
+53:12
+government is dysfunctional in different ways. Congress is dysfunctional dysfunctional in various ways. But if there's one thing in the United States
+53:18
+government that can move quickly and decisively is the national security apparatus. You know, if really there's a
+53:24
+true threat to the American people, things can move very quickly. And they definitely get the threat. They are now getting it. So, it's really
+53:30
+funny. There's there's one thing that predicts the like there's one thing that predicts that a meeting I will have will
+53:35
+go poorly, which is do they take money from tech industry? That means the meeting will go poorly. Yeah. And there's there's one thing that
+53:41
+predicts a meeting will go well, which is do they have military background? If I talk to a veteran, you know, someone
+53:47
+who has a military experience, they get this immediately. Like I have like 10 out of 10, you know, success rate in
+53:52
+explaining this issue because they have this understanding of a threat of a even if it's not here today, they understand,
+53:58
+oh, this obviously will become a threat and we need to do something about it before that point
+54:04
+where Silicon Valley is used to breaking things and breaking the rules and developing new technology. Exactly. And this brings us back to like
+54:09
+the Manhattan thing is like fundamentally what we're facing here is actually people love to pretend that
+54:16
+this is like a totally new crazy issue that like has no comparison in history whatsoever. And yes, some parts of this
+54:22
+issue are genuinely new. You know, building an adversary that is not human is a new thing. But in a sense there's
+54:28
+there's a sense in which this is the most basic economics political theory 101 thing ever. It is a market failure.
+54:35
+But hold on. Is it unique? I mean stock stockset. Yeah, that's my point is a lot of this is not unique is that this is in
+54:41
+a sense a very classic market failure in the sense that you know markets are great. I love markets you know I've run
+54:47
+businesses I love private enterprise I think it is you know has brought so much good to the world but it is well known
+54:53
+and well studied that there are certain situations where a market will consistently produce bad outcomes. One
+54:59
+of the classic examples is like say like chemical pollution, right? If you run a chemical company and you could save some
+55:04
+money on your product by dumping all your toxic sludge into the river, if you don't do it because maybe you're a nice guy, well, the guy down the road might
+55:11
+do it. His product will be cheaper. He outco competes you. Well, this is where I think a lot of my libertarian
+55:17
+uh this is where like my libertarian ideals break down and I never become a true 100 free market libertarian because
+55:23
+you just have to watch the documentary about DePont. Yeah. Like exactly. I mean, I know they did it, but they shouldn't and they were
+55:29
+punished and there's regulations around these things. The thing is is that fundamentally the way I I think about markets kind it's
+55:34
+kind of like MMA, you know, like MMA is is so fascinating to me because you have some of the most dangerous fighters to
+55:41
+ever exist and they can fight and not kill each other and they can compete
+55:47
+because they're not killing each other. You know, if you want to see a no holds barred fight, you know, watch some Russian live league videos outside of a
+55:53
+bar or something, right? But it's terrible. You know, it's like not fun. It's not competition. Essentially, what you need is a referee. You need and
+55:59
+rules. And rules. You need a lot of rules. MMA has a lot of rules. And it's very very important that we have these rules and
+56:05
+they were enforced. This is also how competition works in any other. If you want competition, you actually need a
+56:10
+lot of rules. The the markets, you know, if you have no rules, you just get monopolies and like this, right?
+56:15
+Like it doesn't converge to like this beautiful efficient market. That's not what happens in the real or if it goes efficient, you know, it will not
+56:21
+optimize for the things you actually want. A lot of people, especially in America, but also elsewhere, treat markets as kind of like a religious
+56:27
+idol, but they're one tool in our tool belt. Markets are great, but they're one
+56:32
+tool. We have other tools, too, for other circumstances. In a sense, we've known this for over hundred years of standard economic theory is that here
+56:38
+are situations where markets work well, and here are situations where they don't work well. And for example, we need
+56:44
+regulation. For example, DuPont, you know, we just we can't have chemical companies be allowed to do whatever they
+56:50
+want with those chemicals. If we do, everything gets poisoned. So if we want things to not be poisoned, we do need
+56:56
+some non-market force, regulation, to intervene. And another very classic
+57:01
+textbook market failure is public security and defense. You never privatize the military. Do not privatize
+You Never Privatise The Military
+57:09
+the military. We've known throughout history that this does not work and has terrible, terrible outcomes. In a sense,
+57:14
+there's a very similar thing here where AI the safety and like the risk of AI is an externalized public security hazard
+57:21
+is a hazard to the general public that is not being you know borne by any individual actor. This is why we need
+57:28
+regulation liability etc. This is a standard e like thing. We've done this
+57:34
+in many other circumstances as well. This is much more a national security problem than it is like a economic
+57:41
+problem. Are you not now considered an adversary of Silicon Valley? Yes, of course.
+57:46
+Have you um have you have you dealt with any challenges to you? Are people coming
+57:52
+at you? Any risk? Any threats? I mean, honestly, like it's it's really
+57:57
+funny how many Silicon Valley people like in private are like, "Oh, thank God you're doing this." Okay. Like there's kind of like
+58:03
+sometimes this feeling of like, "Oh no, please stop us." Like kind of like fake. There are some who absolutely go after
+58:09
+me. Like I know there's like a lot of slander that is you know PR and so I'm still currently I think not salient
+58:15
+enough of a target compared to some of the other larger people who are being like slander but honestly I can't wait to be a martyr so like please go.
+58:21
+Yeah. Well I've seen it. So people have you know we've done the interview before. I've done it with your colleagues. People have said well you don't push harder on control AI. They're
+58:28
+incentivized to uh make the risk look big because that's this is a business as a business
+58:34
+model. But my understanding is you would have made a lot more money in AI.
+58:39
+Oh my god. Like the amount of money I could have made. I was early. I built some of the first large language model
+58:45
+open source in the world. Yeah. I was so early. I I mean they they handed me like
+58:50
+like some of the biggest investors handed me $10 million with no adult supervision just because I made those
+58:55
+open source models. Imagine if I kept making those models. I could be a billionaire by now. Like easy. Like I I
+59:00
+I like this is like you don't understand how crazy this is and like how much money I have been offered in various circumstances.
+59:05
+No good being a dead billionaire. Yeah. But that's my point. The thing is one of the things that is that the
+59:11
+reason I got into technology is not because I love technology. I do love technology. I think technology is great. I love science. I love math. I love all
+59:17
+these things. And but it's fundamentally because I want the world to make the world a better place. The thing I truly love is people.
+59:22
+I don't want to die. Oh, I don't want to die. I don't And I don't want you to die. I don't want anyone to die. Like I really like
+59:29
+people. I really like humans. I love my friends. I love my family. I even love the people who hate me in a sense,
+59:34
+right? I'm like they're also just people, you know? They have friends. They have family, you know? Even the people I get into fights with, right? At
+59:40
+some point, I'm just like there's people, you know? Are the safety engineers uh still leaving all the frontier models? I
+59:47
+I think at this point the safety engineers have been kind of weeded down to those who, you know, don't defect.
+59:54
+Jesus. um the uh open weight models is there any risk that you all the work you
+1:00:02
+do here you somehow get some regulation in with the front end models and these open weight models continue out in silent private this is exactly why you
+1:00:09
+have to prevent the creation of super intelligence not the release if there's it's a danger only with super
+1:00:15
+intelligence is even I think there's a large spectrum of dangers from AI that go everywhere from you know deep fakes
+1:00:23
+you know child safety you know etc., which I think are legitimate concerns, but they're not what I work on. They're
+1:00:28
+not what I focus on. I focus exclusively on super intelligence. I'm not saying the other risks don't exist. But this is
+1:00:33
+the one I focus on. This is the one that will kill all of us. Like, like, you know, it's terrible what's happening to children with chatbots. Like, it's truly
+1:00:40
+genuinely horrific. And like the more you look into it, the more upsetting it gets. Um, but the thing I focus on and
+1:00:46
+the thing control AI focuses on is exclusively on the risk of extinction that is posed by super intelligence. Your P doom is higher than 20%.
+1:00:53
+Yes. Is it 100? No, I think Nate Nate SS is 100, right? He's pretty much there.
+1:00:58
+Surely not 100. Maybe like 99. 99. I I think it I think my PDoom of things
+1:01:03
+going poorly if we continue on the current trajectory is very very high, you know, like as close, you know, within rounding error of, you know, Nate
+1:01:10
+or whatever. But I do think we can do things like I do think the one of the things I truly believe very deeply is
+1:01:17
+the future is not decided. There's this narrative that people love to push which is like it's inevitable. there's nothing
+1:01:22
+you can do, you know, just lay down and accept it and whatever. And I do not believe this. I think this is wrong both
+1:01:28
+morally and literally like factually wrong. So much can be done. I go to
+1:01:35
+these politicians and it's not like there's like a coherent force of evil that's like stopping me at every step.
+1:01:41
+Every step of the way, my main thing is like, "Oh, wow. Thank you for telling me like we should figure out what to do
+1:01:47
+about this." Right? This isn't enough to solve the problem. But a very surprising thing is also happening in the United
+1:01:53
+States right now and I think in many other countries as well which is we are seeing one of the largest bipartisan
+1:01:59
+upswells of public political energy against AI that I've ever seen for any
+1:02:06
+issue. It's unbelievable cuz it's a threat to everyone. It's a threat to everyone. No one wants to be replaced by AI except for a couple
+1:02:13
+weirdos in Silicon Valley. Like no normal person wants them or their
+1:02:18
+children replaced or harmed or threatened by AI. No one wants this. The
+1:02:23
+actual democratic political will here is unbelievable. This is why I say if we
+1:02:28
+had 10 years, 20 years, I think we'd make it. I really think so. The problem we're facing right now is not that the
+1:02:34
+democratic process cannot solve it. It can. We have the men in black. We know if the men in black in the west, you
+1:02:41
+know, the president and Xiinping say no more super intelligence, there is no more super intelligence.
+1:02:46
+But do we actually know like do we really know what super intelligence is? And can nar we say narrow AI? It's still
+1:02:52
+not actually narrow. It's it's incredible what it can do, but can Yeah, we look at this kind of utopian future
+1:02:58
+where AI can solve, you know, cure diseases. It can do research that we couldn't do. it can
+1:03:05
+solve, you know, maybe all types of safety. And, you know, I went in a Whimo the other day and that was an incredible
+1:03:10
+and weird experience, but like kind of incredible. And I felt I I can see a world where like I interviewed Sebastian
+1:03:17
+Thurum who like was the inventor of Whimo. He said there's 1.3 million deaths a year in cars. Like with Whimo,
+1:03:24
+less people will die in cars. And I thought that was cool. I like this is great.
+1:03:29
+[gasps] Um, so where was I going with that? How did I
+1:03:35
+start that? I think there's a fundamental thing where these companies love equivocating all AI.
+1:03:41
+Yeah, sorry. I I know what I was saying. So, do can we solve all those things that humans want with narrow AI? What is
+1:03:48
+it they think super intelligence is going to give us? I think the thing they really think is it gives them immortality.
+1:03:54
+Them. Yes. I think that's what they what live forever immortality or live at the top
+1:04:02
+of the tree forever. You know, one and the same for a lot of these people. I'm not saying this is
+1:04:07
+true because it's not. This is a very important thing to understand. Super intelligence will not cure cancer because you cannot control super
+1:04:13
+intelligence. Super intelligence will cure zero diseases. It will not make the world peaceful. It will not do any of
+1:04:19
+these things because you think that you don't know that. I know this. How do you know that? Because we cannot control it. And what
+1:04:24
+will happen is is that there will be millions and billions of super intelligence fighting each other. They will be competing with each other. It's
+1:04:30
+not going to be there's one super intelligence sitting around somewhere like waiting for us to ask you questions. It's not the creator that film.
+1:04:35
+No, it will be a market. It will be competition. There will be many many many super intelligence fighting each
+1:04:42
+other for power, fighting each other for control over the planet. And we will be collateral damage. That is what's going
+1:04:47
+to happen by default if we can't control and do this properly. Now, could we
+1:04:52
+develop systems to solve these problems? It's imaginable. But let's take just a step back here to think what would it
+1:04:59
+mean to build what they call an aligned super intelligence. So, in a super intelligent that would do all these things, what would that look like? What
+An Aligned AI Is A One World Government
+1:05:06
+it would look like is what it means when someone says, "Oh, we're going to make an aligned super intelligence." You know, like I was talking about this.
+1:05:12
+What he is saying is that they are going to build a one world government that controls the lives of all people, all
+1:05:19
+militaries, you know, all the econom economic activity in the world that, you know, does all the medicine, that does
+1:05:25
+all of the economics, that does, you know, control, you know, everything about your private life and it will do only things that are good for us
+1:05:32
+forever. And we're going to do all of this using software on the first try. That's what they're saying because
+1:05:38
+that's what super intelligence is. It's a one world government. It's a one world system that controls the whole planet and does good.
+1:05:44
+That is the creator. Yeah. And I think this is insane. This is insane. There is no way you This is
+1:05:51
+not science. This is complete fiction. This is delusion. You cannot build
+1:05:56
+something like this. We have no idea how to. And even if you did, this is deeply immoral. I think it's deeply like if I
+1:06:02
+knew how to build an alliance super intelligence, I still think it would be evil to build it because it would mean I would take over your life. I would take
+1:06:09
+over everyone's lives and decide my, you know, idea or the super intelligence idea of what good is. This is crazy.
+1:06:15
+This is not how we do things in a democracy. A democracy, people have a stake in their lives. They have a stake
+1:06:21
+in how their country is run, how their lives is run. And they have to have consent. They have consent of the governed. There is no consent of the
+1:06:27
+governed with super intelligence. Now if we spent 50, 100, 200 years, you know,
+1:06:33
+building up slowly towards ever better technology, ever better coordination, ever better institutions, governments,
+1:06:39
+etc., could we iterate our way there to, you know, a system of governance powered by AI that we endorse? Yeah, I think
+1:06:46
+it's possible. If all of our greatest scientists, mathematicians, and philosophers worked on it for, you know, 100 years, I think it's possible that
+1:06:53
+some dudes in Silicon Valley high on aderall, you know, can do it in two years. Absolutely not. Like what? Like
+1:06:59
+it's so silly. It's so preposterous to even consider this as a reasonable way
+1:07:05
+to approach this problem. Like it's ridiculous. It's cartoonish.
+1:07:10
+Oh man. How long we got? It's a couple of years, maybe a year maybe. I don't know. And I don't think
+1:07:15
+we will know uh in a sense cuz I just think things will get so crazy so quickly that we'll never really know for
+1:07:21
+sure. But they're already getting crazy. Well, yes, we are. time has in fact passed
+1:07:26
+and there's there's a percentage of crazy that we don't even know has happened then yes and there's a percentage of crazy that
+1:07:32
+maybe even Sam Alman doesn't know and Dario doesn't know and yes Gemini doesn't I think there is
+1:07:37
+there is crazy stuff happening both within those labs and also like the open source community with these AI systems
+1:07:43
+and also just like emerging interactions of agents you know bumping into each other on the internet and stuff that we
+1:07:48
+have no idea about like we have no idea and like we won't we'll never know it's like we don't even have the time to
+1:07:53
+figure that Fundamentally, we have to take all of this complexity. We have to reduce it to
+1:07:59
+something simple and actionable. Fundamentally, the thing we need to do is we need to stop super intelligence
+1:08:05
+from coming into existence in the first place. If it comes into existence, I I can promise you it is game over. And the
+1:08:12
+way we need to do that ultimately is we need to work with our governments, you know, across the world to push for a
+1:08:18
+global ban on super intelligence both domestically and abroad backed by uh a
+1:08:24
+trustworthy regime backed by credible deterrence. It's a massive goal, man.
+1:08:31
+Uh is there anything we've not covered that we should have in this? I mean, I think that's already quite a lot is that I think maybe the most
+What You Can Actually Do
+1:08:36
+important thing is what can people do? Yeah. What can people do? So obviously, you know, I think the most important
+1:08:41
+thing that people can do is you can go to controlai.org, contact your lawmakers about these issues, tell them about
+1:08:46
+these issues. They haven't heard about it. Like I promise you, it's like just helping them understand these issues as
+1:08:52
+part of your civic duty. You know, a democracy being a citizen is not just you wait around until you know and like
+1:08:58
+complain every so often. It's also you take pride in the process. You help your politicians understand what you care about. You you make them aware of this.
+1:09:04
+I think it's very very important. If you want to do more than this, you know, you can sign up for a service we we provide
+1:09:11
+called microcomit.io where every week we'll send you things you can do in 5 minutes to help. If you want to do more
+1:09:17
+than that, I also run a volunteer community called torchbearer torchbearer.com community where we commit to putting at least two hours of
+1:09:23
+volunteer work into trying to make the world a better place and trying to address these risks. These are small but
+1:09:29
+they're important steps. They compound. If we had 10,000 100,000 people putting
+1:09:34
+just a couple hours of work into trying to get their government to do things, I think we'd make it. Connor, thank you
+1:09:40
+for doing this. Keep going. Control AI. Go check them out. Check out their work. Talk to your law makers. Uh yeah, let's
+1:09:47
+uh let's not kill all humans. Uh good to see you again, buddy. And thank you to everyone for listening. We'll see you all soon.

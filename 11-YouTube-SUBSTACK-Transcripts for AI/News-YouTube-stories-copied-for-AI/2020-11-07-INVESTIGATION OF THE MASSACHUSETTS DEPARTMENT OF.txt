@@ -1,0 +1,1434 @@
+INVESTIGATION OF THE
+MASSACHUSETTS DEPARTMENT OF
+CORRECTION
+United States Department of Justice
+Civil Rights Division
+United States Attorney’s Office
+District of Massachusetts
+November 17, 2020
+TABLE OF CONTENTS
+I. SUMMARY.............................................................................................................................. 1
+II. INVESTIGATION.................................................................................................................... 2
+III. BACKGROUND ...................................................................................................................... 3
+IV. CONDITIONS IDENTIFIED................................................................................................... 4
+A. MDOC Fails to Provide Adequate Supervision to Prisoners in Mental Health Crisis and
+Thus Protect Prisoners from Serious Harm in Violation of the Constitution....................... 4
+1. Prisoners Face Substantial Risk of Serious Harm on Mental Health Watch When
+MDOC Staff Fail to Remove Instruments Used to Self-Harm ........................................ 5
+2. MDOC’s Lack of Policies and Inadequate Officer Training Contribute to Inadequate
+Supervision for Prisoners in Mental Health Crisis .......................................................... 8
+3. MDOC Officials Knew About the Mental Health Watch Risks to Prisoner Health and
+Safety Due to Inadequate Supervision and Disregarded Them ..................................... 10
+B. MDOC Fails to Provide Adequate Mental Health Care to Prisoners in Mental Health
+Crisis in Violation of the Constitution ............................................................................... 11
+1. Prisoners on Mental Health Watch Have Serious Mental Health Needs Requiring
+Treatment ....................................................................................................................... 11
+2. Prisoners on Mental Health Watch Receive Inadequate Mental Health Care ............... 12
+C. MDOC’s Use of Prolonged Mental Health Watch Under Restrictive Housing Conditions,
+Including the Failure to Provide Adequate Mental Health Care, Violates the Constitutional
+Rights of Prisoners in Mental Health Crisis....................................................................... 15
+1. MDOC’s Use of Mental Health Watch Is Restrictive Housing..................................... 15
+2. MDOC’s Prolonged Use of Mental Health Watch Under Restrictive Housing
+Conditions Subjects Prisoners in Mental Health Crisis to a Substantial Risk of Serious
+Harm .............................................................................................................................. 17
+D. The Combination of Inadequate Mental Health Care and Restrictive Housing Conditions
+in MDOC’s Mental Health Watches Results in Serious Harm .......................................... 19
+1. MDOC Officials Knew of the Substantial Risk of Serious Harm and Disregarded It .. 24
+V. MINIMUM REMEDIAL MEASURES ................................................................................. 25
+VI. CONCLUSION....................................................................................................................... 26
+
+
+
+
+
+
+
+
+
+
+I. SUMMARY
+After an extensive investigation, the United States Department of Justice (Department)
+provides notice, pursuant to the Civil Rights of Institutionalized Persons Act (CRIPA), 42 U.S.C.
+§ 1997b, that there is reasonable cause to believe, based on the totality of the conditions,
+practices, and incidents discovered there, that the conditions in Massachusetts Department of
+Correction’s prisons (MDOC) violate the Eighth Amendment to the U.S. Constitution, and these
+violations are pursuant to a pattern or practice of resistance to the full enjoyment of rights
+protected by the Eighth Amendment. The Department does not serve as a tribunal authorized to
+make factual findings and legal conclusions binding on, or admissible in, any court, and nothing
+in this Notice should be construed as such. Accordingly, this Notice is not intended to be
+admissible evidence and does not create any legal rights or obligations.
+Consistent with the statutory requirements of CRIPA, this Notice identifies the
+Department’s conclusions with respect to multiple constitutional violations, the facts supporting
+those conclusions, and the minimum remedial measures necessary to address the identified
+deficiencies. Specifically, the Department provides notice of the following identified conditions:
+• MDOC fails to provide constitutionally adequate supervision to prisoners in mental
+health crisis. MDOC prisoners on mental health (or suicide) watch face substantial risk
+of serious harm because MDOC staff fail to remove instruments they use to commit acts
+of self-harm. In part, these harms occur because MDOC lacks clear and uniform policies
+that contribute to inadequate supervision of prisoners in mental health crisis. This is
+further compounded by MDOC’s failure to provide appropriate training to security staff
+on how to supervise and protect prisoners from engaging in self-harm. Despite being on
+notice of the substantial risks of harm facing prisoners in crisis, MDOC is not adequately
+supervising prisoners to prevent current and future harm.
+• MDOC fails to provide adequate mental health care to prisoners in mental health
+crisis. During a time when prisoners are most in need of treatment, MDOC fails to
+properly treat suicidal prisoners and prisoners who self-harm. And when treatment must
+entail more than segregation, MDOC instead places prisoners in segregated restrictive
+housing.1
+• MDOC’s use of prolonged mental health watch under restrictive housing conditions,
+including its failure to provide adequate mental health care, violates the
+constitutional rights of prisoners in mental health crisis. MDOC’s mental health
+watch involves restrictive, isolating, and unnecessarily harsh conditions. It is restrictive
+housing. MDOC subjects prisoners who are in mental health crisis to restrictive housing
+Restrictive housing, sometimes referred to as solitary confinement, segregation, or isolation, is any type of
+detentio
+1
+n that involves three basic elements: removal from the general prisoner population, whether voluntary or
+involuntary; placement in a locked room or cell, whether alone or with another prisoner; and inability to leave the
+room or cell for the vast majority of the day, typically 22 hours or more. Porter v. Clarke, 290 F. Supp. 2d 518, 528
+(E.D. Va. 2018) (citing U.S. Dep’t of Justice, Report and Recommendations Concerning the Use of Restrictive
+Housing 3 (Jan. 2016)). See Davis v. Ayala, 576 U.S. 257, 135 S. Ct. 2187, 2208 (2015) (Kennedy, J., concurring)
+(referring to the “usual pattern” of solitary confinement as being housed in “a windowless cell no larger than a
+typical parking spot for 23 hours a day; and in the one hour when [a prisoner] leaves it, he is allowed little or no
+opportunity for conversation or interaction with anyone”); Wilkinson v. Austin, 545 U.S. 209, 214, 223-24 (2005)
+(describing restrictive housing as limiting human contact for 23 hours per day).
+1
+
+
+
+
+
+
+
+
+
+
+
+for prolonged periods of time, which places them at a substantial risk of serious harm.
+For instance, during a 13-month period between July 2018 and August 2019, MDOC held
+106 prisoners experiencing a mental health crisis on mental health watch for 14
+consecutive days or longer. Because mental health watch is so restrictive and isolating,
+MDOC policy states that prisoners should only be on mental health watch for a maximum
+of four days. Contrary to this standard, 51 of those prisoners remained on mental health
+watch for a month or more; 16 remained there for more than three consecutive months;
+and seven spent six consecutive months or more there. Since 2018, four of the eight
+MDOC prisoners who died by suicide were on mental health watch at the time they died,
+or days prior to dying. This is alarming given that MDOC supposedly provides prisoners
+on mental health watch with heightened supervision, including one-on-one observation,
+and enhanced treatment to prevent suicide. And, although only approximately 1% of the
+MDOC’s total population can be housed in one of its 88 mental health watch cells,
+between July 2018 and August 2019, more than 56% of MDOC’s 1,200 “self-injurious
+behavior” incidents occurred in one of those mental health watch cells. This is a high
+concentration of harm in the areas that are supposed to be the most safe and therapeutic.
+II. INVESTIGATION
+On October 22, 2018, the Department notified MDOC of our intent to investigate its
+statewide prison system pursuant to CRIPA. Our investigation focused on: (1) whether MDOC
+violates the constitutional rights of prisoners who have serious mental illness, or who are
+otherwise at risk of serious harm from restrictive housing, by placing them in restrictive housing
+for prolonged periods of time; and (2) whether MDOC violates the constitutional rights of
+geriatric and palliative care prisoners by failing to provide them with adequate medical care. We
+are closing our restrictive housing – for housing other than mental health watch – and the
+geriatric and palliative care portions of our investigation without issuing a Notice of
+constitutional violations. On November 21, 2019, we notified MDOC of two additional focuses
+to our investigation: (3) whether MDOC provides prisoners in mental health crisis with
+constitutionally adequate mental health care; and (4) whether MDOC provides prisoners in
+mental health crisis with adequate supervision to provide reasonable protection from self-harm.
+This investigation was conducted jointly by the Special Litigation Section of the
+Department of Justice’s Civil Rights Division and the U.S. Attorney’s Office for the District of
+Massachusetts. Three nationally recognized experts in correctional security and prison mental
+and medical health care assisted with our investigation. Our experts included a former state
+prison commissioner, a psychiatrist with experience in prison mental health services, and a
+medical doctor with experience running the medical and mental health department at one of the
+country’s largest jails. These experts accompanied us on site visits to MDOC prisons,
+interviewed MDOC staff and prisoners, reviewed documents, and provided their expert opinions
+to inform our investigation and its conclusions.
+Between April 2019 and November 2019, representatives from the Department and our
+experts conducted site visits at the nine prisons where the majority of the housing units at issue
+in our investigation are located: MCI-Cedar Junction, MCI-Framingham, MCI-Norfolk, MSAC
+at Plymouth, NCCI Gardner, Old Colony Correctional Center, MCI-Shirley, Massachusetts
+Treatment Center, and Souza-Baranowski Correctional Center. We also interviewed
+stakeholders, advocates, former prisoners, former MDOC staff, and family members of prisoners
+with firsthand knowledge of the conditions within MDOC. During our site visits, we
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+interviewed administrative staff, security staff, mental health staff, and hundreds of prisoners in
+specialized housing units. In addition to conducting tours and interviews, we reviewed an
+extensive number of documents, including policies and procedures related to security and
+MDOC’s mental health provider, mental health records, incident reports, investigative reports,
+disciplinary reports, and training materials. We observed prisoners in various settings
+throughout MDOC, including in general population and restrictive housing units. We also
+conducted exit conferences with MDOC officials upon the conclusion of our visits to provide
+technical assistance during the course of the investigation.
+III. BACKGROUND
+MDOC housed roughly 8,700 prisoners in 15 prisons in 2019.3 It places prisoners in
+both general population housing units and specialized housing, which includes Restrictive
+Housing Units (used to punish prisoners with disciplinary infractions or hold prisoners whom
+MDOC determines pose an unacceptable risk to the operation of the prison) and Health Services
+Units (used to house prisoners needing medical treatment or mental health observation).
+Prisoners with serious mental illness comprise approximately 24% (or 2,100 prisoners) of
+the prison population. This is an increase from about 7% (or 650 prisoners) in 2018, based
+mostly on Massachusetts’ expanded definition of serious mental illness, which changed in an
+April 2018 criminal justice reform bill that went into effect on January 1, 2019. The lead
+sponsor of the bill wrote that the bill’s purpose was to “avoid exposing people with mental
+illness to conditions of confinement that may make their illness more painful and debilitating.”
+Our investigation focused on these prisoners with serious mental illness and on MDOC’s
+response to the mental health crises experienced by these prisoners. MDOC places prisoners in
+mental health crisis onto a “mental health watch.” Mental health watch is a mental health status
+used for prisoners “whose behavior is deemed concerning enough to warrant some level of
+increased observation” because the prisoner (1) is actively suicidal, (2) expresses suicidal
+ideation, or (3) acts in a manner that indicates the potential for self-injury. 103 DOC
+650.13(B)(2)-(3). When a prisoner is placed on mental health watch, MDOC removes the
+prisoner from his or her housing unit and places the prisoner in a suicide resistant mental health
+watch cell, usually located in the facility’s Health Services Unit or Restrictive Housing Unit.
+Officers then observe the prisoner on either “constant watch” or “close observation.” On
+“constant watch,” a correctional officer is assigned to observe a prisoner on a “one-to-one” or
+“1:1” basis, and the prisoner must remain in full view of the correctional officer at all times.
+MDOC staff and prisoners popularly refer to the status as “eyeball watch” because the
+supervision is theoretically constant. “Close observation” describes a status where the officer
+walks by the prisoner’s cell at varying 15 minute intervals. The cells are small, measuring on
+average 93 square feet. Access to property and interactions with others are minimal. Prisoners
+are often initially placed in smocks and only have access to books, radio, or recreation at the
+discretion of the staff, and, at most, receive a daily 10-15 minute assessment by a mental health
+professional, sometimes conducted through the crack in the prisoner’s cell door.
+2 In July 2019, we sent a letter to Commonwealth officials about a suicide and self-harm by certain prisoners that we
+had learned of during our tours.
+3 As of November 2020, the prison population has fallen to roughly 7,065.
+3
+
+
+
+
+
+
+
+
+Correctional mental health watches require initially placing the prisoner in a suicide
+resistant cell and ensuring that the prisoner does not have the means to self-harm. In this cell
+placement, a prisoner also typically receives therapeutic intervention, where mental health staff
+assess the cause of the prisoner’s crisis and work to treat underlying mental health issues. The
+goal is to quickly step down the prisoner to a more normal housing setting, while maintaining
+mental health contact. See Rasho v. Walker, 376 F. Supp. 3d 888, 910 (C.D. Ill. 2019) (“The
+purpose of crisis cells or watches in correctional mental health systems is to, first, protect
+individuals from self-harm or harming others, and second, to provide appropriate mental health
+assessment and intervention, such as re-evaluating medication, re-evaluating the psychosocial
+treatment and addressing whatever issues precipitated the crisis”). Restrictions placed on a
+prisoner facing a mental health crisis should be individually tailored to the prisoner’s acuity
+level, should avoid unnecessarily harsh elements which could escalate the crisis, and should last
+no longer than necessary.
+MDOC’s use of mental health watch does not meet constitutional standards. MDOC
+does not meaningfully increase therapeutic interventions for prisoners on mental health watch,
+and the restrictive conditions are often not individually tailored. As a result, these conditions
+often last longer than necessary—sometimes for weeks or months—and in conditions that
+perpetuate the prisoner’s crisis or even escalate it, all while the prisoner decompensates and
+continues to engage in self-harm. Thus, prisoners in crisis placed on MDOC’s mental health
+watch often face a harmful experience—not a therapeutic and protective one.
+The use of prolonged mental health watch is widespread in MDOC facilities. In the 13-
+month period between July 1, 2018 and August 31, 2019, five of the ten prisons that have mental
+health watch cells housed at least one prisoner on mental health watch for 180 consecutive days
+or longer; all but one (MCI-Shirley) housed a prisoner on mental health watch for 90 consecutive
+days or longer; and every facility held at least one prisoner on mental health watch for 30
+consecutive days or longer. Although MDOC’s policy requires mental health watches to be “no
+longer in duration than necessary to deal with the mental health crisis,” and sets out a 96-hour
+goal for discharge, the majority of prisoners are kept long past that four-day goal. In fact,
+MDOC held 106 prisoners on mental health watches that lasted 14 consecutive days or longer
+between July 1, 2018 and August 31, 2019. Fifty-one of those prisoners remained on mental
+health watch for a month or more consecutively; 16 remained there for more than three
+consecutive months; and seven spent six consecutive months or more there. Again, these
+statistics only reflect a 13-month window. During this same 13-month period, MDOC reported
+that prisoners engaged in self-harm 688 times while on mental health watch – even though
+correctional officers are assigned to closely monitor these prisoners (to put this in perspective, in
+the entire DOC system, more instances of self-harm occurred while prisoners were on mental
+health watch than for prisoners not on mental health watch); and 103 of these incidents were
+severe enough to require an outside hospital trip.
+IV. CONDITIONS IDENTIFIED
+A. MDOC Fails to Provide Adequate Supervision to Prisoners in Mental Health
+Crisis and Thus Protect Prisoners from Serious Harm in Violation of the
+Constitution
+The Department has reasonable cause to believe that MDOC has engaged in a pattern or
+practice of failing to protect prisoners from serious harm, or the substantial risk of serious harm,
+4
+
+
+
+
+
+
+
+
+
+
+by not adequately supervising prisoners in mental health crisis in violation of their constitutional
+rights. The Eighth Amendment requires prisons to “take reasonable measures to guarantee the
+safety” of all prisoners. Farmer v. Brennan, 511 U.S. 825, 832 (1994) (quoting Hudson v.
+Palmer, 468 U.S. 517, 526-27 (1984)). When a state takes a person into custody, the
+Constitution imposes a corresponding duty to assume some responsibility for that person’s safety
+and well-being. Cty. of Sacramento v. Lewis, 523 U.S. 833, 851 (1998) (citing DeShaney v.
+Winnebago Cty. Dep’t of Soc. Servs., 489 U.S. 199-200 (1989)). To prevail on a failure to
+protect claim, the Department is required to first demonstrate that a prisoner was “incarcerated
+under conditions posing a substantial risk of serious harm.” Farmer, 511 U.S. at 834. Second, it
+must be shown that “prison officials possessed a sufficiently culpable state of mind, namely one
+of ‘deliberate indifference’ to an inmate’s health or safety.” Hope v. Pelzer, 536 U.S. 730, 738-
+745 (2002) (holding that prison officials show deliberate indifference where they disregard
+obvious risks to prisoner safety); Burrell v. Hampshire Cnty., 307 F.3d 1, 8 (1st Cir. 2002)
+(citing Farmer, 511 U.S. at 834); Penn v. Escorsio, 764 F.3d 102, 110 (1st Cir. 2014) (quoting
+Camilo-Robles v. Hoyos, 151 F.3d 1, 7 (1st Cir. 1998)). The Constitution requires prison
+officials to protect prisoners from the risk of future harm, even if no prisoner has suffered actual
+harm when the violation is found. See Farmer, 511 U.S. at 845-47; Helling v. McKinney, 509
+U.S. 25, 33 (1993) (“a remedy for unsafe conditions need not await a tragic event” and “the
+Eighth Amendment protects against future harms to inmates,” even when the harm “might not
+affect all of those exposed” to the risk and even when the harm would not manifest itself
+immediately).
+1. Prisoners Face Substantial Risk of Serious Harm on Mental Health Watch When
+MDOC Staff Fail to Remove Instruments Used to Self-Harm
+Many MDOC prisoners have access to instruments they use to self-harm, or engage in
+self-injurious behavior, while on mental health watch. This means that many prisoners have
+access to these instruments of self-harm despite the fact that a correctional officer has been
+assigned to provide heightened supervision to a prisoner either on constant or close observation.
+Prisoners reported to us, and documentation confirmed, that prisoners have access to instruments
+such as razors, batteries, dangerous debris such as paint shards, and other items, all while on
+mental health watch. Some prisoners reported to us that these instruments were already in their
+mental health watch cells when they were transferred there, and three prisoners told us that
+correctional officers gave them razors specifically to self-harm. Prisoners have access to these
+instruments of self-harm even though the principal purpose of mental health watch is to ensure a
+prisoner’s safety, both by preventing the prisoner from accessing instruments that could be used
+to self-harm, and by assigning a correctional officer to observe the prisoner.
+The following examples4 illustrate the kinds of harms experienced by prisoners on mental
+health watch resulting from MDOC staff failing to remove instruments used to self-harm.:
+These examples of preventable harms are by no means the only instances of preventable selfharm that occurred during mental health watch, but simply illustrate broader patterns. For
+example, between July 1, 2018 and August 31, 2019, there were 217 instances of cutting, 85
+4 In this document, we include examples of individuals’ experiences to illustrate the patterns of violations we
+identified. When prisoners described their experiences to us in interviews, we verified those experiences with our
+own observations, documents, and data provided by MDOC.
+5
+
+
+
+
+
+
+
+
+
+
+
+instances of prisoners inserting objects into their bodies, 77 attempted hanging incidents, 34
+instances of ingestion of foreign bodies, and 17 attempted asphyxiations, all on mental health
+watch.
+• On December 16, 2019, while on constant 1:1 mental health watch at NCCI Gardner, an
+officer observed AA5 “cutting himself with a razor.” The injury report stated: “The
+injury was a laceration close to the brachial artery [and] the [patient] actually cut a vein,”
+which necessitated care at an outside hospital. Because AA was on mental health watch,
+he should not have been able to access a razor. Furthermore, because he was on constant
+1:1 mental health watch, the officer assigned to observe him one-to-one should have been
+able to intervene before AA cut himself so badly.
+• On July 17, 2019, BB, a prisoner at Souza-Baranowski Correctional Center, had razors
+and a ligature while on constant 1:1 mental health watch. We learned from interviews
+with a doctor and nurse that three days earlier, a Licensed Practical Nurse saw BB with
+the razor and ligature during morning medical pass, and reported this to a correctional
+officer. According to records, that evening, BB still had the razor. Indeed, he was able to
+cut his hand so badly that he had an arterial bleed and was transported to an outside
+hospital. After returning from the hospital to mental health watch the next day on July
+15, BB cut himself again and received sutures on-site by a physician. On July 17, BB
+still had a ligature and razors inserted in his rectum, which we know because MDOC staff
+requested that he remove these instruments as a pre-condition to meeting with us that
+day. A week later, while also on mental health watch, he “inserted a piece of metal
+belonging to the sprinkler system into his left hand and swallowed pieces of metal.”
+• On July 10, 2019, CC, housed at Souza-Baranowski Correctional Center, cut himself so
+badly that blood can be seen pooling on his cell floor in the video obtained by the
+Department. The video captures correctional officers standing outside his cell door
+without intervening for 45 minutes – while he is on constant 1:1 mental health watch –
+before he is finally transported to an outside hospital. The video shows that at 1:47 a.m.,
+CC cut his arm by the sink while facing away from the camera. Meanwhile, the officer
+assigned to this watch appears slumped in his chair outside the cell, possibly writing
+something down or talking to another officer, but not watching CC. At 1:50 a.m., CC’s
+blood begins to drip all over his cell. Only at 1:51 a.m. does the officer notice, and at that
+point, he appears to watch CC bleed without any further action. Two additional staff walk
+up to CC’s cell at 1:57 a.m., where there is blood on the floor. After exchanging words
+with him, the two staff leave at 1:59 a.m., and the watch officer returns to his seat across
+from the door. At 2:05 a.m., another officer (possibly one of the staff that walked by at
+1:57 a.m.) looks into CC’s cell and possibly exchanges words with him. A minute later,
+the officer shrugs and walks away. At 2:18 a.m., CC can be seen motioning and
+attempting to cut himself while attempting to hide from view of the officer. Five minutes
+later, CC blocks the window with his mattress, which prompts a greater response, and
+several officers arrive. The video from inside his cell shows CC continuing to cut his
+arm until 2:23 a.m., with blood actively spraying throughout the cell at 2:35 a.m., at
+which time he removes the mattress from blocking the door. He slumps back against the
+wall, and is cuffed through the slot in the cell door. Staff do not intervene to take CC out
+5 To protect the identity of prisoners, we use coded initials.
+6
+
+
+
+
+
+
+
+
+
+
+
+of his cell until 2:37 a.m., approximately 45 minutes after an officer became aware of the
+cutting.
+Incident reports merely stated: “CC then continued to manipulate the wound with his
+fingers which caused further bleeding . . . . Several attempts were made by Security and
+medical staff to get CC to the trauma room to be treated again. . . . He then complied
+with orders to be placed in restraints. Medical evaluated him and sent him to [an outside
+hospital] for further treatment.” During the next month, CC cut himself two more times
+while on mental health watch.
+• On July 4, 2019, DD, while on mental health watch at Souza-Baranowski Correctional
+Center, cut himself to the point where “blood was coming from under the cell door.” The
+clinical nursing assistant described seeing a “significant amount of blood on and around”
+him and that he “was not breathing without stimulation.” The next day, still on mental
+health watch, and this time on constant 1:1 watch, DD “accessed a blade and began
+cutting his neck and ankle,” and was “bleeding profusely from his neck and legs” as
+described by one officer. Two weeks later, again while on constant 1:1 watch, an officer
+observed him “produce[] a razor and beg[i]n to cut his throat and chest areas.”
+Two months later, in September 2019, DD was housed in a new facility, NCCI Gardner,
+but was still able to self-harm while on mental health watch. On September 18, 2019, he
+“utilized a razor blade to make multiple cuts to his neck.” Two months later, yet again, he
+was able to self-harm under mental health watch: On December 16, 2019, while on 1:1
+mental health watch, DD cut his neck with a razor for the second time on the same day in
+the same area. MDOC staff told us that DD is talented at releasing large amounts of blood
+from his body before staff realize that he has self-injured; however, DD told us that
+correctional officers observe him “bloodletting” and do not care, making callous remarks
+such as, “not good enough,” intimating that he needs to engage in more serious self-harm
+before they will call for medical attention.
+• On June 18, 2019, EE was on a constant 1:1 watch at MCI-Cedar Junction after he
+swallowed a battery. Though the correctional officer assigned to his constant watch
+should have been on alert to retrieve the battery after EE passed it, during a DOJ
+interview with EE, EE held the battery up to show it to DOJ staff, while the correctional
+officer did nothing to try to confiscate it.
+• On April 22, 2019, FF, while on mental health watch at MCI-Norfolk, was observed by
+an officer “us[ing] a razor blade to self-inflict injuries to his right wrist area as well as his
+left forearm.” Less than two weeks later, while on constant 1:1 mental health watch,
+security staff saw him engaging in self-injurious behavior with an unknown object,
+believed to be a razor blade. The medical provider came on-site to provide seven sutures
+and dress the wound, as reported in the injury report.
+• On March 12, 2019, an officer observed GG inserting a piece of a razor blade in his left
+eye while on constant 1:1 mental health watch at Souza-Baranowski Correctional Center.
+A month and a half later, on April 30, 2019, again on constant 1:1 watch, an officer
+watched him insert “a thin wire object,” which he said was a paper clip, into his penis.
+Three days later, still on constant 1:1 watch, an officer observed him “insert what
+appeared to be a razor blade into his lower left eye lid.” The next day, still on constant
+7
+
+
+
+
+
+
+
+
+
+
+
+
+1:1 watch, an officer observed GG extract a piece of a razor from his penis, which he
+then used to cut his wrist.
+• Between January 24, 2019 and May 15, 2019 at MCI-Norfolk, HH cut himself with
+debris, reported to be paint chips,6 on at least 15 separate days, all while on mental health
+watch. Seven of the cuttings occurred while he was on constant 1:1 watch and five while
+on 15-minute watch (three were unclear from the records). Separately, on ten additional
+days during that same time period on mental health watch, he self-harmed in some other
+way. While it was unclear from the records the exact nature of the self-harm, nine of the
+ten incident reports for these incidents used words such as “cut,” “bleeding,”
+“laceration,” or “cut with an unknown object.” MCI-Norfolk’s mental health watch cells
+were repaired after the Department raised concerns about the conditions of the cells and
+prisoners’ ability to self-harm using paint chips on May 3, 2019. Notably, after midMay, MDOC’s incident reports show no instance of HH using paint chips to self-injure.
+2. MDOC’s Lack of Policies and Inadequate Officer Training Contribute to
+Inadequate Supervision for Prisoners in Mental Health Crisis
+A correctional officer’s failure to take preventative action despite knowing that “a
+substantial risk of serious harm would befall” the prisoner demonstrates deliberate indifference.
+See Penn v. Escorsio, 764 F.3d 102, 108-10 (1st Cir. 2014) (holding that a correctional officer
+failing to take any preventative action despite a prisoner’s repeated threats of self-harm could
+constitute deliberate indifference); see also Elliot v. Cheshire Cnty., N.H., 940 F.2d 7, 10-11 (1st
+Cir. 1991) (finding that prison officials could be deliberately indifferent if they knew that a
+prisoner presented a significant risk of suicide but failed to respond reasonably); Torraco v.
+Maloney, 923 F.2d 231, 235 (1st Cir. 1991) (holding that failure to respond to a prisoner’s
+known suicidal tendencies can constitute deliberate indifference); Cortes-Quinones v. JimenezNettleship, 842 F.2d 556, 558 (1st Cir. 1988) (internal citations omitted) (holding that deliberate
+indifference “encompasses acts or omissions so dangerous (in respect to health or safety) that a
+[prison guard’s] knowledge of a large risk can be inferred”). MDOC’s correctional officers fail
+to intervene or act in situations where their primary job is to “observe” and intervene to prevent
+prisoners who are on mental health watch from self-harm.
+In part, prisoner self-harm occurs because MDOC lacks uniform, clear, and detailed
+policies to govern the operation of mental health watches, specifically with respect to both the
+access to instruments of self-harm and the monitoring of foreign body ingestion while on mental
+health watch. Records document that many prisoners had access to instruments used to selfharm while on mental health watch, but no clear policy or guidelines dictate how MDOC staff
+should retrieve those items to prevent future incidences of self-harm. Because of the rampant
+use of razors to commit acts of self-harm while on constant 1:1 mental health watch, SouzaBaranowski Correctional Center stopped selling razors as of December 1, 2019. MDOC
+previously eliminated razors at Old Colony Correctional Center and MCI-Framingham. While
+these are positive initial measures to address self-harm, we are not aware of formal guidelines
+governing how MDOC officers should remove instruments of self-harm from individuals on
+mental health watch, and/or how to appropriately search a mental health watch cell both before a
+prisoner is placed into the cell and while the prisoner is confined to the cell to ensure that
+6 MDOC told us that the prisoner did not use paint chips, but rather clear epoxy finish from the floors and fiberglass
+material from the corner of the bed.
+8
+
+
+
+
+
+
+
+
+prisoners cannot access harmful instruments. Many prisoners told us, and records confirmed,
+that because correctional officers conduct such a cursory inspection, prisoners can smuggle
+razors or other instruments of self-harm into mental health watch cells by hiding them between
+their gums and teeth.
+Although MDOC’s mental health provider, Wellpath, has a policy on “Ingestion of Drugs
+or Foreign Body,” the guidelines are vague and not followed. The policy states that “[a]ny
+patient who is placed on a security watch for retrieval of evidence after reporting alleged
+ingestion of drugs and/or foreign body shall be medically monitored as ordered by the Wellpath
+provider,” and that the “patient shall be monitored until the foreign body has been passed and the
+patient is medically and mentally stable.” Interviews with MDOC staff and prisoners confirmed
+that prior to or during a prisoner’s stay on mental health watch, MDOC inconsistently uses body
+scanners to determine whether prisoners hide instruments of self-harm in or on their person. We
+reviewed multiple records where prisoners passed a foreign body on mental health watch only to
+use it to self-harm again.
+The minimal coordination between the mental health and security staff allows for gaps in
+prisoner care and inconsistencies in ensuring that prisoners are adequately supervised and
+protected from engaging in self-harm. At the housing unit level, security staff and mental health
+staff each report through separate chains of command, which makes it difficult to effectively
+communicate and coordinate about a prisoner’s well-being and to effectively prevent self-harm.
+For example, mental health staff were not aware of the foreign body retrieval policy and stated
+that that was an area under the security staff’s purview. Security staff do not always know why
+mental health staff place a prisoner onto mental health watch, or what happened to a prisoner
+while on mental health watch, which would be important information to monitor once the
+prisoner returns to his regular housing unit.
+Additionally, the lack of training for security staff contributes to the harms experienced
+by prisoners in mental health crisis. Correctional officers receive no training tailored specifically
+to the unique needs of a mental health watch assignment, be it a constant 1:1 or a close
+observation. Based on interviews with security staff, we learned that any officer can be assigned
+to mental health watch, and that, in practice, junior officers without seniority get assigned to this
+post, because it is considered an undesirable posting. See e.g., Cox v. Massachusetts Dep’t of
+Corr., 18 F. Supp. 3d 38, 48 (D. Mass. 2014) (finding a basis for Eighth Amendment liability
+where the prison officials were alleged to have “some official responsibility for policies,
+procedures, and training that led to plaintiff’s injury and subjective knowledge of the danger to
+his safety”); Chao v. Ballista, 806 F. Supp. 2d 358, 382 (D. Mass. 2011) (“Prison officials have
+the duty to protect their inmates by training and supervising guards….”)
+We understand that our investigation has prompted MDOC to begin implementing some
+reforms. For example, in September 2019, MDOC began to hold bi-weekly self-injurious
+behavior team meetings at its headquarters to discuss the histories of prisoners who regularly
+self-harm and to work on developing interventions that might abate acts of self-harm. In
+November and December 2019, MDOC also provided additional training to staff, including
+officers in mental health housing units and those interacting with prisoners in crisis. We
+commend MDOC for taking action to begin curbing these long-standing issues that have
+contributed to so many prisoner harms. We also understand that MDOC is investigating other
+methods of making mental health watch safer, including using special thin “jumpers” that cover
+the entire body and prevent prisoners from retrieving and reinjecting contraband from and into
+9
+
+
+
+their bodies; using narrower blankets that provide sufficient privacy while simultaneously
+preventing a prisoner from covering his entire person; using edible spoons that dissolve if
+ingested or inserted; and using secondary door shields and door sweeps to prevent the transfer of
+contraband under cell doors.
+3. MDOC Officials Knew About the Mental Health Watch Risks to Prisoner Health
+and Safety Due to Inadequate Supervision and Disregarded Them
+MDOC officials are on notice about the substantial risk of serious harm facing prisoners
+on mental health watch in the following ways, and still do not provide adequate supervision to
+protect prisoners in crisis from harm. First, MDOC officials are on notice of the substantial risk
+of harm a prisoner faces each time an act of self-harm occurs during a mental health watch stay.
+Yet, on numerous occasions summarized in Section IV.A.1. above, prisoners repeatedly harmed
+themselves, frequently using the same instrument or method of self-harm, and often within the
+span of just a few days. By definition, prisoners on “constant 1:1 watch” are meant to be
+carefully and constantly observed so that they do not have access to instruments used to selfharm, much less harm themselves repeatedly. In each of these instances, despite being put on
+notice that the prisoner is at risk to harm himself on mental health watch, MDOC did not retrieve
+the items of self-harm or appropriately protect the prisoners from further injury.
+Second, correctional officers assigned to constant 1:1 mental health watch fall asleep
+when they are supposed to supervise prisoners they know are in a mental health crisis and at
+acute risk of self-harm. See e.g., Beaulieu v. Hanks, 2019 WL 7039619, at *4-5 (D.N.H. Nov.
+19, 2019) (holding that “sleeping on the job” can constitute deliberate indifference if there is a
+known risk of serious harm to a prisoner and the correctional officer falls asleep instead of
+monitoring the prisoner). Prisoners regularly report that correctional officers fall asleep while
+assigned to constant watch posts, particularly during the shift from 11 p.m. to 7 a.m. MDOC has
+been on notice of this challenging issue. When we talked to a Deputy Superintendent at one
+facility about whether he had ever heard of correctional officers falling asleep while assigned to
+1:1 posts, he stated that he had heard of that and that those incidents were investigated and staff
+were disciplined accordingly. He also stated that because of staff shortage issues and a limited
+pool of available officers who could be on the nighttime constant observation assignment, even
+officers who had been disciplined for falling asleep on the job might still be assigned to a
+nighttime constant observation post. In a 2017 internal affairs investigation related to a MDOC
+prisoner who died while on constant 1:1 watch, investigators determined that a mental health
+worker had a hard time staying awake during his 1:1 assignment, and quite possibly fell asleep
+because video showed him resting his head against the wall, on his forearm, along with periods
+of having his eyes closed. Prisoner II recalled a time while on mental health watch when he saw
+the former superintendent of the facility wake up a sleeping correctional officer without
+reprimanding him.
+Third, some correctional officers consciously refuse to call for medical attention or
+purposefully delay making such a call, which shows a deliberate indifference to the substantial
+risk of harm prisoners face. See e.g., Perry v. Roy, 782 F.3d 73 (1st Cir. 2015) (holding that a
+reasonable jury could find that delaying bringing a patient to the hospital for 17 hours after
+suffering a broken jaw from a severe beating by officers could be “deliberate indifference”);
+Lemire v. California, 726 F.3d 1062 (9th Cir. 2013) (delay of calling medical assistance from
+knowledge that prisoner was found unconscious at 3:10 and 3:30 a.m. until 3:40 a.m. combined
+with failure to provide CPR and other life-saving methods until arrival of medical personal could
+10
+
+
+
+
+
+
+
+
+
+
+
+
+be deliberate indifference); Olson v. Bloomberg, 339 F.3d 730, 738 (8th Cir. 2003) (affirming
+denial of summary judgment in favor of plaintiff and finding Eighth Amendment violation if
+guard intentionally delayed providing assistance, told prisoner “do what you have to do” and left
+him alone after hearing of his intention to commit suicide). In Section IV.A.1 above, we
+described the incident involving CC in which an officer delayed intervening for 45 minutes after
+he became aware of CC cutting his body so badly that blood pooled on the floor. JJ, a prisoner at
+Old Colony Correctional Center reported to our expert that while on mental health watch, an
+officer said to him, “I know that you are bleeding, but when I finish my lunch I will call in a
+code.” KK, a Souza-Baranowski prisoner, reported that a correctional officer once told him,
+“When you’re done cutting, let me know.”
+Finally, prisoners have reported that correctional officers actively taunt and encourage
+them to harm themselves, which, if true, also evidences an Eighth Amendment deliberate
+indifference to prisoners’ risk of harm. See Torraco v. Maloney, 923 F.2d 231, 235 (1st Cir.
+1991) (recognizing that deliberate indifference to known suicidal tendencies could constitute an
+Eighth Amendment violation); Jordan v. Gardner, 986 F.2d 1521, 1530–31 (9th Cir. 1993) (en
+banc) (finding that psychological harm inflicted on psychologically vulnerable prisoners violated
+the Eighth Amendment); Barros v. Claytor, 2010 WL 2292173, at *3 (D. Mass. June 7, 2010)
+(citing Jordan, 986 F.2d at 1526) (holding that correctional officers may violate prisoners’
+constitutional rights by intentionally inflicting psychological harm). Multiple prisoners reported
+to us that correctional officers verbally taunt them and encourage them to self-harm. For
+example, BB told us, “I’m able to cut on mental health watch because [correctional officers] let
+me do it. They say, ‘You can do better.’”
+B. MDOC Fails to Provide Adequate Mental Health Care to Prisoners in Mental
+Health Crisis in Violation of the Constitution
+Prisoners do not receive adequate mental health care while on mental health watch. See
+Torraco, 923 F.2d at 234 (recognizing that in addition to medical needs, “the eighth amendment
+also protects against deliberate indifference to an inmate's serious mental health and safety
+needs”). Deprivations of mental health care violate the Eighth Amendment if they are
+sufficiently serious and if the prison official was deliberately indifferent to prisoner health or
+safety. Wilson v. Seiter, 501 U.S. 294, 298 (1991). Courts have emphasized the critical
+importance of adequate mental health care for prisoners experiencing a mental health crisis and
+who are placed on a crisis watch with restrictive housing conditions because it is precisely during
+these crises and in these conditions when prisoners need treatment the most. See, e.g., Rasho v.
+Walker, 376 F. Supp. 3d 888, 910 (C.D. Ill. 2019) (“[I]nmates who are on crisis watch [in Illinois
+prisons] are in isolation and additional care is necessary to avoid exacerbating their mental health
+issues.”); Braggs v. Dunn, 257 F. Supp. 3d 1171, 1219 (M.D. Ala. 2017) (“Identification,
+treatment, and monitoring of those who have heightened suicide risks are important because they
+provide the last safety net before the worst possible outcome in mental-health care: suicide”).
+1. Prisoners on Mental Health Watch Have Serious Mental Health Needs Requiring
+Treatment
+Prisoners experiencing a mental health crisis have serious mental health needs requiring
+treatment. These prisoners are at serious risk of harm if their needs are not adequately addressed.
+A medical need is sufficiently serious if it has been “diagnosed by a physician as mandating
+treatment” or is “so obvious that even a lay person would easily recognize the necessity for a
+11
+
+
+
+
+
+
+
+
+
+
+
+
+doctor’s attention.” Gaudrealt v. Municipality of Salem, Mass., 923 F.2d 203, 208 (1st Cir.
+1990). In MDOC, mental health staff determine that a prisoner is in crisis, “regardless of the
+inmate’s mental health diagnosis,” if the prisoner is actively suicidal, expresses suicidal ideation,
+or acts in a manner that indicates the potential for self-injury and “warrant[s] some level of
+increased observation” on mental health watch. Thus, all prisoners placed on mental health
+watch are identified by MDOC mental health staff as having serious mental health needs. Each
+year, MDOC staff determine that hundreds of prisoners require mental health watch. For
+instance, between July 1, 2018 and August 31, 2019, DOC placed 916 prisoners on mental health
+watch.
+2. Prisoners on Mental Health Watch Receive Inadequate Mental Health Care
+Among the areas courts have identified as “basic, essentially common sense, components
+of a minimally adequate prison mental health care delivery system,” three are particularly
+relevant: (1) “a basic program for the identification, treatment, and supervision of inmates with
+suicidal tendencies;” (2) “treatment must entail more than segregation and close supervision of
+the inmate patients;” and (3) “treatment requires participation of trained mental health
+professionals, who must be employed in sufficient numbers to identify and treat in an
+individualized manner those treatable inmates suffering from serious mental disorders.” Ruiz v.
+Estelle, 503 F. Supp. 1265, 1339 (S.D. Tex. 1980), rev'd in part on other grounds, 679 F.2d 1115
+(5th Cir. 1982). See also Braggs, 257 F. Supp. at 1206 n.34; Coleman v. Wilson, 912 F. Supp.
+1282, 1298 n.10 (E.D. Cal. 1995); Balla v. Idaho State Bd. of Corr., 595 F. Supp. 1558, 1577 (D.
+Idaho 1984).
+While courts require treatment to consist of “more than segregation,” MDOC’s mental
+health watch—its program for treating and supervising prisoners with suicidal tendencies—is not
+“more than segregation.” Treatment interventions, such as “counseling, group therapy,
+individual psychotherapy, or … therapeutic activities,” are not provided to prisoners on MDOC’s
+mental health watch. See Ruiz, 503 F. Supp. at 1332. One critical “purpose of crisis cells or
+watches in correctional mental health systems is . . . to provide appropriate mental health
+assessment and intervention, such as re-evaluating medication, re-evaluating the psychosocial
+treatment, and addressing whatever issues precipitated the crisis.” Rasho, 376 F. Supp. at 910.
+Both mental health staff and prisoners told us that prisoners on mental health watch are supposed
+to have a daily encounter with a mental health professional to assess the prisoner’s “suicide risk”
+and “level of observation.” We were told consistently, however, that this encounter occurs only
+in the morning and if a prisoner, for any reason, does not meet with the clinician in the morning,
+he must wait 24 hours before his next opportunity.
+Further, by policy, these assessments are supposed to occur out-of-cell “[a]s a matter of
+routine.” Yet staff and prisoners told us that, more routinely, prisoners were assessed through
+the crack in their cell door because of space, time, or security staffing constraints needed to move
+the prisoner. When the assessment is done cell-side, privacy and confidentiality are jeopardized.
+Prisoners told us that they are rarely assessed by their regular clinician because the mental health
+watch cells are monitored by a specific group of clinicians, which presents a barrier to
+maintaining and developing therapeutic relationships. Even when the assessment does occur
+out-of-cell, and even when it is conducted by a known clinician, little therapeutic treatment
+occurs. Staff told us that the purpose of the assessment encounter is to assess the prisoner’s
+suicidality and not to provide individual therapy. When we interviewed prisoners on mental
+health watch, they consistently told us that no individual or group therapy is offered. At most,
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+they might receive a brief, often 5-10 minute, meeting with a clinician. As one prisoner, LL, told
+us: “There is no real help [on mental health watch]. They just keep me in a cell by myself until I
+say I won’t hurt myself anymore then they let me go. [But] there’s no therapy.”
+MDOC’s insufficient number of mental health professionals contributes to the inability to
+provide adequate therapeutic treatment to prisoners on mental health watch. “[T]reatment
+requires the participation of trained mental health professionals, who must be employed in
+sufficient numbers to identify and treat in an individualized manner those treatable prisoners
+suffering from serious mental disorders.” Ruiz, 503 F. Supp. at 1339. In January 2019, the
+number of prisoners with serious mental illness in MDOC increased overnight by 300% – from
+about 650 to more than 2,000 – because new Massachusetts legislation expanded the definition
+of serious mental illness. Yet, mental health staffing levels remain substantially unchanged.
+Prisoners diagnosed with serious mental illness require increased contacts and interventions.
+Thus, according to one mental health staff member, although the same number of prisoners are
+on medications, mental health staff are asked to engage in more clinical contacts and
+interventions with the same number of staff.
+MDOC’s failure to provide adequate mental health care to prisoners in mental health crisis
+results in serious harms, such as in these examples:
+• GG self-harms when in isolated conditions like those of mental health watch, but
+stabilizes in non-isolated settings where he can engage in therapy and treatment. Even
+though the mental health watch setting was itself a trigger for GG to engage in self-harm,
+MDOC continued to place him on prolonged mental health watches in response to his
+self-harm, ensuring that self-harm would continue. For example, on June 12, 2019 at
+Souza-Baranowski Correctional Center, GG inserted a piece of a razor into each eye and
+his urethra while on constant 1:1 mental health watch. In the preceding five months, all
+spent on mental health watch, he harmed himself more than a dozen times, including:
+inserting a piece of a razor blade into his left eye; inserting a paperclip in his penis, and
+swallowing approximately 15 pills from his medications—all while on a constant 1:1
+watch. Nearly all of these incidents required treatment at a hospital. On May 29, he was
+released from mental health watch and the next night, in his restrictive housing cell, he
+reported inserting two plastic spoon handles and one whole spoon in his penis after
+dinner the night before. Four days later, he told a psychiatrist: “When my clorazil was
+higher, the voices were less. I wake up every night of the week with nightmares, when I
+was getting molested when I was young and I’m hurting people too, which isn’t me. I
+keep wanting to hurt myself… .” When we met him a month and a half later, he was
+back on mental health watch – having been there for nearly all of the previous six months
+– and told us: “It’s hard being locked down all the time;” and that he hurts himself
+because “the pain takes the voices away.”
+He also told us that he wished that the mental health care he received on mental health
+watch was like the care he received at Bridgewater State Hospital. Tellingly, in contrast
+to his six-month cycle of mental health watch and self-harm at Souza-Baranowski, when
+he was previously committed to Bridgewater State Hospital’s mental health unit located
+at Old Colony Correctional Center, GG had no incidents of self-harm for nearly 30 days,
+participated in mental health group sessions, wrote in a journal, played cards, had access
+13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to a Walkman, and became medication compliant.7 These type of therapeutic activities
+are not offered on MDOC’s mental health watch.
+Months after we met him, he was again on mental health watch and continuing to harm
+himself.: On September 7, 2019, while on constant 1:1 mental health watch, GG inserted
+a spoon into his urethra and was taken to a hospital.
+• MM experiences suicidal ideation triggered by mental health watch, yet MDOC’s
+response to her self-harm is to keep her on prolonged mental health watches, causing
+further decompensation. On March 3, 2019 at MCI-Framingham, she attempted suicide
+while on mental health watch by tying her bra around her neck. This incident occurred
+on her ninth consecutive day of mental health watch, where she remained for another 19
+days. Six days earlier, a mental health clinician noted that MM was experiencing
+paranoia and hallucinations. The day following her attempted suicide, she reported
+ongoing suicidal ideation, increased depression, hopelessness, and auditory hallucinations
+telling her to kill herself, and stated that mental health watch was not addressing her
+mental health needs. The next day, March 5, she told a mental health clinician: “I really
+can’t stop the voices[, t]hey really are telling me to hurt myself and it’s getting worse and
+worse.” Then on March 17, MM engaged in self-harm by banging her head repeatedly.
+Notably, four months earlier, MM told mental health staff that “she was going downhill”
+as a result of mental health watch and that the climate on mental health watch may have
+contributed to her psychiatric hospitalization. Despite this warning, MDOC placed MM
+back on mental health watch on February 23. After her suicide attempt on March 3, MM
+again told mental health staff that her mental health watch placement “increase[ed] [her]
+anxiety and ‘voices’ which increased [her] suicidal ideation and led to her suicide
+attempt.”
+• NN fixates on self-harm while on mental health watch because the isolated conditions
+exacerbate her auditory hallucinations, yet MDOC’s response to her self-harm is
+continued placement on mental health watch. Between September and November 2018
+at MCI-Framingham, she was treated at an outside hospital five times, all for injuries to
+herself while on mental health watch. The first occurred when she was observed by staff
+“bang[ing] her head hard[] against the wall” after telling them she wanted her auditory
+hallucinations to go away. Four days later, she told staff: “I just try to ignore [the
+voices] but it’s hard when I have nothing to do, could I have a book or something?” For
+the next few weeks, she continued to harm herself by swallowing a rock and plexiglass,
+and tying ligatures around her neck.
+On November 6, she told a clinician that “[mental health watch] check-ins are
+‘counterproductive,’” and that “sometimes I just need to talk out my urges but I am afraid
+I will get in trouble for being honest…it will get me upgraded to eyeball watch.” The
+clinician took note: “Client stated [mental health watch] is not real psych treatment,’
+noting being in her cell most of the day.” A week later, NN lost consciousness while on
+7 This Bridgewater State Hospital mental health unit, called the Intensive Stabilization and Observation Unit
+(ISOU), also places prisoners on mental health watch status; however, its use of mental health watch is different
+than MDOC’s mental health watches. In the ISOU, when a prisoner is on mental health watch status, he is out-ofcell in the dayroom participating in therapeutic activities accompanied by a Recovery Treatment Assistant to
+monitor him, deescalate problems, encourage medication compliance, and interact with him.
+14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mental health watch in front of staff after she swallowed a portion of an EKG lead she
+obtained during an outside hospital visit four days earlier. After being transferred to an
+outside hospital for medical care, she returned to the same mental health watch cell,
+where she again engaged in self-harm by “head banging.” Three days later, while on a
+constant 1:1 watch, she was again found unresponsive after ingesting an EKG pad from
+another outside hospital visit. After two months of this cycle of harm, prison officials
+committed her to a higher level of mental health care through the commitment process.
+• OO experiences depression when on mental health watch, and his depression exacerbates
+his desire to self-harm. His depression is only improved by engagement with treatment
+that he is unable to receive while on mental health watch, making it difficult for him to
+leave mental health watch once on it. Between July 2018 and September 2018, while at
+MCI-Norfolk, he spent 74 consecutive days on mental health watch.8 Mental health staff
+repeatedly documented that his depression is significantly improved with medications
+and engagement, including group therapy, and that his self-harm is a feature of, and
+worsened by, depressive episodes. OO’s mental health treatment is significantly
+disrupted when he is placed on a mental health watch, in part because he often becomes
+non-compliant with medication on watch. Therapeutic engagement, such as group
+therapy, is unavailable for prisoners on mental health watch, and this lack of treatment
+results in medication non-compliance in OO’s case. This isolation often results in further
+depression.
+C. MDOC’s Use of Prolonged Mental Health Watch Under Restrictive Housing
+Conditions, Including the Failure to Provide Adequate Mental Health Care,
+Violates the Constitutional Rights of Prisoners in Mental Health Crisis
+MDOC’s use of mental health watch is restrictive housing, and its prolonged use violates
+the constitutional rights of prisoners in mental health crisis. The restrictive conditions –
+including the stark physical conditions, the isolating and unnecessarily harsh approach to mental
+health watch, and the prolonged length of time prisoners spend on mental health watch – subject
+prisoners to a substantial risk of serious harm. MDOC’s use of mental health watch also fails to
+provide prisoners with adequate mental health care at the precise time they most need it. This
+combination of conditions, including inadequate mental health care, provides reasonable cause to
+believe that MDOC’s use of mental health watch for prisoners experiencing a mental health
+crisis is resulting in serious harm, or substantial risk of serious harm, and violating prisoners’
+rights under the Eighth Amendment because MDOC officials know of the serious harms and are
+disregarding them.
+1. MDOC’s Use of Mental Health Watch Is Restrictive Housing
+Although MDOC excludes mental health watch from its institutional definition of
+“restrictive housing,”9 its use of mental health watch functions, in all but name, as restrictive
+8 MDOC provided data that show he was on mental health watch for 525 consecutive days, from April 6, 2017 to
+September 13, 2018. To maintain consistency with only reviewing prisoner records for the 13-month time period
+between July 2018 and August 2019, we did not review his record from April 6, 2017 to July 1, 2018.
+9 MDOC defines “Restrictive Housing” as: “A placement that requires an inmate to be confined to a cell for at least
+22 hours per day for the safe and secure operation of the facility. … Restrictive Housing shall not include … the
+placement of an inmate on mental health watch.” 103 CMR 423.06. The legislation creating this definition stated:
+15
+
+
+
+
+
+
+
+housing because prisoners there are confined alone in their cells, typically for 23 hours or more,
+under restrictive and isolating conditions.
+MDOC has approximately 88 mental health watch cells, spread across 11 facilities. The
+physical conditions of the cells are stark, measuring on average 93 square feet,10 and most have
+only a combination metal sink and toilet and a bed frame with a mattress (although some do not
+have a bed frame). Some also have a desk and stool. Windows and doors in the cells vary in the
+different facilities, but most mental health watch cells that we visited had small windows at the
+back of the cell (although it was often fogged to allow light in but to prohibit prisoners from
+seeing outside). Most of the cells have solid metal doors with narrow slots at waist level, wide
+enough for food trays to pass through, and small foggy, plexiglass windows facing into the
+hallway. Some doors had larger plexiglass windows for greater staff observation.
+Prisoners on mental health watch experience isolating conditions. Prisoners generally
+experience limited social interaction – with other prisoners, officers, or mental health staff – and
+they experience restrictions on other forms of stimulation, such as recreation. A prisoner on
+mental health watch is housed alone and has no interactions with other prisoners unless he yells
+through the crack in his cell door. Officers are required to either observe the prisoner one-onone through his cell window (constant observation or constant 1:1 watch) or walk by his cell at
+varying 15 minute intervals (close observation). Despite their proximity, both officers and
+prisoners consistently told us that officers do not interact with prisoners while observing them.
+Mental health staff also have limited interactions with prisoners on mental health watch. Both
+mental health staff and prisoners told us that prisoners on mental health watch are supposed to
+have a daily mental health encounter to assess the prisoner’s “suicide risk” and “level of
+observation.” While prisoners sometimes come out of their cell to have their level of suicidality
+assessed in a small room, staff and prisoners told us that more often prisoners were assessed for,
+at most, 5-10 minutes through the crack in their cell door. One prisoner, PP, described this lack
+of a therapeutic environment: “There’s nothing therapeutic about [mental health watch].… it’s
+basically solitary [confinement]. At least at [the state psychiatric hospital], they actually have
+mental health [staff] and psychiatrists coming around and talking with you [and] you actually get
+a magazine, a Walkman, crayons, and get out of your cell for things to do.”
+While policy dictates that prisoners on mental health watch should have routine access to
+recreation, staff and prisoners told us that prisoners were usually denied recreation because of
+security concerns or staffing deficiencies. The recreation policy contains provisions that allow
+denials for such reasons, but rather than the exception to the rule, these denials appear to be the
+norm. In interviewing prisoners on-site and reviewing prisoner records, our experts consistently
+found that prisoners did not have access to recreation. With no access to recreation and little to
+no out-of-cell time for mental health treatment, prisoners spend nearly all hours of their day in
+their cells. Prisoners told us and our experts that when on mental health watch, they rarely have
+access to reading materials, phone calls, in-cell music, or tablets, and therefore are in conditions
+“‘Restrictive Housing’, a housing placement where a prisoner is confined to a cell for more than 22 hours per day;
+provided, however, that observation for mental health evaluation shall not be considered restrictive housing.”
+Massachusetts Senate Bill 2371, Section 87 (2018). The legislature’s decision to exclude mental health units from
+the definition of “restrictive housing” does not make it so.
+10 The cells varied in size from 66.5 to 160 square feet. Sixty-five of the 88 cells measured less than 85 square feet.
+16
+17
+more austere than MDOC’s other restrictive housing units, where prisoners can have access to
+these items.
+Prisoners on mental health watch also experience unnecessarily harsh conditions. One
+MDOC psychiatrist expressed concern that MDOC’s typical practice of escorting prisoners on
+mental health watch to an out-of-cell encounter in leg shackles and handcuffs (often behind their
+back) was anti-therapeutic, and constrained their ability to provide meaningful mental health
+treatment when a prisoner must sit for sessions in such uncomfortable restraints. Clothing is also
+often restricted and our experts observed prisoners in security smocks past the time it was
+clinically necessary. Prisoners told us that not having their own clothing when they should be
+deemed clinically safe made them feel inhuman.
+In sum, because of the restrictive, isolating, and unnecessarily harsh conditions, MDOC’s
+mental health watch is restrictive housing.
+2. MDOC’s Prolonged Use of Mental Health Watch Under Restrictive Housing
+Conditions Subjects Prisoners in Mental Health Crisis to a Substantial Risk of
+Serious Harm
+MDOC’s prolonged use of mental health watch under restrictive housing conditions,
+including the inadequate mental health care described above, subjects prisoners who are in
+mental health crisis to serious harm, or a substantial risk of serious harm, and shows deliberate
+indifference to their health and safety in violation of the Eighth Amendment.11 See Palakovic v.
+Wetzel, 854 F.3d 209, 216-17, 225-26, 230 (3d Cir. 2017) (holding that a prisoner with serious
+mental illness who was held in a 100 square foot restrictive housing cell approximately 23 hours
+a day for “multiple 30-day stints,” and who received only mental health interviews through his
+cell door slot stated a plausible Eighth Amendment claim “in light of the increasingly obvious
+reality that extended stays in solitary confinement can cause serious damage to mental health”).
+The Third Circuit has acknowledged the “robust body of legal and scientific authority
+recognizing the devastating mental health consequences caused by long-term isolation” including
+“anxiety, panic, paranoia, depression, post-traumatic stress disorder, psychosis, and even a
+disintegration of the basic sense of self-identity,” as well as physical harm such as “suicide and
+self-mutilation.” Id. at 225-26. See also United States v. Lopez, 327 F. Supp. 2d 138, 143
+(D.P.R. 2004) (recognizing the harmful effects that continued restrictive confinement has on a
+prisoner’s “psyche” and citing five supporting court decisions); Braggs v. Dunn, 367 F. Supp. 3d
+1340, 1345 (M.D. Ala. 2019) (noting that “overwhelming research shows that prolonged
+
+11 The First Circuit has not addressed the constitutionality of conditions similar to those in MDOC’s mental health
+watches. But see Jackson v. Meachum, 699 F.2d 578, 583-85 (1st Cir. 1983) (distinguishable because, as the court
+acknowledged, “the current state of the law” – nearly four decades ago – had not found prolonged restrictive
+housing for prisoners with mental illness to violate the Eighth Amendment, but also suggesting that in the future
+prisoners may have a “constitutional right to preventive therapy where psychological deterioration threatens” and
+that “the threat of substantial, serious and possibly irreversible if not critical psychological illness together with
+prolonged or indefinite segregated confinement would increase the burden on prison authorities to explore feasible
+alternative custodial arrangements”); Morris v. Travisono, 499 F. Supp. 149, 160 (D.R.I. 1980) (ruling on a due
+process rather than Eighth Amendment claim, nonetheless noting that “[e]ven if a person is confined to an air
+conditioned suite at the Waldorf Astoria, denial of meaningful human contact for… an extended period of time may
+very well cause severe psychological injury”).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+isolation has gravely detrimental effects on mental health, especially for those with existing
+mental illness”).
+MDOC’s use of mental health watch for prolonged periods of time subjects those
+prisoners experiencing mental health crises to a substantial risk of serious harm. Although
+MDOC’s policy requires mental health watches to be “no longer in duration than necessary to
+deal with the mental health crisis,” and sets out a 96-hour goal for discharge, the majority of
+prisoners are kept long past that four-day goal. In fact, MDOC held 106 prisoners on mental
+health watches that lasted 14 consecutive days or longer during a 13-month period between July
+1, 2018 and August 31, 2019.12 Fifty-one of those prisoners remained on mental health watch
+for a month or more consecutively; 16 remained there for more than three consecutive months;
+and seven spent six consecutive months or more there. Because these prisoners are already
+experiencing a mental health crisis, 14 days in the restrictive conditions described above subjects
+them to a substantial risk of serious harm. See Rasho v. Walker, 376 F. Supp. 3d 888, 910-11
+(C.D. Ill. 2019) (referring to an Illinois DOC settlement agreement which required that prisoners
+should be on “crisis watch” in restrictive housing for “generally no longer than ten (10) days
+unless clinically indicated.” Below are examples of prisoners who spent months in a row on
+mental health watch in restrictive housing during the 13-month period we examined and the
+resulting serious harm that occurred during those prolonged stays:
+• QQ spent 352 consecutive days on constant 1:1 mental health watch at MCI-Cedar
+Junction between August 2018 and August 2019. When we interviewed him in June
+2019, he told us that he had been in some form of restrictive housing/mental health watch
+for 11 years and during that time had only been to outside recreation six times. MDOC’s
+records did not enable us to confirm the duration, but one MDOC official told our expert
+that 11 years “sounded about right.” On July 5, 2019, QQ asked a security officer for “a
+piece of sheet so he could hang himself.” He then told another officer that he “[did] not
+feel right in the head,” and “claim[ed] not to know what he [was] doing … [but] in the
+same breath claimed he [was] getting out of [constant 1:1 watch] one way or another.”
+An hour and a half later, a third officer watched QQ bang his head against his cell door
+repeatedly and drink his own urine. Fifteen minutes later, a fourth officer “witness[ed]
+[QQ] eating what appeared to be his own fecal matter on a Styrofoam tray.” Twelve days
+later, QQ told a mental health clinician that he did not know why he ate his own feces
+and urine but compared himself to a gorilla, and said that “people think that he is
+‘mentally strong’ but that ‘being in a cell 24 hours a day for 14 years’ has had an impact
+on him.” That clinician also wrote that QQ “appear[ed] tearful when discussing certain
+topics.” Five days later, on his 50th birthday, an officer watched QQ “take the phone
+cord he was using to make an attorney phone call and wrap it around his neck in an
+attempt to commit suicide.” During our interview, QQ told us he has had no access to
+television or radio and little property and that he has been under these conditions for
+multiple years. MDOC officials maintain that QQ is dangerous and warrants strict
+security precautions. While we do not underestimate the security precautions needed to
+manage QQ, we note that no behavior management plan exists to assist MDOC staff to
+12 We believe this number is a substantial undercount. When we reviewed individual prisoner records, we identified
+mental health watch stays with longer durations than were captured in the data provided by MDOC.
+18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+advance him to a more normalized housing experience, or one that would at least take
+him out of such extreme conditions.
+• BB spent 77 consecutive days on mental health watch at Souza-Baranowski Correctional
+Center. He had been on mental health watch for 50 consecutive days, when, on May 15,
+he attempted to hang himself with his security smock tied around his neck. Two days
+earlier, on May 13, 2019, a note in his medical record stated that “his name is now
+Zachariah” and that “voices told him to play with his own feces.” During the next 27
+days he continued to harm himself, including: inserting a chicken bone and Styrofoam in
+his urethra; attempting to strangle himself with a scrub top; and tying a ligature around
+his neck.”
+On June 11, 2019, BB was released from mental health watch but was again placed on
+mental health watch two days later. Eight days later, he told mental health staff he was
+“not doing too good,” had “racing thoughts,” and was “hopeless” and “‘never has a plan’
+for when he will engage in [self-injurious behavior].” The next day, he attempted to
+strangle himself with his scrubs. He returned to mental health watch where he remained
+for another 49 consecutive days. These two prolonged stints on mental health watch
+interrupted BB’s engagement with mental health treatment and did not address his
+underlying issues.
+• EE spent 63 consecutive days on mental health watch at Souza-Baranowski Correctional
+Center, including 55 days on constant 1:1 watch. He also requires a colostomy bag.
+During this two-month period on mental health watch, he harmed himself 21 different
+times, including 19 times while on constant 1:1 mental health watch, and he needed
+hospitalization six different times due to his self-inflicted injuries. EE’s self-injurious
+behavior during this period included: cutting up his stomach with a razor blade and then
+swallowing it to cause a 5 centimeter deep open abdominal wound; “standing naked at
+the cell door with blood coming from his open abdominal wound” with “a piece of his
+intestine in his hand,” and then swallowing the piece of intestine; “‘scratching’ at his
+abdominal wound” and then standing “at cell door with a long strand of unknown red
+substance hanging from his abdominal wound;” “actively cutting his chest wound with a
+small piece of a razor blade,” resulting in a part of his intestines coming outside of his
+abdominal cavity; and “sticking [his] finger in [his] abdomen wound and arm [and]
+rubbing blood all over [the] cell walls.” All of these incidents occurred on a constant 1:1
+watch, where he should not have had access to razors or the ability to self-harm so
+significantly.
+When we met EE at MCI-Cedar Junction on June 18, 2019, he was on mental health
+watch and remained there for nearly three weeks until he was transferred to a higher level
+of mental health care through the commitment process. He told us, “Being on [mental
+health watch] is like being locked in a cell like an animal” and triggers his PTSD because
+he relives his childhood when he was locked in a closet by his family.
+D. The Combination of Inadequate Mental Health Care and Restrictive Housing
+Conditions in MDOC’s Mental Health Watches Results in Serious Harm
+The combination of inadequate mental health care and restrictive housing conditions on
+MDOC’s mental health watches not only results in a substantial risk of serious harm, but also
+results in actual serious harm, including self-harm and suicide. Courts have described this
+19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+combination and its exacerbating impacts on prisoners. Recently a court found that when a
+prisoner experiencing a mental health crisis is placed in restrictive confinement he “is exposed to
+a heightened risk of worsening symptoms, while [also] having less access to treatment [he]
+need[s].” Braggs v. Dunn, 257 F. Supp. 3d 1171, 1237 (M.D. Ala. 2017); see also Coleman v.
+Wilson, 912 F. Supp. 1282, 1320 (E.D. Cal. 1995) (finding that California’s form of restrictive
+housing violated the Eighth Amendment rights of prisoners with mental illness because
+placement there “cause[d] further decompensation” and because it “denied [prisoners] access to
+necessary mental health care”); Ruiz v. Johnson, 37 F. Supp. 2d 855, 911 (S.D. Tex. 1999), rev'd
+and remanded sub nom. Ruiz v. United States, 243 F.3d 941 (5th Cir. 2001) (citing expert
+testimony that explained that “inadequacy or absence of [mental health] care combined with the
+conditions of confinement” in Texas’ form of restrictive housing “contributes to an increase in
+the patient’s suffering from the ravages of his disease” (emphasis added)). This is the case in
+MDOC’s mental health watches: prisoners are exposed to a substantial risk of serious harm
+because of both the prolonged restrictive confinement and because they have inadequate access
+to the mental health care they need. Because these prisoners are already experiencing mental
+health crises, mental health watch should “provide the last safety net before the worst possible
+outcome in mental-health care: suicide.” Braggs, 257 F. Supp. at 1219. Yet, MDOC’s mental
+health watch often does not.
+As described above, prisoners have experienced serious harm on mental health watch.
+For some, it is like “mental torture,” “exacerbat[ing] all [of one’s] mental health issues” where
+being locked in a cell one “can’t do anything except think about killing [one]self.” For others,
+the mental harm reaches the point of inflicting injury on themselves. In fact, a majority of the
+“self-injurious behaviors,” or self-harm, that occurs in MDOC prisons occurs in MDOC’s mental
+health watch cells. Although only approximately 1% of the MDOC’s total population can be
+housed in one of its mental health watch cells at any given time, between July 1, 2018, and
+August 31, 2019, more than 56% of the 1,200 systemwide “self-injurious behavior” incidents
+occurred in a mental health watch cell. During that 13-month period, 106 prisoners injured
+themselves on mental health watch by a variety of means, totaling 688 incidents of self-harm,
+including: cutting themselves; banging their heads on their cells walls or door; attempting to
+hang or otherwise asphyxiate themselves; and inserting an object in their body or ingesting an
+object.13 Of those 688 incidents, 103 were serious enough for MDOC to transport the prisoner to
+an outside hospital for medical treatment.
+In addition, four of the eight prisoners who died by suicide in 2018 and 2019 were held
+on a mental health watch when they died or shortly before they died. Had MDOC provided these
+prisoners with adequate mental health care rather than subjecting them to restrictive housing,
+devoid of mental health treatment, these suicides may have been avoided.
+• On June 21, 2019, RR, a transgender man, died by suicide after lodging a stress ball in
+his throat while on mental health watch at MCI-Framingham. MDOC knew that
+restrictive housing settings exacerbated RR’s mental health issues, yet confined him to
+mental health watch, where he felt particularly isolated, and also the Restrictive Housing
+Unit, causing him to decompensate, for the month prior to his suicide. Less than one
+month before his suicide, he arrived at MDOC, and within two days attempted suicide by
+13 We believe this number is a substantial undercount. Many instances of self-injurious behavior documented in
+prisoners’ mental health records were not captured in the data provided by MDOC.
+20
+
+
+
+
+
+
+
+
+
+
+
+
+
+“impal[ing]” a plastic comb 1-inch into his right arm, which necessitated an outside
+hospital evaluation. The next day, he was placed on mental health watch, where he told
+mental health staff that he had tried to kill himself by cutting an artery, that he had a
+history of suicide attempts, including stabbing himself in the chest in February, and that
+he had current suicidal ideations with a plan but would not disclose his plan. The staff
+member noted that RR “was unable to identify anything worth living for.” The next day,
+still on mental health watch, he was found unresponsive in his cell with a piece of his
+security mattress tied around his neck. Five days later, still on mental health watch, he
+inserted a crayon into a wound on his arm, telling mental health staff that he had been
+hearing voices all day and that the voices “laugh, call me names, and [are] mean to me.”
+Two days later, he again told mental health staff that he was hearing voices that “just get
+bad sometimes;” that he “just need[s] to distract [himself];” that “talking to MH [mental
+health] helps;” and that having a book would help. No book was provided. The next day,
+he covered his entire body with feces while on mental health watch. About a week later,
+mental health staff felt he was well enough to be taken off of mental health watch.
+However, he was not moved to a different housing unit and was provided only access to
+books and television. The next day, he was placed back on mental health watch after
+tying earbud cords around his neck because he said, “the voices got to me.” When he
+was placed on watch, a mental health staff member wrote that he was “contraindicated
+from [Restrictive Housing Unit] setting due to continued decompensation that would
+likely be exacerbated.” Yet, despite contraindication from restrictive housing, he was
+placed in the same housing unit under the same restrictive conditions he had been under
+the entire month. Three days later, he was authorized to have a stress ball in his cell, and
+two days after that while still on mental health watch, prison staff found him
+unresponsive in his cell with this stress ball lodged in his throat. RR remained
+unconscious and was transported to a local hospital where he was pronounced dead.
+Three other prisoners died by suicide just days after being removed from mental health
+watch. Because prisoners experience such anti-therapeutic conditions on mental health watch,
+some feign improvement to clinicians in order to gain their release from mental health watch.
+For instance, LL told us: “[Staff] just keep me in a cell by myself until I say I won’t hurt myself
+anymore, then they let me go.” In the case of the three prisoners whose suicides are described
+below, without thorough suicide risk assessments or adequate step-down processes to determine
+whether they were still at risk of self-harm, MDOC clinicians were unable to accurately assess
+their mental health, and they died by suicide shortly after securing their release from mental
+health watch.
+• On October 29, 2019, SS, a gay man who had issues with incontinence because of
+prostate cancer, died by suicide after hanging himself in his Restrictive Housing Unit cell
+at MCI-Shirley. His death occurred just 12 days after being released from a nine-day
+mental health watch stay. While he was on mental health watch, MDOC did not address
+the underlying issues that put SS on watch in the first place, and released him without an
+adequate step-down process that would have provided him enhanced therapeutic
+engagement and may have prevented his continued deterioration from the isolation he
+experienced. During the month prior to his death, SS exhibited signs of possible
+psychosis: while in the Restrictive Housing Unit a psychiatrist recorded that SS was
+hypomanic, tangential, unkempt, and had a fake accent. Five days later, SS shattered a
+window in his cell and was placed on mental health watch, where he remained for nine
+21
+22
+days. During his crisis assessment, a mental health staff member noted that he had
+conflicts with peers, and we learned that he had been “tormented” by peers and officers
+for being gay and for having to wear a diaper. Four days into that watch, a mental health
+staff member wrote that SS told her he was “doing worse probably” and “went on to
+discuss feelings of hopelessness” because he had recently lost a chance at parole, and that
+he expressed that he would “hang [himself]” if returned to restrictive housing. Three
+days later, he again was speaking with a fake accent and again told a clinician that he
+would hang himself if he went to restrictive housing. The next day, on October 16, his
+medication dosages were altered to stabilize his mood and help with his delusional
+thinking. Yet the following day, he was discharged from mental health watch by a
+mental health technician because he had improved his medication compliance, gained
+insight into his hypomanic behavior, and had expressed that he would be safe in the
+Restrictive Housing Unit. The clinicians took his word that he would be safe and was
+doing better even though his medication had only been changed the day before and two
+days earlier he had repeated his desire to hang himself if he was placed in restrictive
+housing.
+SS’s sister visited him the day after he was returned to the Restrictive Housing Unit and
+described him as “the most depressed [she had] EVER seen him . . . . He looked and
+sounded totally defeated, dejected and hopeless.”
+Ten days later, the day before his suicide, prison staff received a phone call from his
+sister, who had received a letter from him stating that “by the time she received the letter,
+he would be gone,” and that he planned to kill himself. She called the prison to have staff
+do a wellness check on her brother. According to the medical records, a clinician
+performed a security referred crisis call at that evening and from the cell door reported
+that SS appeared stable and stated that he was fine. The next morning, SS was found
+unresponsive with a ligature around his neck. There is no evidence in the records that
+clinicians addressed his loss of a parole opportunity or the tormenting of prisoners and
+officers who targeted him for being gay and needing to wear diapers prior to his release
+from mental health watch. Further, there is no evidence that an adequate step-down
+process was implemented.
+• On June 21, 2019, TT died by suicide after hanging himself in an altered Restrictive
+Housing Unit14 at MCI-Cedar Junction, just three days after being released from mental
+health watch. While he was on mental health watch, MDOC did not address his
+underlying risk factors and released him without an adequate step-down process that
+would have provided him enhanced therapeutic engagement and may have prevented his
+continued deterioration from the isolation he experienced. In the 15 months prior to his
+
+14 TT died by suicide in a newly created Limited Privileges Unit (LPU). The LPU became operational on June 16,
+one day before the Department was scheduled to tour that prison and five days before his suicide. During our tour,
+officers in the LPU stated to our security expert that it was “basically the Restrictive Housing Unit.” The LPU is
+located in a wing that had been an Restrictive Housing Unit the day before it was operational. According to MDOC,
+the LPU is an alternative to the Restrictive Housing Unit because it offers prisoners “1.5 hours daily out-of-cell time
+in the program room 7 days per week, plus 1.5 hours daily out-of-cell recreation time 7 days per week. In addition,
+LPU inmates are offered weekly structured out-of-cell contact with mental health clinicians and weekly [sic] and a
+weekly mental health group in the program room, plus twice weekly access to a mental health clinician during
+mental health rounds.”
+23
+suicide, he had made six suicide attempts. In the month prior to his suicide, he had either
+been in restrictive housing or mental health watch. Two weeks earlier, he attempted
+suicide by hanging in his restrictive housing cell, which resulted in “significant ligature
+marks” around his neck, a “loss of oxygen,” “seizing after the attempt,” and outside
+hospital evaluation. Four days after that attempt, he made statements about sacrificing
+himself to prove how bad the system is. Our expert identified risk factors that were not
+addressed by mental health staff, particularly this statement about his need to prove how
+bad the system is and his mother dying of cancer. When we interviewed him five days
+before his death, he was on mental health watch and told us that he had a broken plastic
+utensil inserted into his urethra, and that he experienced thoughts about harming himself
+when alone in his cell because he got “really bad panic attacks and shaky” when he had
+nothing to do. We advised staff on the day of our interview. He told a mental health
+clinician the same thing the next day: “Client reported he wanted to come off the [mental
+health watch],” “stating he self-harms when he is bored.” He was released from mental
+health watch the next day and placed in an altered restrictive housing unit. Similar to the
+example above, mental health staff took his word that he would not harm himself and
+granted his request to leave mental health watch without addressing his risk factors or
+implementing an adequate step-down process to determine if he was still at risk of selfharm. Two days later, he died by suicide.
+• On June 15, 2018, UU died by suicide after hanging himself in his Restrictive Housing
+Unit cell at Souza-Baranowski Correctional Center, one day after being released from
+mental health watch. While he was on mental health watch, MDOC did not address his
+underlying risk factors, including his father’s recent death by overdose, and instead took
+his word that he would not harm himself and granted his request to leave mental health
+watch and be placed in a less restrictive unit. During the six months prior to his suicide,
+UU was placed on at least five mental health watches. He also reported having at least
+ten seizures due to anxiety, in about that same six month period. About two weeks prior
+to his suicide, he was having thoughts of hurting himself and was placed on mental health
+watch. Two days later, while still on the mental health watch, UU learned that his father
+had overdosed and was on life support. That same day, he suffered a seizure, and told
+mental health staff that he was “dealing with a lot.” Two days later, a clinician wrote that
+the he was “struggling to cope with father[’]s situation . . . [and was] having constant
+thoughts and feeling ‘why does it matter anymore[?]’” The next day, mental health staff
+told him his father died, and a day later he was observed “randomly punching” the walls
+and windows of his cell. Staff noted his mood as being “unstable” since receiving news
+of his father’s passing. The week prior to his death, while still on a close observation
+mental health watch, UU informed mental health staff that he was “struggling to cope
+with the loss of his father appropriately” and particularly cited feelings of guilt about
+being in prison. Later that day, he ripped a long piece of fabric from his scrub top and
+fashioned it into a noose. When staff attempted to get him to relinquish the fabric, he
+placed it around his neck and threatened to tighten it. After several minutes, he agreed to
+relinquish the fabric to a correctional officer. The following day, he was found making
+hanging gestures and saying that he wanted to die. Three days before his death, he again
+expressed that he was having thoughts of hanging himself, and two days before his death
+he told mental health staff that recent contact with his sister “increased his feelings of
+guilt.” Staff found that he had attempted to make a ligature. Yet, the next day, he was
+24
+released from mental health watch to the Restrictive Housing Unit after telling staff that
+he was ready to return. He stated that hanging gestures he had made were to get attention
+from staff but that acting that way would not bring his father back. Like the other two
+examples above, mental health staff took his word that he would not harm himself and
+granted his request to leave mental health watch without stepping him down with
+enhanced therapeutic engagement. The next day – eight days after his father had died –
+he died by hanging himself.
+MDOC does not have effective oversight mechanisms for assessing the risk mental health
+watch poses to prisoners experiencing mental health crisis. MDOC does not aggregate or
+analyze the data it keeps on the number of prisoners on mental health watch, nor their length of
+stay there, nor the number of repeated placements there. This absence of data analysis impedes
+MDOC’s ability to connect stays in mental health watch to risk of harm, and actual incidents of
+mental health deterioration, self-harm, and suicide.
+1. MDOC Officials Knew of the Substantial Risk of Serious Harm and Disregarded
+It
+MDOC staff have long been on notice of the serious harms experienced by prisoners on
+prolonged mental health watch. There have been many instances of self-harm inflicted by
+prisoners on mental health watch, and in some cases, repeated identical kinds of self-harm and
+even suicide. See Hope v. Pelzer, 536 U.S. 730, 735-38 (2002) (disregarding an obvious risk to
+prisoner health and safety shows deliberate indifference); see also Palakovic, 854 F.3d at 226
+(finding that it is an “obvious reality that extended stays in solitary confinement can cause
+serious damage to mental health”). In a 2007 report, a nationally-recognized expert on suicide
+prevention hired by MDOC to evaluate its management of suicidal prisoners reported the
+following: “[C]urrent management of suicidal inmates within the DOC is overly restrictive and
+seemingly punitive. Confining a suicidal inmate to their cell for 24 hours a day only enhances
+isolation and is anti-therapeutic. Under these conditions, it is also difficult, if not impossible, to
+accurately gauge the source of an inmate’s suicidal ideation.”15 His follow-up report in 2011,
+found similar concerns.16 Despite this clear guidance and notice that MDOC’s use of mental
+health watch for prolonged periods of time, without adequate mental health care, is “overly
+restrictive and seemingly punitive,” MDOC continues to operate its mental health watch units in
+
+15 The 2007 report was requested by MDOC after it experienced a spike in suicides in 2005 (four suicides) and 2006
+(eight suicides). The expert reviewed 10 of those suicides and found the following: “Half (5 of 10) of the victims
+had recently been on suicide precautions (i.e. mental health watches), with discharge from that observation level
+ranging from a few hours to a few weeks prior to their deaths; and included one victim who was on mental watch at
+the time of the incident.”
+16 For instance, he reported: “Although a prior concern that correctional staff were primarily driving these practices
+has been somewhat abated, and mental health staff are now more directly involved in management mental health
+watches, this writer sensed that practices have not appreciably changed. For example, although the issue of clothing
+removal is to be determined commensurate with the individual level of risk, almost all suicidal inmates (regardless
+of risk level) are still stripped of their clothing and issued safety smocks. Although mental health staff are
+responsible for competing Mental Health Watch Sheets that are taped to each cell door, these sheets invariably will
+indicate that visits, non-legal telephone calls, and recreation are prohibited. No justification of these decision can be
+found in the inmate’s progress notes. Many inmates interviewed by this writer complained about these restrictions.
+The level of discontent was most apparent at MCI-Framingham. Most women complained that the conditions of
+mental health watch were punitive and they were often reluctant to express their suicidal ideation to staff because it
+meant being locked down on the [Health Services Unit] in a smock.”
+25
+this fashion. Further, since January 2019, MDOC has been implementing legislation designed to
+reduce the harmful effects of restrictive housing on prisoners with mental illness. But this
+legislation does not address restrictive housing in mental health watch units. And, as evidenced
+in the harm experienced by MDOC prisoners more than ten years later, MDOC’s lack of action
+to address these harms bespeaks deliberate indifference.
+V. MINIMUM REMEDIAL MEASURES
+To remedy the constitutional violations identified in this Notice, we recommend that the
+MDOC implement, at minimum, the remedial measures listed below. In listing these remedies,
+we note that over the course of our investigation, MDOC has been making changes to address
+some of the violations identified in our Notice.
+A. Supervision of Prisoners on Mental Health Watch
+MDOC should:
+1. Ensure prisoners cannot access instruments used to self-harm, or engage in self-injurious
+behavior, while on mental health watch. MDOC should monitor instances of self-harm
+on mental health watch for patterns or common instruments used for self-harm, determine
+how prisoners are accessing these instruments, and respond by developing individualized
+strategies to address the risks associated with these.
+2. Develop and implement a clear and consistent policy and training for correctional officers
+and mental health clinicians assigned to mental health watch, including what interactions
+they may or may not have with prisoners, how to monitor prisoners on constant 1:1
+observation and close observation and prisoners who have a history of engaging in selfharm, and how to properly monitor a prisoner who has previously ingested or inserted a
+foreign body.
+3. Institute strict disciplinary action if and when officers do not comply with policies related
+to their role on constant 1:1 mental health watch, including falling asleep.
+4. Ensure communication and coordination between the mental health and security staff
+under a unified chain of command to prevent self-harm.
+5. Increase security staffing to ensure that there are adequate numbers of staff to observe
+prisoners on mental health watch and to escort prisoners to out-of-cell therapeutic
+activities.
+B. Mental Health Care on Mental Health Watch
+1. Conduct daily out-of-cell mental health assessments, document when and why a prisoner
+requests the assessment cell-side or refuses the assessment, and offer assessments at
+different times of the day.
+2. Ensure all prisoners on mental health watch receive meaningful therapeutic interventions,
+including regular, consistent therapy and counseling, in group and/or individual settings,
+as clinically appropriate.
+3. Hire a sufficient number of mental health clinicians to ensure that MDOC has adequate
+numbers of staff to provide meaningful therapeutic interventions to prisoners on mental
+health watch.
+26
+4. Ensure prisoners who engage in repeated self-harm receive individualized crisis treatment
+plans and, when clinically appropriate, behavioral management plans.
+5. Ensure prisoners are transferred to an inpatient psychiatric level of care when clinically
+appropriate, instead of spending prolonged time on mental health watch.
+6. Develop and implement a policy and procedure for step-down placement of prisoners
+being released from mental health watch.
+7. Report and review data regarding lengths of stay in mental health watch and self-harm/
+mental health deterioration to connect stays in mental health watch to incidents of selfharm and mental health deterioration, and take appropriate corrective action.
+C. Restrictive Housing Conditions of Mental Health Watch
+1. Ensure that its policies, procedures, and practices regarding it use of mental health watch
+for prisoners experiencing a mental health crisis comport with the Constitution.
+2. Minimize isolation on mental health watch. Prisoners on mental health watch should
+have access to clinically appropriate structured and unstructured out-of-cell activities
+with the goal of quickly stabilizing prisoners. MDOC should expand its use of Recovery
+Treatment Assistants to monitor and interact with prisoners on mental health watch,
+which it already uses in its Bridgewater State Hospital mental health unit, the Intensive
+Stabilization and Observation Unit (ISOU), at Old Colony Correctional Center.
+3. Reduce the unnecessarily harsh nature of mental health watch. Removal of a prisoner’s
+clothing (excluding belts and shoelaces), as well as use of physical restraints and
+shackles, and cancellation of routine privileges (e.g., showers, visits, telephone calls,
+recreation), should be avoided whenever possible, and only utilized as a last resort for
+periods in which the prisoner is physically engaging in self-destructive behavior.
+VI. CONCLUSION
+The Department has reasonable cause to believe that MDOC has engaged in a pattern or
+practice of resistance to rights protected by the Eighth Amendment because it fails to provide
+constitutionally adequate supervision and mental health care to prisoners in mental health crisis
+and places them in mental health watch for prolonged periods of time under restrictive housing
+conditions that violate their constitutional rights.
+We are obligated to advise you that 49 days after issuance of this letter, the Attorney
+General may initiate a lawsuit pursuant to CRIPA to correct deficiencies identified in this letter if
+State officials have not satisfactorily addressed our concerns. 42 U.S.C. § 1997b(a)(1). The
+Attorney General may also move to intervene in a related private suit 15 days after issuance of
+this letter. 42 U.S.C. § 1997c(b)(1)(A). Please also note that this Notice is a public document. It
+will be posted on the Civil Rights Division’s website. 
