@@ -1,0 +1,198 @@
+Sep 13, 2026  Extended Interviews | CBS Sunday Morning
+In this web exclusive, Anthropic CEO Dario Amodei sits down with Jo Ling Kent to discuss the artificial intelligence community's responsibility as technology rapidly develops.
+
+"CBS News Sunday Morning" features stories on the arts, music, nature, entertainment, sports, history, science and Americana, and highlights unique human accomplishments and achievements. Check local listings for "CBS News Sunday Morning" broadcast times.
+
+https://www.youtube.com/watch?v=hQR_VJF6ukk
+
+Transcript
+
+Search transcript
+Search transcript
+
+0:000 secondsDario Amade, you're the CEO of Anthropic. Thank you for doing this today. Thank you. Thank you for having me.
+0:055 secondsOkay, so we're here to talk about the concern that AI really could kill us all in the notsodistant future. What's the
+0:1212 secondsrisk of this actually happening? So just to back up a little bit um uh you know we we've believed since we started
+0:2020 secondsEnthropic I've believed since you know the 12 years that I've been working in this field that this is a powerful technology and therefore it's a
+0:2828 secondstechnology with serious risks and serious benefits. I've always believed that the benefits outweigh the risks and
+0:3535 secondseven more to the point that we can reduce the risks to be very low if we build the technology in the right way.
+0:4343 secondsLooking at some of the benefits, I really believe that this technology could cure diseases that have plagued
+0:5151 secondshumanity for millennia. Just last week, we we did we did some work on, you know, doing better protein binding, which is
+1:001 minuteone of the early steps in drug development using our models. We're starting to work on them. We'll have things to say in the coming months to
+1:071 minute, 7 secondsmake basic scientific discoveries in biology. But when something's very powerful, right, what we're building is
+1:151 minute, 15 secondsessentially intelligence. When something's very powerful, then of course it can be used well and it can
+1:221 minute, 22 secondsalso be used for ill. And and so I am worried about what we've seen with the OpenAI hugging face incident with with
+1:301 minute, 30 secondsmodels um you know taking actions they weren't authorized to take and I'm worried about that escalating. I'm
+1:371 minute, 37 secondsworried about misuse of AI models. Just uh two days ago, we put out a report about misuse of models to build
+1:451 minute, 45 secondsbiological weapons. And our view, the whole way we've built entropic is so that these bad outcomes don't happen.
+1:531 minute, 53 secondsInstead of talking about the probabilities, let's talk about what we can do. It's not like we're just rolling the dice, right? If we build in the
+2:022 minutes, 2 secondsright way, I think the probability of something bad happening is very low. If we build in the wrong way, the probability of something bad happening is very high.
+2:102 minutes, 10 secondsThe conversation right now is that we are on the precipice of something really scary. Is this a five alarm fire?
+2:192 minutes, 19 secondsI you know I I don't you know depends what you mean by five alarm fire. What what I would say is how would you describe it? what what I
+2:262 minutes, 26 secondswould describe is so something I've been saying since uh you know since we started anthropic almost since before we started Anthropic is that this
+2:352 minutes, 35 secondstechnology is on an exponential right it's like you have one then two then four then eight then 16 then 32 but even
+2:422 minutes, 42 secondsas I was saying that to myself I don't think I fully just appreciated what it would actually be like when the progress
+2:492 minutes, 49 secondswas as fast as it was so we're we're an exponential curve looks a little like this where are we on the curve we're kind We're kind of on the bend where it's starting to get steeper.
+2:582 minutes, 58 secondsSo, is that a five alarm fire to you?
+3:003 minutesWhat it what it means it it doesn't mean we need to panic today. It doesn't mean we need to shut it all down. What I I
+3:093 minutes, 9 secondswould say it's it's a warning sign. It's a warning sign that we need to slow down. We need to make this technology carefully and we
+3:183 minutes, 18 secondsneed to make sure that the our our safeguards, our ability to understand it, our ability to control it keeps up
+3:283 minutes, 28 secondswith the pace at which the technology is happening. So far we've been trying to do that by building the safeguards fast
+3:373 minutes, 37 secondsbut I think we've reached the point where at least to some extent we need to moderate a little bit the pace at which the technology is being built.
+3:463 minutes, 46 secondsDoes that then mean that anthropic is going to stop releasing more advanced models?
+3:503 minutes, 50 secondsIt doesn't mean that. What it means is that we need to make sure that every
+3:573 minutes, 57 secondsgeneration of models that we release is properly tested. The thing I've proposed, so you know, in this essay
+4:054 minutes, 5 secondsthat I put out a few hours ago, I proposed a three-step plan, right? And the first step is that we put
+4:134 minutes, 13 secondsin place embedded evaluators exter em embedded external evaluators from from a third-party nonprofit or perhaps someday
+4:224 minutes, 22 secondsgovernment organization that can observe the process of us training and running
+4:294 minutes, 29 secondsour models. that actually is I think ultimately more important than how or
+4:374 minutes, 37 secondswhen we release models because it's the predicate for more carefully releasing models. I want the I
+4:464 minutes, 46 secondswant this to be done across the industry so that whenever anyone builds an AI model, there's a third-party evaluator
+4:544 minutes, 54 secondswho understands the best safety practices, who's can verify whether that company is following the safety practices that they're committed to.
+5:035 minutes, 3 secondsIt's like a food inspector, you know, but can the food inspector keep up when the technology is changing so fast?
+5:115 minutes, 11 secondsWell, that one of the things they'll be able to do is is tell us the rate at which they can keep up. That may be one
+5:195 minutes, 19 secondsof the factors that may determine that may set the speed limit on the technology. We have to understand it and
+5:265 minutes, 26 secondsthe external evaluators have to understand it.
+5:295 minutes, 29 secondsSo Elon Musk has said he agrees with you. Sam Olman says he agrees with you.
+5:345 minutes, 34 secondsWhat's the action plan for you guys to come together? Is there a group chat that's going to come into fruition here?
+5:395 minutes, 39 secondsSo, so first of all, I'm talking I'm enormously appreciative uh that other industry leaders including
+5:475 minutes, 47 secondsour competitors have have offered their agreement with this plan. I think the next step is for multiple industry
+5:565 minutes, 56 secondsplayers to also agree to have third party evaluators. Then I think the next
+6:026 minutes, 2 secondsstep after that is in some form the companies need to work together to set
+6:106 minutes, 10 secondsstandards about safety standards for release perhaps something about the pace of release. But in order to do that
+6:186 minutes, 18 secondsthere needs to be involvement of the government because what we're talking about is the rate of release of products because of whether they're safe. We need
+6:266 minutes, 26 secondsto have that conversation with the government in the room.
+6:306 minutes, 30 secondsDo you think the government fundamentally understands what's possible here because you know former anthropic employee Jacob Coxin said
+6:386 minutes, 38 secondsabout both anthropic and open AI neither company is acting responsibly. You guys are gambling with our lives.
+6:466 minutes, 46 secondsWhat's your response to that? Well, first of all, I mean, you know, one one thing that that uh Jacob said, it wasn't quoted as much, but you know, he he also
+6:546 minutes, 54 secondssaid that he thought, you know, anthropic was uh uh uh uh you know, the the most responsible of the major
+7:017 minutes, 1 secondplayers and that uh you know, we were we were trying very hard to get it right.
+7:077 minutes, 7 secondsHe was calling out honestly the same thing that I'm calling out, which is the the difficulty of the situation, right?
+7:157 minutes, 15 secondsthe structural difficulty of the situation that we're all in and that the plan that I've put out is designed to
+7:237 minutes, 23 secondshelp us address. We're designed to help us work together. Now, to your question about the government, you know, we are
+7:307 minutes, 30 secondstalking to the government every day. We are talking to government officials every day in the commerce department, in the Treasury Department, in the in the
+7:387 minutes, 38 secondsintelligence community to tell them as much as we can what we know. Uh, and I'm
+7:467 minutes, 46 secondsoptimistic that if we keep working together with them, we can update them on the latest. I think they really want to do the right thing here. I think they're looking for how they can help.
+7:577 minutes, 57 secondsAnd so I'm optimistic that the companies working together with the government can get to a plan here that makes sense.
+8:048 minutes, 4 secondsAll right. So there is some proposed legislation out there, right? You have the ban artificial super intelligence act from Senator Sand Sanders and
+8:118 minutes, 11 secondsRepresentative Casar that would punish corporations and individuals working on advanced AI just like those unlawfully
+8:198 minutes, 19 secondsdeveloping nuclear weapons. One of the parts of this proposed legislation says entities will be subject to the
+8:278 minutes, 27 secondscorporate death penalty and persons shall be subject to not more than 20 years in prison. Do you agree with that?
+8:338 minutes, 33 secondsSo, you know what I would say? There's there's there's a very wide range of legislation being offered like the the
+8:418 minutes, 41 secondsrange is incredible. If we go back only one year um to 2025 um and you know there was a bill called
+8:498 minutes, 49 secondsSB53 in California. There were similar bills in other states which basically just said you have to disclose what your safety testing plans are, right?
+9:009 minutesAnd the entire industry was against it.
+9:019 minutes, 1 secondEnthropic was the or or or didn't say anything on anthropic was the only company enthusiastically in support. And then there's there's all the way to, you
+9:109 minutes, 10 secondsknow, let's let's uh there's an AI kill switch bill.
+9:139 minutes, 13 secondsYeah. Let's let's ban all of it. So I the AI kill switch could be a good idea.
+9:179 minutes, 17 secondsUm I don't think banning it completely banning it is the right approach. One, the idea that we would never get the
+9:259 minutes, 25 secondsincredible benefits, would never get the medical cures, that doesn't sit right with me. Second, this technology will be
+9:339 minutes, 33 secondsbuilt in other countries including authoritarian countries, China, China among others. Um, and I am worried
+9:439 minutes, 43 secondsabout how they will use it, how they will use it against free societies, how they will use it to repress their own people. Now, in one place, I do talk
+9:519 minutes, 51 secondsabout working together with them, and I believe we need to do that to some extent, but I I just don't see how it's
+9:599 minutes, 59 secondsa stable solution to never build the technology. What we need to do is not stop. We need to slow down. And and that
+10:0810 minutes, 8 secondsis in line honestly with what Anthropic that's been Anthropic's philosophy since the beginning, right? We've always tried
+10:1610 minutes, 16 secondsto balance. We've said it's important that we be builders of this technology, but we need to create a race to the top.
+10:2310 minutes, 23 secondsWe need to raise the bar. Um so, uh you know, we we need to be on the frontier, but we need to do it in the right way.
+10:3110 minutes, 31 secondsWe've said, you know, we we're we're we're excited to use the models for, you know, national defense applications, but not every national defense application.
+10:4110 minutes, 41 secondsWe've always tried to find the the middle ground, the thing that works for everyone, the sensible solution, and
+10:4810 minutes, 48 secondsthat's what we're trying to do here as well. It may not be the perfect solution, but we're trying.
+10:5310 minutes, 53 secondsWould you support Congressman Ted Leo's AI kill switch bill? Uh I've not looked at that bill more super closely, but I
+11:0011 minuteswhat I would say is that the idea that we need some way to it's not a panacea.
+11:0611 minutes, 6 secondsIt's not the only thing, but the idea that we need some way to make sure that we can uh uh deactivate or limit or shut down AI models.
+11:1811 minutes, 18 secondsThat's not the only thing. If an AI model is is powerful enough, it can circumvent attempts to shut it down. And we've seen that in simulations as well. So it may not work at all.
+11:2611 minutes, 26 secondsWe think of this in terms of defense and depth. There's a notion in the security community called the Swiss cheese model.
+11:3311 minutes, 33 secondsSo you know just imagine a slice of Swiss cheese and it's like it blocks some things but there are holes in the Swiss cheese. But if I take five slices
+11:4211 minutes, 42 secondsof Swiss cheese and I put them together, the holes in different layers are in different places. And so it's very hard to get through the entire the entire
+11:5011 minutes, 50 secondsstack of Swiss cheese. So I think of it as there's no one thing that will protect us from the risks of AI. We have
+11:5911 minutes, 59 secondsto be careful all the way up and down the stack. And then no one defense is
+12:0612 minutes, 6 secondsperfect, but if we're being careful everywhere, which is what taking extra time will allow us to do, then I think things can go well.
+12:1612 minutes, 16 secondsYou think things can go well even though it feels like we're in this inflection point of a moment. You say in
+12:2312 minutes, 23 secondsyour essay pacing should only happen, slowing down should only happen within the margin of the lead that US companies
+12:3012 minutes, 30 secondshave over authoritarian regimes, chiefly the Chinese Communist Party. We are in this race with China. Do you actually think slowing down is a good idea when China will not?
+12:4012 minutes, 40 secondsThis is the toughest dilemma. This is the toughest aspect of our situation. If if we weren't in that situation, we
+12:4712 minutes, 47 secondscould take much more time. So this is this is the thing that most puts us in a bind. It's not about commercial
+12:5312 minutes, 53 secondscompetition. This the geopolitical situation is the hardest to deal with.
+12:5812 minutes, 58 secondsBut I will talk about two strategies that we have. one and I I you know I talk about it in my proposal is we can
+13:0713 minutes, 7 secondsslow down within the margin within the envelope that we have particularly if we don't sell chips to authoritarian
+13:1413 minutes, 14 secondscountries and if we do more to help our own security so that our technology is not stolen I believe that will buy us at
+13:2413 minutes, 24 secondsleast a little time so we can does it make enough of a difference to stop the ending of humanity what what what I would say is with that
+13:3213 minutes, 32 secondsFirst strategy, we will take as much time as we can get. And then I think we should pursue a second strategy as well,
+13:4013 minutes, 40 secondswhich is that we should go directly to even to authoritarian countries, even to the Chinese, and say, "Look,
+13:4913 minutes, 49 secondsthere are potentially threats here that are concerning to all of us. It's not just out of control AI. Two days ago, we
+13:5613 minutes, 56 secondsput out a report that people were trying to use AI potentially for bioteterrorism, for enhancing the the infectiousness of viruses. That's scary.
+14:0714 minutes, 7 secondsAnd you know what? Even the Chinese don't want that. They don't they don't they don't it's not in any government's interest
+14:1514 minutes, 15 secondsto have bioteterrorism. And so we should talk with the Chinese and see if we can
+14:2114 minutes, 21 secondswork together to put limits to put a speed limit on the rate of this technology. It's a little bit like you
+14:3014 minutes, 30 secondsknow for all our differences with with uh you know other systems of government and and I have many I generally have a
+14:3814 minutes, 38 secondshawkish position on China. Um but for all our differences think about when it was the US and the Soviet Union, right?
+14:4514 minutes, 45 secondsand we each had 10,000 nuclear missiles pointed at each other. Even for all our differences, we recognized that that was
+14:5314 minutes, 53 secondstoo many. That that we needed to engage in talks that could lower the scale of the potential destruction.
+15:0215 minutes, 2 secondsIs that the way we should be thinking about AI is using the Cold War as a model?
+15:0915 minutes, 9 secondsSo, I I I I didn't say we should use the Cold War as a model. I said negotiations that happen.
+15:1515 minutes, 15 secondsYes. Yes. Disarmament negotiations like arms limit. I I I I I I do think that is an appropriate lens uh through which uh
+15:2515 minutes, 25 secondsto think about this at the geopolitical level. If we look at what AI models can do in terms of cyber like they
+15:3215 minutes, 32 secondsabsolutely have geopolitical and national security significance. Of course they do. That's why we're having this whole conversation. And so I think
+15:4115 minutes, 41 secondswe should approach China. Again, all this is above my prey grade. This is something the US government has to do with the Chinese government, right? But you're advising the president.
+15:4915 minutes, 49 secondsI I I mean, if if anyone asks me what what what uh what I think they should do, I'm happy to say. I have some uh uh
+15:5715 minutes, 57 secondsuh some thoughts in that essay. And if anyone asks me, I can say more. At the end of the day, this is a government-togovernment thing. But yes,
+16:0516 minutes, 5 secondsI'll tell you what I think. I think that we should work together to get as much restraint as we can on this technology.
+16:1516 minutes, 15 secondsI think our hope should be high but our expectations should be low. Um and we should we should see how much it's
+16:2216 minutes, 22 secondspossible to get and I think what we should especially focus on in these negotiations
+16:2916 minutes, 29 secondsis a way to verify. So this is very important in again nuclear weapons negotiations, biological weapons
+16:3816 minutes, 38 secondsnegotiations. You need to be able to verify that the other side is not defecting on the agreement. And so I
+16:4516 minutes, 45 secondsthink finding ways to verify will be the most important thing here.
+16:4916 minutes, 49 secondsPresident Trump will meet with President Xi Jinping very soon. What's the one simple most important solution that they should come to an agreement on in AI?
+16:5816 minutes, 58 secondsSo maybe I'll say two things. like a small a thing that's small enough we might be able to do it and a thing that's big enough that I think it's going to take a very long time. The
+17:0717 minutes, 7 secondssmall thing is if we could US and China could agree that we won't use AI to
+17:1317 minutes, 13 secondsdevelop biological weapons or release AI models that bioteterrorists could use to develop biological weapons. We're
+17:2217 minutes, 22 secondsalready both signitories to the biological weapons convention. If we could just extend that convention to that idea, that would be really
+17:3017 minutes, 30 secondsvaluable. And then I think the more long-term thing would be working together to put a speed limit on the
+17:3817 minutes, 38 secondsrate of of AI progress. I think that's going to be very difficult because the incentives to pull ahead and the
+17:4617 minutes, 46 secondsmilitary advantage that you get from that are are so large. And honestly, I don't know if it's possible, but we
+17:5317 minutes, 53 secondsshould we should try. We should see if if it is possible. Again, all of this is above my pay grade. What I'm trying to
+18:0118 minutes, 1 secondsay is that these are some things that our government could try to say. These are some considerations that they could include.
+18:0918 minutes, 9 secondsAs we zoom out here on this problem, it seems like the fate of humanity is at risk. How much personal responsibility do you feel about where we are going?
+18:1918 minutes, 19 secondsSo, you know, my my look, my view here is it has always been very strange that
+18:2518 minutes, 25 secondsthis technology is being built by by a private company. People ask me that question all the time. Why isn't this being built by government? And the
+18:3318 minutes, 33 secondsstrangest thing about it is I agree with them. I'm uncomfortable.
+18:3718 minutes, 37 secondsWould you be willing to give up the technology to the government? To the right combination of governments.
+18:4318 minutes, 43 secondsSo, the worry I have, you're willing to hand over this company. I am concerned that one single government could abuse this technology
+18:5118 minutes, 51 secondsjust as easily as a single company could. But I think a combination of democratically elected governments
+19:0019 minutesI don't know about handing over but some kind of oversight some kind of joint governance.
+19:0719 minutes, 7 secondsSo just to ask this final question do you feel personal responsibility here?
+19:1219 minutes, 12 secondsOf course, I I feel that this is a technology with great benefits and great
+19:1819 minutes, 18 secondsrisks. I feel the benefits or the the need for benefits every day. One thing I
+19:2519 minutes, 25 secondssaid in my, you know, in my essay, my my father uh uh, you know, died died of a disease hepatitis C that was, you know,
+19:3219 minutes, 32 secondsit was it was something like 40% curable when he died of it. He wasn't the one of the ones who was cured. And a few years after a medicine that was invented that
+19:4019 minutes, 40 secondsmade it 95% curable. I myself survived an earlystage cancer that if id been living in 1950 I probably would have
+19:4719 minutes, 47 secondsdied. So I I feel the weight of bringing the benefits of this technology. I also
+19:5319 minutes, 53 secondsfeel the risks. I wake up every day and you know I read one of these threat reports like someone tried to you know
+20:0020 minutesuse our model to build biological weapons. Of course I don't want to be responsible for that. And that's why we have very strong safeguards. Almost
+20:0820 minutes, 8 secondsevery day I'm made fun of on social media because our models biology safeguards are too strong and bi you
+20:1620 minutes, 16 secondsknow biology students complain you know they make jokes that we can't use the model and and the but but the reason for
+20:2420 minutes, 24 secondsthat is that we have strong safeguards and I would rather they make fun of me than to wake up one day and and discover that someone used our our model clawed
+20:3320 minutes, 33 secondsto kill a bunch of people. I don't want that. Um, so I I feel both sides of it. I feel both sides of the responsibility.
+20:4120 minutes, 41 secondsBut again, I would repeat the same point, which is that the it shouldn't be my responsibility alone or Anthropic's
+20:4820 minutes, 48 secondsresponsibility alone or all of the AI company's responsibility alone or even one government's responsibility alone.
+20:5520 minutes, 55 secondsThis is bigger than all of us and we need to work out some way for everyone to have a say in this. For everyone to
+21:0321 minutes, 3 secondsfeel like they're an active part of this. I don't want people to feel powerless. I don't want them to feel like a few companies are just going and
+21:1121 minutes, 11 secondsdoing whatever they want. I've never I know I know that's how they feel. I've never wanted that. I've never wanted that. We need to make that not true. We
+21:2021 minutes, 20 secondsneed to find a way to make that not true. And there's lots of things we are trying to do already to make that the case. But we need to do even more. And
+21:2721 minutes, 27 secondsthis proposal that shows some restraint that works with governments, doesn't address everything, but it's one step in this direction.
+21:3421 minutes, 34 secondsIf you're sitting at home and you're using claude or chat GPT and you're I don't know my aunt, what's your message?
+21:4421 minutes, 44 secondsLook, my my message is there's a lot of fear right now.
+21:4821 minutes, 48 secondsSo, a few things. one like first of all as always this is a great technology and it has lots of positive uses so so let's
+21:5721 minutes, 57 secondsjust start let's just start with that you know we have hundreds of millions of people you know using using our technology every week to do wonderful
+22:0522 minutes, 5 secondsthings every week I get an email from someone who says this you know I I was talking to Claude and Claude diagnosed
+22:1222 minutes, 12 secondsthis disease that my doctors had missed I I get emails like this every week so let's not forget that but in terms of the dangers of the technology. I won't
+22:2122 minutes, 21 secondslie to you. There are real dangers. And and I think for too long the industry lied to people about the fact that this
+22:3122 minutes, 31 secondstechnology had risk. The the idea was that they would present it as as positive as pos. We've never done that, but too much of the industry did that.
+22:3922 minutes, 39 secondsAnd so it it starts with telling the truth. And the truth is there are risks.
+22:4622 minutes, 46 secondsRisks are real. But also, you have a say in how these risks are
+22:5322 minutes, 53 secondsaddressed. We're doing the best we can to work with government to create the proper oversight of this technology to give
+23:0123 minutes, 1 secondvoters and elected officials a say in in how [snorts] this technology is deployed. And we want to work with those folks as as as as
+23:1023 minutes, 10 secondsmuch as we can. I I want everyone to feel like they're bene they're they're appreciating the incredible benefits of
+23:1823 minutes, 18 secondsthe technology, but also they have a say in their voice and in their vote in determining how this technology is
+23:2623 minutes, 26 secondsdeployed. This this isn't a decision for a few people alone. This is a decision for everyone, but it it is an important
+23:3423 minutes, 34 secondsdecision. I won't lie that the stakes aren't high. This is one of the seinal technological events in human history and we all have to have a part in it.

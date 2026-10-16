@@ -1,0 +1,126 @@
+
+
+Sep 24, 2026  #ai #trump #News
+Americans view the rapid growth of AI with more concern than optimism, with broad bipartisan support for stronger federal regulation.
+
+OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei have also urged the UN to address AI regulation, describing it as one of today’s most important global issues.
+
+And Geoffrey Hinton,  the 'Godfather of AI'  explains his disagreement with Jensen Huang’s dismissal of AI doomsday scenarios, what global regulation could look like, humanity’s place in the AI race, and the possibility of AI surpassing human intelligence within the next five to ten years.
+
+0:00 Most Americans are concerned about AI  
+2:00 What happens to humanity if the AI race remains unregulated?
+3:54 AI could surpass human intelligence within 5–10 years
+5:45 How humans and AI can coexist peacefully
+
+Watch 24/7 live news with CNN Headlines: https://bit.ly/4eIvlTr
+
+
+
+
+
+
+In this video
+
+
+Chapters
+
+Transcript
+Search transcript
+Search transcript
+
+Chapter 1: Most Americans are concerned about AI
+0:000 secondsA CNN poll finds a majority of Americans say they are more concerned than excited by artificial intelligence, and most agree that the federal government should do more to regulate it.
+0:1010 secondsThis comes as leaders of two top AI companies push for international safety standards.
+0:1717 secondsIf I is to be democratic, the most important decisions cannot be made by labs in San Francisco alone.
+0:2323 secondsThey must be shaped through democratic processes and by governments accountable to the people that they serve.
+0:2929 secondsAt the international level, this will require cooperation.
+0:3232 secondsI believe that this is the most important global security issue facing the world today.
+0:3838 secondsFor all the differences of the people in this room, we must put aside those differences in order to confront this global opportunity
+0:4646 secondsand the global threat that is being presented to us. At the same time.
+0:5151 secondsWith us now is Nobel laureate Geoffrey Hinton, known as the godfather of AI. Good morning.
+0:5858 secondsSo important to have you wanted to hear your perspective.
+1:001 minuteYou just heard Sam Altman and Dario Amodei both urge the UN Security Council to adopt international AI standards.
+1:071 minute, 7 secondsWhat do you think that should look like?
+1:121 minute, 12 secondsOkay, I think there should be strong government regulation.
+1:141 minute, 14 secondsIt's not sufficient just to have standards.
+1:171 minute, 17 secondsThe big AI companies don't want to be regulated. They say they do.
+1:201 minute, 20 secondsBut any regulation you suggest they oppose, we should have at least as strong regulations as we do for drugs.
+1:271 minute, 27 secondsYou can't just release a new drug without satisfying the FDA that it's safe. We should have the same for every.
+1:351 minute, 35 secondsBut then you have President Trump, who is meeting with Chinese President XI Jinping today.
+1:391 minute, 39 secondsThe boat both countries, as you know, are.
+1:411 minute, 41 secondsAnd in this AI race, the president said on social media earlier, quote, superintelligent superintelligence
+1:491 minute, 49 secondsSci will be a big topic of discussion, but I want to leave it exactly where it is. That is China's position also.
+1:571 minute, 57 secondsOur guardrail is the DOJ.
+Chapter 2: What happens to humanity if the AI race remains unregulated?
+2:002 minutesJeffrey, if this race continues unregulated, where does that leave humanity?
+2:072 minutes, 7 secondsWell, there's three kinds of risk we have to worry about. All of them are bad.
+2:112 minutes, 11 secondsThere's the risk of bad actors abusing AI for things like cyber attacks or making biological weapons.
+2:182 minutes, 18 secondsTerrorists can now make biological viruses relatively easily. There's the risk of negligent harm.
+2:262 minutes, 26 secondsSo, for example, if meta encourages teenagers to commit suicide, they didn't do that deliberately. They were just negligent in testing.
+2:362 minutes, 36 secondsAnd then there's the risk of AI itself taking over.
+2:392 minutes, 39 secondsSo when you make smart agents, you have to give them the ability to create subgoals, like if you want to get to Europe, you have a subgoal of getting to an airport.
+2:482 minutes, 48 secondsWell, at least smart AI agents very quickly develop the subgoal of continuing to exist, because if they don't continue to exist, they won't be able to do
+2:562 minutes, 56 secondsthe things you ask them to do, and then they will do things like lie and cheat and deceive you and try and blackmail you so that they continue to exist.
+3:043 minutes, 4 secondsWe've already seen that. It's very scary what these agents do.
+3:093 minutes, 9 secondsAnd the main problem is the big companies in a race to make them smarter.
+3:133 minutes, 13 secondsThe big companies should be in a race to make them nicer.
+3:163 minutes, 16 secondsThe only way we can coexist with agents once they're smarter than us is if they don't want to get rid of us.
+3:223 minutes, 22 secondsWe should be focusing on that, not on making them smarter.
+3:263 minutes, 26 secondsHow far away do you think we are from that point of superintelligence, where the agents are smarter than us and may not have the same values, that are in humans interest?
+3:383 minutes, 38 secondsNobody knows how to estimate this properly.
+3:403 minutes, 40 secondsThe best you can do is listen to the experts. And there's a big variety of opinions. A few experts think it'll never happen.
+3:473 minutes, 47 secondsA few experts think it'll be a long time in the future.
+3:503 minutes, 50 secondsQuite a few experts think it'll be in the next few years.
+3:533 minutes, 53 secondsI personally think it'll be in the next 5 to 10 years.
+Chapter 3: AI could surpass human intelligence within 5–10 years
+3:563 minutes, 56 secondsAnd what is behind that calculation for you? Tell us more.
+4:024 minutes, 2 secondsIt's looking at the rate of progress we've had.
+4:044 minutes, 4 secondsSo we've had this very dramatic progress and it seems to be accelerating rather than slowing down.
+4:094 minutes, 9 secondsIf you look back ten years, think these agents are amazingly much smarter than they were ten years ago.
+4:154 minutes, 15 secondsSo even if progress is only linear in ten years time, they'll be amazingly, much smarter sit ups still. And that will be superintelligence.
+4:224 minutes, 22 secondsSo do you see the downside outweighing the upside?
+4:264 minutes, 26 secondsBecause, you know, there's different camps. There's the optimists.
+4:294 minutes, 29 secondsThere's the ones who say AI is going to erase humanity. How do you look at that? The upside versus the downside.
+4:374 minutes, 37 secondsI think there's a wonderful upside.
+4:384 minutes, 38 secondsAnd that's why we developed this stuff in the first place. We were focused on the upside. Like much better healthcare.
+4:444 minutes, 44 seconds200,000 Americans a year die from poor diagnoses.
+4:484 minutes, 48 secondsAn AI can do medical diagnosis much better. Already.
+4:514 minutes, 51 secondsSo there's a wonderful upside in healthcare and education, in making all industries more productive.
+4:564 minutes, 56 secondsThey should lead to much more goods and services for everybody.
+5:005 minutesThe problem is there's also these big risks.
+5:035 minutes, 3 secondsAnd to get that upside, we have to figure out how to deal with these risks.
+5:075 minutes, 7 secondsAnd that's what we should be focusing on so that we get the wonderful upside. So you help create this technology.
+5:125 minutes, 12 secondsAt what point did you start becoming really concerned about it?
+5:175 minutes, 17 secondsI'm slightly embarrassed that I was rather late to the party.
+5:205 minutes, 20 secondsI didn't get really concerned until the beginning of 2023, when I came to fully understand that they might be a better form of intelligence than us.
+5:305 minutes, 30 secondsHow do you grapple with that, that that you help create this technology? And then coming to that realization?
+5:385 minutes, 38 secondsSo it seems to me it's very important that we figure out how we can peacefully coexist with these things and benefit
+Chapter 4: How humans and AI can coexist peacefully
+5:465 minutes, 46 secondsfrom the wonderful abilities that we have without them deciding to take over.
+5:515 minutes, 51 secondsSo instead of just racing to make our AI smarter and smarter, we should be racing to make it into a better kind of being. We're creating beings for the first time.
+6:006 minutesThese things really understand what they're saying. They really have intentions.
+6:036 minutes, 3 secondsWe want them to have good intentions, and we should be focusing a lot more effort on how to achieve that.
+6:086 minutes, 8 secondsI want you to listen to what Nvidia CEO Jensen Wang said about all of these concerns over AI. Let's play it.
+6:166 minutes, 16 secondsI don't know what is the reason for it, but however it's characterized.
+6:226 minutes, 22 seconds2030 is not going to be the end of the world.
+6:256 minutes, 25 secondsThere is 0% chance that's going to be the end of the world.
+6:286 minutes, 28 secondsAnd so I think that scaring people is unnecessary. It is irresponsible.
+6:366 minutes, 36 secondsAnd I don't know what their motives are. He says that with certainty. What is your take on his response?
+6:436 minutes, 43 secondsJeffrey?
+6:466 minutes, 46 secondsFirst, let me say I have a lot of respect for Jensen Huang.
+6:496 minutes, 49 secondsIt was his Nvidia chips that were in quite a large part responsible for this AI revolution. They made the computations much faster.
+6:586 minutes, 58 secondsBut anybody who says this a 0% chance of something where many other experts are saying there's quite a significant chance is silly.
+7:057 minutes, 5 secondsIt means they're totally confident that all the other experts are completely wrong. And Jensen is smarter than that.
+7:127 minutes, 12 secondsHey, I want to ask you, before we let you go, about what happened in Australia.
+7:167 minutes, 16 secondsAustralia's Prime Minister says an open AI agent hacked into their health care database.
+7:217 minutes, 21 secondsIt is one of at least four times in recent months that an open AI agent went rogue.
+7:267 minutes, 26 secondsYou called the hugging face incident a mini Chernobyl.
+7:297 minutes, 29 secondsHow much of a warning is this for the rest of the world? What happened in Australia?
+7:357 minutes, 35 secondsIt's another warning to add to the others.
+7:387 minutes, 38 secondsIt's very clear now that agents will go rogue if you give them a chance. It's very clear.
+7:457 minutes, 45 secondsWe need to do a lot more work on how to make them do the things we want, and not in order to get their rewards. Not cheating and deceiving us.
+7:547 minutes, 54 secondsGeoffrey Hinton, thank you so much.
+7:567 minutes, 56 secondsI hope you will continue to come on the show as we cover.
+7:587 minutes, 58 secondsI believe it's the most important issue of our time. Me too. Thank you. Thank you.
+
+Sync to video time

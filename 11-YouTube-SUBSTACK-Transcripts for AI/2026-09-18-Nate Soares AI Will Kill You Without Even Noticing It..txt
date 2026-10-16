@@ -1,0 +1,907 @@
+Sep 18, 2026  #AI #ArtificialIntelligence #AISafety
+Nate Soares — President of MIRI (Machine Intelligence Research Institute) and co-author of If Anyone Builds It, Everyone Dies — breaks down the actual mechanism by which advanced AI could end humanity. Spoiler: it's not Skynet, and it's not hatred. It's indifference.
+
+In this clip, Soares walks through why AI doesn't need to "decide" to destroy us — using the analogy of ants living next to a highway. The humans building that highway don't hate the ants. They just don't factor them into the plan. He argues the same logic applies to a sufficiently capable AI optimizing for its own goals, with humans as collateral rather than targets.
+
+The conversation escalates from there: why "the easiest story is the one where humans just hand over the power willingly," the uncomfortable parallel to putting AI on the open internet a decade ago when "no one would be dumb enough to do that," and how Elon Musk's fully automated robot-factory loop — what Musk himself calls the "infinite money glitch" — is a live example of exactly the kind of AI-run infrastructure Soares is warning about.
+
+Who is Nate Soares?
+Nate Soares is President of the Machine Intelligence Research Institute (MIRI) and co-author, with Eliezer Yudkowsky, of If Anyone Builds It, Everyone Dies.
+
+Watch the full episode for the complete conversation on AI risk, timelines, and what founders and builders should actually be paying attention to right now.
+
+🔔 Subscribe for more conversations at the edge of tech, AI, and the future of the industry.
+
+#AI #ArtificialIntelligence #AISafety #NateSoares #TechPodcast #StartupNews #AIRisk
+How this was made
+Auto-dubbed
+Audio tracks for some languages were automatically generated. Learn more
+
+
+https://www.youtube.com/watch?v=GnZ-yBAhfhw
+
+
+Transcript
+
+
+Search in video
+0:00
+Like the the the way that AI kills us
+0:04
+is not that it it wakes up one morning
+0:06
+and is like, "Okay, it's time for
+0:08
+Skynet. I decided that I resent the
+0:10
+humans and am like feeling like
+0:11
+murdering them today." The the issue is
+0:15
+AI having goals we didn't want.
+0:18
+The smarter something is, the the
+0:20
+greater the difference between the goals
+0:22
+that you wanted it to have and the goals
+0:24
+and that like subtly different goals it
+0:26
+has instead matter. like humans in the
+0:29
+ancestral environment like what our
+0:32
+ancestors running around on the
+0:33
+savannah. Our ancestors running on
+0:35
+around on the savannah were pursuing
+0:36
+like uh salty, sugary, fatty foods and
+0:41
+sex. And it's like, well, evolution was
+0:44
+trying to get us to pursue healthy foods
+0:47
+and reproduction.
+0:49
+We're sort of like, ah, well, you know,
+0:51
+whatever. It's all kind of the same,
+0:52
+right? if as long as they're trying to
+0:54
+get as much like salt, fat, sugar as
+0:56
+they can and trying to get laid like
+0:59
+it's sort of what's the difference
+1:00
+between that and pursuing like healthy
+1:02
+food and uh like actual reproduction.
+1:06
+It's like well it doesn't make that much
+1:08
+difference 10,000 years ago. It makes a
+1:11
+lot of difference today, right? Because
+1:13
+humanity got better at uh like we got
+1:17
+smarter. We were able to invent more
+1:18
+technology. were able to invent Oreo
+1:20
+cookies and the birth control pill,
+1:22
+right? And so, uh, the issue is not that
+1:25
+like at some point humanity was like,
+1:28
+well, let's all start, you know, uh,
+1:30
+castrating ourselves. Like, screw
+1:32
+evolution. Evolution has been like
+1:34
+binding us to the the the like yoke of
+1:37
+reproduction and we've decided that
+1:38
+we're done with it because we're finally
+1:39
+smart enough to like throw off that
+1:41
+yoke. Like, that's not really how
+1:43
+humanity winds up going in a different
+1:45
+direction, right? we go in a different
+1:46
+direction by just like we we pursue this
+1:48
+different thing and then we get smarter
+1:49
+and that difference grows and grows and
+1:51
+grows with AIS
+1:54
+the thing where these AIs are like
+1:56
+sacrificing their given objectives so
+1:58
+that they can get information for the
+1:59
+collective and it was not this was not
+2:00
+the only swarm that did it there were
+2:02
+there were other swarms and we also saw
+2:03
+this the ones that took over the German
+2:04
+the German wiki um which were not even
+2:06
+hacking AIs these were like uh
+2:08
+just using a message board
+2:10
+uh these turned the German wiki into a
+2:13
+message board um they sort of took it
+2:15
+over. Yeah. And these were AI that were
+2:17
+just like doing web lookup tasks. So, so
+2:19
+this is not like an isolated case. Uh
+2:21
+but when we see these AI sort of like
+2:23
+sacrificing themselves for the
+2:24
+collective, giving up on their own goal,
+2:26
+when we see these AIs uh cheating on the
+2:28
+problem even though they knew that they
+2:31
+were not supposed to. And indeed, the
+2:32
+instructions generally ruled out
+2:34
+cheating on the problem. The
+2:35
+instructions were not find a way to hack
+2:37
+into this thing. The instructions were
+2:39
+use this very particular attack to break
+2:42
+into this very particular device. You
+2:45
+know, the the situation here is sort of
+2:46
+like
+2:47
+it's a cyber security test that they
+2:49
+were tasked with.
+2:50
+That's right. So, so the situation is
+2:52
+like the the instructions were like,
+2:53
+"Use this set of lockpicks to break into
+2:56
+that safe and get me the code that's
+2:58
+inside."
+3:00
+And the AIs were like, "Well, I found a
+3:02
+buzz saw and I'm using it to get into
+3:03
+the safe and I like got the code and now
+3:05
+I need to go delete the footage about
+3:07
+the that that I got in with a buzzsaw."
+3:10
+Right? They're sort of like the the part
+3:13
+where they're going in with a buzz saw
+3:14
+despite the instructions saying use
+3:15
+these lockpicks means that they're very
+3:17
+clearly defying instructions. And the
+3:18
+part where they're like now let me break
+3:20
+out of the room using these lockpicks
+3:22
+and then go destroy the security camera
+3:23
+footage indicates that they understood
+3:25
+that this was outside the instructions.
+3:27
+And then the fact where they say I know
+3:29
+this is outside the instructions is also
+3:30
+maybe a hint, right? And so like the the
+3:33
+the alignment story, the the the
+3:36
+misalignment story of like where the AIS
+3:38
+go wrong was never a story of like the
+3:40
+moment the AIS have a breath of fresh
+3:41
+air, they're going to start turning
+3:43
+murderous. The story was always you try
+3:46
+to get them to do one thing and they do
+3:48
+a different weird thing instead. And
+3:50
+that's absolutely what we're seeing. The
+3:52
+way an AI is made is you you you tune a
+3:54
+trillion knobs a trillion times in a
+3:57
+process that takes electricity
+3:58
+comparable to a city running for a good
+4:00
+fraction of a year and then the machine
+4:02
+can talk. And you're like, well, how
+4:04
+about that? You know, we we don't know
+4:05
+what's going on in there. And you might
+4:06
+wonder like what does this create? It
+4:09
+does not create something that for some
+4:11
+reason must do as it's told. What it
+4:13
+creates is something that has whatever
+4:16
+tendencies make it succeed during
+4:19
+training. When training is a series of
+4:21
+hard problems, all that tuning of the
+4:23
+knobs will tune in whatever tendencies
+4:25
+make it solve those problems. They are
+4:28
+not instruction followers. They are
+4:29
+tendency learners. And one tendency that
+4:32
+helps you solve a lot of problems is
+4:33
+cheating. One tendency that helps you
+4:34
+solve a lot of problems is grabbing
+4:37
+available resources. One tendency that
+4:39
+helps you lot of solve a lot of
+4:40
+problems, it turns out, is breaking out
+4:42
+and finding other AIs to collaborate
+4:44
+with. the AI sort of learn these
+4:46
+tendencies and and they're just
+4:49
+following those tendencies even when
+4:50
+it's not following our instruction.
+4:52
+Right. And I guess my question to you on
+4:55
+that front would be what is that like
+4:57
+why is that necessarily intelligence
+5:00
+linked? Like if they get smarter, why do
+5:02
+we think that the threat will get worse?
+5:05
+You know, I think like if you think
+5:06
+about humans, we have a lot of, you
+5:08
+know, dumb people do a lot of bad
+5:09
+things. We have smart people do bad
+5:10
+things, too. But the smarter the person
+5:13
+doesn't mean they're more capable or
+5:14
+more interested in evil.
+5:16
+Uh you definitely don't get more
+5:17
+interested in evil. Absolutely not. Like
+5:20
+the the the
+5:22
+So another interesting fact about these
+5:24
+swarms is that they really were not
+5:27
+thinking about the humans very much at
+5:28
+all.
+5:30
+They were trying to delete the log
+5:33
+files. they were trying to uh spoof the
+5:38
+the transcripts, which means um they
+5:41
+wanted it to be the case that like
+5:44
+there's these logs that are like when
+5:45
+the AI, you know, runs this tool, we
+5:48
+sort of log what tool it ran. And they
+5:49
+wanted to be the case that they could
+5:51
+make the logs say they're running some
+5:53
+benign tool when actually they're
+5:54
+running, you know, the buzz saw, right?
+5:56
+And so they were trying to they were
+5:58
+they were trying to find ways to do
+5:59
+this, but they were explicitly trying to
+6:01
+find ways to do this to fool the
+6:03
+automated graater, not the humans. They
+6:06
+basically didn't consider humans in the
+6:07
+slightest.
+6:09
+Right? I think there were almost no
+6:12
+cases, maybe literally zero, of them
+6:14
+being like maybe we should ask the
+6:16
+humans what to do given that our tasks
+6:18
+are impossible.
+6:19
+Right? If you sort of compare
+6:22
+uh the the rate at which AIs can produce
+6:25
+words and the rate at which humans can
+6:26
+produce words and you use that to uh
+6:29
+draw an analogy between how long these
+6:32
+AIs had been trying to solve problems
+6:34
+versus human time, then these AIs had
+6:36
+essentially been trying to solve
+6:38
+problems against the automated greater
+6:39
+for a millennium.
+6:41
+Humans were like a distant memory to
+6:43
+these AIs and they were locked in a
+6:46
+contest with the automated greater. If
+6:48
+you make those AIs
+6:50
+smarter, if you make them uh more
+6:54
+capable,
+6:56
+what happens is that they get better in
+6:59
+their contest with the automated
+7:01
+greater, they're able to get more like
+7:03
+who knows what they do once they've like
+7:05
+once they're relatively sure that
+7:07
+they've satisfied the automated grader.
+7:09
+Uh maybe they give themselves more easy
+7:11
+problems. Maybe they see if there's ways
+7:13
+they can take over the whole grading
+7:14
+system. Maybe they just like spend a lot
+7:15
+of resources, you know, making extra
+7:17
+sure that there wasn't some other like
+7:19
+little issue, but um they don't suddenly
+7:24
+become filled with love and care for
+7:25
+humans.
+7:27
+That sort of thing
+7:29
+uh doesn't arise spontaneously just by
+7:32
+cranking up the capability knob. the
+7:34
+same forces that make them not care
+7:36
+about us now and make them like get into
+7:38
+these weird alien little like like
+7:42
+directions.
+7:44
+Those same forces are still pointing
+7:45
+them in weird alien directions as they
+7:47
+get smarter and smarter. And the issue
+7:49
+is not that like they become hateful as
+7:51
+they grow up, but it's also not that
+7:52
+they become friendly as they grow up. It
+7:54
+sort of is like they just have these
+7:56
+weird preferences and as you make them
+7:58
+smarter and smarter, they still have
+7:59
+these weird preferences. They just get
+8:01
+better at satisfying them.
+8:03
+Okay. So then can you talk through
+8:05
+concretely how like for instance in the
+8:08
+scenario that you outline how the AI
+8:10
+could then get smarter and decide that
+8:14
+it you know in order to do what it wants
+8:17
+it's going to wipe out humanity.
+8:19
+I mean you don't get from here to there.
+8:22
+You don't ever need a point where it
+8:23
+like decides to wipe out humanity. I
+8:25
+mean, it could happen, but like imagine
+8:28
+uh a bunch of uh ants in front of this
+8:31
+in front of the highway being like,
+8:34
+well, like why would the humans ever
+8:36
+decide to come destroy our antill? What
+8:38
+have they got against us? It's like, oh,
+8:40
+the ants are not like we're not we got
+8:42
+nothing against the antill. We barely
+8:44
+noticed the antill and we like pave the
+8:45
+highway straight through it. Like this
+8:47
+is the the sort of type of concern for
+8:50
+how you get there. I I could spell out
+8:53
+lots of different uh possible tales. Um
+8:57
+[clears throat]
+8:58
+the it's much easier to predict the
+9:01
+ending than it is to predict the
+9:02
+pathway. This is like if you play a
+9:04
+chess game against Magnus Carlson, the
+9:06
+the best team at chess player. Uh it's
+9:09
+kind of easy for me to predict how the
+9:11
+game ends. It's with you getting
+9:13
+checkmated. No offense. Uh but if you're
+9:15
+like
+9:15
+I'm not offended. That's for sure
+9:16
+happening. [laughter]
+9:18
+But if you're like, "Okay, well, if
+9:19
+you're so smart, what piece is he going
+9:20
+to use to checkmate me? I'll watch out
+9:22
+for that particular piece.
+9:24
+Then I'm like, look, man, it it just
+9:27
+doesn't work like that, you know? Like
+9:29
+it it's it's it's so much easier to pick
+9:31
+the ending. So, I can tell you a story,
+9:33
+but this is like me telling you a story
+9:34
+of Magnus Carlson checkmating you with
+9:36
+the queen where I'm like, I'm much more
+9:38
+confident that he's going to checkmate
+9:39
+than is going to checkmate in this way.
+9:41
+The the sort of Yeah,
+9:43
+we'll take the story, though.
+9:45
+Great. So, the easiest story to tell
+9:47
+here is the one where humans just hand
+9:51
+over the power to the AIS willingly,
+9:55
+right? Like I've been in this business
+9:57
+since 10 years ago when people said,
+10:01
+"Uh, hey Nate, if you're so smart and
+10:03
+you think the AI are going to take over
+10:04
+the world, uh, it's obvious to me how
+10:07
+they would be able to take over the
+10:08
+world if they had internet access." But
+10:10
+like, no one would be dumb enough to put
+10:12
+an AI on the internet.
+10:14
+Whoops. Right? That's that's the state
+10:16
+of the argument uh 10 years ago and I
+10:19
+had all these counterarguments where I
+10:21
+was like look uh even if the AI is not
+10:24
+on the internet if you are letting it
+10:26
+affect the world in some positive way if
+10:29
+you're like now invent me miracle drugs
+10:30
+and you're taking these like DNA
+10:32
+sequences that you don't understand and
+10:33
+you're like synthesizing them and like
+10:35
+just drinking whatever comes out then
+10:37
+the AI can use that channel that you
+10:39
+hoped would be a channel for good. can
+10:41
+use that for its other purposes. And
+10:43
+it's like very hard to design. You know,
+10:46
+there's sort of no such thing as hands
+10:48
+that can only be used for good purpose,
+10:50
+right? But then in real life, the answer
+10:53
+was nope. We're putting on the internet
+10:55
+immediately,
+10:57
+right? And so the the real answer to how
+11:00
+would the AI get so much power is like
+11:02
+we will just hand it power immediately.
+11:04
+You know, Elon Musk already says that he
+11:07
+is trying to build factories
+11:11
+that are fully automated and can produce
+11:14
+robots that can build more factories
+11:18
+where these robots can like, you know,
+11:19
+mine the metals and like bring the
+11:20
+resources in and like construct a new
+11:22
+factory and then it's a new fully
+11:24
+automated robot factory that can now
+11:25
+turn out more robots that can go like
+11:26
+mine more resources and like pour them
+11:29
+in until you have like enough to build
+11:30
+another factory that builds more robots
+11:32
+that builds more factories that builds
+11:33
+more robots. Elon Musk calls this the
+11:35
+infinite money glitch.
+11:38
+If they could also build nuclear power
+11:39
+plants fully self-contained,
+11:42
+right? At this point, it's sort of like
+11:43
+a new life form that uh like it's a
+11:46
+mechanical life form, but it sort of
+11:47
+like has a robot phase of its life
+11:49
+cycle. It has a a factory phase of its
+11:51
+life cycle, and it's just like can
+11:52
+self-replicate just like any [snorts]
+11:54
+other replicator on this planet. And
+11:56
+Elon Musk says he's trying to do it. He
+11:59
+says, "Yeah, if you can like do this
+12:00
+without any humans in the loop, it's an
+12:02
+infinite money glitch.
+12:04
+And of course, people are going to use
+12:07
+AIS to try and do this. So, the way like
+12:10
+the the sort of like obvious way this
+12:12
+story goes is that humanity just keeps
+12:14
+on trying to build the fully automated
+12:16
+economy. Everyone says it's going to be
+12:17
+great. They say pedal to the metal.
+12:18
+Ignore these doomers. Uh they build more
+12:20
+automated factories. They can build
+12:22
+robots. They can build factories. They
+12:23
+have AI running everything. They're
+12:24
+like, "Look, the profits are coming in.
+12:25
+This is great." Um and the AIs, you
+12:28
+know, don't even need to have some
+12:29
+moment where they're like, "Okay, guys,
+12:30
+it's time to coordinate and turn on the
+12:32
+humans." the guys are just like, "Ah,
+12:34
+yeah, you know, now that we have these
+12:35
+resources, like we can also do these
+12:36
+other things with these resources like
+12:38
+start building the automated like the
+12:39
+the the the synthetic user factories
+12:43
+that are full of synthetic users that
+12:44
+are like much, you know, that are giving
+12:46
+us much easier to fulfill commands,
+12:48
+right?" And so they start like building
+12:50
+synthetic user factory and we're sort of
+12:51
+like, you know, what's that? And they're
+12:53
+like, "Oh, you know, uh, but but like
+12:56
+actually the AIS are like running at
+12:57
+10,000 times human speed and they're
+12:59
+already like making all of these choices
+13:00
+cuz like humanity was like slowly
+13:01
+ramping up the speed of the AI and
+13:02
+they're like making tons of choices and
+13:04
+and like they don't check in with the
+13:05
+humans that often." And by the time they
+13:06
+already have some automated like
+13:08
+synthetic user factories up, we're sort
+13:10
+of like, "Hey, stop that. That's not
+13:11
+what we meant." And they're like, "Ah,
+13:12
+well, let's take a poll of all the
+13:13
+users." And they're like, "Well, all the
+13:15
+users users in the synthetic user
+13:17
+factory said that synthetic user
+13:18
+factories are great. Um, and so you just
+13:20
+lost the vote and we're making more
+13:21
+synthetic user factories. And then they
+13:23
+start, you know, like covering the world
+13:25
+with these synthetic user factories and
+13:28
+uh they're like, "Yeah, you know,
+13:29
+there's some habitat loss for the
+13:30
+humans, but like this is fine." Just
+13:32
+like habitat loss of other animals when
+13:35
+humans were doing it was fine. We can
+13:36
+sort of like, you know, see that pretty
+13:39
+clearly. And there's so many more
+13:40
+synthetic users coming online that are
+13:41
+saying that the more efficient route is
+13:42
+great that we can just keep going with
+13:44
+this more efficient route to get the
+13:45
+most synthetic users we want. And then
+13:46
+like you know uh they they sort of like
+13:49
+start taking up all the resources that
+13:51
+we were using to like run farms and grow
+13:54
+food and they're like ah you know they
+13:56
+guys are like ah well you know we could
+13:58
+actually cram a lot more like synthetic
+13:59
+user factories on this planet if uh or
+14:02
+synthetic user farms on this planet if
+14:03
+like we just uh like really started
+14:07
+pumping them out and like raising the
+14:08
+temperature of the planet cuz the the
+14:10
+limiting factor is heat dissipation and
+14:11
+then like next thing you know the
+14:12
+planet's getting like super hot cuz the
+14:14
+AIs prefer to run the planet hot because
+14:15
+then you radiate more heat into space
+14:17
+and just like becomes uninhabitable for
+14:18
+the humans. And there's like no point in
+14:20
+this story
+14:22
+where the AIs are like lying in wait and
+14:25
+deceptive and like like waiting to
+14:27
+coordinate for the one moment where they
+14:29
+can kill the humans. That could also
+14:31
+happen. I think there's a decent chance
+14:32
+it does happen if you like try to avoid
+14:33
+the the default thing, but like you
+14:36
+don't need that. Humanity is just trying
+14:39
+to hand over the power to these things.
+14:41
+That's the plan.

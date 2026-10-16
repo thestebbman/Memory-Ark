@@ -1,0 +1,84 @@
+Sep 18, 2026  The Takeout with Major Garrett | CBS News
+Nvidia CEO Jensen Huang has publicly come out against a coordinated slowdown between artificial intelligence companies in an interview with CBS News' Jo Ling Kent. Matt Shumer, author of the AI-focused newsletter "Something Big is Happening," joins "The Takeout" to discuss.
+
+CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.
+
+Subscribe to the CBS News YouTube channel:    / cbsnews  
+Watch CBS News 24/7: https://cbsnews.com/live/
+Download the CBS News app: https://cbsnews.com/mobile/
+Follow CBS News on Instagram:   / cbsnews  
+Like CBS News on Facebook:   / cbsnews  
+Follow CBS News on X:   / cbsnews  
+Subscribe to our newsletters: https://cbsnews.com/newsletters/
+Try Paramount+ free: https://paramountplus.com/?ftag=PPM-0...
+
+For video licensing inquiries, contact: licensing@veritone.com
+
+
+
+https://www.youtube.com/watch?v=XlY7DI5v4ZU
+
+
+
+
+Transcript
+
+Search transcript
+Search transcript
+
+0:000 secondsNvidia CEO Jensen Wong has publicly come out against a coordinated call among some leaders of AI companies to slow
+0:077 secondsthings down. Here was some of his conversation today with CBS's Joe Link Kent, who asked him about President Trump's remarks earlier this week about
+0:1616 secondswhether he thinks the dangers mentioned about this technology are actually real.
+0:2020 secondsListen, you know, he he said this week that he believes that the concerns, the fears
+0:2727 secondsabout AI's dangers are a hoax. The potential to destroy humanity with AI is a hoax. Do you agree with President Trump on this?
+0:3535 secondsOh, yeah. You and I started the conversation just now with exactly this.
+0:3939 secondsI completely disagree with that. I comp I completely disagree that AI is going to destroy is going to be the end of the world um in 2030.
+0:4747 secondsDo you agree? The president is calling this fear a hoax. Do you agree with his characterization of it?
+0:5656 secondsUm I just I was at the all-in summit listening to you talk to him on the phone. Well, I don't want to speak for him.
+1:021 minute, 2 secondsI'm asking you about you. I I believe I believe the claims of the end of the
+1:101 minute, 10 secondsworld um stirring fear across America
+1:171 minute, 17 secondsum and doing it by the people who who are doing it makes no sense to me. So they must be doing it for ulterior reasons.
+1:271 minute, 27 secondsUm, that's that's a uh maybe it's political, maybe it's otherwise, maybe just attention grabbing, maybe so that
+1:351 minute, 35 secondsthey could get a great interview with you. Um, I don't I don't know what is the reason for it, but uh, however it's
+1:431 minute, 43 secondscharacterized, uh, 2030 is not going to be the end of the world. There is 0% chance that's going to be the end of the world.
+1:521 minute, 52 secondsCBS News contributor Matt Schumer joins me now. He is the author of the AI newsletter, Something Big Is Happening, which is an appropriate title for a
+2:012 minutes, 1 secondnewsletter in this space for sure. You just heard Jensen Wong. What's your evaluation of what you just heard?
+2:092 minutes, 9 secondsFirst of all, thank you for having me.
+2:112 minutes, 11 secondsSo, the way that I think about it is these are the fastest growing businesses in history. They don't want to do anything that slows that down. So, why
+2:202 minutes, 20 secondswould they be saying this if they didn't believe it? the incentives just don't make sense. What it looks like is happening is, and I and many other folks
+2:292 minutes, 29 secondsin the industry believe this, this is a real threat. Is it likely? Is it the most likely scenario? Maybe, maybe not.
+2:352 minutes, 35 secondsBut it's something that is real. It's something we need to take seriously. And it's something we need to pay attention to. And Matt, let me ask you a question
+2:432 minutes, 43 secondsthat I hope can frame the conversation a bit more coherently because there is an incoherence about a conversation that is
+2:512 minutes, 51 secondsannihilation of the human species or not.
+2:552 minutes, 55 secondsThere's something in between that that is meaningful to debate and discuss. Can you help my audience with that?
+3:033 minutes, 3 secondsSure. I mean, the way that people on one side of the other side of the of this think about it, it's very different. A lot of folks are like, "Okay, it's definitely going to kill us all." A lot
+3:113 minutes, 11 secondsof folks are saying, "There's no chance and the benefits are so massive." Right?
+3:143 minutes, 14 secondsLet's talk for a second about what happens if this goes well. Right? These AIs are going to be so much smarter than us, it's going to be hard to comprehend.
+3:223 minutes, 22 secondsThe way that I like to think about it is your intelligence compared to the intelligence of say an ant, right? They can't even comprehend the things that you do on a daily basis. And it's going
+3:303 minutes, 30 secondsto be the same, but this time we're the ants, right? how many things that currently plague our society are going to be just solved by this thing. So
+3:383 minutes, 38 secondsthere is really good reason to see this through and to see this become everything we think it can become. But that doesn't mean there's no risk. We
+3:453 minutes, 45 secondshave to manage that risk. Yeah, it might be better for the positives if we do this a year faster, but is that year really worth 10% extinction risk? I
+3:543 minutes, 54 secondsmean, that's not my call to make, but personally, I don't think so.
+3:573 minutes, 57 secondsAnd it's not even an extinction risk, as I understand it, Matt. it is well there could be hacking or something in the AI
+4:064 minutes, 6 secondsspace that gets out and destabilizes for some period of time in a very disruptive way communications utilities banking and
+4:134 minutes, 13 secondsthe like 100 million people don't need to die but it doesn't mean it's a good outcome that's correct I mean there are many
+4:224 minutes, 22 secondsways this can go and again right now I'm talking about the sort of extreme scenario but we saw this with the hugging face hack this is already happening and AI years are way faster
+4:314 minutes, 31 secondsthan regular years. What happens in one year with AI? It's like 10 regular years or even more in anything else. So let's say and we if we decide this in November
+4:394 minutes, 39 secondsand we find a way to slow down just a couple months from now in that time the AIs that we're going to have are dramatically more powerful than even the ones that did this hugging face hack and
+4:474 minutes, 47 secondsthe severity of the things they do. It's going to be matching the additional level of capability. Right. So the next hack might not be harmless.
+4:564 minutes, 56 secondsAnd Matt, this week there was sort of a cascade of developments in news about things happening that were unexpected.
+5:025 minutes, 2 secondsThere was one another one today about and and I may get these wrong because I can't keep them always straight in my head.
+5:095 minutes, 9 secondsAnthropics system or model hacked into open AI. Is that right?
+5:165 minutes, 16 secondsTo my understanding and I'm sort of catching up on all this as well. Even the folks that [laughter] are We're all trying to catch up. We my brother, we are all trying to catch up.
+5:235 minutes, 23 secondsI need more sleep than I think everybody else that works on this does. Uh to to my to the best of my knowledge, a group that used an anthropic model used it to
+5:315 minutes, 31 secondsbreak into opening. I definitely have to look more into this, so don't quote me completely on that, but that is my understanding.
+5:375 minutes, 37 secondsGot it. And what that again points to is something that you can harness or use or maybe not even intentionally let
+5:465 minutes, 46 secondssomething out or maybe just give it instructions and it finds a way to get out in unexpected ways that give us some reason for collective pause.
+5:555 minutes, 55 secondsCorrect. I'll be talking more about this on my newsletter, but we we train AI almost like we train dogs. Essentially, we ask them to do something, they find a
+6:036 minutes, 3 secondsway to do it, and if they get it right, we give them a cookie. very simple version of it, but it's kind of how it works. The thing is, we don't always exactly know how they got there, and
+6:116 minutes, 11 secondsthey often learn that there are better ways to get there than actually doing the task. That's how the hugging face task uh hack happened, right? So, this
+6:196 minutes, 19 secondsmeans that there are so many things that can go wrong. We need to learn how do we actually train these things to not just do the things that we want, but do it in
+6:276 minutes, 27 secondsthe way that we want them to do it. And if I could jump in, Matt, not bite the hand that metaphorically feeds you. Matt
+6:356 minutes, 35 secondsSchumer and the newsletter. I appreciate it very much. Thank you. Thank you for having
+
+Sync to video time
