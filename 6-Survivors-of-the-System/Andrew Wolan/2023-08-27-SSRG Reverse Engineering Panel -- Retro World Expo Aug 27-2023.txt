@@ -1,0 +1,470 @@
+https://www.youtube.com/watch?v=vdcV9s4Ic8I&list=PLEHgR8khOef763GYwKN2kyxtoRaORJW41&index=5
+
+
+135 views  Aug 17, 2024  #sonicthehedgehog #sonicfangames #sonic
+Title:  SSRG Reverse Engineering Panel - AKA "History of Sonic ROM Hacking, from the people who were there"
+Event: Retro World Expo 2023 (RWX2023) - Panel 3 of 3 of the "SSRG Reunion Weekend"
+
+Description: The discovery of how to access Sonic 2's Hidden Palace Zone took the Sonic fandom by storm, unleashing a tsunami of dedicated research into the early Genesis Sonic titles. Join SSRG alumni at the scene of this movement as they take you through the twists and turns of the expedition into what made these games tick. You'll learn about the origins of the events that unfolded, how challenges were overcome, and what led to the advanced technical side of the Sonic scene.
+
+Side notes:
+This talk was born from a suggestion made by the RWX Staff (Al to be specific)  to create a new version of the "Early Days of Sonic ROM Hacking" that was more technical. 
+Stealth of Headcannon had planned to speak, but had to drop out at the last minute. 
+
+- - - - - - - - - - - - -
+NOTES: 
+This video is the same as that one found at  ‪@ssntails‬ 
+Yes, I only had 3 hours of sleep the night before.
+Video edited by me. Camera help by Striker. 
+
+- - - - - - - - - - - - -
+This video is part of the "SSRG Reunion Weekend" series of panels, held at Retro World Expo 2023 in Hartford, CT. The full list is below:
+
+Panel 1:     • Early Days of Sonic ROM Hacking - SSRG Reu...   
+Panel 2:     • Let's modify a SEGA Genesis game for the f...  
+Panel 3:     • SSRG Reverse Engineering Panel -- Retro Wo...  
+
+** Bonus video **
+Jonko's panel "ROM Hacking to Fan Translate a Video Game (RWX 2023)". Nice complimentary panel to the above set.
+   • ROM Hacking to Fan Translate a Video Game ...  
+
+- - - - - - - - - - - - -
+#retroworldexpo  #sonicthehedgehog #sonicromhacks #ssrg #sonic #retrogaming #gamemod #retroworldexpo2023 #connecticut #romhacking #romhacks #romhack #sonicfangames #sega #retrogaming #retrogames
+
+
+
+Transcript
+
+Search transcript
+Search transcript
+
+0:033 seconds[Music]
+0:1212 seconds[Music]
+0:2323 secondstest test all you ready yeah go are we all recording 10 we're all set oh you ha
+0:3131 secondsrecord in that one hey Siri start recording that was mistake I did
+0:3838 secondsyesterday I didn't record it's recording all right good hello everyone oh hello everyone
+0:4949 secondsand Welcome to our third and final panel this retro World Expo weekend the ssrg reverse engineering
+0:5858 secondspanel
+0:5959 seconds[Applause]
+1:011 minute, 1 secondall right now let's say you're interested in making a mod of the game Santa Hedgehog if you search online you will find a wealth of tools and
+1:091 minute, 9 secondsinformation that will make it possible to modify the game to your heart's content this information is a culmination of the hard work made by many contributors in a Sonic modding a
+1:181 minute, 18 secondsgame modding scene over the years but as you can imagine this wasn't the case for when the scene began while many of the
+1:251 minute, 25 secondsearly mods may seem primitive to those being produced today they were the stepping stone that made the more elaborate mods of today possible in this
+1:331 minute, 33 secondspanel we will talk about the challenges the early Sonic moders faced the solutions they came up with the road that was followed to get to scene to
+1:401 minute, 40 secondswhere it oh and the road that was follow followed you want me to take over I had 3 hours of sleep last night yeah and the
+1:481 minute, 48 secondsroad that was followed to get the scene to where it is today and that road began with magazine clippings of Sonic 2 featuring a level that was never that
+1:561 minute, 56 secondsnever materialized in the final game am I controlling slides yeah you're controlling the slides you're in charge
+2:042 minutes, 4 secondsoh God you the boss all right all right disclaimer this panel is meant to be an introduction to various topics on game
+2:112 minutes, 11 secondsmodding of the Sega Genesis Sonic games due to time is not meant to be a deep dive on the topics presented that was
+2:182 minutes, 18 secondsyesterday yeah in addition this talk is not affiliated with or endorsed by Sega so how the introduction Okay so
+2:272 minutes, 27 secondswe've got let's meet our panelists we've first we have uh the creator of the Genesis era ROM hacking guides this is Saxman he's best known for the Sonic 2
+2:362 minutes, 36 secondshacking guide really the first guy that kind of started really digging in and discovering a lot of things uh then we
+2:432 minutes, 43 secondshave myself I'm the co-creator of Sonic Robo Blast 2 which is a doom mod I was also involved with this a little bit early on cuz him and I used to make Doom
+2:512 minutes, 51 secondsmods and things together but we'll get into that later on here mssn and uh this is Andrew Ren he's the
+3:003 minutesco-founder and creator of ssrg the the website where they kind of brought all of us together so that we could make this stuff
+3:083 minutes, 8 secondshappen the only one that uses your real name on stage your real name is SSN no that's no know why all these years no it
+3:173 minutes, 17 secondsdoesn't stand for social security number either all right you want to do these
+3:243 minutes, 24 secondsnow yeah sure all right so you know why did all this kind of start in the first place you know when Sonic 2 you know
+3:323 minutes, 32 secondsSonic 1 was came out it was a pretty big hit uh but you know then they started working on Sonic 2 immediately and there
+3:393 minutes, 39 secondswas a lot of you know the way the video game coverage happened back then it came through magazines a lot like electronic
+3:463 minutes, 46 secondsgaming monthly and other folks like that um so Sega was supplying these screenshots what whe well whether
+3:553 minutes, 55 secondsthey're screenshots or mockups they kind of traded back and forth but uh you know you get to see screenshots of how the gameing development what's upcoming get
+4:044 minutes, 4 secondsexcited about this and we you know you you noticed that there were
+4:114 minutes, 11 secondsum you know many different stages and they were talking about it being the biggest son Sonic game ever anyway you even remember the Sonic 2 ad where
+4:194 minutes, 19 secondsthey're talking about fitting in a tackle box you can use it to cover your bold spot you know I could maybe use one
+4:254 minutes, 25 secondsof those here soon um but there was uh one stage that was in those magazines
+4:344 minutes, 34 secondsthat was actually featured prominently and quite often that when folks got a hold of the final game they're like where is the
+4:424 minutes, 42 secondsstage and you know even get put in the level select and it's not even showing up so you know what happened to
+4:514 minutes, 51 secondsit and you know they found out through um it actually wasn't until Sonic 3 through that level select they found
+4:594 minutes, 59 secondsthis little icon in the stage select screen that was like hey wait a second that looks like in the old magazine scans and so there were discussions in
+5:075 minutes, 7 secondsnews groups which were kind of like message boards of the early internet about you know hey I think I found out how to
+5:155 minutes, 15 secondsaccess the stage uh you know rumors things like that people were saying it was in the final game you know trying to
+5:235 minutes, 23 secondsget people excited anyway there was a lot of unknown stuff so um oh this is up
+5:285 minutes, 28 secondsto you now oh okay it's my turn uh so in December 97 uh this guy Tom Sonic uh he
+5:385 minutes, 38 secondsshared actual Replay code actual replay was a cheap device for Genesis uh that allowed you to access in palone in the
+5:465 minutes, 46 secondsgame uh problem is a lot of people didn't have action replay so this was still very much a mystery of people I
+5:535 minutes, 53 secondsthink in the states it was mostly Game Genie I mean I haven't even heard of Action Replay before yeah it was mostly gave Genie so uh so he started digging
+6:036 minutes, 3 secondsfor another solution and uh by August of '98 he found out uh through using a hex
+6:116 minutes, 11 secondsdecimal editor that he could he found uh the bite that the that the Action Replay
+6:186 minutes, 18 secondscheat was changing and by manipulating that bite in the save State um you could access hidden palone so there was a an
+6:276 minutes, 27 secondsemulator solution and every want to had access to emulator um go to next slide
+6:356 minutes, 35 secondsyeah so learning how to modify a game was so you know kind of what spawned all this interest in game modding in the
+6:436 minutes, 43 secondsfirst place cuz you know even growing up there were some kids who you know i' tell them about some of the stuff that we were doing and it's was like I didn't even know you could do that you know
+6:516 minutes, 51 secondswhat's the concept of modding modifying games and I think it's kind of all thanks to John carac from ID software or
+6:596 minutes, 59 secondsIt software rather um just can't get up can't shake it uh you know cuz he introduced the concept
+7:087 minutes, 8 secondsof the wad files where he stored the data separate from the executable and they actually supported they officially
+7:167 minutes, 16 secondssupported you being able to create these wad files and load them in the game to make mods um so in addition to
+7:247 minutes, 24 secondsthat there were people who took it a step further and like well hey now what what if we edit the binary you know instead of just adding additional data
+7:327 minutes, 32 secondsto the game what if we edit the binary code the instructions the compiled instructions that's what dehak kind of did for those that remember that
+7:417 minutes, 41 secondstool um there were popular mods like aliens TC Star Wars yeah this is before Doom
+7:497 minutes, 49 secondswas open sourced yeah this is before Doom was open sourced yeah CU after that essentially nullified the case for think
+7:567 minutes, 56 secondstools like to hack it yeah so and guys back then you might remember like aliens TC Star Wars Doom those were all like
+8:038 minutes, 3 secondsreally big things at the at the time uh and then John carac of course he released Doom as open source in 97 and
+8:118 minutes, 11 secondsthen he proceeded to release several different versions of quake and so forth I think rage was the last one that he uh
+8:188 minutes, 18 secondsdid before he left H software so kind of on that same topic
+8:268 minutes, 26 secondslike how DEH dehacked was going beyond the official support that its software was providing you know sure so we can modify
+8:368 minutes, 36 secondsthe binary code of Doom but what about other games you know and one of the things you
+8:438 minutes, 43 secondsknow I real mode games were kind of easier targets for tinkering and exploration because real mode protected mode came
+8:518 minutes, 51 secondsout with I think the Intel 286 was the first chip to offer support for it yeah uh before that
+9:009 minutesa program running in memory could access any piece of memory change it any way at want and the the instructions the hardware would keep executing the
+9:089 minutes, 8 secondsinstructions whatever it came across as long as it was valid in the processor it just kept going so it it makes it a lot easier to
+9:159 minutes, 15 secondsedit a real mode application than it is a protected mode because if you jump to an invalid memory address for whatever that space that the hardware is to find
+9:249 minutes, 24 secondsthat application can play around in the hardware is going to trigger a a segmentation fall or general protection fault you know those fun crashes you get
+9:319 minutes, 31 secondsall the time blue screen of the de so it makes a lot harder to tweak like little things and then see what the results are so in addition to that you know if you
+9:409 minutes, 40 secondsedit real mode games on a PC PC games uh you're going to hose your whole system if you do something
+9:489 minutes, 48 secondswrong so I think the attraction was kind of to look at emulators because in a in a sense they
+9:569 minutes, 56 secondswere the early virtual machines to where you could stand up say like a fake Genesis or a fake Nintendo system and do
+10:0310 minutes, 3 secondswhatever you wanted inside that little sand boox and if you if the whole thing explod it you just clear it load it up and load it back up again and you're
+10:1210 minutes, 12 secondsfine um you know another thing that's on here is that uh there was an online mod rep repository actually supported by It software where you could go and you
+10:2010 minutes, 20 secondscould download all these mods too so it made a really easy way of sharing and getting that getting the word out so to speak also it's being a smaller and
+10:2710 minutes, 27 secondsslower machine than the Hope than the the machine running the emulator yeah much more much smaller memory footprint you know didn't have to worry about huge
+10:3610 minutes, 36 secondsamounts of resources I saw software still has that deposit oh they do yeah
+10:4310 minutes, 43 secondsoh that's crazy you think they just let web archive take it over or something at this point Doom World when they released
+10:5210 minutes, 52 secondsDoom they crashed the biggest FTP site in the world yeah I believe yes at the time so um
+11:0011 minutesmake the it made researching these games difficult uh first of all we were a bunch of kids at the time we didn't know
+11:0811 minutes, 8 secondsanything really um most of us anyway and uh we we lacked in knowledge and resources uh that we could even learn
+11:1611 minutes, 16 secondsfrom uh there was no Wikipedia there was were no Wiki articles there weren't even any tools yeah exactly um so nobody knew
+11:2611 minutes, 26 secondswhere anything was in the games uh to us it was just a random bunch of bites and
+11:3211 minutes, 32 secondsum so also we didn't really know much about the Genesis hardware and um so we
+11:4011 minutes, 40 secondswere completely blindfolded through this entire deor
+11:4811 minutes, 48 secondsum how did we find a data um in the beginning we relied very
+11:5611 minutes, 56 secondsheavily on uh some crude methods that uh We've listed up there uh but they are very effective methods changing bites
+12:0412 minutes, 4 secondsrandomly see what would happens changing swapping out large sections of bites corrupting it just to see what we would
+12:1212 minutes, 12 secondsbreak because if you can break something you can figure out what it is that you're actually touching uh go to next
+12:2112 minutes, 21 secondsslide so uh with the bite uh value changes uh for example U we knew where
+12:2712 minutes, 27 secondsthat hidden palone Bight was uh 12288 in the safe state
+12:3412 minutes, 34 secondsso tried I tried 1229 and it turned out to be the ACT Tred again a
+12:4112 minutes, 41 seconds1228a that turned out to be the your life counter uh go next
+12:4812 minutes, 48 secondsSL so so that was very effective but it wasn't effective in all situation so bite swapping as I alluded to
+12:5612 minutes, 56 secondsearlier literally your taking a large section copy it to the clipboard delete
+13:0413 minutes, 4 secondsit go somewhere else with your cursor and paste it there so you're effectively corrupting a large section of the game
+13:1313 minutes, 13 secondsum go next slide now sometimes we could search for bites
+13:2213 minutes, 22 secondsum the hexor I used at the time uh I couldn't search it bites but but many times you could search for things simple
+13:3113 minutes, 31 secondslike the Sonic 2 uh level select cheat you play 1965 9917 on the sound test for
+13:3913 minutes, 39 secondsthose that don't know that's actually Eugene aa's birthday that's right so what I could do I could go to
+13:4713 minutes, 47 secondsinto hex edor and search for 1965 917 four bytes and lo and behold you actually get a result so you can change
+13:5513 minutes, 55 secondsthose bytes and and you're changing that cheat code um you could also do uh address value
+14:0214 minutes, 2 secondspairs uh so I'll just tell you the ram address for the life counter not the Save State
+14:1014 minutes, 10 secondsbut the RAM address is fe12 we we knew that um and we also knew that you start to game with three lives
+14:1914 minutes, 19 secondsso if you search for two words uh 03 for the life count and
+14:2714 minutes, 27 secondsfe12 you end up finding a result and um basically that's code
+14:3514 minutes, 35 secondsthat's uh setting the life counter to three when you start the game so that was a handy uh thing we didn't know at
+14:4114 minutes, 41 secondsthe in the beginning but we eventually discovered that you a word is a variable that is the same size as the bit of the
+14:4914 minutes, 49 secondsprocessor so in this case Genesis 16 bit so it's a 2 by two by variable okay
+14:5614 minutes, 56 seconds[Music]
+14:5714 minutes, 57 secondsexcent so this uh monstrosity of a of chart uh
+15:0515 minutes, 5 secondsgraph this is the memory map this is uh just a very high level view of ram it's not
+15:1315 minutes, 13 secondsperfect um but basically one half of memory is that chunk map a chunk just to
+15:2215 minutes, 22 secondstell you levels are made up of these larger tiles they're actually called chunks uh by Sega actually uh the chunks
+15:3115 minutes, 31 secondsare made of of smaller 16 by 16 blocks and in those 16 by6 blocks are
+15:3815 minutes, 38 secondsmade up of the tiny 8 by 8 by8 tiles that are actually stored in video memory
+15:4515 minutes, 45 secondsso that chump map there one half of the ram is 32 kiloby uh actually has all the
+15:5315 minutes, 53 secondsdefinitions for those and Then followed by that you have a sing single line there for level map so that's taking
+16:0116 minutes, 1 secondthose chunks and laying them out to create your your Zone and then you have other things you the block map
+16:0916 minutes, 9 secondsdefinitions for those smaller blocks and you have some Sprite data Collision object pallets some general variables
+16:1716 minutes, 17 secondslike your lives and score and emeralds all that stuff um so we didn't know all this at the beginning but over the years
+16:2616 minutes, 26 secondsas we kept poking around we started figuring this stuff out out and that chunk map was actually a pretty ingenious way of uh reducing the memory
+16:3416 minutes, 34 secondsusage creates signicantly yeah um so where oh yeah uh so science uh
+16:4416 minutes, 44 secondsSonic One beta hoax that's probably the most famous example of of what we could do uh within that first year that we
+16:5216 minutes, 52 secondswere sort on this endeavor and uh some of the things that uh s HX is this the
+16:5916 minutes, 59 secondsguy did it he uh he did some color palette changes uh he changed actually the level select down there some of the
+17:0817 minutes, 8 secondszones and prototypes had different names so he modified those text strings and then he muted some of the audio
+17:1617 minutes, 16 secondschannels uh to make the music sound incomplete and so he released this and said hey you know there's this this beta
+17:2417 minutes, 24 secondsROM that uh and uh you know the next day you revealed that out and that's actually fake yeah at least he was classy about it and didn't like try to
+17:3217 minutes, 32 secondsstring it along for a really long time yeah so then okay so we can make all
+17:4017 minutes, 40 secondsthese cool little tweaks of changing text and things yeah so what's the next step well the next step is hey can we make
+17:4817 minutes, 48 secondsour own levels and so actually the both of us started on Doom mapping first so I
+17:5617 minutes, 56 secondsintroduced him to emulation and he introduced me me to Doom mapping so it's kind of like a trade traded and both of us were you know I came across a very
+18:0518 minutes, 5 secondsearly simple Sonic Mod for Doom I think it changed the status bar and a couple of the weapon Sprites and I went further
+18:1218 minutes, 12 secondswith that and expanded on it and then I decided to also mod Doom 2 and so I created this thing was called Sonic Doom
+18:2018 minutes, 20 seconds2 bots on obious great name for somebody who's like 13 years old just screwing around you know my original Vision was
+18:2718 minutes, 27 secondslike a first person shooter platformer like combining doom and Sonic together and it wasn't too far after I got in that um I actually teamed up with him
+18:3618 minutes, 36 secondsand cuz I wasn't doing levels at the at the time and so then was able to start doing actual Doom mapping so it was
+18:4318 minutes, 43 secondspretty exciting so oh yeah this is up to you now oh it is okay
+18:5118 minutes, 51 secondsum so Doom's influence um was was pretty prominent uh for us
+18:5918 minutes, 59 secondsobviously I always dreamed of making my own Sonic levels ever since I became a fan of the series back in
+19:0719 minutes, 7 seconds1991 uh but it was specifically Doom's sport for those customizations via the the wads that he uh alluded to earlier
+19:1619 minutes, 16 secondsthat maybe want to explore this some more um so I had Sonic and Knuckles collection that was a port of Sonic 3
+19:2419 minutes, 24 secondsand Knuckles over to the PC uh that was in 97 uh I had this game and I thought well
+19:3419 minutes, 34 secondsG if you can modify a doom uh surely there must be some way to modify this it's not coming off of a
+19:4219 minutes, 42 secondscartridge here's the actual files in front of us so I po posted a thing on my website and geoc City's horrible website
+19:5119 minutes, 51 secondsat the time and uh I said anyone out there know how to do this anyone know
+19:5719 minutes, 57 secondshow to make a level editor for this game um didn't go over so well cuz uh nobody frankly uh contacted me so and that's
+20:0620 minutes, 6 secondswhat all of us kids did back then too we just asked other people to do things for us like hey I need a programmer hey can you write this whole game for me just do
+20:1520 minutes, 15 secondsit please have the idea I don't have any money but just do what I
+20:2120 minutes, 21 secondswant um so I started the Sonic tocking guide um after you know this is later
+20:2920 minutes, 29 secondslate '98 uh I've Tom has done his thing by then and I've just figured out a hex decimal editor so I wanted to make my
+20:3720 minutes, 37 secondsown levels so I started this uh this hacking guide and by um well February 99 I joined ssrg
+20:4720 minutes, 47 secondsactually and kept poking around at the game and finally in the spring I discovered the object layout and ring
+20:5620 minutes, 56 secondslayout they're actually separate um so I I documented those figured out how they worked and then I put again an
+21:0521 minutes, 5 secondsadvertisement on my my website this time Sonic 2 hacking guide that was a website and not on geoc cities and I said hey
+21:1421 minutes, 14 secondscan somebody make me a level editor and this guy uh named stealth uh
+21:2121 minutes, 21 secondsresponds go ahead so stealth um
+21:2921 minutes, 29 secondshe's associated with uh Sonic Mania for anyone doesn't know he created uh this this tool called soned it was first
+21:3821 minutes, 38 secondslevel editor for Sonic uh but initially it was based on the information that I had in on that Sonic 2 hacking guide for
+21:4621 minutes, 46 secondsthe for the object positioning um by November 2000 way
+21:5221 minutes, 52 secondsafter uh he uh was able to expand it and create uh so you could basically recreate the entire level with all the
+22:0122 minutes, 1 seconddata all new art and uh tile mappings all that um then he wrote some notes
+22:0822 minutes, 8 secondslater and uh and that led to some creation of some downloadable maps yeah and so with the information
+22:1622 minutes, 16 secondsthat Saxman was able to find the first level mod was created and it was finished in October 25th of 2000 uh and it was done using the Sonic
+22:2522 minutes, 25 seconds2 Beta ROM and that was actually purposeful because as we'll get into soon the final version of Sonic 2 uses
+22:3322 minutes, 33 secondssome interesting compression um formats that still havn't been decoded yet and this was built entirely with the
+22:4222 minutes, 42 secondshex editor uh so the you're just using an hex Setter and you're going through an array of btes essentially changing it
+22:4822 minutes, 48 secondsand the the tiles were 128 pixels by 128 pixels that's that's the chunks right or yep
+22:5622 minutes, 56 secondschunks so it was like a preset list of say like 100 different 128 by 128 uh
+23:0323 minutes, 3 secondschunks of level that you can move move around and arrange like a mosaic to essentially build your whole world
+23:1223 minutes, 12 secondsand it goes from left to right top down so it was very tedious you just change a couple of them until so you you have to
+23:2023 minutes, 20 secondsmap out say like I think the first 50 or so were mapped out and then that was then taken to build this level and um
+23:2923 minutes, 29 secondsas so I have got a there's a little graphic here showing how you know the chunks are made up of these small 16x 16
+23:3623 minutes, 36 secondspieces and the 16x16 pieces actually control the collision and the other behaviors and things of uh
+23:4523 minutes, 45 secondsinside the the chunk but starting with Sonic 2 final we had we had a struggle with data
+23:5523 minutes, 55 secondscompression by way mosaic like that description um so I got us the data format conundrum
+24:0524 minutes, 5 secondsbecause compression was hard um we knew for some time where the map layout in
+24:1224 minutes, 12 secondsthe game was it was very easy to modify in a Save State because it's uncompressed because you want it uncompressed because it's faster to read
+24:2124 minutes, 21 secondsbut um I couldn't figure out the format and I it was just funny to me every time I'd
+24:2824 minutes, 28 secondschange i' change a bite and a tile would change okay I'd change another bite and the whole level would would blow up on
+24:3524 minutes, 35 secondsme and and corrupt and I couldn't make any sense of it um
+24:4124 minutes, 41 secondsso finally I I posted a thing on my hacking guide by this point I had a lot of street cred and people just kind of
+24:4824 minutes, 48 secondscame to me so um I post the ad and and said Can somebody figure this out for me please and it took a while but finally
+24:5824 minutes, 58 secondsthis this this man named Brett kazinski comes forward and says hey I I figured
+25:0525 minutes, 5 secondsthis out and uh actually wrote up a whole document for me called the Sonic 2 compression spec and I subsequently post
+25:1425 minutes, 14 secondsit on my website that was in uh November 2000 so why was this compression
+25:2425 minutes, 24 secondshard um the short version is I was looking at it as a series of bites because that's
+25:3225 minutes, 32 secondswhat I knew everything I had done was a bite but in actuality compression is
+25:3825 minutes, 38 secondsvery uh reliant on on interfacing with bits um so over here I've shown you just
+25:4825 minutes, 48 secondsjust a very dumb down explanation of compression I have a bite 47 if you convert that over to 8 Bits you get one
+25:5725 minutes, 57 secondsones and zeros in a typical compression format a one might be a in this example
+26:0526 minutes, 5 secondsis a direct copy and I'll I'll explain this a zero is a referenced copy so you have direct copies and referenced copies
+26:1326 minutes, 13 secondsgo next Slide the reason this is important because a direct copy will actually
+26:2526 minutes, 25 secondsread does this extend it does a direct copy will actually just this is the data
+26:3126 minutes, 31 secondsin the game it'll read this bite and say okay copy that to Ram okay Next Bite
+26:3826 minutes, 38 secondscopy that to Ram Next Bite copy that to Ram so you've written three bites here now you
+26:4726 minutes, 47 secondssee in the original you had three direct copies then you have a zero which is a
+26:5526 minutes, 55 secondsreferenced copy so what it it says is okay I need to read two bytes here and
+27:0227 minutes, 2 secondsone bite is going to tell me how many bytes I want to copy and the second bite is telling me
+27:1127 minutes, 11 secondswhere to grab it from so here this is Ram here it's actually referencing two
+27:1727 minutes, 17 secondsbytes backward what I've already written and starting to copy from that position so what it does it reduces data redund
+27:2727 minutes, 27 secondsit gets rid of redundancy of data so those familiar with run length en coding it's a little bit similar to that is
+27:3427 minutes, 34 secondsthis actually a varant lzss ba basically it's it's a mockup really uh just for demo purpos yeah this
+27:4227 minutes, 42 secondsisn't this isn't the exact compression spec we try to simplify it to just show an example yeah but yeah that's basically how it works and uh and so
+27:5127 minutes, 51 secondscompression is important because here I've reduced the size by five bytes storing it that that way so you can
+27:5927 minutes, 59 secondsstore more data in the game that way all right so there were some major barriers taken
+28:0828 minutes, 8 secondsdown uh by this discovery that that Brett uh had done first of all um by
+28:1528 minutes, 15 secondsusing this he was able to uh restore hidden Palace Zone back into the the
+28:2228 minutes, 22 secondsfinalized game so that was a big deal that was something I wanted to do and uh D on it he did it
+28:2928 minutes, 29 secondsfirst but um and then he took it a step further because he's a programmer he wrote a level editor called chaos that
+28:3828 minutes, 38 secondsworked with the final game and could actually uh modify the levels with that
+28:4528 minutes, 45 secondscompression so I could decompress them modify them and then recompress them back into the game so that was a big deal um I felt like this was such an
+28:5528 minutes, 55 secondsaccomplishment I was so impressed that I I just start calling it kazinsky compression and it actually stuck I
+29:0229 minutes, 2 secondsstill call it that to this day and there's no taking it back by this point how did he figure it out was disassembly or did he stare at the data long enough
+29:1129 minutes, 11 secondsto do it I think he just probably stared at the data long enough yeah yeah I I wonder if he was involved with like um
+29:1929 minutes, 19 secondswriting compression software previously or something like that cuz that would be the type of mind that would be able to look at it and be
+29:2729 minutes, 27 secondslike ah I know what this the algorithm is not novel but the details are are are the hard part I think I remember him
+29:3429 minutes, 34 secondstelling me he was in uh college at the time I haven't verified this with him but I I think he said that so he he at
+29:4229 minutes, 42 secondsthe very least I'd say he probably had some sort of computer science background um because Lord knows I didn't know
+29:5029 minutes, 50 secondsanything about it so um Okay so so um just uh I won't bore you
+30:0030 minuteswith too many details here but I've just listed out some of the other compression formats that we came along uh over the
+30:0830 minutes, 8 secondsyears so another gentleman Nemesis he figured out uh the compression used on
+30:1530 minutes, 15 secondsuh artwork not not level specific but just like objects and things so he discovered that November 2002 he
+30:2330 minutes, 23 secondsdiscovered another one uh for some mapping data that was in January 2003 a little bit after that I
+30:3230 minutes, 32 secondsdiscovered uh I figured out the compression used for the sound driver uh and music in the final Sonic 2
+30:4230 minutes, 42 secondsum I did not name that saxs man other people did just happened and then sometime
+30:5130 minutes, 51 secondslater incidentally I was hack I was looking at kid chameleon uh which was another game uh done by
+30:5830 minutes, 58 secondsuh psych Technical Institute and um I ended up writing a level editor for that but to do that I had to figure out the
+31:0531 minutes, 5 secondsformat for the level data turns out it was compressed and I figured out that compression this was December 2007 and
+31:1431 minutes, 14 secondsincidentally someone somewhere along the way made the connection that oh that F format's used for some solidity data in
+31:2431 minutes, 24 secondsspecifically the Nick arcade prototype of Sonic 2 so yeah I mean it's prototype
+31:3231 minutes, 32 secondsI mean the the hologic Lael
+31:3931 minutes, 39 secondsyeah were all these other than the Nick arcade were all the other compression formats from Sonic 2 and later yes uh
+31:4731 minutes, 47 secondsSaxman specifically is only in Sonic 2 uh I think remember Sonic 1 was extremely easy to edit in comparison
+31:5531 minutes, 55 secondsbecause we didn't have to deal with all these compression issues certainly the levels were yeah
+32:0132 minutes, 1 secondyeah okay so we're doing all this binary hacking but what if we could write new code in addition so do new things rather
+32:1132 minutes, 11 secondsthan just tweak the existing stuff that's already there so people started going towards creating
+32:2032 minutes, 20 secondsa disassembly and that's where you take the machine code and you convert it back into assembly code so you can edit it
+32:2632 minutes, 26 secondsand then essentially reassemble Stefan for those that know that reference uh but for example with binary
+32:3532 minutes, 35 secondshacking you have a lot of limitations because you don't want to move the DAT you don't want to move the DAT data because you're going to start moving
+32:4332 minutes, 43 secondswhere uh memory addresses jump to in the code cuz that's the way the program counter
+32:5032 minutes, 50 secondsWorks another thing that you can be limited by is space for Strings so like if you want to change text if you're doing a bind binary hack you're limited
+32:5832 minutes, 58 secondsto usually whatever the current size of the text is or smaller and I imagine they're probably going to talk about
+33:0533 minutes, 5 secondsthat in the translation panel a little bit later here oh cuz I'm sure they have to struggle with that
+33:1333 minutes, 13 secondstoo so and another example of disassembly actually that's pretty popular is the Super Mario 64 PC and the ship of
+33:2133 minutes, 21 secondsarcanian from where they did rocking of time and they disassembled that completely and so you can build a whole you can reassemble it for maybe
+33:3033 minutes, 30 secondseven another platform did you say Mario 64 yeah yeah eventually decompiled that believe it or not and got they figured
+33:3833 minutes, 38 secondsout exactly which SGI compiler was used and they made it bite for bite identical wow having having reconstructed the SE Source yeah yeah so that's that's kind
+33:4633 minutes, 46 secondsof all the same type of deal yeah they were lucky because they had run they compil most with optimization off otherwise it would have been oh possible
+33:5633 minutes, 56 secondsyeah so I don't think we've ever had any like re rewriting and C but we've gotten it to to Assembly Language at least maybe one thing one thing to add on the
+34:0534 minutes, 5 secondsbinary heck limitations was you had to manage all of the um the updates at the end of the ROM image so if you need to
+34:1234 minutes, 12 secondsextend the length of a function um then you have to update all your pointers manually it wasn't handle automatically with a compiler yeah so like a so like
+34:2034 minutes, 20 secondsan interim solution before they finish the disassembly is they would edit the program counters to have the code jump to the end of the ROM and the end of the
+34:2834 minutes, 28 secondsROM is where then people would append new code to have the game do what they want
+34:3734 minutes, 37 secondsso okay so um sorry of the start of this journey uh I would say the Primitive
+34:4734 minutes, 47 secondsmodifications um one that I did um I don't know if it was the first or not
+34:5334 minutes, 53 secondsbut uh it was a modification to uh change um when you collect a ring it
+35:0035 minutesincreases your ring counter I thought well I know where some other locations
+35:0535 minutes, 5 secondsin in memory are so why don't I uh do a uh value address pair search find where
+35:1535 minutes, 15 secondsthat's occurring and instead of increasing the ring count let's increase uh Sonic's maximum speed so each time
+35:2335 minutes, 23 secondsyou collect a ring you can run faster uh and it has surprisingly worked very well um and that was really I would say one
+35:3235 minutes, 32 secondsthe first or one of the first really code modifications uh to the game
+35:4135 minutes, 41 secondsum also uh object properties uh I size toying with to save states and
+35:4835 minutes, 48 secondsand when you when objects come on screen they have to be stored temporarily uh into memory and they have 60 4 bites to
+35:5835 minutes, 58 secondsdescribe them uh so by toying with these bites uh I was able to you see there U
+36:0836 minutes, 8 secondsmake Sonic stand on the shield object itself so once once that happened I
+36:1536 minutes, 15 secondsthought okay um maybe we can go a little further with this and do some really neat
+36:2136 minutes, 21 secondsthings um fast forward a little bit and uh a you a person goes by named ezrael
+36:3136 minutes, 31 secondsreleases this Sonic 2 Delta and this was probably one of the most advanced modifications out there at the time uh
+36:4036 minutes, 40 secondshe first of all he ported all the levels uh between the final Sonic 2 and the
+36:4836 minutes, 48 secondsprototypes and and uh combined them did full level ports and here's so the kick ER he
+36:5736 minutes, 57 secondsported the objects themselves cuz a lot of objects a lot of enemies and and things like that were removed from the final games he ported them
+37:0537 minutes, 5 secondsover um that's a lot of code involved so he went through the code and actually modified all the pointers to make make
+37:1437 minutes, 14 secondsit actually work in in the game uh so that was probably the most advanced thing had been done at that time so this
+37:2137 minutes, 21 secondswas like one of those examples of making it jump to the end of the ROM where you can add the additional code at the end uh I guess he must have done that yeah I
+37:2937 minutes, 29 secondsI assume I I haven't looked at at that um at the ROM but um yeah he had to have done
+37:3737 minutes, 37 secondsthat um and then and then something I I did uh which was not much more than a
+37:4337 minutes, 43 secondstech demo but it was it was sort of following along the same lines of what can we do by using a hex Editor to
+37:5237 minutes, 52 secondschange code uh I was able to uh manipulate um Sonic's object code and
+38:0038 minutesadd a new move the the super peel out which kind of worked and uh added save save game functionality and and also
+38:1038 minutes, 10 secondswrote some code to get around the compression that we hadn't yet figured out for art um we got around that and I
+38:1938 minutes, 19 secondswrote new code to write to read in uncompressed art so I ran with that and created
+38:2738 minutes, 27 secondsa patching format called RXL that that could basically install this code into
+38:3438 minutes, 34 secondsnew uh ROM modifications and allow uh other people to use the same kind of thing to to
+38:4138 minutes, 41 secondscreate new artwork yes so anyway as as I was saying earlier about the disassembly you know you're allowed to do you can do so much more with it it's essentially
+38:4938 minutes, 49 secondslike almost like having the source code and so thanks to the disassembly that occurred for well first Sonic 2 and then they also did Sonic 1
+38:5838 minutes, 58 secondsuh stealth was able to put together Knuckles in Sonic one and so finally we were able to achieve that dream of you know putting like how we used to put
+39:0539 minutes, 5 secondsSonic one on top of Sonic and Knuckles and like oh great more special stages so you can actually play as
+39:1139 minutes, 11 secondsknuckles question um fun fact uh was that uh in magazine uh there was like a
+39:2039 minutes, 20 secondsswing shot of Knuckles being in Sonic one which was considered to be for knuckles Sonic one by Steam and lock
+39:3039 minutes, 30 secondsyeah it could it could have been they may have initially planned it but like with Sonic 2 they had put an extra memory chip on the Sonic and Knuckles cartridge in order to support that and
+39:3839 minutes, 38 secondsthey probably found it too cost prohibitive to also put an additional chip for Sonic one on there yeah was
+39:4539 minutes, 45 secondsSonic 3 really split up into Sonic Knuckles and Sonic 3 because of the McDonald's promotion I heard a rumor about that recently like McDonald's wanted to do a toy promotion they wanted
+39:5439 minutes, 54 secondsSonic 3 out now so they did Sonic and Knuckles then they did Sonic 3 later but then they did the whole lock on gimick I think it was like a hedgehog day the marketing really pushed them to get that
+40:0240 minutes, 2 secondsI guess Ryan he he'd be the guy to ask yeah it was Sonic 3 was well something needed to be out for the end of 1993
+40:1140 minutes, 11 secondsthat's how spinball got made as like well we need something Sonic 3 was meant to come out that time and then that got delayed anyway but then it was already
+40:1840 minutes, 18 secondstoo big to be in one cartridge at the time anyway so they sort of split it up across the two things with that like a
+40:2540 minutes, 25 secondsknuckle Knuckles and Sonic 1 that was actually from an old Sega megazone Australian magazine that I had scanned cuz they had the picture of Sonic
+40:3240 minutes, 32 secondsKnuckles and Sonic 1 but they later mentioned that yeah we just photoshopped that basically yeah that happened that
+40:4040 minutes, 40 secondshappened a lot back then they were just they weren't actual screenshots they would just compose them in like a paint program with the graphics and there wasn't enough of us going like wait a
+40:4840 minutes, 48 secondsminute that's wrong things get through the cracks here reviewers would build video game maps with screenshots literally trying
+40:5540 minutes, 55 secondsto paste them together yeah the one point I want to make here is that the release of these disassemblies the First with um
+41:0241 minutes, 2 secondsnemesis's disassembly of Sonic 2 in March of 2004 and later the Sonic one disassembly by stealth DRX and hyb hybin
+41:1041 minutes, 10 secondsuh those dis assemblies marked the end of the binary hacking era the the hard way of doing things and and the start the formal coding era using Assembly
+41:1841 minutes, 18 secondsLanguage sure um so this just a list of sort of AD ADV
+41:2741 minutes, 27 secondsmodifications that have popped up over the years uh things have really come a long ways
+41:3441 minutes, 34 secondsum I'm not going to read you every single name up there but you can just kind of take a look and see that they've uh changed a characters totally
+41:4341 minutes, 43 secondsdifferent levels totally different everything we've got a lot of these at our booth too if you want to come check them out
+41:5141 minutes, 51 secondsyes is really impressive yeah um
+41:5841 minutes, 58 secondsso uh the knowledge we attained over the years uh we useed that uh at some point
+42:0742 minutes, 7 secondsto you can only do so much in a in a in a Genesis mod but what if we took this
+42:1442 minutes, 14 secondsknowledge that we Acquired and created recreated Sonic so one of the things I did uh for
+42:2342 minutes, 23 secondsexample was was an engine called pronic uh was written in C um I put in uh 68,000 interpreter
+42:3342 minutes, 33 secondsthat's 68,000 the main CPU in the Genesis um to read in object code from The
+42:4042 minutes, 40 secondsOriginals um it also uh had some scripting functionality and so and uh you could
+42:4842 minutes, 48 secondsread in level data from the original game so you could actually import Emerald Hill Zone for example if you wanted um go ahead so yeah it kind of
+42:5742 minutes, 57 secondsinspired the creation of Sonic 3 Angel Island Revisited for those that know you need to have a copy of the ROM for it to actually function so use a lot of the
+43:0443 minutes, 4 secondsknowledge that he discovered to do that no longer available on y such as
+43:1343 minutes, 13 secondslife you can EAS just find it online but uh but Sonic uh um a is a a fanade mold
+43:2343 minutes, 23 secondsbioport of Sonic 3 which is s sounding que was the when she put get mobile but the music was copyrighted had a
+43:3243 minutes, 32 secondscopyright that's a whole separate thing yeah yep um cool so just to kind of wrap
+43:4143 minutes, 41 secondswrap to Titus into a nice tight bow there there were other uh engines as well stealth uh we told you about earlier he
+43:5043 minutes, 50 secondscreated his own called engine o02 uh first started it or released it I should say in
+43:5843 minutes, 58 seconds2003 um had some scripting in it and um he really built it up and uh actually made
+44:0644 minutes, 6 secondsa couple uh games out of it um meanwhile Taxman he was the other uh
+44:1544 minutes, 15 secondsgentleman involved with Sonic Mania alongside stealth he created uh the Retro
+44:2244 minutes, 22 secondsengine and that's actually what powers Sonic Mania and Sonic behind the scenes that's right and uh he had to pitch that
+44:3044 minutes, 30 secondsSega and he got stealth uh to help him with that and uh by U I know 2010 2011
+44:4044 minutes, 40 secondssomewhere in there uh Sega gave them the go ahead and uh that was for Sonic CD that was for Sonic CD so they used a
+44:4744 minutes, 47 secondsretro engine to recreate Sonic CD and then later Sonic 1 and Sonic 2 and then
+44:5544 minutes, 55 secondseverything else so what was the legacy of the research beside all the great game mods being
+45:0145 minutes, 1 secondproduced it rumored that within Sega the knowledge on the physics game data structures game mechanics etc for the Genesis era Sonic games have been
+45:1045 minutes, 10 secondsforgotten over the years remember Sonic 4 they obviously didn't know then while this knowledge can be
+45:1745 minutes, 17 secondsrelearned inspecting the original source code is a tedious process that requires people familiar with 68k assembly with the Sonic game moding reverse
+45:2645 minutes, 26 secondsengineering the code this heavy lifting was done on their behalf the knowledge learn was then applied to the creation of Sonic mobile games Sonic Mania and
+45:3445 minutes, 34 secondsthen Sonic Origins via the Retro engine and that knowledge was car even carried over to the upcoming game Sonic Superstars a fact that was confirmed by
+45:4345 minutes, 43 secondsTaxman himself and the Tweet is on the screen all
+45:5145 minutes, 51 secondsright okay so this is the end of our panel uh before we go to Q&A here are some upcoming panels that might interest you so at 3:00 in this room is the ROM
+46:0046 minuteshacking to translate an anime game and at 4:00 we have boot um this is at the other room Panel Room a that is the bootle games aren't all bad with Seth
+46:0846 minutes, 8 secondsand Zach of the classic gaming brothers so we'll be I'll be at those to just check it out all right
+46:1546 minutes, 15 secondsQ&A a lot of questions sorry U go with Jake first uh two questions if you don't
+46:2246 minutes, 22 secondsmind uh first question uh uh heavy app or um will consider REM making the
+46:2946 minutes, 29 secondsoriginal um Sonic Lobo glass oh the original um no not really
+46:3746 minutes, 37 secondsthere's there's a couple people that have done it though um I know in previous versions um there was a secret that you
+46:4546 minutes, 45 secondscould unlock where they were um oh what's his name I'm blanking on his name right now
+46:5246 minutes, 52 secondsanyway speaking of the one that became the unlockable Togo yeah Togo Togo made a recreation of srv1 inside of Sonic R
+47:0047 minutesBlast 2 it was missing the bosses though yeah and I know several other people have tried to recreate the first game and sometimes they show up at Sage and
+47:0947 minutes, 9 secondsthings like that so there's stuff out there um I would just maybe go to the sage website and look at their previous years and dig around and you'll find a
+47:1747 minutes, 17 secondscouple I think 2020 uh is one that you you can look at and find some things too I think I heard of that I think I heard
+47:2347 minutes, 23 secondsthat the latest version with oh forget the one Snick was working on I
+47:3247 minutes, 32 secondsthink the team fell apart yeah that fell apart but there's a demo that you can play I don't think anybody's ever completed the whole thing cuz it's just
+47:3947 minutes, 39 secondsa gigantic game oh yeah oh you had one more right yeah uh
+47:4647 minutes, 46 secondswhere there ever be a Sonic lobal Blast 3 uh there is sort of if you go to SSN tales.
+47:5447 minutes, 54 secondssrv2 I'm working on just like a f little thing in my free time it's called srbx it's kind of like a it's a sort of a
+48:0148 minutes, 1 secondparody in a sense and it's more based on some older cartoons I used to do but there are some srb2 elements and other
+48:0848 minutes, 8 secondsthings tied into it so you can go there and just check it out it's kind of a work in progress so it's like the
+48:1548 minutes, 15 secondsprodeus of the Sonic R Class 2 Series it's almost like a it's like a Multiverse type of Journey in a sense
+48:2148 minutes, 21 secondsyeah spiritual sucess yes I don't even know if you call it that it just has some elements and references like it's a
+48:2948 minutes, 29 secondsit's supposed to be funny fny yeah Crossover with Mega Man X type of elements and things too it's just like as well as cross over your old cartoon
+48:3748 minutes, 37 secondsyeah whatever whatever I want to throw into it I mean big yeah has anybody from Sega any of the offices said anything
+48:4548 minutes, 45 secondsabout Rob blast who commented on it said it's good it's bad I'm trying to think take on request
+48:5248 minutes, 52 secondsI no I don't think so Le had them more like yo wow this is so great like that kind of thing like anything at all yeah
+49:0049 minutesI know that they've made comments on their Twitter page about fan works in general before um but I don't think anybody's
+49:0849 minutes, 8 secondssaid anything about sv2 specifically yeah it's been pretty quiet it's only become official you know well I think um
+49:1849 minutes, 18 secondswith it being tied to Doom in some ways that that's essentially keeps it from never happening so yeah that's true which could be good could be a good
+49:2649 minutes, 26 secondsthing too you know keep the mo thing alive yeah I I left in 2009 2.0.4 was the first one or the last version I
+49:3549 minutes, 35 secondsreleased and then other people some folks that I that I know still work on it yeah you they kind of well I mean I
+49:4449 minutes, 44 secondsguess kind of glad and not I really in hindsight I wish I had done
+49:5249 minutes, 52 secondsMega Man cuz I think it would have been a lot easier to pull that off from the Doom engine you got one one more yeah uh just I
+50:0150 minutes, 1 secondthink I have kind of an answer to this uh based on some of the stuff you said but I just want some clarification uh so I'm assuming uh at the time when you
+50:0950 minutes, 9 secondswere doing this like Sega Genesis emulators did not have debuggers or anything right so not really I mean there was like for example if you
+50:1750 minutes, 17 secondsremember the old dos emulator Genesis yeah it had a way of viewing uh the the tiles they like a pattern what they call
+50:2450 minutes, 24 secondsa pattern table yeah yeah you could yeah you see the pattern table U basically the the video memory
+50:3150 minutes, 31 secondsand and the pallet and but it wasn't like regen where they have all these different tools you can pop open and look at the live memory map and what instructions are getting executed and
+50:3950 minutes, 39 secondsstuff like that so based on what you were saying the way you were doing it then was basically you would take a Save State thumb and then you would do edits
+50:4750 minutes, 47 secondswithin that yeah if we wanted to edit the if we wanted to edit the live Ram in the system yeah whereas if we wanted to edit the the ROM then that would be a SE
+50:5550 minutes, 55 secondsthing and you have to reload the ROM every time you change like one or two bits and then see what happens and then try it again and keep going oh that's
+51:0251 minutes, 2 secondsreally cool very tedious yeah no no I would imagine so no I can't imagine doing it and what's and what's worse is that at the time we didn't we didn't
+51:1051 minutes, 10 secondsknow how to do any programming yeah so we couldn't even develop tools to automate some of this process for us whereas like nowadays it's like yeah we could easily created tools that probably
+51:1951 minutes, 19 secondswould have sped this up so much faster yeah perals of being 13 right yeah exactly
+51:2651 minutes, 26 secondsthank you anybody else U did you know about you know Sonic 4 was originally going to be Sonic theck
+51:3451 minutes, 34 secondsor sonic the portable it was going to be it originally started as a mobile game people dug up um things in the code that
+51:4251 minutes, 42 secondsrefer to as Sonic the portable oh interesting yeah I didn't follow the development yeah it I think it's a recent discovery so originally like that
+51:5151 minutes, 51 secondsphone version that was going to be the version of Sonic 4 wasn't even going to happen I think there's even some text reference in
+51:5951 minutes, 59 secondsthat even yeah you even have to dig in the code there's like background Graphics referring to it and then people put two and two together like oh wait
+52:0752 minutes, 7 secondsthis this phone version I'm sigic for that was going to be the version but then they turnic yeah so I think that also might
+52:1552 minutes, 15 secondsbe I don't know if Sonic physics were lost knowledge necessarily but that could explain why I think it's probably sitting on a tape drive somewhere in a
+52:2352 minutes, 23 secondsDusty Closet in Sega Japan and nobody really knows it's there kind of thing and then you know even if they got the data off it's like okay well how do you
+52:3152 minutes, 31 secondsinterpret this yeah that I compar the physics they'd have to pull they'd have to pull Yugi KN out of jail and ask
+52:3952 minutes, 39 secondshim yeah yeah yeah have we got four minutes left any other
+52:4652 minutes, 46 secondsquestions a question well I mean uh nothing question I'll go back to you he's got he's got one yeah I got one uh
+52:5452 minutes, 54 secondsuh did you have consider getting a job at Sega um yeah I did actually um when I although when I came out of college I
+53:0253 minutes, 2 secondsapplied to Insomniac Games as I really like the Ratchet and Clank series um I got the projection letter and I still
+53:1053 minutes, 10 secondshave it to this day um yes I keep it close to my heart but in in some ways I'm also grateful that I didn't go down
+53:1853 minutes, 18 secondsthat path because um as a for a career in software or just the game in industry
+53:2553 minutes, 25 secondsin general um depending on who you work for it can be a very difficult and very timec consuming profession and I have a I have a family
+53:3453 minutes, 34 secondsnow I've got six kids you know that type of a career while it may be something I'm interested in in the context of
+53:4253 minutes, 42 secondsreality and family and life and things it's just know it could be a questional fit depending on who you work for so
+53:5153 minutes, 51 secondsit's one of the motives for the current unionization Trend in the games industry yeah I know there's a lot of that going on right now because of working conditions in certain companies some
+53:5953 minutes, 59 secondscompanies are fantastic but it just depends on where you end up and where too yeah pick up and move yeah did
+54:0854 minutes, 8 secondsyou ever try to share your work on the Sonic hacking stuff with your kids um not really um but my oldest daughter
+54:1554 minutes, 15 secondsdoes have a very engineering mind and I've shown her a lot of my game programming work outside of that and
+54:2254 minutes, 22 secondsshe's been really interested so we've we've explored some of that stuff but the the hacking stuff not not specifically no okay thank you question
+54:3154 minutes, 31 secondsback question the back yeah is there a is there going to be a recording of This panel I arrived here late so I don't
+54:4054 minutes, 40 secondsknow what I yeah we'll have it eventually be on my um YouTube channel just go to Andy Wallen that's a n d y w
+54:4854 minutes, 48 secondsl on YouTube you see a picture of a guy catching making a great catch of the softball that's me it's an actual
+54:5754 minutes, 57 secondspicture of me making a great catch in the quite that yeah yeah he G it to he took he got
+55:0455 minutes, 4 secondsit from me yesterday well yeah we one minute left Sonic One beta like the 1990 build
+55:1455 minutes, 14 secondsyou mean the Prototype the very early copy yeah the 1991
+55:2455 minutes, 24 secondsuh the half the half uh if you could go back uh what you change anything change anything the
+55:3355 minutes, 33 secondsSonic games yeah oh my goodness um I don't know I'd have to put my mind back into the time when we were doing all
+55:4055 minutes, 40 secondsthis and thinking what we would do you know cuz kind of ties into the custom levels and things like that so that
+55:4855 minutes, 48 secondsprototype was discovered wasn't it recently uh a uh not the not the space
+55:5755 minutes, 57 secondsyeah one of not too long ago there's still many that they haven't found
+56:0556 minutes, 5 secondsyet we're at all right thanks everybody if you got more questions or just want to stop by and talk or say hi we've got a boo in the EXP T
+56:2156 minutes, 21 seconds[Music]
+56:2356 minutes, 23 secondsthere
+56:2656 minutes, 26 seconds[Music]
+57:5357 minutes, 53 secondsyou
+57:5657 minutes, 56 seconds[Music]
+58:1458 minutes, 14 secondsthey'd have to pull Yuji Naka out of jail and ask him what he did yeah yeah
+58:2358 minutes, 23 secondsyeah here you go by the way I'm a huge fan of Sonic Rob I've been meaning to tell you that
+58:3058 minutes, 30 secondssince yesterday but
+
+Sync to video time

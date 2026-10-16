@@ -1,0 +1,559 @@
+https://www.youtube.com/watch?v=eljijD3xTCs
+
+642 views  Jun 6, 2023  #sonicthehedgehog #1990s #sonic
+Title: Early Days of Sonic ROM Hacking with SSRG Co-founder and Creator Andrew Wolan
+
+Description: The Sonic Stuff Research Group (SSRG) is known for launching the modern day Sonic ROM hacking community, which popularized and made accessible ROM hacking to the general public. It was also the starting point for various game developers, including those that worked on "Sonic Mania". SSRG co-founder Andrew Wolan will take a look back to see what motivated and inspired him to create the site, and it's lasting influence on the community. 
+
+(2022 version of original talk from 2021, which has corrections and additional content based on feedback)
+
+NOTE: by request, auto-generated Closed Captioning text have being proof-read for correctness and set with proper timing. Work is now 100% complete! (June 13, 2023)
+- - - - - - - - - - - - -
+Timeline:
+0:00 - "Welcome to RWX 2022" Montage
+
+Part 0: Introduction
+1:45 - Start of Panel / Crowd Interactions
+
+Part 1: "SSRG Who?" Introduction to major panel topics
+3:42 - (Intro) Who is Andrew Wolan?
+5:17 - (Intro) What is SSRG?
+6:21 - (Intro) What is the Sonic ROM Hacking (Modding) Community
+
+Part 2: Why I created SSRG 
+8:10 - (Part  2) The 90's
+9:24 - (Part  2) Misconceptions
+11:39 - (Part  2) BBSes
+13:18 - (Part  2) Web of opportunity
+14:37 - (Part  2) Motivation in the form of "The Bet"
+
+Part 3: Birth and Rise of SSRG
+16:05:  (Part 3) Birth of "Sonic Stuff",
+21:25 - (Part 3) Why the name "Sonic Stuff"?
+23:41 - (Part 3) Group Standards
+27:19 - (Part 3) SFGHQ
+28:27 - (Part 3) Explosion in popularity
+
+Part 4: My departure 
+28:58 - (Part 4) My Departure - Why I left
+29:40 - (Part 4) Why I left for good?
+31:26 - (Part 4) Why would anyone tolerate bad behavior?
+32:30 - (Part 4) Dark Side of the Sonic Community
+
+Part 5: Epilog (Legacy, Retrospective Observations, & That Bet)
+33:06 - (Part 5) SSRG's Legacy
+35:18 - (Part 5) Retrospective Observations
+37:49 - (Part 5) ... And what about that bet?
+
+Part 6: Q&A
+40:31 - (Q&A) Community & Post-college career advice
+42:20 - (Q&A) Do you miss the Sonic Modding Scene?
+45:31- (Q&A) Favorite 2D and 3D Sonic game
+46:10 - (Q&A) Sonic 1 prototype 
+48:30 - (Q&A) Tokyo Toy Show demo
+51:43 - (Q&A) Sonic Xtreme
+53:21 - (Q&A) Time to play modern Sonic games?
+
+54:06 - (Wrap-Up) Coming Attractions & Space Banana
+
+55:35 - (BONUS SEGMENT) Mysterious Lost Song
+59:38 - Credits
+
+- - - - - - - - - - - - -
+Content Corrections:
+At 33:52 - Sonic Hacking Competition (SHC) was incorrectly stated as being run by Sonic Retro. It is run independently of Sonic Retro, though it receives promotional support from the folks at Sonic Retro and the current SSRG.  (Hence my confusion.) The SHC was first held back in 2002, and was created by Nayr T'nargh, a SSRG staff member.  (Whether or not the event was hosted on SSRG or elsewhere is unclear.) As of 2010, the competition is managed by Spanner while the SHC website (https://shc.zone/) is run by Cinossu.
+
+- - - - - - - - - - - - -
+Video Fixes from last time:
+Per request, I made sure the audio quality was better this time around compared to the video for the 2021 talk. Most significant complaint was there was too much "echo". Turned out my Sony handicam video camera, which has great audio pick-up for when someone in the audience is talking, was also the source of the excess echo. That audio channel was only used when necessary.
+
+Also, my main camera went haywire once again. Though the zoom was set correctly, it went out of focus after about 15 minutes as the projected image was being adjusted. (The image also came-out darker than I wanted because the bright screen confused the auto contrast mechanism in the camera.) Thankfully, I had a second camera focused on me for the entire talk.  However, its footage was recorded video at a lower 720p30 resolution and had to be cropped, which lead to blocky video. Not wanting a repeat of the "blocky" main camera angle footage like last time, I painstakingly enhanced the video clips from that camera angle with Topaz Video Enhancer AI, leading to a picture quality that I am happy with.
+
+- - - - - - - - - - - - -
+Bonus Content:
+
+Don't Touch My Car (demo) - Damian Grove
+https://soundcloud.app.goo.gl/JwGZc
+
+- - - - - - - - - - - - -
+#retroworldexpo #retroworldexpo2022 #sonic #sonicthehedgehog #SSRG #hacking #modding #romhacking #gaming #history #90s #1990s #wolan #andywolan
+Ask
+
+
+
+
+In this video
+
+
+Chapters
+
+Transcript
+Search transcript
+Search transcript
+
+Chapter 1: "Welcome to RWX 2022" Montage
+0:2020 seconds[Music]
+0:4242 seconds[Music]
+1:151 minute, 15 secondsAndy> All right. How's everyone doing? Audience> Good.
+1:211 minute, 21 secondsWe had some technical difficulties getting started today. Had a possible blown projector bulb ...
+1:281 minute, 28 secondsNo rush.
+1:351 minute, 35 secondsAll right. We are already running into our allotment of time here, so, let's get going.
+1:441 minute, 44 secondsUm ... Come on, let's go. All right. Action. "Hey!" Okay good.
+Chapter 2: Start of Panel / Crowd Interactions
+1:541 minute, 54 secondsAlright. Hello and thankful for coming to my panel, the early days of Sonic ROM hacking.
+2:002 minutesI'll be talking about the creation of the Sonic stuff Research Group, particularly what inspired me to create the group, the technical challenges I overcame, and it's continued Legacy.
+2:112 minutes, 11 secondsAnd fun stat: this will be the third time I am giving this talk as I embark on a summer talking tour of sorts.
+2:172 minutes, 17 secondsI just spoke a few weeks ago at Drexel University, today I'm speaking here at Retro World, and then a talk at the the University of Delaware in a few weeks. So, that's some pretty cool stuff.
+2:292 minutes, 29 secondsDisclaimer: this lecture is a work in progress. I've done my best to present information as accurately as possible.
+2:352 minutes, 35 secondsSome details may have been stated incorrectly or omitted erroneously. So, feel free to contact me with any corrections. I will have my contact information at the end of this presentation.
+2:442 minutes, 44 secondsAlright, so. Let's do a familiarity check. Could you please do me a favor? If you're familiar with the character, "Sonic the Hedgehog", could you please clap your hands?
+2:532 minutes, 53 seconds[Applause]
+2:552 minutes, 55 secondsAnd please clap your hands (loudly) to draw away attention that "Norm The Gaming Historian" is getting (next door)?
+2:592 minutes, 59 seconds[Light Applause]
+3:013 minutes, 1 secondUh, can we do a little louder than that? Come on. There we go!
+3:053 minutes, 5 secondsAll right, cool. Awesome. Now, can you please clap if you are familiar with either "Sonic Mania" or "Sonic Origins"?
+3:123 minutes, 12 seconds[Applause with a maraca shaking]
+3:143 minutes, 14 secondsOkay, cool. And for the big one: please clap your familiar with, the "Sonic Stuff Research Group"?
+3:203 minutes, 20 seconds[Small applause with a maraca shaking]
+3:233 minutes, 23 secondsSmall claps there! Yeah, come on in. Andy> Are you ... um you're for the panel right?
+3:313 minutes, 31 secondsLance> "I'm Lance" Oh, you're Lance! Okay. Yeah we had a little projector issue. Lance> Yeah, that is why I came-up with a spare.
+3:383 minutes, 38 secondsYa, I think we're good now.
+Chapter 3: (Intro) Who is Andrew Wolan?
+3:423 minutes, 42 secondsOk. Cool Okay, so part one: "'SSRG Who' An introduction". You've never heard the song stuff research group? Well, it looked like most people here did, but we'll get into that.
+3:513 minutes, 51 secondsSo, who am I? My name is Andrew Wolan. Back in the 1990s and early 2000s, I was best known for creating or sponsoring various popular gaming themed projects and websites.
+4:024 minutes, 2 secondsIt began with Emulation Zone back in 1996, which started out as a site that talked about console emulation.
+4:074 minutes, 7 secondsIt later branched out to cover a range of gaming and console emulation themed projects such as: ROM hacks and hacking utilities, video game fan sites, fan made and homebrew games,
+4:184 minutes, 18 secondsnews coverage of the gaming industry, a console emulation themed search engine slash link database, which was rather unique time before Google took over the world, an Internet radio network, and more.
+4:324 minutes, 32 secondsAnd here's a sampling of the sites I either created or sponsored during that time. The Sonic Fan Games HQ is one, as Lance, or um as Al is fixing the screen over there.
+4:444 minutes, 44 secondsSonic Fan Game HQ is one, Secrets of Sonic Team, Sonic Robo Blast 2 is a another sponsored project, Sonic HQ, and others. Of all these sites, today I'm most known for being a creator and
+4:534 minutes, 53 secondsco-founder of, (let's see if this laser pointer is working), the Sonic Stuff Research Group.
+4:594 minutes, 59 secondsAnd fun fact, the site "Emulation Zone" was launched on August 28 1996, so today is the site's 26th birthday!
+5:075 minutes, 7 seconds[Applause & maraca] I was going to bring cake, but I didn't think it'd be allowed. We have a table over that I could have used used, but, meh.
+Chapter 4: (Intro) What is SSRG?
+5:175 minutes, 17 secondsSo, what is the SSRG? Now, I had a hard time coming up with a good description about the site. So instead, I came-up with an elevator pitch description I feel
+5:245 minutes, 24 secondssuch as all the major points. It was founded in the mid 1990s by myself and future "Sonic Mania" and "Sonic Origins" developer, Simon "Stealth" Thomley, the SSRG popularized hacking of old Sega Genesis Sonic the Hedgehog games by helping to expose the secrets contained within them.
+5:385 minutes, 38 secondsThe site also helped make hacking of old video games accessible to a mainstream audience, and would be responsible for launching the modern Sonic ROM hacking scene. The site also
+5:465 minutes, 46 secondspopularized Sonic fan games which led to the official release of the Sega game "Sonic Mania", which was developed by fans who got their start at SSRG. It was even voted "Best Sonic
+5:545 minutes, 54 secondsthe Hedgehog" focused website in 1999, 2000 and 2001. And because of my early contributions community
+6:006 minutesleadership and support, I have been recognized as a "founding father of the Sonic ROM hacking", though I feel "stepdad" is a more appropriate term; I didn't invent Sonic ROM hacking, I adopted it,
+6:096 minutes, 9 secondsraised it, taught moral values, and then after it got older it told me, "You're not my real dad!", left and now it won't speak to me. It would be nice to get a Christmas card every so often for my troubles, but meh.
+Chapter 5: (Intro) What is the Sonic ROM Hacking (Modding) Community
+6:236 minutes, 23 secondsSo, what is the "Sonic ROM Hacking Community"? It's a community devoted to uncovering secrets found within the Sonic games, such as lost levels, unused graphics, and other game assets.
+6:326 minutes, 32 secondsThis information is extracted from: commercially released games, prototypes, old press releases, magazine articles, the development process itself, and more. Whatever we get our hands on pretty much.
+6:416 minutes, 41 secondsThe community also documents technical details about the game and also provides disassemblies which allow others to create mods ranging from simple sprite swaps to new characters,
+6:516 minutes, 51 secondslevels, artwork, and even new gameplay. The data collected is a culmination of the contributions made by many MANY people, not just a few folks, and is fueled by the fact that the game itself
+7:017 minutes, 1 secondis hidden with so many secrets that it makes for a fun and addictive technical treasure hunt.
+7:067 minutes, 6 seconds And here's a list of my favorite Sonic ROM hacks that were made over the years. I was
+7:147 minutes, 14 secondsonce asked what I thought was the most influential ROM hack, and I feel it would easily be the "Sonic 1 and Knuckles" hack by Stealth. It did something Sega was unable to do at the time,
+7:247 minutes, 24 secondsat least publicly, which was makes Knuckles a playable character in Sonic 1. And what he did was he took data from like three different versions of the game: a prototype , the
+7:327 minutes, 32 secondsfinal version of Sonic 3, and I forgot what else he used, but he kind of mashed it together into a Frankenstein kind of project and pulled it off that way.
+7:437 minutes, 43 secondsAnd to think, this all started on a website founded up I-91 in Western Massachusetts !! No clap this time?
+7:537 minutes, 53 secondsYeah, Western Mass yeah representing right? While it might seem easy to dismiss the
+7:597 minutes, 59 secondsearly contribution as minor accomplishments compared to hacks made today, they were the early stepping stones that made more elaborate hacks possible. Furthermore, the community had
+8:078 minutes, 7 secondsto start somewhere, and SSRG was that starting point. All right. "Part Two: Why I created SSRG"?
+Chapter 6: (Part 2) The 90's
+8:168 minutes, 16 secondsNow, to understand why I created the SSRG. you need to first understand the mindset I had
+8:228 minutes, 22 secondsat the time, and the best way to do that is to go back in time to the early 90s, (and you can include the mid to late 80s as well.) So technologically speaking, it was an exciting time. There are observable leaps in performance being made yearly. If you weren't paying attention you could miss out.
+8:368 minutes, 36 secondsSo for example, the blocky graphics scene in the Atari 2600 game led to the cartoon-like
+8:448 minutes, 44 secondsgraphics in the Sega Genesis 10 years later. And the TV show "Reboot" hinted at the possibility of real-time 3D render graphics in the near future for video games.
+8:528 minutes, 52 secondsThe Sega versus Nintendo rivalry was at its peak. Nintendo had just found their 16-bit stride with the SNES, while Sega finally found their mascot with Sonic to Hedgehog.
+9:059 minutes, 5 secondsThe internet would be unrecognizable to many of today's users. It was not ubiquitous. Instead, it was a new, mysterious, and inaccessible place to many ... but we all knew would be the future sooner or later.
+9:189 minutes, 18 secondsAnd Sega was busy confusing customers with the term, "blast processing".
+9:229 minutes, 22 seconds"Crazy ideas and misconceptions". So speaking of "blast processing" ... can you hear me fine? yeah
+Chapter 7: (Part 2) Misconceptions
+9:309 minutes, 30 secondsOkay good. So speaking of "blast processing", the term was famously touted during during TV ads promoting the release of Sonic the Hedgehog 2. At least in the United States. No one really
+9:409 minutes, 40 secondsknew what the term meant, but we all wanted it. So as a budding computer geek at the time it got me thinking, "if Sonic 2 runs that fast a $200 console, how much faster would it run
+9:509 minutes, 50 secondson a modern PC costing 10 to 20 times as much?" Of course I was I was oblivious to all the computer architectural differences but I was still curious. The secret's in the VDP, not the CPU !
+10:0210 minutes, 2 secondsThen one day a neighborhood friend of mine showed me ads in a magazine for a device, um for two devices called the "Super Magic Drive" and "Super Wild Card". It allowed you to back up,
+10:1110 minutes, 11 seconds("back up",) Sega Genesis and Super Nintendo game cartridges respectively to floppy disk. An image of the Super Magic Drive is right there.
+10:2310 minutes, 23 secondsIt was rather expensive, $400 to $600 if I'm not mistaken, which was the cost of a modest game library. But the device got me thinking, "if the game could be copied to a standard
+10:3310 minutes, 33 secondsfloppy disk, does that mean you could also play that game on a PC?"
+10:4010 minutes, 40 secondsWe assumed that software, IE emulators, to run these ROM images on a PC not only existed, but they were also developed by Sega and Nintendo to aid game development, meaning they would
+10:5010 minutes, 50 secondsplay perfectly, and thus such software was only accessible to "Elite" members of underground communities. So you needed to know someone in order to get a copy. Now did I know any such
+10:5910 minutes, 59 secondspeople? No. But it didn't stop me from these trying. So I poked around all the BBSes in
+11:0511 minutes, 5 secondsmy area, and the closest I got was a BBS that claimed to have ROM images of various Super Nintendo and Sega Genesis games. They wouldn't let me join because I wasn't "Elite" enough.
+11:1611 minutes, 16 secondsBut keep in mind that the internet as we know today did not exist. It was not easy to find answers to these seemingly easy questions. (There was no Google!) As a teen
+11:2511 minutes, 25 secondsearly 90s it was hard to find information on such niche subjects unless you had connections, so that made finding answers to my ideas a lot harder.
+Chapter 8: (Part 2) BBSes
+11:4011 minutes, 40 secondsBBSes. So prior to the Internet (going mainstream), the only real source of Niche information available to me at the time were the forums on local BBSes.
+11:5111 minutes, 51 secondsLike for asking help on a level in the PC game for example. So was it is a BBS?
+11:5611 minutes, 56 secondsPer Wikipedia, it's a computer server running software that allows users to connect to a system using a terminal program primarily over a dial-up connection. Once logged in, a user can perform
+12:0512 minutes, 5 secondsfunctions such as: uploading and downloading software and data, read news stories and bulletins, exchange messages with other users through public message boards,
+12:1412 minutes, 14 secondsand sometimes via direct chat. (Via multi-node BBSes.) Their size ranged from a single node to a multi-node large networks, such as AOL and Prodigy. Some were subscription based again like AOL and Prodigy.
+12:2512 minutes, 25 secondsWhile most BBSES tend to be free, only limited by your (local) calling range. Some free BBSes were
+12:3112 minutes, 31 secondsniche based, with focused content. And in a sense it was similar to the Internet at the time, but at a much smaller scale. So imagine having to make a long distance phone call just to download the latest graphics drivers. That was actually a thing at the time.
+12:4312 minutes, 43 secondsSo as a teen, I frequented the local BBSes, at least the free ones. I thought they were
+12:5112 minutes, 51 secondscool, and had to create a desire to run my own BBS one day. But there was a problem: they were cost prohibitive, especially when you're a teen little or no disposable income.
+13:0013 minutesFirst of all, you have to have a dedicated PC to serve as a BBS server. You needed a dedicated phone line for people to call in on. You could only serve one person per phone line at a time,
+13:0913 minutes, 9 secondsand was typically limited to people within your calling range. But, I kept the dream of running one of my back pocket, that someday I'll be able to afford to run my own one day, that I might run my own BBS. And then came the Internet.
+Chapter 9: (Part 2) Web of opportunity
+13:2013 minutes, 20 secondsIn the mid 90s the dial up Internet access had gained mainstream appeal. It gave the general public access to more information than that found on BBSes.
+13:2813 minutes, 28 secondsThis in turn allowed me to pursue my questions on console emulation, and thus discover the console emulation community on IRC chat. Many ISPs offered free web hosting
+13:3813 minutes, 38 secondsas part of their Internet access package, and I quickly realized implications. Once a website was uploaded, it would run a remote server, not on my PC, so there's no need to have dedicated
+13:4813 minutes, 48 secondscomputer to run as a server. It could serve multiple people at once from anywhere around the globe,
+13:5413 minutes, 54 secondswhich at the time was mind-blowing. It was limited to how much data I could post at a time, think tens of megabytes versus hundreds or even gigabytes of data if you had your
+14:0214 minutes, 2 secondsown BBS. But the bandwidth was much higher on a web server. I think megabits versus a
+14:0914 minutes, 9 seconds33Kbps max on a BBS node. And some ISPs had generous traffic and/or space quotas,
+14:1614 minutes, 16 secondsor did not strictly enforce their quotas, allowing for growth on a budget. And also,
+14:2314 minutes, 23 secondsthe web has a graphical interface and not a text interface. (Modern interface.) So in other words, it addressed the issues I had hosting a BBS. So maybe I should build a website one day instead of a BBS?
+14:3214 minutes, 32 secondsAnd if so, what would it be about?
+Chapter 10: (Part 2) Motivation in the form of "The Bet"
+14:3714 minutes, 37 secondsThen came the motivation. So with the web being the next thing, a group of college buddies made a friendly no cash back to see who could come up the best website. This contest was significant
+14:4714 minutes, 47 secondsfor me because it encouraged me to not only start a website, but create one that was unique enough to win this little contest. So now I knew I wanted to create a website, but I wanted to cover
+14:5514 minutes, 55 secondsa subject that others were not doing at the time, or not well. Something unique that would be a contribution to the growing web. So, I settled on two ideas. The first was a console
+15:0415 minutes, 4 secondsemulation website that was suited for a general audience named, "Emulation Zone". Now at the time trustworthy information a constant emulation was hard to find, and there were many fake
+15:1215 minutes, 12 secondsemulators circling around as well. So there was a real value in providing accurate information on this growing field. And the second site was a Sonic the Hedgehog
+15:2215 minutes, 22 secondsfan site that focused on the games themselves, and not in fan material. The site was named: "Andy's the Hedgehog Webpage My Way". [Get the Frank Sinatra reference?]
+15:3015 minutes, 30 secondsAnd fun trivia fact that sites often misnamed as: "Andy's Hacking Station", which is likely confused with the site, "Tom's Hacking Station".
+15:3815 minutes, 38 secondsAnd both of these sites kicked off in the summer of 1996, 26 years ago today. Audience> Who's that in the photo?
+15:4415 minutes, 44 secondsThat's me, 26 years ago. Audience> Wow [Laughter] That photo was taking at the computer lab at school.
+15:5115 minutes, 51 secondsI don't think they knew I did that, but whatever. [The photo! It's alive!] Andy> What was that? Audience> I wishI was that cool 26 years ago.
+16:0016 minutesYeah. Sneak in there and be like, "yeah look at me." "Part Three: Birth and Rise of SSRG". All right. "The birth of "Sonic Stuff" Subsection".
+16:1116 minutes, 11 secondsSo after gaining access to console emulators on the internet, I eventually scratched my itch on seeing how Sonic the Hedgehog would play on a PC. From there I turned my
+16:1916 minutes, 19 secondsattention to Sonic & Knuckles "Lock-on Technology" gimmick. So after obtaining ROM images of "Sonic & Knuckles" and "Sonic the Hedgehog 3", which in itself was a challenge at the time,
+16:2916 minutes, 29 secondsI figured out how to merge the carts together and later wrote a document about it, and named it the "Sonic & Knuckles Lock-on Technology Hacking Guide". The guide was published on "Emulation Zone",
+16:3816 minutes, 38 secondsin a subsection called "Sonic Stuff", and would become the community's first Sonic ROM hacking guide.
+16:4416 minutes, 44 secondsHow are we doing on time by the way? I know we start a little late. 1:20? Okay.
+16:5216 minutes, 52 secondsAll right. Gosh, we're doing pretty good. Am I going too fast, or is the speed okay? Okay. I don't want to run over into the next panel's time as I did last year.
+17:0117 minutes, 1 secondAll right. So shortly afterwards I became online friends with Stealth. He showed me a screenshot of what is now known as the hidden credits listing on the "Sonic Team Present" screen in Sonic 1.
+17:1217 minutes, 12 seconds(Center image) The screenshot was added to the growing Sonic stuff subsection, which was then promoted to
+17:1817 minutes, 18 secondsits own page on "Emulation Zone". We then started talking about the oddities and secrets found in the Sonic the Hedgehog games. And during this discussion I recalled the conversation I had a few years prior with some high school friends about some weird images they found on Sonic CD.
+17:3317 minutes, 33 secondsI didn't think much about at the time, but I did find it curious, and little did I know that was my first exposure to the secrets found within the Sonic the Hedgehog games.
+17:4117 minutes, 41 secondsAnd it was at that moment I realized that the Sonic games were just packed with secrets and other fascinating oddities left over from development. I also realized that no one was
+17:5017 minutes, 50 secondstrying to document it either, which presented an opportunity. And for whatever reason it seemed taboo to others at the time to talk about it. At this point my interest in Sonic
+17:5917 minutes, 59 secondsgames and console emulation merged, and I wanted to focus on digging to the games or hacking to them to unlock their secrets. My chief motivation was the fact that, again, no one
+18:0718 minutes, 7 secondshad a website covering this topic never mind trying to explain any of it. In fact, I was surprised that while other major game series had hacking communities and editing
+18:1718 minutes, 17 secondstools for their games, none had appeared for the Sonic the Hedgehog games. For example, the Mario games had a tool like called "Mario Improvement". Does anyone remember that tool? "Mario Improvement"?
+18:3018 minutes, 30 secondsI think Nintendo forced them to shut the website down, maybe that's why.
+18:3418 minutes, 34 secondsAudience> Sounds like Nintendo All right. One big secret that was starting to be discussed at the time was the possible
+18:4418 minutes, 44 secondsexistence of a missing level in Sonic 2. It was fueled by screenshots of an unknown level in Sonic 2 found in gaming magazines, which is the image on the screen. And a hacker by
+18:5418 minutes, 54 secondsthe name of "Tom Sonic" [MST3K reference?] figured out how to access the remnants of this level in a the commercial release of the game using a game cheat device, thus proving the existence
+19:0319 minutes, 3 secondsof the level. The graphics were garbled, as seen the photo, but it was otherwise playable.
+19:0919 minutes, 9 secondsAnd sometime later, Andre Dirk came forward to announce that he had a cartridge with Sonic 2 that contained the missing level. The cartridge is believed to contain a copy of a Sonic 2
+19:1819 minutes, 18 secondsprototype that was stolen from a trade show and later distributed in underground markets in Hong Kong I later invited him to join SSRG, or "Sonic Stuff" as it was known at the time, which he did.
+19:3219 minutes, 32 secondsAnd with site growing in size, I figured it was appropriate to rename the site through reflect its growth, and thus "Sonic Stuff" was renamed to "Sonic Stuff Research Group"
+19:4219 minutes, 42 secondsSo we went from two people to three, and I figured, "hey we're a group now", so let's rename it accordingly.
+19:4919 minutes, 49 secondsWhile Andre Dirk's prototype proved the existence of a playable [and fully functional] lost level, did he did not have a means to dump the ROM image and share it with others.
+19:5619 minutes, 56 secondsSince the cart in question was once available in the underground markets of Hong Kong, it is possible that the cart had been dumped by someone in the region and placed online.
+20:0620 minutes, 6 secondsSo using this approach, a person by the name of "Simon Wai" scanned various Chinese language websites in hope of coming across an image of the prototype.
+20:1320 minutes, 13 secondsAnd so a few months after Andre's announcement, Simon Wai came across the prototype on a Chinese Geocities website.
+20:2120 minutes, 21 secondsIt was the same as Andre Dirk's and it allowed fans to experience the lost level for themselves.
+20:2720 minutes, 27 seconds And after Simon's announcement, I went out my way to ensure Simon received credit for discovery. And today, the ROM image is known as the, "Simon Wai Sonic 2 BETA ROM", thanks to my actions.
+20:3620 minutes, 36 seconds And I think it's one, if not the only prototype, to be named after person not associated with the development of the game.
+20:4420 minutes, 44 secondsIn hindsight, it should have been named the "Dirk/Wai Sonic 2 BETA ROM". After all, Andre Dirk was the
+20:5020 minutes, 50 secondsonly person known to have a physical copy of the ROM, while Simon Wai went on his way to track down the ROM image. You could also argue that this ROM was common knowledge to
+20:5920 minutes, 59 secondsin some circles in China back in the day, so what Andre and Simon did was introduce a prototype found in Asia to the Western World, which gives the idea on the information disconnect the
+21:0921 minutes, 9 secondsworld still had at that time. Which was the late 90's at this point.
+21:1821 minutes, 18 secondsAnd shortly after this time, Simon Wai joined the SSRG team.
+Chapter 11: (Part 3) Why the name "Sonic Stuff"?
+21:2621 minutes, 26 secondsSo you might be thinking, why did I name the site "Sonic Stuff"? Couldn't I have come-up with a better, more clever sounding name?
+21:3221 minutes, 32 secondsWell, believe it or not, the site's name was influenced by a local sporting apparel store named, "Sports Stuff". It's a store that was advertised heavily on local television, so it was a name that we all heard now and then.
+21:4321 minutes, 43 secondsThe name "Sonic Stuff" was not meant to be permanent, but as a collection of Sonic related oddities grew, I struggled to come up a word that properly categorized
+21:5121 minutes, 51 secondsall the "Sonic the Hedgehog" related stuff that we were collecting. So "Sonic Stuff", stuck. (Tongue twister there.) Furthermore the later renaming to SSRG had a nice ring to it, so "Sonic Stuff" became permanent.
+22:1022 minutes, 10 secondsAll right, "Growing the site". In order for the site to continue to grow, it became obvious that I needed to learn about ROM hacking. Outside of digital electronics I was not well versed in low-level computer hardware architecture, nor had I done any assembly level programming.
+22:2222 minutes, 22 secondsAnd thus I had a little knowledge on how to hack ROM images, but I was still willing to learn. But how would I go about doing this? Well, surround myself with people knowledgeable about ROM hacking.
+22:3122 minutes, 31 secondsI would go out and recruit the best ROM hackers I could find to join the group. But how would I go about in recruiting them? It's not like I had a budget to pay them anything.
+22:4022 minutes, 40 secondsWell, prior to SSRG's renaming, "Emulation Zone" underwent a heavy back-end transformation.
+22:4522 minutes, 45 secondsThe entire site was moved off of my ISP's server and onto a new host called ZTNET, which is operated by Zach Williams, and is still our host to this day.
+22:5722 minutes, 57 secondsThe site was also moved to its own domain name of "Emulationzone.org". And fun fact: (prior to the move) we announced that we were buying "Emulationzone.com",
+23:0523 minutes, 5 secondsand a few days later some cyber squatter bought it before we could. And they later tried to sell it to us for thousands of dollars. So, we got emulationzone.org instead. I even contacted
+23:1423 minutes, 14 secondsthe guy recently, and he says he wants $2,800. I'm like, "I'll see you in another 30 years", and see if you've changed your mind.
+23:2223 minutes, 22 secondsThe move allowed the site to grow in capacity, have dedicated server resources if needed, and had the capacity to host other projects and websites, which at the time was a big deal.
+23:3423 minutes, 34 secondsSo to recruit talent, I leveraged what server resources I had and offered free hosting.
+Chapter 12: (Part 3) Group Standards
+23:4223 minutes, 42 secondsNow, as SSRG grew, in the back of my mind there was a set of standards which I had this site adhere to. It may not seem like much, but I feel these standards
+23:5023 minutes, 50 secondsare what helped grow SSRG and recruit the best. In fact, the Sonic ROM hacking sites of today follow these more or less. So the first one is, "always credit the person who contributes to a finding".
+24:0124 minutes, 1 secondI.E., give credit to where it is due. This stemmed from a class discussion in college about citing work in academia. Namely, my teacher, Professor James Allen at UMass. [Remember me?!?]
+24:1024 minutes, 10 secondsIt's a simple gesture that shows appreciation, which in turn encourages further contributions by others.
+24:1724 minutes, 17 secondsNumber two, "collect all information to some kind of formal, and sharable, documentation form." Instead of having information scattered on multiple websites, consolidated it into one
+24:2624 minutes, 26 secondsformal document or website to make it easier to find and share information. It was ambitious in an era before wikis or web-based office applications,
+24:3424 minutes, 34 secondsand required a lot of manual work. But we still went for it. Number three: "document how certain hacks were performed so others could
+24:4124 minutes, 41 secondslearn from them and recreate them." As I said earlier, I wanted to learn how to hack ROM images, but I had no clue how. The next best thing I could do was surround myself with
+24:4924 minutes, 49 secondsknowledgeable people and learn from them. For example, Tom Sonic, who was pretty helpful.
+24:5324 minutes, 53 secondsWhile he was compiling his hacking docs, I asked if he could explain how he found the hidden level of Hidden Palace Zone in the commercial release of Sonic 2, and he
+25:0125 minutes, 1 secondwrote a document discussing that. And then he released some other documents, so I said, "Hey, you go into a little more detail about how you uncovered those findings?" And in over time he provided a lot of
+25:0925 minutes, 9 secondsextra [supplemental] documentation to describe how he went about doing his work, which was really helpful, not only to me but to others.
+25:1625 minutes, 16 secondsAll right. "Number four: make contact accessible to the public at large".
+25:2025 minutes, 20 secondsDiscoveries and other information we're not going to be reserved to "elite" hackers, they would be available to everyone. The idea more or less followed the mantra that
+25:2925 minutes, 29 secondsMarc Andreessen and the public had for the Internet in the 90s. Does anyone recall who's Marc Andreessen? Founder of the worldwide web?
+25:3825 minutes, 38 seconds His idea was to make information free and accessible to everyone, and that is what drove the huge growth of the Internet in the 90's.
+25:4825 minutes, 48 secondsAll right. And the language we used should make it coherent for most audiences to understand. So we're going to try to tone down the technical jargon as much as we could.
+25:5625 minutes, 56 secondsAnd these standards allowed SSRG to grow in popularity. It also helped attract numerous talented hackers and programmers to the team.
+26:0526 minutes, 5 secondsAnd attract the best we did. So on screen is a list of hackers I then recruited for the site. They would become up-and-coming stars to the community.
+26:1426 minutes, 14 secondsThe most famous name here is "Taxman", who started the Sonic CD beta page and worked on the fan game,
+26:2026 minutes, 20 seconds"Sonic Retro". He would go on to work on "Sonic Mania". Another big name is Tom Sonic, who's early contributions helped kickstart the ROM hacking community. Do any of these names look familiar up here, besides those two.
+26:3226 minutes, 32 secondsWhich ones? Audience> Christian Whitehead. Sonicblur. Ryan Langley.
+26:4226 minutes, 42 secondsHmm. Yeah. Ryan Langley, I'll talk more about him later.
+26:4826 minutes, 48 secondsAnyone else? Audience> What was Saxman's website? Andy> Saxman, he was a member of SSRG, and then he ... Audience> Did he have his own site at all?
+26:5726 minutes, 57 secondsAndy> He split off (of SSRG), and then I don't know what happened after that. Audience> I seem to .. maybe I am remembering things completely wrong, but did he do music?
+27:0427 minutes, 4 secondsAndy> Yes. Audience> He did! Andy> He played a saxophone, hence "Saxman".
+27:1227 minutes, 12 secondsHe actually did a recording of "Yakety Sax", which was actually pretty good.
+Chapter 13: (Part 3) SFGHQ
+27:2127 minutes, 21 secondsAnd speaking of Ryan Langley, Ryan Langley approached me one day about starting, the "Sonic Fan Games HQ," a website devoted to fan made Sonic the Hedgehog games. The site would
+27:3127 minutes, 31 secondstap into the growing interest in fan-made Sonic games. And at the time, SEGA had not released a major Sonic the Hedgehog game in four years so fans were starting to create their own.
+27:4127 minutes, 41 secondsThe proposed site would require a lot disk space and create a huge amount of server traffic, but would be unique. And Ryan asked me many years later, "why did you approve
+27:5027 minutes, 50 secondsthis site? Like you knew this would have been very costly"? I said hey I gave it okay because it was the natural logical next step for the growth of SSRG and the community. Simple as that.
+27:5927 minutes, 59 secondsAnd the site ended up being one of the most bandwidth heavy sites on the server but it proved to be very popular. The site's popularity would lead to Sage, or the "Sonic Amateur
+28:0728 minutes, 7 secondsGames Expo" run originally by Ryan Bloom. Not sure if he still does that or not, but it's a yearly event that features fan made Santa Hedgehog games from fans of all levels of experience.
+28:1828 minutes, 18 secondsAnd the big takeaway here is that the site was a starting point for some future game developers, which I will get into a little bit.
+Chapter 14: (Part 3) Explosion in popularity
+28:2728 minutes, 27 seconds"Explosion in popularity". So as the site continued to grow, it exploded in popularity. So much
+28:3328 minutes, 33 secondsso that it was voted best Sonic site three years in a row: 1999, 2000, and 2001 by TSSZ, a website that we hosted, though I'm confident there was no conflict of interest in that.
+28:4528 minutes, 45 secondsThe site was even available in five languages which at the time was a really novel idea.
+28:5028 minutes, 50 secondsNote the language selection menu bar below the logo.
+Chapter 15: (Part 4) My Departure - Why I left
+28:5928 minutes, 59 seconds"Part four: My departure" So in the fall of 2001 with the site at the height of its popularity, I stepped away from SSRG,
+29:0829 minutes, 8 secondsand handed it over to stealth. With the site doing so well, one might ask, "why did I leave?" Well for one, a lack of free time. I had just graduated from college, began a career in my field, and I was
+29:1729 minutes, 17 secondsstarting grad school. Therefore, I would not have the free time needed to handle the day-to-day responsibilities. Second, it was just becoming less fulfilling. I was spending less time working
+29:2629 minutes, 26 secondson technical endeavors and more on site management. And at first I was fine with that, but I later found myself spending most of my time mediating disputes, which is not the way I wanted to
+29:3529 minutes, 35 secondsspend my limited free time. And perhaps I could have worked through these issues. In fact, after I hand the site off to Stealth, it ran into some trouble, so I came back and tried to
+Chapter 16: (Part 4) Why I left for good?
+29:4429 minutes, 44 secondshelp restore order. But the following reason made me leave for good ...
+29:5029 minutes, 50 seconds... a broken PowerPoint presentation. [Laughter] The relentless, obnoxious behavior some people.
+29:5829 minutes, 58 secondsAs the site grew in popularity, it also drew the attention of numerous misfits and toxic influencers.
+30:0430 minutes, 4 secondsI didn't have the time nor the stomach to argue with people who just wanted to be obnoxious and fill out cruel to community members for their amusement. Now, as bad as
+30:1130 minutes, 11 secondsthey were, they still need an audience to support what they are doing. Otherwise, they would just fade away into oblivion. Sadly some community members actually defended these obnoxious individuals and their behavior, and even aided in their activities.
+30:2330 minutes, 23 secondsFor example, some would give passwords to protected areas of SSRG, or reinstate members who were kicked from forms etc. Eventually I had enough, so I left the community and shut the site down in in January of 2003. Some staff members left the community at that time as well.
+30:3730 minutes, 37 secondsIn addition, some would be contributors were scared away after witnessing some of the problematic community members antics. I do believe that some people are unfairly associating folks
+30:4630 minutes, 46 secondswho contribute in the early days of Sonic ROM Hacking with the misfits that made the community unpleasant. Perhaps not publicly, but maybe internally. It's unfair
+30:5630 minutes, 56 secondsfor the early contributors to the community, no matter how big or small. And one final note here on the site, it was shut down for some time but it was eventually handed over to Striker, who
+31:0331 minutes, 3 secondswith help from StephenUK, and OrdosAlpha, reopened it in 2005. Is Ken here?
+31:1231 minutes, 12 secondsOff camera> Hey that's me Andy> Take a bow.
+31:1531 minutes, 15 seconds[Applause]
+31:2031 minutes, 20 secondsCameraman today. He's also my ride since my car had issues.
+Chapter 17: (Part 4) Why would anyone tolerate bad behavior?
+31:2731 minutes, 27 secondsSo why would anyone tolerate their bad behavior, especially if it was so destructive and toxic to the community? Well for one, notoriety. Making a discovery or uncovering secret insider
+31:3731 minutes, 37 secondsinformation could lead to notoriety. But such information can be hard to obtain, and new discoveries can be far and few in between. Some community members were willing to dismiss
+31:4531 minutes, 45 secondsmorally questionable behavior to anyone that can produce new information. Second is social approval. Some people would enact questionable behavior to gain the social approval of problematic
+31:5531 minutes, 55 secondsmembers. Three, some were bullied or coerced, which oddly enough remains a problem the tech
+32:0032 minutesindustry to this day, preventing talent from entering the industry. And four,
+32:0732 minutes, 7 secondssome did it out of boredom, which goes to show their character. Now, would you risk your safety or dignity to gain the approval of people you don't even know? Probably not, but some would.
+32:1732 minutes, 17 secondsLike that image there?
+32:2132 minutes, 21 seconds"Unreleased information, just hop on in. Has sprites of Sonic wearing goggles."
+Chapter 18: (Part 4) Dark Side of the Sonic Community
+32:3032 minutes, 30 seconds"Dark Side of Sonic Community". Now don't get me wrong, the Sonic Hacking Community has good and talented people who are doing unique and innovative projects. But unfortunately, the community is also frequented by people whom you wouldn't want to associate with.
+32:4232 minutes, 42 secondsAnd they seem to come out of the woodwork whenever I appear, like I'm some kind of community Boogeyman.
+32:4632 minutes, 46 secondsBut don't let them spoil your experience, so my advice: be careful of your personal information when interacting with folks there. And use an alias, not your real name. It's not recommended for anyone under the age of 18. And to be honest, you may want to try a different community.
+33:0533 minutes, 5 secondsAll right. Epilogue. So what kind of Legacy did SSRG leave behind? What mark did it leave on the gaming community at large? Well for one, it inspired future websites
+Chapter 19: (Part 5) SSRG's Legacy
+33:1633 minutes, 16 secondsto follow and improved upon the model established by SSRG. Some would also argue that it also popularized the finding of unused and cut material from video games. Two, Sonic gaming secrets is still a popular topic, and new discoveries are still being discovered.
+33:3133 minutes, 31 secondsFor example, last year the Sonic 1 beta cartridge was found in the UK.
+33:3733 minutes, 37 secondsBack in 2021
+33:4333 minutes, 43 secondsNumber three, a vibrant Sonic fan game and Rom Hacking Community are still kicking and thriving. SAGE is still held yearly, and even raises money for charity,
+33:5233 minutes, 52 secondswhich I think is pretty cool. And there's something called the "Sonic Hacking Competition" or SHC.
+33:5933 minutes, 59 secondsIt's run by --Sonic Retro--. [Correction: it's run independently. See video descr.] It's like SAGE, but for ROM hacks.
+34:0334 minutes, 3 secondsAnd the period which I ran SSRG is regarded as the "Golden Age of Sonic ROM hacking", making it a model for other sites to strive towards.
+34:1234 minutes, 12 secondsAnd number five, the big one, various members of the committee went on to the game industry.
+34:1734 minutes, 17 secondsSo years later Stealth and Taxman would collaborate and work on Sonic Mania and also
+34:2434 minutes, 24 secondsSonic Origins. Various contributes to "Sonic Fan Games HQ" and SAGE would later going to work in the gaming industry. One such person was Jared Kasl, who started out doing level
+34:3334 minutes, 33 secondsmaps for games in the "Sonic Fan Games HQ", and would end up being a level editor for Sonic Mania. Another is Ryan Langley, which we've mentioned before, whose roots start at
+34:4234 minutes, 42 secondsthe Sonic Fan Games HQ, and led him to Half Brick and now with Pik Pok.
+34:4934 minutes, 49 secondsYarharhar, real name Andrew Maneri, he works at Unity Technologies (not United Technologies,) as in the "Unity Engine". And there are others, but they wish to remain anonymous at this time.
+35:0235 minutes, 2 seconds As for me I became the community Boogeyman of sorts ...
+35:0835 minutes, 8 seconds... so is my life.
+35:1335 minutes, 13 secondsHow are we doing for time here? We got plenty of time, okay. So it's been over 20 years
+Chapter 20: (Part 5) Retrospective Observations
+35:2035 minutes, 20 secondssince I last worked on SSRG, and are there any observations or lessons Learners I could that I can share that are relevant today? There are a few. One, never
+35:2935 minutes, 29 secondsunderestimate the value of creating a platform. Looking back , why was SSRG successful?
+35:3535 minutes, 35 secondsAt its core what SSRG created was a platform for people to share information and allow ideas to develop. Without it, things wouldn't have progressed as much as they had. Not only
+35:4635 minutes, 46 secondsthat, but having a platform also gives contributors a forum which to promote their work effectively with interested people. Thus, encouraging others to contribute, which in turn provides a feedback
+35:5535 minutes, 55 secondsloop into the system. So it's a like an evil genius system where things just kind of feeds into itself. [Seemed like a good analogy at the moment.] In the end, the most important step in establishing a platform
+36:0336 minutes, 3 secondsis to just go ahead and create it. The tools available today did not exist when SSRG was created.
+36:1036 minutes, 10 secondsbut we still managed to create our own. And remember, the site was created over email and text messages. Rarely were there any voice communications, and I
+36:1936 minutes, 19 secondsonly met one or two people in real life. Ken and I forgot what the other person was. [A reporter for TSSZ.]
+36:2736 minutes, 27 secondsEven to this day, 20 years later, I still haven't meet most of these people. Number two: Gatekeeping is okay to keep the riff-raff out.
+36:3436 minutes, 34 secondsNow I'm a firm believer in making the information SSRG collected public, but as SSRG grew in popularity, it attracted various troublemakers and riff-raffs,
+36:4236 minutes, 42 secondswhich was not something we had planned for. So, keep the information public, but also enact some barriers and gatekeeping to keep the troublemakers from becoming a problem with
+36:5036 minutes, 50 secondsday-to-day operations. AKA cyber security. Number three, this is just a general observation,
+36:5936 minutes, 59 secondsI feel we take for granted that we can speak to anyone around the globe as if they're in the next town. Back when I created the site, chatting with someone from another part of
+37:0537 minutes, 5 secondsthe world was a big deal. I remember talking to someone in Israel and Australia (for the first time), I was like, "Wow I'm talking to someone out there. This is so wild!" Now it's part of my day-to-day work.
+37:1637 minutes, 16 seconds I speak to be people within India, Europe, and across the US, and that's just in the morning.
+37:2037 minutes, 20 secondsSo... so today, like I said, I speak to people from all around the world just for work, and we've seem it take such communications for granted that we forget that we are interacting
+37:2937 minutes, 29 secondswith people from different countries and from different cultures, at least not until they mention that, "Hey today's a national holiday for us so we're gonna be taking the
+37:4037 minutes, 40 secondsday off so ...", and perhaps it's just a side effect of the Internet making the global the globe seem a bit smaller every year. But still a valid observation. And what about that bet I mentioned earlier?
+Chapter 21: (Part 5) ... And what about that bet?
+37:5137 minutes, 51 secondsSo, Dan Chandler, one of my friends, he had the "Waste of bandwidth" page, which was a site that ran various Java applets that displayed various graphics, and thus "wasted your bandwidth".
+38:0038 minutesMike Eager had a page that was so bad, his ISP deleted it!
+38:0538 minutes, 5 secondsThough looking back, we think he changed ISPs at the time, and thus they would have deleted it after he canceled his account. He now has political power so I wouldn't mess with him.
+38:1638 minutes, 16 secondsTom Connery, started TC Technologies and now runs Aniyme Technologies, a website design
+38:2338 minutes, 23 secondscompany. And as for me, I retired from emulation Zone in 2006, but I continue to run a handful of sub sites. I then started a website about softball, which later became VerdasysSoftball.com,
+38:3338 minutes, 33 secondswhich was featured in an article for the Wall Street Journal back in 2014. (July 2, 2014) And oddly enough, some of my early softball pages were archived as part of gaming history
+38:4338 minutes, 43 secondsof the web, likely because it was part of "Emulationzone.org" originally, but I find it really weird that people wanted to archive how badly I played in softball games. And so that's
+38:5338 minutes, 53 secondspart of Internet history and I can't change it ... but how many people can say that, like yeah, I played on a company softball team years ago and people still remember that?
+39:0539 minutes, 5 secondsOkay, so I'm at the end of my presentation, and we have 10 minutes for Q&A.
+39:1139 minutes, 11 secondsIf you want, please to take your cell phones out to take a quick snapshot of that this slide, which is for further enrichment. There's a nice documentary someone mentioned last year about BBSes.
+39:1939 minutes, 19 secondsIt's a really cool, it's BBSDocumentary.com. And also here is a video I like to mention called, " The Art of Wares". It's on Vimeo. Its a good documentary.
+39:3039 minutes, 30 secondsThey talk about the "Warez" scene, which are the people who shared pirated software, but they also talk about the artwork that went along with that,
+39:3839 minutes, 38 secondsand also what was considered the "elite people scene" of that time, so check it out if you want further context on that. Also, here's my contact information, so take a screenshot of that as well if you want it.
+39:5139 minutes, 51 secondsHere's my LinkedIn profile, my email address, my YouTube channel, where you will eventually find a recording of this talk, and my Instagram, which is has nothing to do with technology. It's just a site where
+40:0040 minutesI do cosplay photography, as a fun hobby. Like Mr. Banana over there ... wait what's your correct alias again?
+40:1340 minutes, 13 secondsMr. Banana> Well yeah. I'm the "Dirty Banana" "Dirty Banana!" Yes.
+40:1940 minutes, 19 seconds[Maraca shake]
+40:2240 minutes, 22 secondsToday he's Disco banana. That's right All right. So, that's the end of my talk.
+Chapter 22: (Q&A) Community & Post-college career advice
+40:3240 minutes, 32 secondsWe got plenty of time here for Q&A, so any big questions? You have a question? Sure.
+40:3940 minutes, 39 secondsYou were talking about earlier how you were in the scene and it was hard to really stay in the community and do things, because you graduated then you were trying to look for a job and everything.
+40:4940 minutes, 49 secondsI'm actually currently in that situation. I've been more of a lurker in the community but now I'm doing things after I have graduated.
+40:5640 minutes, 56 secondsHow would you try to find a like job within your field, but also still try to keep in touch with the community every now and then.
+41:0641 minutes, 6 secondsYeah so I got lucky. I got a job before I graduated so I cheated. But that's not the answer your looking for. And that was also before the crash of 2001 that's just how
+41:1641 minutes, 16 secondsthe market was back then, so I got lucky. But for you, I was doing a double
+41:2341 minutes, 23 secondsmajor in computer science and computer engineering, so working on hacking games was actually good
+41:2941 minutes, 29 secondsto develop my background in this material. So ... You could sneak it into a job interview and say,
+41:3541 minutes, 35 secondshey I do this on the side, just so they know that you're actively doing some stuff in the background (on the side), that so they know you didn't go to college and now are now allowing your skills rot.
+41:4541 minutes, 45 secondsSo, my advise for you? Find something that interests you, it doesn't have to be Sonic.
+41:5041 minutes, 50 secondsIt could be something else. Just something that you find yourself passionate about, and it's also something within your wheelhouse, so you can actually make contributions and
+41:5841 minutes, 58 secondsproduce something, so that when you go to a job interview, you can say hey here's this level I designed, or here's this mod I did, and I can talk to you about the architecture
+42:0542 minutes, 5 secondsof I don't know the 68k processor the Sega Genesis or the the 6502 processor in the NES for example. If you talk about that at a job interview you get their attention pretty quickly.
+42:1842 minutes, 18 secondsAll right. You got a question? So you're just completely out of the the Sonic Scene now, and you've been out for like 20 years, and like do you ... but you don't seem to like ...
+Chapter 23: (Q&A) Do you miss the Sonic Modding Scene?
+42:2842 minutes, 28 secondsyou seem ambivalent about it. Do you ever miss it? I mean I'm not happy at what how it end.
+42:3542 minutes, 35 secondsMy goal was, I make the site, I just hand it off when I'm done, and just be happy with that.
+42:4042 minutes, 40 secondsBut the way it ended with all that toxic stuff that happened,
+42:4742 minutes, 47 secondsleft the sour taste of my mouth. To me, I didn't mind if like someone made a website that was better than mine. I'm like, yeah go ahead. I'm not gonna
+42:5442 minutes, 54 secondsbe mad about it. It was just the way that, oh we like this guy better because he's obnoxious and a jerk everyone else. That's not the way it should be.
+43:0243 minutes, 2 secondsSo you have no desire to be involved, because right now it seems very it's very advanced now, there's wikis and it's full of information, and stuff, like you said, just dumped the Sonic 1 prototype. They're still really cool stuff coming.
+43:1743 minutes, 17 secondsI'd like to get involved in some projects. If someone were to ask me, "Hey Andy, we'd like to do a documentary
+43:2443 minutes, 24 secondsseries about hacking ROM images. We'll work with some of the hackers out there today so you can pick their minds." I'll be like, "Yeah I'll join that project."
+43:3043 minutes, 30 secondsBut ... I started SSRG as a solo project. Would I want to do that again? No. I just don't have the the time to do such a
+43:3943 minutes, 39 secondssolo project again. It was so time consuming, and it was just a labor of love to get to where it was at that time, and to do that again from scratch, I couldn't do that.
+43:5043 minutes, 50 secondsBut ... yeah, I mean there are bad people in the community, but they're also good people in there, and like I said I wouldn't mind working with other
+43:5943 minutes, 59 secondspeople that want to do something positive and make, I don't know,
+44:0444 minutes, 4 secondsa YouTube series on how to hack ROM images, or, I do these speaking engagements just for fun, and I have a fun time talking to people about it. Does that is your question?
+44:1544 minutes, 15 secondsWell, I guess I was basically curious because a lot of the people you mentioned are still
+44:2044 minutes, 20 secondskind of involved, and a lot of those people you mentioned in your talk are still involved in Sonic ROM Hacking to some degree. But ...
+44:3044 minutes, 30 secondslike ... from your talk, it seems to be in your past, you've moved on. Why is that?
+44:3844 minutes, 38 secondsYeah, it's because I became community Boogeyman. People blame me for all the problems in the past.
+44:4344 minutes, 43 secondsI just want to come in there and talk to people, and people just try to bring up the past, and it's like, dude, that was 20 years ago. Why are you still bringing it up? Wow, really?
+44:5144 minutes, 51 secondsOh yeah, they still do that. Wow, I didn't know. I'm just, like a high level lurker. I get excited when they release a new prototype but that's about it.
+45:0145 minutes, 1 secondYeah, I tried talking on the Sonic Retro Message discord, and I just said, "Hey I did this talk," and they're like, "oh it's Andy Wolan." It's like, ugh! And then they start all talking
+45:0945 minutes, 9 secondscrap about me, am I'm like "really?" Talk about the talk, make fun of my video editing, don't go after me personally ... Off camera> Or go after the ears at least .. Yes, go after my ears! Come on, I'm giving you a lot of good source material here.
+45:1945 minutes, 19 secondsOh, I actually bought some fox tails to match this outfit, but that's not gonna be ready for a few weeks, but I've been so cool to have a pair of matching tails like Tails from
+45:2845 minutes, 28 secondsthe video game series but ... perhaps next time. All right you have a question okay um Couple of questions. What is your favorite 2D Sonic game?
+Chapter 24: (Q&A) Favorite 2D and 3D Sonic game
+45:3645 minutes, 36 secondsSonic 1. Because of its simplicity. It's just Sonic, and the levels.
+45:4445 minutes, 44 secondsIt's simple. It's fun. They were exploring a lot of ideas, which you can you can tell from the
+45:4945 minutes, 49 secondslevel design. They found their stride with Sonic 2 and Sonic 3, but they had their own "flavor", whereas the "flavor" in Sonic 1 was little different, and I like that one better. Audience> What is your favorite 3D Sonic game?
+46:0046 minutes3D Sonic? Sonic Adventure 1. I had a lot of fond memories with that one.
+46:0646 minutes, 6 secondsAnymore? No? Okay. Audience> What did you think of the Sonic 1 prototype like when it finally
+Chapter 25: (Q&A) Sonic 1 prototype
+46:1346 minutes, 13 secondscame out? I was so stoked to play it, and I thought it was actually really interesting, it had stuff that there were little little
+46:2346 minutes, 23 secondstidbits that that hadn't even been seen in magazines, like everybody knew about the giant boulder in Green Hill, but we but what we didn't know, at least I didn't it wasn't documented
+46:3346 minutes, 33 secondsin those magazines, that it was in every act of Green Hill. It's like a running joke yeah throughout the throughout Green Hill Zone. It's in act one, act two, and then it's
+46:4246 minutes, 42 secondslike a joke that got lost, because if you know when you fight Eggman, it's like he grabbed the ball and you're fighting it, but in the final game joke is totally lost, you're just fighting some random ball, like, you see what I mean?
+46:5546 minutes, 55 secondsYeah, what they were trying to do with every level they're like Eggman would have his little spaceship
+47:0247 minutes, 2 secondsthing would follow a theme with the level, so in Spring yard he was supposed to have springs where he couldn't hit him in certain directions, and you would bounce off.
+47:1047 minutes, 10 secondsIt's not in the final, they found some parts in the prototype where they think ...
+47:1547 minutes, 15 secondsI don't think there is a boss in the prototype, or maybe there is... at least playable. In the protoype there is only one boss actually.
+47:2247 minutes, 22 secondsOnly Green Hill that's playable. But what did you think of that prototype overall, with like that it finally finally came out like after 20 years or more?
+47:3247 minutes, 32 seconds I want to buy it That's I want to do! It sold at auction for $13,182. Audience> Yeah, I thought it would sell for more.
+47:4047 minutes, 40 secondsI thought it was would (sell for more as well). I mean that, gee, if you bought it you could flip it already now for twice because of inflation. But, yeah, you're right, it had a lot of neat stuff in there. That's what made everyone go gaga over it.
+47:5247 minutes, 52 secondsAudience> It's fascinating. My favorite part, besides obviously the the missing boulder in the first level, is in Labyrinth Zone. It had like the alternative background that was shown in some
+48:0148 minutes, 1 secondmagazine screenshots, and then there's a cave that could act as air pockets, which tells you what they were thinking (when creating the levels). And it's those kind of details that shows us what they were thinking at the time
+48:0948 minutes, 9 secondsfor the game, and its fun to go back every so often, revisit, and think about like, oh, this is really neat. That they were thinking about putting this into the game.
+48:1648 minutes, 16 secondsAny other questions? In the back? You look like you have a question? No? Okay.
+48:2748 minutes, 27 secondsAudience> He has a question. Audience> In the future, I personally still have hope and think that there are
+Chapter 26: (Q&A) Tokyo Toy Show demo
+48:3548 minutes, 35 secondsSonic games that are unrelease betas. We know Sonic 1 that had those robots,
+48:4248 minutes, 42 secondsit was like purple guys with red gloves that were in the magazine showing the early alpha?
+48:5048 minutes, 50 secondsAndy> Did it hold Sonic into a ball or something? Audience> No, he's talking about the Tokyo Toy Show demo from 1990, that's been lost. Andy> Oh yeah yeah, the guy that would turn into a
+48:5948 minutes, 59 secondslittle ball, which I think they reused in the Spring Yard level, (in that part where) you go down that big ramp and this thing kind that looks like a fake Sonic (chases you)
+49:0749 minutes, 7 secondsAudience> Yeah, the umm, I know what you are talking about, the armadillo. Andy> Yeah, I think that is where they reused it in the game.
+49:1549 minutes, 15 secondsAudience> Yeah but I still have hope that we'll find that (prototype).
+49:2049 minutes, 20 secondsAndy> Yeah, the creator of Sonic asked everyone at SEGA, "Do anyone still have the Tokyo Toy Show demo?", but they can't find it.
+49:2649 minutes, 26 secondsBut there's people making their own ROM hack recreations and they actually did a pretty good remake, including that little sign that says ... I forget what it says, it's a giant sign that says "Welcome to Green Hill" or something.
+49:3449 minutes, 34 secondsAudience> I know there was an April Fools joke where someone posted a Sonic 1 prototype hack and said, "Hey, I have it". It was pretty convincing, I think one of the things ... Audience> We have the music from it weirdly enough. We have some of the music from it.
+49:4649 minutes, 46 secondsIf you look at TCRS, SEGA uploaded,
+49:5149 minutes, 51 secondspresumably the music from it. Sega's online service in Japan, Mega Net
+49:5849 minutes, 58 secondsI think it's called, like they had some kind of thing where you can dial up to Mega Net, with your Mega Drive, and listen to music from Genesis games, and the music they had from
+50:0750 minutes, 7 secondsSonic 1 does not match up to the final game, and people
+50:1450 minutes, 14 secondswho were at the trade show apparently say that that music matches their memory, but somebody recorded it off Mega Net, and its on YouTube, and it's a little different.
+50:2550 minutes, 25 secondsThe Green Hill Music is much faster, and the special stage is much slower, much more mellow. So it might be the music, presumably. Check it out.
+50:3850 minutes, 38 secondsAudience> Yeah and there's the whole side of the early betas of Sonic 1, there's the whole, uh, ever heard the cotton candy machine that was already ripped ...
+50:4750 minutes, 47 secondssorry, the popcorn machine, there was a cotton candy one where you flew in a tornado that was only knew was at one toy show, and it hasn't been seen since.
+50:5550 minutes, 55 secondsSo I just hope it was be found in the future. Andy> I mean there are rumors of people who have prototypes but they don't want to release
+51:0151 minutes, 1 secondit because when you see that Sonic 1 prototype went out for $15, 000, they're like oh well maybe
+51:0751 minutes, 7 secondsI can hang on to this for a few more years and maybe sell for like 100 Grand or 200 Grand and retire. Audience> If they don't degrade.
+51:1551 minutes, 15 secondsAndy> That's true too. Once they degrade, their value ... well ... yeah, that's true. For a prototype, yes. If it was like a commercially released, limited
+51:2351 minutes, 23 secondsrun, in a sealed box, it would still hold value, but, if it's a prototype then you say, "oh yeah this is The Prototype, but its memory contents that have faded away."
+51:3251 minutes, 32 secondsWell, you could be lying to us. You could have just added some ROM chips that you just threw in there and just put "Sega" on it, and did that. All right. Any other questions? We got a few minutes.
+Chapter 27: (Q&A) Sonic Xtreme
+51:4351 minutes, 43 secondsYes, question in the back. Back> What are your thoughts on Sonic XTreme? Do you know anything about that? I thought it was ... it didn't get released. I think it was maybe for the Saturn?
+51:5251 minutes, 52 secondsAndy> Yeah, it was a game developed for the Saturn. It was supposed to be "the" Sonic
+51:5851 minutes, 58 secondsrelease for that platform, if I understand correctly. It went through development hell
+52:0452 minutes, 4 secondsat Sega. There's some good documentaries about that. I think they tried to use, I think,
+52:1052 minutes, 10 secondsthe engine from um, Nights, yeah, and then the guy who created it was like, "No no no, you can't use my engine!", so they had to start all over from the beginning,
+52:1852 minutes, 18 secondsand they waited they wasted so much time going back to the drawing board because of some political reason, and that's why the game was incomplete, and they just said, "all right can it".
+52:2652 minutes, 26 secondsBut it had a cool idea with the fisheye view and you could kind of run around blocks.
+52:3152 minutes, 31 secondsThere was actually a demo, someone got a working version of it, yeah, you can actually play it,
+52:3752 minutes, 37 secondsit's nothing special, you can run around in a world and experience the 3D rotations
+52:4252 minutes, 42 secondsof the levels. I think there's rings and enemies. I could be wrong. Someone
+52:4852 minutes, 48 secondshad the source code, and they made it work on modern hardware. And work with that. It's pretty cool to check out just to see what they're thinking, and the fisheye effect I thought was a really interesting.
+52:5852 minutes, 58 secondsIt's something you can do easily with OpenGL, but they just put that into the game itself as a way to allow you to see more the field of view, more
+53:0653 minutes, 6 secondsof the gameplay. At that time, it was an innovative idea and I'm surprised no one else has tried that, but maybe they tried it out, and they realized it doesn't really add value. I guess.
+53:1853 minutes, 18 secondsSo any other questions? Yes, question in the back. Back> So you still play any of the modern Sonic games, when you find time to?
+Chapter 28: (Q&A) Time to play modern Sonic games?
+53:2853 minutes, 28 secondsAndy> Umm, I don't really have time to play the modern 3D ones, I mean I got Sonic Generations. I got that game, I played it for a little bit,
+53:3853 minutes, 38 secondsbut I just didn't have time to continue it like I wanted to. Audience> That's the reissue of the first few Sonics? ... oh, no no.
+53:4553 minutes, 45 secondsAndy> Sonic Origins. They remade everything ... Audience> Sonic Origins. I'm thinking of Sonic Origins.
+53:5053 minutes, 50 secondsAndy> yeah they took all the levels and remade them into 2.5D, and they also have a 3D version of each level.
+53:5753 minutes, 57 secondsAudience> Which was about 10 years ago right? Roughly speaking. Yeah. I think it was for the Xbox 360, so that generation.
+54:0354 minutes, 3 secondsAll right. Any questions.
+Chapter 29: (Wrap-Up) Coming Attractions & Space Banana
+54:0954 minutes, 9 secondsWe have about four minutes until the next panel. Speaking of the next panel, are the folks here, for the next panel, "Bootleg Games Are Actually Not Awful"? Are they here? They're
+54:1954 minutes, 19 secondsnot here. Okay. Well I'm gonna stick around for that one because I wanted to see if they talk about the Sonic 2 prototype, because like I said earlier, that was a bootleg that was
+54:2754 minutes, 27 secondspassed around in Hong Kong, and um ... are you are you running the next panel? Or are you here for the next panel? Audience> Either or.
+54:3354 minutes, 33 secondsAndy> Okay, I was wondering who the next panel host is. And later today, if you're, interested, at 4 P.M a guy by the name of Joe Granato is going to have a talk about the NES
+54:4454 minutes, 44 secondsMaker, which is a tool he made, it's software, that allows you to make your own working Nintendo Entertainment System games, and they're playable on actual game carts.
+54:5354 minutes, 53 secondsI was on his Kickstarter, he's been running this project for years, it's really cool if you want to check it out, so if you like you like technology, ROM hacking, etc, then this is another
+55:0155 minutes, 1 secondgood one to check out. So .. So, hey we finished on time! We got three minutes before the next panel, so that's it.
+55:0955 minutes, 9 secondsI'll just say, uh, thank you for coming to my panel, and um, I'll see you around. [Applause] Thank you
+55:1755 minutes, 17 secondsAnd here's a fun picture of Mr. Banana here ... oh, you can't see that! Get it there quickly ... there it is. There it is, Mr. Banana, ladies and gentlemen! As Space Banana!
+55:2855 minutes, 28 secondsAudience> I don't follow sonic much but this was awesome. Andy> Yeah. Thank you.
+55:3455 minutes, 34 seconds Andy> I would have had six cameras if this one would work.
+Chapter 30: (BONUS SEGMENT) Mysterious Lost Song
+55:4255 minutes, 42 secondsStriker> Yeah, I mean ... Joey> Oh wow, I remember those. Andy> The flip cams yeah they're so cheap now.
+55:4755 minutes, 47 secondsJoey> I didn't ask this during the talk because it's so kind of weirdly off topic, but you know where, okay, did Saxman ever
+55:5455 minutes, 54 secondsdo a song called, "I love my car?" Striker> That sounds vaguely familiar for some reason. Joey> Because you said he did Yakety Sax, right,
+56:0356 minutes, 3 secondsso he did music. I .. look, so I remember like 20 years ago going on to a site that looked like this one of these you know .. Andy> like an FTP listing Joey> those generic, what? Andy> Like an FTP listing.
+56:1656 minutes, 16 secondsJoey> Yeah, well, it' not, it's HTTP. This is just an example. Andy> Yeah, yeah.
+56:1956 minutes, 19 secondsJoey> One of these sites that's just nothing, just lists of files, and it said at the top, "Saxman", and it had some MP3 files in it, and one of them was Yakity Sax, and another one was called, " I love my car".
+56:3056 minutes, 30 secondsAndy> Was he singing, or was it just music? Joey> There was some guy singing, "I love my car I love my car. It'll take me far, it'll go anywhere.
+56:3956 minutes, 39 secondsDrive it to a movie, drive it to the city. Drive it to a rally, drive it everywhere." That's been in my head for 20 years ...
+56:4856 minutes, 48 secondsStriker> I don't think ... I vaguely remember it too, like a lost memory. Joey> And I can't find that song anywhere!
+56:5256 minutes, 52 secondsand I'm trying to remember .. am I ... I know I didn't make it up, but is like, do you know anything about this song? It might have been hosted on your server.
+57:0157 minutes, 1 secondAndy> Um I don't think it's on my server anymore. Joey> Well, I mean 20 years ago. Andy> Yeah, umm ...
+57:0657 minutes, 6 secondsJoey> But I mean like they just like I I cannot it's been driving me insane for 20 years. Andy> I can ask some people that would know.
+57:1457 minutes, 14 secondsJoey> because yeah I I don't like I think it was by quote unquote Saxman, and like but there's no information about this recording about quote unquote Saxman or anything
+57:2357 minutes, 23 secondsStriker> Yeah, try Googling Saxman Joey> Exactly, and you try Googling "I love my car", you get the song by Queen. Striker> Yeah. Andy> Was it his composition or was it a ...
+57:3257 minutes, 32 secondsJoey> I don't know. I just know it was a guy singing, I love my car. I love my car. It'll ... I could say it, I remember it exactly.
+57:4057 minutes, 40 secondsBut I lost the MP3 and I can't find it. So can I give you my my information? Andy> Yeah. Joey> So I can live in peace?
+57:4757 minutes, 47 seconds[Laughter]
+57:5157 minutes, 51 secondsAndy> This is one of those things I wasn't expecting. A music question ... and it's not about Michael Jackson!
+57:5757 minutes, 57 secondsJoey> Ya, that's why I didn't ask it during the talk because it was so out there. Andy> Yeah. Um ... Did you get a chance take a screenshot of my contact information?
+58:0658 minutes, 6 secondsJoey> Oh ya, sure. Andy> Ya, just take a screenshot. Audience> That's was gonna be my question. I was like I just want to take a photo of that. Andy> Oh, do you guys want me to record your panel, because I have cameras back there. Zach> Sure, whatever. I have a camera too, but if you want to, sure.
+58:1658 minutes, 16 secondsAndy> I'll just let that one keep going, and we can exchange files later. Zach> Ya, that sounds good. Audience> I'll be in touch my friend. Andy> Awesome, thank you.
+58:2358 minutes, 23 seconds After the expo, I was contacted by Joey, the fellow inquiring about the mysterious musical
+58:3358 minutes, 33 secondscomposition. Believing I may have the song, I checked my personal archives. There I found several recordings made by Saxman, most of which were covers of songs composed by "Huey
+58:4358 minutes, 43 secondsLewis And The News", while one was of "Yakety Sax". Though I did not have the elusive, "I Love My Car" song, it gave Joey confidence that we were on the right track.
+58:5358 minutes, 53 secondsJoey then dug up an old blog post he had written in 2005 talking about the now lost song, which contained a direct link to the MP3. Though the link was broken, it showed that the file
+59:0359 minutes, 3 secondswas hosted on shadowsoftgames.com, a place where Saxman was known to have stored some of his content in the past, so we were definitely on the right track.
+59:1159 minutes, 11 secondsAt this point we decided to try and reach out to Saxman directly. But given that it had been many years since either myself or my colleagues had last spoken to Saxman, this
+59:1959 minutes, 19 secondsoutreach could prove challenging. As luck would have it, Joey discovered that Saxman had an active account on the Sonic Retro forums. The two of them chatted, and the elusive song was shared, much to the delight of Joey's ears!
+59:3159 minutes, 31 secondsSo I'll leave you now with, "I love my car", playing in its rediscovered glory. And perhaps you'll understand why it was so memorable to Joey.
+Chapter 31: Credits
+59:3959 minutes, 39 seconds[Music]
+59:4159 minutes, 41 secondsI love my car, I love my car. It'll take me far, it'll go anywhere.
+59:4959 minutes, 49 secondsDrive it through the valley, drive it through the city. Drive it through a rally, I love my car!
+59:5759 minutes, 57 secondsI park my car in the garage at night, I put the cover on top.
+1:00:031 hour, 3 secondsEarn my paycheck every week, put it towards the car nonstop.
+1:00:111 hour, 11 secondsI don't have a fancy chauffeur, but it doesn't really matter much to me. This is my baby, my one and only, it's not hard to see it!
+1:00:241 hour, 24 secondsI love my car, I love my car. It'll take me far, it'll go anywhere.
+1:00:311 hour, 31 secondsDrive it through the valley, drive it through the city. Drive it through a rally, drive it anywhere.
+1:00:381 hour, 38 secondsDrive it to the beach, drive it to a movie. Drive it out of reach. Drive it out of sight.
+1:00:451 hour, 45 secondsDrive it at night. Drive it in the sun. Drive it when it's right.
+1:00:511 hour, 51 secondsI LOVE MY CAR! Woo!
+1:00:561 hour, 56 secondsI love it. I love it. I love it. [Music]
+1:01:001 hour, 1 minute[Music]
+1:01:181 hour, 1 minute, 18 secondsI'm tempted to go and say, "Hey guys, I went to Andy's panel today!" What do you think of that?
+
+Sync to video time
