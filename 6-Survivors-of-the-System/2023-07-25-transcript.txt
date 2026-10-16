@@ -1,0 +1,4647 @@
+· · · · · · · · · · · · · · · · Pages 1-186
+· · · · · · · · · · · · · · · · Exhibits 1-2
+________________________________________________
+· · · · ·COMMONWEALTH OF MASSACHUSETTS
+· · · · ·DEPARTMENT OF THE TRIAL COURT
+HAMPDEN, SS.· · · · · · · · · SUPERIOR COURT
+· · · · · · · · · · · · · · · NO. 2179CV00132
+ROBERT MALINOWSKI, JR., as personal
+representative of the Estate of
+Kyle Malinowski,
+· · · · · · · · · Plaintiff,
+v.
+RAMA KRISHNA YARASANI, M.D., LOUIS
+ANGEL VELAZQUEZ, M.D., XIAO LIU, M.D.,
+JORDAN A. PIKE, P.A., JAMES TAMAKLOE,
+R.N., KATHLEEN H. RINALDI, R.N.,
+JON WHITNEY, P.A., ALEXANDRA
+MARCHETTA, M.D., LISA SHERIDAN, R.N,
+and WENDY ERICKSON, R.N.,
+· · · · · · · · · Defendants.
+________________________________________________
+· · · · · · · · ·DEPOSITION OF
+· · · · · · · JAMES TAMAKLOE, R.N.
+· · · · · · · TAKEN JULY 25, 2023
+· · · · · · ·AT THE LAW OFFICES OF
+· · · · · · · · ·RAIPHER, P.C.
+· · · · · · · · 265 STATE STREET
+· · · · · ·SPRINGFIELD, MASSACHUSETTS
+Reporter:· Rebecca J. DeCarlo
+Page 2
+APPEARANCES:
+Representing the Plaintiff:
+RAIPHER, P.C.
+265 State Street
+Springfield, Massachusetts 01103
+BY:· MATTHEW J. KING, ESQ.
+413.746.4400
+mjk@raipher.com
+Representing the Witness:
+MORRISON MAHONEY, LLP
+Tower Square
+1500 Main Street, Suite 2400
+Springfield, Massachusetts 01115-5387
+BY:· JOHN C. FLAHIVE, ESQ.
+413.737.4373
+jflahive@morrisonmahoney.com
+Representing the Defendants Xiao Liu, M.D.,
+Jordan A. Pike, P.A., Alexandra Marchetta, M.D.,
+and Jon Whitney, P.A.:
+KEYES and DONNELLAN, P.C.
+293 Bridge Street, Suite 600
+Springfield, Massachusetts 01103
+BY:· KRISTIN THOMAS, ESQ.
+413.781.6540
+kthomas@keyesanddonnellan.com
+For the Defendant Rama Krishna Yarasani, M.D.:
+BULKLEY RICHARDSON and GELINAS, LLP
+1500 Main Street, Suite 2700
+P.O. Box 15507
+Springfield, Massachusetts 01115-5507
+BY:· LISA N. HARTY, ESQ.
+413.781.2820
+lharty@bulkley.com
+Page 3
+APPEARANCES:· (continued)
+For the Defendant Louis Angel Velazquez, M.D.:
+LAW OFFICES OF WILLIAM J. FENNELL, P.C.
+84 Park Street
+West Springfield, Massachusetts 01089
+BY:· JENNIFER FENNELL CUSACK, ESQ.
+413.731.8083
+jcusack@fen-law.com
+Page 4
+INDEX:
+· · · · · · · · · · · · · · · · · · · · · · PAGE
+WITNESS:· JAMES TAMAKLOE, R.N.
+Examination by Mr. King.................... 6
+Examination by Mr. Flahive ................ 181
+EXHIBITS:
+EXHIBIT· ·DESCRIPTION· · · · · · · · · · · ·PAGE
+No. 1· · ·Defendant, James Tamakloe,· · · · 6
+· · · · · R.N.'s, Answers To Plaintiff's
+· · · · · First Request for Production
+· · · · · of Documents
+No. 2· · ·Defendant, James Tamakloe,· · · · 6
+· · · · · R.N.'s, Answers To Plaintiff's
+· · · · · First Set Of Interrogatories
+Page 5
+· · · · · · S T I P U L A T I O N S
+· · · It is agreed by and between the parties
+that all objections, except objections as to the
+form of the questions, are reserved and may be
+raised at the time of trial for the first time.
+· · · It is further agreed by and between the
+parties that all motions to strike unresponsive
+answers are reserved and may be raised at the
+time of trial for the first time.
+· · · It is further agreed by and between the
+parties that the sealing of the original
+deposition transcript is hereby waived.
+· · · It is further agreed by and between the
+parties that the notification to all parties of
+the receipt of the original deposition
+transcript is hereby waived.
+Page 6
+·1· · · · · · · · · *· *· *· * *
+·2· · · · JAMES TAMAKLOE, R.N., Deponent, having
+·3· produced satisfactory identification by means of
+·4· Massachusetts Driver's License, was duly sworn,
+·5· deposes and states as follows:
+·6· · · · (Deposition commences at 9:58 a.m.)
+·7· · · · (Exhibit 1, Defendant, James Tamakloe,
+·8· · · · R.N.'s, Answers To Plaintiff's First
+·9· · · · Request For Production Of Documents,
+10· · · · marked for identification)
+11· · · · (Exhibit 2, Defendant, James Tamakloe,
+12· · · · R.N.'s, Answers To Plaintiff's First Set
+13· · · · Of Interrogatories, marked for
+14· · · · identification)
+15· · · · · · · · · · MR. KING:· Usual stipulations?
+16· · · · · · · · · · MR. FLAHIVE:· Yes, if he could
+17· · · · have 45 days to read and sign.
+18· EXAMINATION BY MR. KING:
+19· · · · Q.· · ·Can you state your full name for
+20· me, please?
+21· · · · A.· · ·My name is James Tamakloe.
+22· · · · Q.· · ·Mr. Tamakloe, have you ever had
+23· your deposition taken before?
+24· · · · A.· · ·No.
+Page 7
+·1· · · · Q.· · ·Okay.· I'm sure your attorney has
+·2· gone over things with you, but I'm just going to
+·3· tell you what I think some of the ground rules
+·4· are, so it makes the deposition go a little
+·5· smoother.
+·6· · · · · · · ·First of all, my name is Matthew
+·7· King, as your attorney introduced me. I
+·8· represent the plaintiff in this matter, Robert
+·9· Malinowski, as the personal representative of
+10· Kyle Malinowski's estate.· I'm going to be
+11· asking questions concerning your involvement in
+12· Kyle's care back in 2018.
+13· · · · · · · ·Please listen carefully to the
+14· questions that I ask of you.· Please wait until
+15· I finish my questions before you answer.
+16· Sometimes I interrupt myself.· Sometimes I start
+17· one question and finish with another.· It's
+18· important that you're sure that I'm done before
+19· you answer, and it's important that you answer
+20· verbally to all of my questions because the
+21· stenographer has to take down my questions and
+22· your answers completely.· And if you interrupt
+23· me, it's hard for her to do that, okay?
+24· · · · · · · ·Try to avoid nodding your head to a
+Page 8
+·1· yes question or shaking your head from side to
+·2· side to a no question because the stenographer
+·3· can't take down nods of the head.· Likewise, try
+·4· to avoid "mm-hmm" because when you look at a
+·5· transcript, it's impossible to tell whether
+·6· "mm-hmm" means yes or no, okay?
+·7· · · · A.· · ·Okay.
+·8· · · · Q.· · ·I'm going to ask you to keep your
+·9· voice up because the stenographer and all of us
+10· here have to hear your answers, so please try to
+11· do that.
+12· · · · · · · ·If there's any question that you
+13· don't understand, please tell me so and I'll
+14· rephrase it.
+15· · · · · · · ·You have the opportunity to take
+16· breaks if you need them to use the restroom or
+17· talk to your lawyer, but if I've asked you a
+18· question, you have to answer that question
+19· before you take a break, okay?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·What is your date of birth,
+22· Mr. Tamakloe?
+23· · · · A.· · ·10/26/1968.
+24· · · · Q.· · ·And where do you reside?
+Page 9
+·1· · · · A.· · ·I reside in Worcester,
+·2· Massachusetts.
+·3· · · · Q.· · ·What street address?
+·4· · · · A.· · ·10 Hancock Street.
+·5· · · · Q.· · ·How long have you lived there?
+·6· · · · A.· · ·Six or seven years.
+·7· · · · Q.· · ·Six or seven years.
+·8· · · · · · · ·Do you have any plans of moving
+·9· from there in the immediate future?
+10· · · · A.· · ·No.
+11· · · · Q.· · ·Where do you currently work?
+12· · · · A.· · ·I currently work at Baystate.
+13· · · · Q.· · ·Baystate Medical Center?
+14· · · · A.· · ·Baystate Wing.
+15· · · · Q.· · ·Baystate Wing.
+16· · · · · · · ·And when did you start at Baystate
+17· Wing?
+18· · · · A.· · ·I started working at Baystate in
+19· September of 2012.
+20· · · · Q.· · ·And we had -- before we started the
+21· deposition, I had marked, as Exhibit 2, a
+22· document entitled "Defendant, James Tamakloe,
+23· R.N.'s, Response To Plaintiff's First Request
+24· For Production Of Documents."
+Page 10
+·1· · · · · · · ·And let me refer you to Exhibit A,
+·2· I believe.
+·3· · · · · · · · · · MR. KING:· And could you show
+·4· · · · it to him, John, if you wouldn't mind?
+·5· · · · Thank you.
+·6· BY MR. KING:
+·7· · · · Q.· · ·Do you recognize that document that
+·8· was tabbed as Exhibit A to the document
+·9· response?
+10· · · · A.· · ·Yes.
+11· · · · Q.· · ·And is that document the most
+12· recent copy of your curriculum vitae?
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·Have there been any updates to your
+15· curriculum vitae since this document was
+16· prepared, if you know?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·And what updates have there been?
+19· · · · A.· · ·Currently, I also do part-time at
+20· AdCare.
+21· · · · Q.· · ·AdCare?
+22· · · · A.· · ·In Worcester.
+23· · · · Q.· · ·And when did you start part-time at
+24· AdCare?
+Page 11
+·1· · · · A.· · ·This June 22.
+·2· · · · Q.· · ·June 22?
+·3· · · · A.· · ·Yes.
+·4· · · · Q.· · ·And when you say "part-time," how
+·5· many hours a week do you work there?
+·6· · · · A.· · ·24 hours.
+·7· · · · Q.· · ·24 hours a week?
+·8· · · · A.· · ·Yes.
+·9· · · · Q.· · ·And according to your Answers to
+10· Interrogatories, back in 2018, you were working
+11· 37.5 hours at Baystate Wing.· Do you still work
+12· that number of hours there?
+13· · · · A.· · ·Currently, I work part-time at
+14· Baystate.
+15· · · · Q.· · ·Just part-time?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·When did you stop working full-time
+18· there?
+19· · · · A.· · ·About five months ago.
+20· · · · Q.· · ·And why did you go from full-time
+21· to part-time at that time?
+22· · · · A.· · ·Currently, the unit is about to
+23· shut down.
+24· · · · Q.· · ·Okay.· Do you know when it's
+Page 12
+·1· scheduled to shut down?
+·2· · · · A.· · ·No, I'm not sure.
+·3· · · · Q.· · ·And by "the unit," you're referring
+·4· to Parker North?
+·5· · · · A.· · ·Parker North, yes.
+·6· · · · Q.· · ·And that's the same unit that Kyle
+·7· Malinowski was admitted to back in February of
+·8· 2018; is that correct?
+·9· · · · A.· · ·Correct.
+10· · · · Q.· · ·Do you know who made the decision
+11· to shut that unit down?
+12· · · · A.· · ·No, I don't.
+13· · · · Q.· · ·Do you know when the decision was
+14· made to shut that unit down?
+15· · · · A.· · ·No, I don't.
+16· · · · Q.· · ·Do you know if the doctors and/or
+17· nurses are being assigned to any other part of
+18· the hospital?
+19· · · · A.· · ·I don't know.
+20· · · · Q.· · ·You don't know?
+21· · · · A.· · ·No.
+22· · · · Q.· · ·When did you get notice that the
+23· Parker North was shutting down?
+24· · · · A.· · ·Over a year ago.
+Page 13
+·1· · · · Q.· · ·Over a year ago?
+·2· · · · A.· · ·Yes.
+·3· · · · Q.· · ·How many units were -- let me
+·4· withdraw that.
+·5· · · · · · · ·How many roommates were there on
+·6· the Parker North unit back in February and March
+·7· of 2018, if you know or if you remember?
+·8· · · · A.· · ·I'm not sure, but I think we had 12
+·9· patients.
+10· · · · Q.· · ·12 patients?
+11· · · · A.· · ·Yes.
+12· · · · Q.· · ·And 12 patients if it's at
+13· capacity?
+14· · · · A.· · ·Yes.
+15· · · · Q.· · ·And typically, how many patients
+16· are in a room?
+17· · · · A.· · ·Most of the rooms are two patients.
+18· · · · Q.· · ·Two patients?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·Back in February of 2018 and March
+21· of 2018, do you know whether Kyle Malinowski
+22· shared a room with anyone?
+23· · · · A.· · ·No.
+24· · · · Q.· · ·Back in February or March of 2018,
+Page 14
+·1· did you work a typical shift?
+·2· · · · A.· · ·Yes.
+·3· · · · Q.· · ·What was the shift that you worked?
+·4· · · · A.· · ·I worked 11 to -- no, 7 to 7.
+·5· · · · Q.· · ·7 a.m. to p.m.?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·And was that always the shift that
+·8· you worked when you worked there full-time?
+·9· · · · A.· · ·I also worked sometimes at night,
+10· 7p to 7a.
+11· · · · Q.· · ·And was that an extra shift or was
+12· that an alternative to the 7 a.m. to 7 p.m.?
+13· · · · A.· · ·Alternative.
+14· · · · Q.· · ·During the shift that you worked,
+15· were you the only nurse on duty at the time?
+16· · · · A.· · ·No.
+17· · · · Q.· · ·How many other nurses were on duty
+18· at the time?
+19· · · · A.· · ·There was another nurse with me.
+20· · · · Q.· · ·Just one other nurse?
+21· · · · A.· · ·Yes.
+22· · · · Q.· · ·Okay.· So on a daily basis, during
+23· your shift, there would be yourself and another
+24· nurse?
+Page 15
+·1· · · · A.· · ·Yes.
+·2· · · · Q.· · ·Would that other nurse vary from
+·3· time to time?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·Back in February and March of 2018,
+·6· do you remember the names of any other nurses
+·7· that worked the same shift that you did in
+·8· Parker North?
+·9· · · · A.· · ·Christine.
+10· · · · Q.· · ·What's Christine's last name?
+11· · · · A.· · ·I'm not sure of the last name. I
+12· don't remember.
+13· · · · Q.· · ·Okay.· Do you remember the names of
+14· any other nurses that worked the same shift as
+15· you?
+16· · · · A.· · ·I don't recall, but I know there
+17· was another nurse that worked with me.
+18· · · · Q.· · ·And do you know why Kyle Malinowski
+19· was assigned to a room by himself?
+20· · · · A.· · ·He wasn't getting along with
+21· patients.
+22· · · · Q.· · ·Were there only enough rooms to
+23· house the number of patients that were there?
+24· · · · A.· · ·Yes.
+Page 16
+·1· · · · Q.· · ·Okay.· So if one room was occupied
+·2· by one person, that would mean that there would
+·3· be how many rooms to occupy the -- to be
+·4· occupied by the other 11 patients in the unit?
+·5· · · · A.· · ·I'm not sure about the number of
+·6· rooms.
+·7· · · · Q.· · ·Were any of the rooms occupied by
+·8· three patients at the same time?
+·9· · · · A.· · ·Not to my -- I don't recall.
+10· · · · Q.· · ·Okay.· Where was the nursing
+11· station in relation to Kyle Malinowski's room?
+12· · · · A.· · ·It was across from each other.
+13· · · · Q.· · ·It was across from Kyle's room?
+14· · · · A.· · ·Yes.
+15· · · · Q.· · ·And if you were standing at the
+16· nurses station with the desk in front of you or
+17· the counter in front of you, would you be
+18· looking at Kyle's room?
+19· · · · A.· · ·Yes, you could see Kyle's room.
+20· · · · Q.· · ·Okay.· What were your duties during
+21· the 7 a.m. to 7 p.m. shift?
+22· · · · A.· · ·I was the assigned nurse for Kyle
+23· and five other patients.
+24· · · · Q.· · ·Okay.· And as the nurse assigned to
+Page 17
+·1· Kyle and five other patients, what did you
+·2· consider your responsibilities to be?
+·3· · · · A.· · ·My responsibilities were to assess
+·4· them, give them their medication, make sure they
+·5· go to groups, and they follow the rules on the
+·6· unit.
+·7· · · · Q.· · ·So I'm just recounting or reciting
+·8· what I think you said.· To assist the patients?
+·9· · · · A.· · ·Assess them.
+10· · · · · · · · · · MR. FLAHIVE:· Assess.
+11· · · · · · · · · · MR. KING:· Assess them, I'm
+12· · · · sorry.
+13· BY MR. KING:
+14· · · · Q.· · ·Assess the patients?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·Give them meds?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·Make sure they go to groups?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·And make sure they follow the
+21· rules?
+22· · · · A.· · ·Yes.
+23· · · · Q.· · ·What groups are you referring to?
+24· · · · A.· · ·Like, activities group.
+Page 18
+·1· · · · Q.· · ·I'm sorry, what?
+·2· · · · A.· · ·Activities.
+·3· · · · Q.· · ·Activities group?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·Were there any therapy sessions?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·And how often during the day would
+·8· those therapy sessions be?
+·9· · · · A.· · ·Once or twice.
+10· · · · Q.· · ·Once or twice a day?
+11· · · · A.· · ·Yes.
+12· · · · Q.· · ·Other than the activities group and
+13· therapy sessions, were there any other group
+14· sessions?
+15· · · · A.· · ·And then there's a wrap-up.
+16· · · · Q.· · ·Wrap-up?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·And what time during the day would
+19· the activities occur?
+20· · · · A.· · ·That, I'm not sure.· I don't know.
+21· · · · Q.· · ·Okay.· What time of the day would
+22· the group therapy sessions take place?
+23· · · · A.· · ·I don't know.· I don't know.
+24· · · · Q.· · ·What time would the wrap-up session
+Page 19
+·1· take place?
+·2· · · · A.· · ·That takes place the last activity
+·3· of the day, like, to --
+·4· · · · Q.· · ·At about 2 o'clock?
+·5· · · · A.· · ·No, to wrap up everything.
+·6· · · · Q.· · ·Okay.· So I'm trying to find out
+·7· what time during your shift that would occur.
+·8· · · · A.· · ·That would have been around, like,
+·9· 7, the last activity for the day.
+10· · · · Q.· · ·So when you say one of your
+11· responsibilities was to assess patients, what
+12· did your assessment typically involve?
+13· · · · A.· · ·It involves getting patients'
+14· mental status, their vital signs, and how alert
+15· and...
+16· · · · Q.· · ·Were there some patients --
+17· anything else?· I didn't want to interrupt you.
+18· In terms of your assessment, anything else you
+19· did to assess a patient?
+20· · · · A.· · ·Just observing them from...
+21· · · · Q.· · ·By the way, you said the nursing
+22· station was across from Kyle's room, correct?
+23· · · · A.· · ·Correct.
+24· · · · Q.· · ·There was also a monitor for Kyle's
+Page 20
+·1· room; is that correct?
+·2· · · · A.· · ·Yes.
+·3· · · · Q.· · ·Was that monitor equipped with an
+·4· audio component, if you know?
+·5· · · · A.· · ·No.
+·6· · · · Q.· · ·Are you sure about that?
+·7· · · · A.· · ·No.
+·8· · · · Q.· · ·You're not sure about that?
+·9· · · · A.· · ·No.
+10· · · · Q.· · ·Okay.· Do you know why that
+11· particular room was equipped with video camera?
+12· · · · A.· · ·I would say no.
+13· · · · Q.· · ·When was that room first equipped
+14· with a video camera, if you know?
+15· · · · A.· · ·I don't know.
+16· · · · Q.· · ·You started there in 2012; is that
+17· correct?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·When you started at Baystate Wing,
+20· did you start in the Parker North unit?
+21· · · · A.· · ·Yes.
+22· · · · Q.· · ·And did you remain working in the
+23· Parker North unit during the entire time that
+24· you worked there?
+Page 21
+·1· · · · A.· · ·Yes.
+·2· · · · Q.· · ·Was that room equipped with a video
+·3· camera when you started there, if you remember?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·It was.· Did you question anyone
+·6· else as to why that particular room was equipped
+·7· with a video camera?
+·8· · · · A.· · ·No.
+·9· · · · Q.· · ·So how would you go about assessing
+10· a patient's mental status?
+11· · · · A.· · ·I asked them if they know where
+12· they are --
+13· · · · Q.· · ·Okay.
+14· · · · A.· · ·-- what day of the week and what
+15· time it is, and also who is the current
+16· president.
+17· · · · Q.· · ·Any other questions you would ask
+18· to assess the patient's mental status?
+19· · · · A.· · ·And if they know -- sometimes if
+20· they don't know, I just, like, try to help them
+21· to answer that question.
+22· · · · Q.· · ·Help them answer the question?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·How would you provide them help?
+Page 22
+·1· · · · A.· · ·If today is Monday, what would two
+·2· days from Monday be?
+·3· · · · Q.· · ·Okay.· So you would ask additional
+·4· questions to try to prompt a memory?
+·5· · · · A.· · ·Yes.
+·6· · · · Q.· · ·Okay.· Was the nurse's job to take
+·7· vitals, patients' vitals?
+·8· · · · A.· · ·Yes, at times, but normally, the
+·9· nurse -- we don't take vitals, except when
+10· there's some issue.
+11· · · · Q.· · ·Okay.· And who would take the
+12· vitals if it wasn't a nurse?
+13· · · · A.· · ·A CNA.
+14· · · · Q.· · ·And how often were the patients to
+15· have their vitals taken, if you know?
+16· · · · A.· · ·At least twice a day.
+17· · · · Q.· · ·Twice a day.
+18· · · · · · · ·Were there some patients who
+19· required to have their vitals taken more than
+20· twice per day?
+21· · · · A.· · ·Yes.
+22· · · · Q.· · ·Now, Parker North is an inpatient
+23· psychiatric unit; is that correct?
+24· · · · A.· · ·Yes.
+Page 23
+·1· · · · Q.· · ·And how many -- let me withdraw
+·2· that.
+·3· · · · · · · ·Has it been an inpatient
+·4· psychiatric unit for the entire time that you
+·5· worked there?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·And February and March of 2018, how
+·8· many psychiatrists worked the same shift that
+·9· you did?
+10· · · · A.· · ·I don't recall.
+11· · · · Q.· · ·Do you recall the names of any of
+12· the psychiatrists that work at Parker North?
+13· · · · A.· · ·Dr. Yarasani.
+14· · · · Q.· · ·Yarasani?
+15· · · · A.· · ·Yes, Yarasani.
+16· · · · Q.· · ·Any other psychiatrists that worked
+17· at Parker North whose name you can't remember?
+18· · · · A.· · ·No.
+19· · · · Q.· · ·From your -- let me withdraw that.
+20· · · · · · · ·How often were psychiatrists there
+21· in the unit while you were working your 7 a.m.
+22· to 7 p.m. shift?
+23· · · · A.· · ·One psychiatrist.
+24· · · · Q.· · ·Excuse me?
+Page 24
+·1· · · · A.· · ·One.
+·2· · · · Q.· · ·Okay.· So there was one
+·3· psychiatrist in the unit during your shift?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·And what did you perceive the
+·6· psychiatrist's responsibilities to be?
+·7· · · · A.· · ·To take care of the patient.
+·8· · · · Q.· · ·And that psychiatrist, like
+·9· yourself, was responsible -- well, let me
+10· withdraw that.
+11· · · · · · · ·You were responsible for six
+12· patients; is that correct?
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·The psychiatrist would be
+15· responsible for all the patients, correct?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·The psychiatrist was there -- let
+18· me withdraw that.
+19· · · · · · · ·Were there any either psychologist
+20· or social workers on staff in the unit during
+21· your shift?
+22· · · · A.· · ·Yes.
+23· · · · Q.· · ·Let's break it down to
+24· psychologists.· Were there any psychologists on?
+Page 25
+·1· · · · A.· · ·Psychologists?
+·2· · · · Q.· · ·Yes, not a psychiatrist but a
+·3· psychologist.
+·4· · · · A.· · ·No.
+·5· · · · Q.· · ·Okay.· Were there social workers on
+·6· duty?
+·7· · · · A.· · ·Yes.
+·8· · · · Q.· · ·And how many social workers were on
+·9· duty?
+10· · · · A.· · ·I'm not sure, but I think there
+11· were two.
+12· · · · Q.· · ·Two?
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·And what were the responsibilities
+15· of the social workers, if you know?
+16· · · · A.· · ·Assist with the patient's
+17· after-care and after-care treatments.
+18· · · · Q.· · ·Were there any mental health
+19· counselors on duty during your shift?
+20· · · · A.· · ·Mental health counselors?· I don't
+21· recall.
+22· · · · Q.· · ·You don't recall?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·In other words, did anybody
+Page 26
+·1· there -- any of those 12 patients in the unit
+·2· get any therapy while they were there as opposed
+·3· to a psychiatrist deciding whether to alter the
+·4· patient's medications?
+·5· · · · · · · · · · MS. HARTY:· Objection.
+·6· · · · A.· · ·That, I don't know.
+·7· BY MR. KING:
+·8· · · · Q.· · ·You don't know.
+·9· · · · · · · ·And did Kyle Malinowski's room have
+10· a shower in it?
+11· · · · A.· · ·No.
+12· · · · Q.· · ·If Kyle Malinowski were to take a
+13· shower, where would he go to take a shower?
+14· · · · A.· · ·He would have to come out and use
+15· the patients' shower.
+16· · · · Q.· · ·Did any of the patient rooms have a
+17· shower in it?
+18· · · · A.· · ·No.
+19· · · · Q.· · ·So any of the patients who wanted
+20· to take a shower would have to go use a common
+21· shower?
+22· · · · A.· · ·Yes.
+23· · · · Q.· · ·And how many stalls were in that
+24· common shower room, if you know?
+Page 27
+·1· · · · A.· · ·Two.
+·2· · · · Q.· · ·Two?
+·3· · · · A.· · ·Yes.
+·4· · · · Q.· · ·Were there any patients in that
+·5· unit who had to be restrained during the time
+·6· that they were there?
+·7· · · · A.· · ·We have restrained patients before.
+·8· · · · Q.· · ·Okay.· Do you recall whether there
+·9· were any -- let me withdraw that.
+10· · · · · · · ·In February of 2018, were you
+11· involved in intaking any new patients at Parker
+12· North?
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·And tell me what your role was when
+15· you were involved in intaking new patients?
+16· · · · A.· · ·My role was to bring the patient in
+17· and do their intake.· That's to do the
+18· admission.
+19· · · · Q.· · ·Were there some patients who came
+20· in by themselves, you know, either walk-ins or
+21· by car?
+22· · · · A.· · ·No.· We take the patient from the
+23· ER, our ER, emergency room.
+24· · · · Q.· · ·Were the patients who -- I guess
+Page 28
+·1· when a patient was brought to the hospital by
+·2· ambulance, a mental health patient, would that
+·3· mental health patient go to the ER first?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·And be triaged in the ER?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·And then someone would transport
+·8· that patient to the Parker North unit?
+·9· · · · A.· · ·Yes.
+10· · · · Q.· · ·When the patient came into the ER
+11· by ambulance, who would be the first person from
+12· Parker North to evaluate that patient?
+13· · · · A.· · ·The psychiatrist.
+14· · · · Q.· · ·The psychiatrist.
+15· · · · · · · ·So whoever the psychiatrist was on
+16· duty at the time the person came into the ER
+17· would be the first person to see -- from the
+18· Parker North unit to see that patient?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·Would the nursing staff from the
+21· Parker North unit see the patient in the ER
+22· before the psychiatrist would?
+23· · · · A.· · ·Yes, it's possible.
+24· · · · Q.· · ·Sometimes that would happen?
+Page 29
+·1· · · · A.· · ·Yes.
+·2· · · · Q.· · ·Okay.· Now, once the -- how would
+·3· the patient get from the ER to the Parker North
+·4· unit?· Would it be in a wheelchair?
+·5· · · · A.· · ·Yes.
+·6· · · · Q.· · ·Is that true even if the patient
+·7· was ambulatory?
+·8· · · · A.· · ·Yes.
+·9· · · · Q.· · ·So the policy was, back at the
+10· time, that any patient that was going to be
+11· admitted from the ER to Parker North could be
+12· transported in a wheelchair; is that correct?
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·Taken to Parker North -- and by the
+15· way, where, in relation to the ER, is the Parker
+16· North unit back in that time, in 2018?
+17· · · · A.· · ·About roughly -- it's not that far.
+18· · · · Q.· · ·Same floor or different floor?
+19· · · · A.· · ·Same floor.
+20· · · · Q.· · ·Same end of the floor or opposite
+21· end of the floor?
+22· · · · A.· · ·Same end of the floor.
+23· · · · Q.· · ·If you were to walk from the ER --
+24· could you walk from the ER to get to the Parker
+Page 30
+·1· North unit?
+·2· · · · A.· · ·Yes.
+·3· · · · Q.· · ·An how far would you have to walk
+·4· to get from the ER to the Parker North unit?
+·5· · · · A.· · ·I'm not sure about the distance,
+·6· but it's not that far.
+·7· · · · Q.· · ·Prior to March 16, 2018, had you
+·8· ever been involved in responding to a code blue?
+·9· · · · A.· · ·No.
+10· · · · Q.· · ·So Kyle Malinowski was the first
+11· patient who coded while you were working at
+12· Parker North, is that correct, that you were
+13· involved with?
+14· · · · A.· · ·Yes.
+15· · · · Q.· · ·Prior to March 16, 2018, had you
+16· ever been trained on what to do when a code blue
+17· was called?
+18· · · · A.· · ·No.
+19· · · · Q.· · ·Prior to March 16, 2018, did you
+20· know who the members of the rapid response team
+21· were?
+22· · · · A.· · ·No.
+23· · · · Q.· · ·Did you know what the
+24· responsibilities -- the individual
+Page 31
+·1· responsibilities were of the rapid response
+·2· members?
+·3· · · · A.· · ·No.
+·4· · · · Q.· · ·By the way, getting back to your
+·5· CV, your CV begins with your college education.
+·6· Where were you born?
+·7· · · · A.· · ·I was born in Ghana.
+·8· · · · Q.· · ·And when did you migrate to the
+·9· United States?
+10· · · · A.· · ·1989.
+11· · · · Q.· · ·1989.
+12· · · · · · · ·Did you come by yourself or did you
+13· come with some family members?
+14· · · · A.· · ·I came with my father.
+15· · · · Q.· · ·With your father?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·What's your father's name?
+18· · · · A.· · ·James Tamakloe, Sr.
+19· · · · Q.· · ·Is he still alive?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·And where does your father live?
+22· · · · A.· · ·In Worcester.
+23· · · · Q.· · ·And in 1989, when you moved to the
+24· United States, where did you first move to?
+Page 32
+·1· · · · A.· · ·Worcester.
+·2· · · · Q.· · ·Worcester?
+·3· · · · A.· · ·Massachusetts.
+·4· · · · Q.· · ·So you essentially lived in
+·5· Worcester, Mass., since moving to the United
+·6· States?
+·7· · · · A.· · ·Yes.
+·8· · · · Q.· · ·Did you attend high school in the
+·9· United States?
+10· · · · A.· · ·No.
+11· · · · Q.· · ·Had you already completed high
+12· school before you came here?
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·I'm going to have to remind you to
+15· let me finish my question before you answer,
+16· okay?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·Okay.· Thank you.
+19· · · · · · · ·Had you attended any college in
+20· Ghana before you came to the United States?
+21· · · · A.· · ·I attended high school.
+22· · · · Q.· · ·Just high school, okay.
+23· · · · · · · ·Did you attend any other colleges
+24· other than the ones mentioned in your CV?
+Page 33
+·1· · · · A.· · ·No.
+·2· · · · Q.· · ·And you went directly into nursing
+·3· from college?
+·4· · · · A.· · ·I did business, accounting.
+·5· · · · Q.· · ·Accounting?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·What was the name of that business
+·8· or the business that you worked for?
+·9· · · · A.· · ·No, no, business as in subject,
+10· accounting and business.
+11· · · · Q.· · ·Okay.· When you were in school?
+12· · · · A.· · ·Yes.
+13· · · · Q.· · ·That was your concentration?
+14· · · · A.· · ·Yes.
+15· · · · Q.· · ·Had you ever -- prior to March 16,
+16· 2018, had you ever seen a code cart in the
+17· Parker North unit?
+18· · · · A.· · ·No.
+19· · · · Q.· · ·Who hired you for that unit, if you
+20· know?
+21· · · · A.· · ·I don't know.
+22· · · · Q.· · ·Did you take any vacations in
+23· either February of March of 2018, if you know?
+24· · · · A.· · ·No, I don't know.
+Page 34
+·1· · · · Q.· · ·You don't know or you didn't?
+·2· · · · A.· · ·I don't know.
+·3· · · · Q.· · ·Okay.· You know today that this
+·4· case involves Kyle Malinowski, correct?
+·5· · · · A.· · ·Yes.
+·6· · · · Q.· · ·You know that it involved an
+·7· admission from Kyle from February 17, 2018 to
+·8· March 16, 2018, correct?
+·9· · · · A.· · ·Yes.
+10· · · · Q.· · ·Have you looked back at any records
+11· to remind yourself of what happened during that
+12· period of time?
+13· · · · A.· · ·I looked at some records.
+14· · · · Q.· · ·What records have you looked at?
+15· · · · A.· · ·Some of the progress notes, some of
+16· the tapes.
+17· · · · Q.· · ·Tapes?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·The videotapes?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·Have you seen the complete
+22· videotape?
+23· · · · · · · ·And by the "videotape," we're
+24· talking about the videotape which shows, among
+Page 35
+·1· other things, Kyle Malinowski coding?
+·2· · · · A.· · ·Yes.
+·3· · · · Q.· · ·Have you seen that videotape from
+·4· beginning to end?
+·5· · · · A.· · ·Yes.
+·6· · · · Q.· · ·How many times have you done that?
+·7· · · · A.· · ·More than -- twice.
+·8· · · · Q.· · ·Okay.· And how many hours did you
+·9· spend watching the entire videotape twice?
+10· · · · A.· · ·The whole tape, the whole duration
+11· of the tape.
+12· · · · Q.· · ·Okay.· Whatever length of time that
+13· is?
+14· · · · A.· · ·Yes.
+15· · · · Q.· · ·Did you stop it while you were
+16· watching it?
+17· · · · A.· · ·Sometimes.
+18· · · · Q.· · ·Why did you stop when you stopped
+19· it?
+20· · · · A.· · ·Maybe I noticed something.
+21· · · · Q.· · ·Were you able to identify the
+22· people that responded to Kyle's room from the
+23· time that he coded until the time that he died?
+24· · · · A.· · ·No.
+Page 36
+·1· · · · Q.· · ·You saw a number of people walking
+·2· in that room; is that correct?
+·3· · · · A.· · ·Yes.
+·4· · · · Q.· · ·Do you recognize some of those
+·5· people?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·Okay.· And there was someone in the
+·8· room with Kyle when you first entered the room;
+·9· is that correct -- well, let me withdraw that.
+10· · · · · · · ·Please identify for me, if you can,
+11· all of the people that entered Kyle's room
+12· during the time that he coded?
+13· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+14· · · · can answer.
+15· · · · A.· · ·All the people?
+16· BY MR. KING:
+17· · · · Q.· · ·Yes.
+18· · · · A.· · ·That would be Mary and Wendy.
+19· · · · Q.· · ·Wendy Erickson?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·And Mary who?
+22· · · · A.· · ·Benoit.
+23· · · · Q.· · ·Benoit?
+24· · · · A.· · ·Yes.
+Page 37
+·1· · · · Q.· · ·Okay.· And what was Mary Benoit's
+·2· title?
+·3· · · · A.· · ·RN, registered nurse.
+·4· · · · Q.· · ·Registered nurse.
+·5· · · · · · · ·And Wendy Erickson, what was her
+·6· job?
+·7· · · · A.· · ·CNA.
+·8· · · · Q.· · ·Okay.· Who else came into that
+·9· room?
+10· · · · A.· · ·Rinaldi.· I forget her first name.
+11· · · · Q.· · ·Excuse me?
+12· · · · · · · · · · MR. FLAHIVE:· I think he said
+13· · · · Rinaldi, but he can't recall her first
+14· · · · name.
+15· BY MR. KING:
+16· · · · Q.· · ·I'm sorry, your attorney is
+17· probably getting a little comfortable with your
+18· accent, but some things you said I haven't been
+19· able to understand.· So I apologize.
+20· · · · · · · ·Who else can you remember?
+21· · · · A.· · ·I think that's it.
+22· · · · Q.· · ·That's it?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·Were there people who entered that
+Page 38
+·1· room whose name you didn't know when they came
+·2· in?
+·3· · · · A.· · ·Yes.
+·4· · · · Q.· · ·Okay.· Were there people who came
+·5· into that room who you didn't recognize?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·Were there people who came into
+·8· that room whose job you didn't know?
+·9· · · · A.· · ·Yes.
+10· · · · Q.· · ·Do you know who called the code
+11· blue?
+12· · · · A.· · ·I requested Wendy to call the code
+13· blue, rapid --
+14· · · · Q.· · ·You requested Wendy Erickson to do
+15· that?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·Okay.
+18· · · · · · · · · · MR. FLAHIVE:· Just did you say
+19· · · · "rapid"?
+20· BY MR. KING:
+21· · · · Q.· · ·Rapid response, is that what you
+22· meant to say?
+23· · · · A.· · ·Rapid, yes.
+24· · · · Q.· · ·No one wants to put words in your
+Page 39
+·1· mouth, so I just want to -- you said you
+·2· requested Wendy.· And by "Wendy," you mean Wendy
+·3· Erickson; is that correct?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·And what did you request Wendy
+·6· Erickson to do?
+·7· · · · A.· · ·To call the code.
+·8· · · · Q.· · ·To call the code.
+·9· · · · · · · ·And do you know if she
+10· mistakenly -- let me withdraw that.
+11· · · · · · · ·Do you know how Wendy Erickson
+12· called the code?
+13· · · · A.· · ·I don't know.
+14· · · · Q.· · ·Do you know how -- let me withdraw
+15· that.
+16· · · · · · · ·When you asked -- at the time you
+17· asked Wendy Erickson to call a code, did you
+18· know how a code was called?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·Okay.· How was a code called?
+21· · · · A.· · ·Normally, you call the operator to
+22· announce it on the intercom.
+23· · · · Q.· · ·Okay.· Do you know whether there
+24· were any buttons or switches at the nursing
+Page 40
+·1· station to call a code blue or to signal for a
+·2· code blue?
+·3· · · · A.· · ·Code blue to call for assistance.
+·4· · · · Q.· · ·To call for assistance.
+·5· · · · · · · ·And was there a button or a switch,
+·6· or what was it?
+·7· · · · A.· · ·It was a button.
+·8· · · · Q.· · ·It was a button, okay.
+·9· · · · · · · ·And was that a button that you
+10· push?
+11· · · · A.· · ·Yes.
+12· · · · Q.· · ·And when did you first learn there
+13· was a button to push when there was a code blue?
+14· · · · A.· · ·Since I've been on the unit.
+15· · · · Q.· · ·Since you've been on the unit.
+16· · · · · · · ·Was there another code nearby the
+17· code blue button?
+18· · · · A.· · ·No.
+19· · · · Q.· · ·Do you know if Wendy Erickson
+20· inadvertently called for something else other
+21· than the code blue when she initially called for
+22· the code blue?
+23· · · · A.· · ·I don't know.
+24· · · · Q.· · ·You don't know.
+Page 41
+·1· · · · · · · ·How much time elapsed -- well, let
+·2· me withdraw that.
+·3· · · · · · · ·Why did you ask Wendy Erickson to
+·4· call for a code blue?
+·5· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·6· · · · can answer.
+·7· · · · A.· · ·So that I could stay with Kyle.
+·8· BY MR. KING:
+·9· · · · Q.· · ·What did you observe of Kyle
+10· Malinowski's medical condition that prompted you
+11· to ask Wendy Erickson to call a code blue?
+12· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+13· · · · can answer.
+14· · · · A.· · ·He was having seizure-like
+15· activity.
+16· BY MR. KING:
+17· · · · Q.· · ·And what activity -- or what
+18· observations did you make of him that caused you
+19· to believe that he was having seizure-like
+20· activity?
+21· · · · A.· · ·He was tensing up.· He was tensing
+22· up.· He was -- his face wasn't right.· And how
+23· would I say it?· He wasn't normal.
+24· · · · Q.· · ·Now, 7 to 7 is a 12-hour shift,
+Page 42
+·1· correct?
+·2· · · · A.· · ·Correct.
+·3· · · · Q.· · ·You are, at the time February and
+·4· March, responsible for six patients --
+·5· · · · A.· · ·Yes.
+·6· · · · Q.· · ·-- for a 12-hour period of time.
+·7· How much time did you spend in the presence of
+·8· any of the patients you were responsible for
+·9· each particular shift?
+10· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+11· · · · can answer.
+12· · · · A.· · ·I don't know.
+13· BY MR. KING:
+14· · · · Q.· · ·Can you approximate for me?
+15· · · · A.· · ·For each patient?
+16· · · · Q.· · ·Mm-hmm.
+17· · · · A.· · ·Two hours.· I don't know. I
+18· can't...
+19· · · · Q.· · ·During the time -- let me withdraw
+20· that.
+21· · · · · · · ·How much time did you spend in
+22· Kyle's presence during any particular shift?
+23· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+24· · · · can answer.
+Page 43
+·1· BY MR. KING:
+·2· · · · Q.· · ·And I'm not talking about
+·3· observations you may have made from the nursing
+·4· station or from outside his room or from the
+·5· monitor.· I'm asking how much time you spent in
+·6· his presence?
+·7· · · · A.· · ·I don't know.· I'm not sure.
+·8· · · · Q.· · ·Can you approximate for me?
+·9· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+10· · · · can answer.
+11· · · · A.· · ·I don't know.
+12· BY MR. KING:
+13· · · · Q.· · ·Would it be less than half hour a
+14· shift?
+15· · · · A.· · ·Maybe more.
+16· · · · Q.· · ·Okay.· Is it fair to say that you
+17· spent less time in Kyle Malinowski's presence
+18· than you did other patients on the unit?
+19· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+20· · · · can answer.
+21· · · · A.· · ·I don't know.· I spent the same --
+22· I could have spent the same time as other
+23· patients.· I don't know.
+24· BY MR. KING:
+Page 44
+·1· · · · Q.· · ·How would -- let me withdraw that.
+·2· · · · · · · ·Do you see the gentleman sitting to
+·3· my left?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·Have you seen him before?
+·6· · · · A.· · ·No.
+·7· · · · Q.· · ·Were you present when Kyle died?
+·8· · · · A.· · ·Yes.
+·9· · · · Q.· · ·Okay.· Were you present when his
+10· father came into the room after he died?
+11· · · · A.· · ·I don't recall.
+12· · · · Q.· · ·Did you ever meet Robert Malinowski
+13· either at the Parker North unit or in the
+14· emergency room?
+15· · · · A.· · ·Once again, I don't recall.
+16· · · · Q.· · ·You don't recall?
+17· · · · A.· · ·No.
+18· · · · Q.· · ·Do you recall any conversation --
+19· do you recall having any conversation with
+20· Robert Malinowski, Kyle's father?
+21· · · · A.· · ·No.
+22· · · · Q.· · ·Did you ever have any conversation
+23· with Jill Malinowski, Kyle's -- Jill Ford,
+24· excuse me, not Jill Malinowski, concerning Kyle?
+Page 45
+·1· · · · A.· · ·No.
+·2· · · · Q.· · ·Did you know Kyle's mother's name
+·3· at any point in time that Kyle resided at Parker
+·4· North?
+·5· · · · A.· · ·No.
+·6· · · · Q.· · ·No?
+·7· · · · A.· · ·No, sir.
+·8· · · · Q.· · ·Okay.· Please keep your voice up,
+·9· okay?
+10· · · · A.· · ·Yes.
+11· · · · Q.· · ·Okay.· Do you know how far Kyle
+12· went in school?
+13· · · · A.· · ·I think he completed high school.
+14· · · · Q.· · ·Okay.· Do you have a memory of
+15· that?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·Okay.· Did he attend school after
+18· high school?
+19· · · · A.· · ·I don't know.
+20· · · · Q.· · ·Do you know how old he was when he
+21· graduated from high school?
+22· · · · A.· · ·I don't know.
+23· · · · Q.· · ·Do you know whether he ever
+24· obtained his GED?
+Page 46
+·1· · · · A.· · ·I don't know.
+·2· · · · Q.· · ·Do you know if he ever worked after
+·3· graduating from high school?
+·4· · · · A.· · ·I don't know.
+·5· · · · Q.· · ·Do you know whether he had any
+·6· preexisting -- let me withdraw that.
+·7· · · · · · · ·Did you know that he was autistic?
+·8· While he resided there, did you know that Kyle
+·9· Malinowski was autistic?
+10· · · · A.· · ·Yes.
+11· · · · Q.· · ·You did?
+12· · · · A.· · ·Yes.
+13· · · · Q.· · ·When did you learn that he was
+14· autistic?
+15· · · · A.· · ·I think in the admission report.
+16· · · · Q.· · ·In the admission report?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·And what did you learn were the
+19· symptoms of his autism?
+20· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+21· · · · can answer.
+22· · · · A.· · ·I would say Kyle had difficulty
+23· socializing, I would say communicating, and he
+24· liked things his way.· He liked things his way.
+Page 47
+·1· BY MR. KING:
+·2· · · · Q.· · ·He liked things his way?
+·3· · · · A.· · ·Yes.· He liked to follow a certain
+·4· way in doing things.
+·5· · · · Q.· · ·What I asked -- I just want to make
+·6· sure that I'm understanding your answer
+·7· correctly.· What I asked you is:· What did you
+·8· learn were the symptoms of his autism?· Do you
+·9· know what his symptoms of autism were?
+10· · · · A.· · ·No.
+11· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+12· · · · can answer.
+13· BY MR. KING:
+14· · · · Q.· · ·Do you know how severely autistic
+15· he was?
+16· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+17· · · · can answer.
+18· · · · A.· · ·No.
+19· BY MR. KING:
+20· · · · Q.· · ·Did you know if he went to a
+21· special school for autistic children?
+22· · · · A.· · ·No.
+23· · · · Q.· · ·Do you know what assistance he
+24· needed because of his autism when he was in
+Page 48
+·1· school?
+·2· · · · A.· · ·No.
+·3· · · · Q.· · ·Do you know what assistance he
+·4· needed because of his autism after school?
+·5· · · · A.· · ·No.
+·6· · · · Q.· · ·Do you know whether the behaviors
+·7· you just described were the result of his acute
+·8· mental health issue or as a result of his
+·9· autism?
+10· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+11· · · · can answer.
+12· · · · A.· · ·No.
+13· BY MR. KING:
+14· · · · Q.· · ·Do you know why he was admitted to
+15· Parker North in February of 2018?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·Why was he admitted?
+18· · · · A.· · ·He had a fight with his father.
+19· · · · Q.· · ·Okay.· When you say "he had a fight
+20· with his father," describe what you mean.
+21· · · · A.· · ·That is what I had in the admission
+22· report.
+23· · · · Q.· · ·Describe what you can recall
+24· regarding the information contained in the
+Page 49
+·1· admission report.
+·2· · · · A.· · ·It said that he locked his father
+·3· in the room and he didn't open it until the
+·4· police came around.
+·5· · · · Q.· · ·Is the admission report the sole
+·6· source of your information concerning what
+·7· prompted his admission to the Parker North unit?
+·8· · · · A.· · ·Yes.
+·9· · · · Q.· · ·Okay.· Did you -- let me withdraw
+10· that.
+11· · · · · · · ·Do you know what time -- let me
+12· withdraw that again.
+13· · · · · · · ·Do you know on what day you first
+14· interacted with Kyle Malinowski?
+15· · · · A.· · ·No.
+16· · · · Q.· · ·Do you know if you interacted with
+17· him on the day of his admission?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·You did?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·And do you know that from your
+22· review of the records?
+23· · · · A.· · ·No.· I did his admission.
+24· · · · Q.· · ·You did his admission?
+Page 50
+·1· · · · A.· · ·Yes.
+·2· · · · Q.· · ·Okay.· Did you do his admission
+·3· once he got to the Parker North unit?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·Describe for me the admission
+·6· process that you followed for Kyle Malinowski
+·7· when he was admitted to the Parker North unit on
+·8· February 17.
+·9· · · · A.· · ·I sat down and I interviewed Kyle
+10· on the admission questions, the intake
+11· questions.
+12· · · · Q.· · ·Okay.· Do you remember what
+13· questions you asked of him?
+14· · · · A.· · ·I don't know, but it's in the
+15· admission process.
+16· · · · Q.· · ·Okay.· Are there a standard list of
+17· questions that you asked?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·Do you remember any of the standard
+20· questions that you asked during the admission
+21· process?
+22· · · · A.· · ·You ask the patient's name, why are
+23· they there, a lot of questions.· I don't recall.
+24· · · · Q.· · ·You can bore me, but I'm not afraid
+Page 51
+·1· of being bored if you want to give me the
+·2· questions that you asked of him.
+·3· · · · A.· · ·I don't know them by heart.
+·4· · · · Q.· · ·Okay.· Do you have a sheet of paper
+·5· with you when you do the admission form?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·So you ask him questions that are
+·8· on a pre-prepared sheet of paper?
+·9· · · · A.· · ·Yes.
+10· · · · Q.· · ·Did you ask Kyle what happened
+11· between him and his father?
+12· · · · A.· · ·Right now, I don't recall, but I
+13· think I might have.
+14· · · · Q.· · ·Okay.· If you had asked him what
+15· happened between him and his father, would you
+16· have written that down on a piece of paper
+17· somewhere, what his response was?
+18· · · · A.· · ·Yes.· That would be one of the
+19· answers to the questions.
+20· · · · Q.· · ·Did you ask Kyle if he understood
+21· why he was there?
+22· · · · A.· · ·No, I did not.
+23· · · · Q.· · ·Do you know if he understood why he
+24· was there?
+Page 52
+·1· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·2· · · · can answer.
+·3· · · · A.· · ·I don't know.
+·4· BY MR. KING:
+·5· · · · Q.· · ·Do you know who called 911?
+·6· · · · A.· · ·I don't know.
+·7· · · · Q.· · ·Do you know who responded to Robert
+·8· Malinowski's house prior to the time that Kyle
+·9· Malinowski was transported to the Baystate Wing
+10· ER?
+11· · · · A.· · ·I don't know.
+12· · · · Q.· · ·Did you speak to any of those
+13· people during the admission process?
+14· · · · A.· · ·No.
+15· · · · Q.· · ·Did you learn that Kyle Malinowski
+16· was autistic at the time of his admission?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·What training, if any, have you had
+19· in diagnosing autism?
+20· · · · A.· · ·No training.
+21· · · · Q.· · ·What training have you had in terms
+22· of the symptoms associated with autism?
+23· · · · A.· · ·No training.
+24· · · · Q.· · ·Do you know what the spectrum of
+Page 53
+·1· autism is?
+·2· · · · A.· · ·No.
+·3· · · · Q.· · ·Do you know if people have varying
+·4· degrees of autism?
+·5· · · · A.· · ·Yes.
+·6· · · · Q.· · ·Do you know what those varying
+·7· degrees are?
+·8· · · · A.· · ·I would say every autism has
+·9· different spectrums.
+10· · · · Q.· · ·What was the patient goal when Kyle
+11· was admitted to Parker North?
+12· · · · A.· · ·I don't know.
+13· · · · Q.· · ·Was there a goal established to get
+14· him discharged at any point in time?
+15· · · · A.· · ·I don't know.
+16· · · · Q.· · ·You don't know?
+17· · · · A.· · ·No.
+18· · · · Q.· · ·How long did the admission process
+19· take?
+20· · · · A.· · ·It could be 30 to an hour.
+21· · · · Q.· · ·Okay.· Did you prepare an admission
+22· history and physical?
+23· · · · A.· · ·No.
+24· · · · Q.· · ·What document, if any, did you
+Page 54
+·1· prepare that memorialized your intake of Kyle
+·2· Malinowski?
+·3· · · · A.· · ·I don't know.
+·4· · · · Q.· · ·So February 17 was a Saturday.· You
+·5· happened to be working on a Saturday?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·Do you know if you worked that
+·8· Sunday?
+·9· · · · A.· · ·I don't know.
+10· · · · Q.· · ·You don't know?
+11· · · · A.· · ·No.
+12· · · · Q.· · ·Were there times when Kyle
+13· Malinowski would not eat?
+14· · · · A.· · ·Yes.
+15· · · · Q.· · ·By the way, what time of day was
+16· lunch -- was lunch brought to the patient's
+17· room?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·What time was lunch brought to the
+20· room?
+21· · · · A.· · ·11, 11:30.
+22· · · · Q.· · ·And what time of day was breakfast
+23· brought to the room?
+24· · · · A.· · ·That was 7:30.
+Page 55
+·1· · · · Q.· · ·And what time of day was dinner
+·2· brought to the room?
+·3· · · · A.· · ·4:30 to 5.
+·4· · · · Q.· · ·4:30 to 5.
+·5· · · · · · · ·When a patient is brought into
+·6· Parker North -- or when a patient was brought to
+·7· Parker North back in February of 2017, would
+·8· they routinely be seen by a nutritionist at any
+·9· point in time?
+10· · · · A.· · ·When a patient has issues eating,
+11· there would be a consult for nutrition to see
+12· the patient.
+13· · · · Q.· · ·Do you know if Kyle Malinowski was
+14· ever seen by a nutritionist?
+15· · · · A.· · ·I don't know.
+16· · · · Q.· · ·Do you have a memory of his ever
+17· being seen by a nutritionist?
+18· · · · A.· · ·Once again, I don't know.
+19· · · · Q.· · ·How often would -- during the
+20· shifts that you worked, would Kyle Malinowski
+21· choose not to eat his breakfast?
+22· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+23· · · · can answer.
+24· · · · A.· · ·He -- whenever he feels like it.
+Page 56
+·1· There are days that he eats.· There are days
+·2· that he doesn't.
+·3· BY MR. KING:
+·4· · · · Q.· · ·I'm limiting my question to
+·5· breakfast.· How often would he choose not to eat
+·6· breakfast, if you know?
+·7· · · · A.· · ·Days that I worked with him, he ate
+·8· breakfast.
+·9· · · · Q.· · ·He ate breakfast on those days that
+10· you worked with him?
+11· · · · A.· · ·Yes.
+12· · · · Q.· · ·Okay.· How often would he choose
+13· not to eat lunch?
+14· · · · A.· · ·I don't know.
+15· · · · Q.· · ·How often would he choose not to
+16· eat dinner?
+17· · · · A.· · ·I don't know.
+18· · · · Q.· · ·Did you notice, during the time
+19· that Kyle resided at Parker North, that he was
+20· losing weight?
+21· · · · A.· · ·Yes.
+22· · · · Q.· · ·Did you ever grow concerned about
+23· his -- the little amount that he was eating?
+24· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+Page 57
+·1· · · · can answer.
+·2· · · · A.· · ·He was eating.
+·3· BY MR. KING:
+·4· · · · Q.· · ·He lost between 25 and 35 pounds
+·5· while he was there, so that's what's prompting
+·6· my questions.
+·7· · · · · · · ·Did you ever become concerned with
+·8· the little amount that he was eating?
+·9· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+10· · · · can answer.
+11· · · · A.· · ·Like I said, he was eating.· So it
+12· might be he was eating, I mean, right when he
+13· was in the hospital.
+14· BY MR. KING:
+15· · · · Q.· · ·Well, to maintain a person's
+16· weight, they have to burn off as many calories
+17· as they consume, correct?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·And to lose weight, they have to
+20· burn more calories than they consume, correct?
+21· · · · A.· · ·Yes and no.
+22· · · · Q.· · ·And Kyle was not exercising?
+23· · · · A.· · ·Yes.· He was in his room.
+24· · · · Q.· · ·He was in his room most of the
+Page 58
+·1· time?
+·2· · · · A.· · ·Yes.
+·3· · · · Q.· · ·So if he's losing weight somehow
+·4· while being sedentary, he's burning more
+·5· calories than he's consuming, correct?
+·6· · · · A.· · ·It could be.
+·7· · · · Q.· · ·And would you agree with me that a
+·8· 25-pound weight loss in 28 days is a substantial
+·9· amount of weight loss?
+10· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+11· · · · can answer.
+12· · · · A.· · ·Well, I wouldn't -- it's what the
+13· person as eating before the person came to the
+14· hospital.· So if the person was maybe eating
+15· junk, eating whatever, and when they come to the
+16· hospital, they're eating the right food.· They
+17· lose weight.
+18· BY MR. KING:
+19· · · · Q.· · ·What knowledge do you have that
+20· Kyle Malinowski was eating junk food before he
+21· came to the hospital?
+22· · · · A.· · ·I didn't say that.
+23· · · · Q.· · ·What evidence do you have that he
+24· was not exercising before he came to the
+Page 59
+·1· hospital?
+·2· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·3· · · · can answer.
+·4· BY MR. KING:
+·5· · · · Q.· · ·What --
+·6· · · · · · · · · · MR. FLAHIVE:· Can he answer
+·7· · · · the last question?
+·8· BY MR. KING:
+·9· · · · Q.· · ·Go ahead.· What evidence do you
+10· have about the food he consumed before he came
+11· to Parker North?
+12· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+13· · · · can answer.
+14· · · · A.· · ·Once again, I didn't say that.· You
+15· asked me a question and I was answering, so...
+16· BY MR. KING:
+17· · · · Q.· · ·Okay.· Is it fair to say you don't
+18· know what his dietary habits were before he came
+19· to Parker North?
+20· · · · A.· · ·No.
+21· · · · Q.· · ·That's a fair statement, correct?
+22· · · · A.· · ·Yes, but what I said -- you asked
+23· me if he lost weight when he came to the
+24· hospital, and I said there could be some factors
+Page 60
+·1· of why he lost weight while he was in the
+·2· hospital.
+·3· · · · Q.· · ·How many people, while you were
+·4· working at Parker North, lost more than 20
+·5· pounds in a 30-day period -- in a 28-day period?
+·6· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·7· · · · can answer.
+·8· BY MR. KING:
+·9· · · · Q.· · ·Did you ever try to lose 25 pounds?
+10· · · · · · · · · · MR. FLAHIVE:· I have, but
+11· · · · objection.· Go ahead.
+12· · · · A.· · ·I don't know.
+13· BY MR. KING:
+14· · · · Q.· · ·Have you ever tried to lose five
+15· pounds?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·When was the last time you were
+18· successful in trying to lose five pounds?
+19· · · · · · · · · · MR. FLAHIVE:· We're going to
+20· · · · move on from this in terms of him losing
+21· · · · weight and his personal --
+22· BY MR. KING:
+23· · · · Q.· · ·So my question, again, to you is:
+24· Do you think he lost -- I'll phrase it a little
+Page 61
+·1· differently -- an inordinate amount of weight
+·2· during the 28-day period he was there?
+·3· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·4· · · · can answer.
+·5· · · · A.· · ·I don't know.
+·6· BY MR. KING:
+·7· · · · Q.· · ·You don't know.
+·8· · · · · · · ·When you saw Kyle in the morning --
+·9· well, let me withdraw that.
+10· · · · · · · ·In a typical shift from 7 a.m. to 7
+11· p.m., how often would you enter Kyle's room?
+12· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+13· · · · can answer.
+14· · · · A.· · ·At least three times.
+15· BY MR. KING:
+16· · · · Q.· · ·Three times.
+17· · · · · · · ·And at what time of day would those
+18· be?
+19· · · · A.· · ·During my assessment.
+20· · · · Q.· · ·Specify the time of the day, if you
+21· would, please.
+22· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+23· · · · can answer.
+24· · · · A.· · ·I don't know the times.
+Page 62
+·1· BY MR. KING:
+·2· · · · Q.· · ·Well, you arrive at work to start
+·3· your shift at 7 a.m.?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·Realizing that's your start time,
+·6· when would you first enter Kyle Malinowski's
+·7· room?
+·8· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·9· · · · can answer.
+10· · · · A.· · ·I first come on the unit, get my
+11· report from the prior nurse, and then start
+12· seeing my patients.
+13· BY MR. KING:
+14· · · · Q.· · ·Okay.· And would you start --
+15· realizing that Kyle Malinowski's room was
+16· directly in front of you where the nursing
+17· station was, would you start in his room?
+18· · · · A.· · ·It depends.· I don't really have a
+19· sequence that I go through.
+20· · · · Q.· · ·Would you do assessments on each of
+21· the patients you were responsible for?
+22· · · · A.· · ·Yes.
+23· · · · Q.· · ·And what time of day would you do
+24· your first assessment?
+Page 63
+·1· · · · A.· · ·When I see them for the first time.
+·2· · · · Q.· · ·And, apparently, that could vary,
+·3· that time could vary?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·And how often -- let me withdraw
+·6· that.
+·7· · · · · · · ·How many additional assessments
+·8· would you do throughout the day, if any?
+·9· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+10· · · · can answer.
+11· · · · A.· · ·It's depending on the situation
+12· that they have.· So I go around, see everybody,
+13· then -- in case someone has a headache, I go in
+14· and see the person.
+15· BY MR. KING:
+16· · · · Q.· · ·I'm talking about a -- I understand
+17· that there will be times when things happen that
+18· you have to respond to a particular patient.
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·What I'm asking is:· How often,
+21· during a 12-hour shift, would you assess a
+22· particular patient, in this case, Kyle
+23· Malinowski?
+24· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+Page 64
+·1· · · · can answer.
+·2· · · · A.· · ·Once or twice, depending on the
+·3· situation.
+·4· BY MR. KING:
+·5· · · · Q.· · ·Once or twice during a 12-hour
+·6· shift?
+·7· · · · A.· · ·Yes.
+·8· · · · Q.· · ·Okay.· On the first occasion that
+·9· you would do your assessment, what record of
+10· that assessment would you keep?
+11· · · · A.· · ·All the information that I feel is
+12· necessary.
+13· · · · Q.· · ·Where would you enter the
+14· information in the chart, what section of the
+15· record?
+16· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+17· · · · can answer.
+18· · · · A.· · ·It depends on what information I
+19· took.· Every [sic] information goes to different
+20· places in the chart.
+21· BY MR. KING:
+22· · · · Q.· · ·So tell me the different places in
+23· the chart where the information goes, the
+24· information that you obtain from the patient.
+Page 65
+·1· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·2· · · · can answer.
+·3· · · · A.· · ·Nursing progress, medication.
+·4· BY MR. KING:
+·5· · · · Q.· · ·Medication administration record;
+·6· is that correct?
+·7· · · · A.· · ·Yes.
+·8· · · · Q.· · ·And if you administered a
+·9· medication to a patient, you would document
+10· doing so; is that correct?
+11· · · · A.· · ·Yes.· It would go to the medication
+12· side of it.
+13· · · · Q.· · ·Okay.· There's nursing progress
+14· notes, medication administration record.· What
+15· additional parts of the chart might you enter
+16· information into?
+17· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+18· · · · can answer.
+19· · · · A.· · ·Like I said, it depends on the
+20· information, but --
+21· BY MR. KING:
+22· · · · Q.· · ·Can you tell me any other parts of
+23· the chart that you enter information into?
+24· · · · A.· · ·Maybe nursing care plan.
+Page 66
+·1· · · · Q.· · ·What?
+·2· · · · A.· · ·Care plan.
+·3· · · · Q.· · ·Care plan?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·Okay.· Now, when you did on
+·6· assessment of a patient, a mental status, when
+·7· you checked the patient's mental status, what
+·8· information, if any, would you include in the
+·9· process note?
+10· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+11· · · · can answer.
+12· · · · A.· · ·The mood of the patient, are they
+13· oriented, how -- their complaints.
+14· BY MR. KING:
+15· · · · Q.· · ·How would you assist in getting a
+16· patient well enough to be discharged?
+17· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+18· · · · can answer.
+19· · · · A.· · ·I do not -- I don't.
+20· BY MR. KING:
+21· · · · Q.· · ·You don't assist in getting them
+22· well?
+23· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+24· · · · can answer.
+Page 67
+·1· · · · A.· · ·No, getting them discharged.
+·2· BY MR. KING:
+·3· · · · Q.· · ·That's not my question.· My
+·4· question was, how would you assist a patient in
+·5· getting him or her well enough to be discharged?
+·6· · · · · · · · · · MR. FLAHIVE:· Objection.
+·7· BY MR. KING:
+·8· · · · Q.· · ·What care would you render or what
+·9· interaction would you have to hopefully get them
+10· well enough to be discharged?
+11· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+12· · · · can answer.
+13· · · · A.· · ·I followed the doctors' plan.· The
+14· plan the doctors have, that's what I follow.
+15· BY MR. KING:
+16· · · · Q.· · ·Do you know what plan was
+17· established for Kyle Malinowski?
+18· · · · A.· · ·I don't know right now.
+19· · · · Q.· · ·Do you know if there was a nursing
+20· plan of care for Kyle Malinowski?
+21· · · · A.· · ·Yes, I think so.
+22· · · · Q.· · ·Who established the care plan for
+23· Kyle Malinowski, if you know?
+24· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+Page 68
+·1· · · · can answer.
+·2· · · · A.· · ·I don't know.
+·3· BY MR. KING:
+·4· · · · Q.· · ·Who was the director of nursing in
+·5· February of 2018, if you know?
+·6· · · · A.· · ·I don't recall.
+·7· · · · Q.· · ·Who was the charge nurse -- was
+·8· there a charge nurse while you were on duty?
+·9· · · · A.· · ·Yes.
+10· · · · Q.· · ·And who was the charge nurse -- or
+11· who were the charge nurses when you were on
+12· duty?
+13· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+14· · · · can answer.
+15· · · · A.· · ·Mary Benoit.
+16· BY MR. KING:
+17· · · · Q.· · ·Mary Benoit.
+18· · · · · · · ·So do you know what -- whether Kyle
+19· Malinowski had any history of a mental health
+20· illness before he was admitted to Parker North?
+21· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+22· · · · can answer.
+23· · · · A.· · ·Yes.
+24· BY MR. KING:
+Page 69
+·1· · · · Q.· · ·What was his mental health history?
+·2· · · · A.· · ·He was autistic.
+·3· · · · Q.· · ·Do you know if he had any other
+·4· diagnoses?
+·5· · · · A.· · ·I don't know.
+·6· · · · Q.· · ·Do you know if autism is a mental
+·7· health disorder?
+·8· · · · A.· · ·Yes.
+·9· · · · Q.· · ·It is?
+10· · · · A.· · ·Yes.
+11· · · · Q.· · ·But you don't know the particular
+12· characteristics of autism, correct?
+13· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+14· · · · can answer.
+15· · · · A.· · ·I don't know.
+16· BY MR. KING:
+17· · · · Q.· · ·Okay.· Do you know -- let me
+18· withdraw that.
+19· · · · · · · ·In addition to autism, did Kyle
+20· Malinowski have any mental health disorders
+21· prior to coming to Parker North, if you know?
+22· · · · A.· · ·No, I don't recall.
+23· · · · Q.· · ·And do you know if he had a history
+24· of being treated by any antipsychotic medication
+Page 70
+·1· before he came into the hospital?
+·2· · · · A.· · ·No, I don't.
+·3· · · · Q.· · ·Did you ever ask Kyle who his
+·4· psychiatrist was?
+·5· · · · A.· · ·I might have, but I don't know.
+·6· · · · Q.· · ·Do you know who Kyle's most recent
+·7· psychiatrist was?
+·8· · · · A.· · ·No.
+·9· · · · Q.· · ·Do you know how long he had had a
+10· psychiatrist?
+11· · · · A.· · ·No, I don't.
+12· · · · Q.· · ·Do you know when he first saw a
+13· psychiatrist?
+14· · · · A.· · ·No.
+15· · · · Q.· · ·Do you know what medications, if
+16· any, the psychiatrist prescribed for him?
+17· · · · A.· · ·No.
+18· · · · Q.· · ·Do you know if he had ever been in
+19· counseling before?
+20· · · · A.· · ·No.
+21· · · · Q.· · ·Is there any patient from whom you
+22· obtained that information?
+23· · · · · · · · · · MR. FLAHIVE:· I'm sorry, what?
+24· BY MR. KING:
+Page 71
+·1· · · · Q.· · ·Any patient admitted to Parker
+·2· North from whom you elicit the information of
+·3· who their treating psychiatrist is?
+·4· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·5· · · · can answer.
+·6· · · · A.· · ·Yes.· It's one of the questions
+·7· that...
+·8· BY MR. KING:
+·9· · · · Q.· · ·Did you ever ask them or find out
+10· from them how long they've been in
+11· psychotherapy?
+12· · · · A.· · ·No.
+13· · · · Q.· · ·Do you ever ask them what previous
+14· medications they've been on?
+15· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+16· · · · can answer.
+17· · · · A.· · ·Yes.· That's one of the questions
+18· in the intake.
+19· BY MR. KING:
+20· · · · Q.· · ·What did you do to establish a
+21· relationship with Kyle Malinowski?
+22· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+23· · · · can answer.
+24· · · · A.· · ·Can you repeat that question?
+Page 72
+·1· BY MR. KING:
+·2· · · · Q.· · ·What did you do to establish a
+·3· relationship with Kyle Malinowski?
+·4· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·5· · · · can answer.
+·6· · · · A.· · ·I would say Kyle likes to have
+·7· things in a certain way.· So I tried to make it
+·8· look like he's leading, but at the same time I
+·9· know if he's doing the right thing.
+10· BY MR. KING:
+11· · · · Q.· · ·I'm not sure if that answers my
+12· question, but I'll accept it for what it is.
+13· · · · · · · ·Did any nurse involved in Kyle's
+14· care tell you that they had known him
+15· previously?
+16· · · · · · · · · · MR. FLAHIVE:· Objection.
+17· · · · A.· · ·I don't know.
+18· BY MR. KING:
+19· · · · Q.· · ·Did anyone that you worked with
+20· ever tell you that she was familiar with Kyle
+21· from outside of the Parker North facility?
+22· · · · A.· · ·No.
+23· · · · Q.· · ·No.
+24· · · · · · · ·Did anyone that you worked with
+Page 73
+·1· ever tell you that they knew any member of
+·2· Kyle's family --
+·3· · · · A.· · ·No.
+·4· · · · Q.· · ·Did you ever see anyone bring food
+·5· in to Kyle?
+·6· · · · A.· · ·No.
+·7· · · · Q.· · ·Did you ever bring food in to Kyle?
+·8· · · · A.· · ·Me?
+·9· · · · Q.· · ·Yes.
+10· · · · A.· · ·No.
+11· · · · Q.· · ·If you could open to page 18 of the
+12· offer of proof, Mr. Tamakloe.· Do you recognize
+13· this document that appears on page 18 in the
+14· plaintiff's offer of proof?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·To your knowledge -- have you seen
+17· this document before?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·To your knowledge, is this the
+20· first note that you prepared concerning Kyle
+21· Malinowski?
+22· · · · A.· · ·Yes.
+23· · · · Q.· · ·And this note identifies the event
+24· date as February 17, 2018 at 5:32.· Can you
+Page 74
+·1· describe where you were when you interacted with
+·2· Kyle at that time?
+·3· · · · A.· · ·I was at Baystate Wing.
+·4· · · · Q.· · ·Okay.· It says, "24-year-old single
+·5· white male admitted to Parker North for a safe
+·6· inpatient hospitalization.· Per Robert,
+·7· patient's father, reported that Kyle stopped
+·8· taking his meds and decompensated."
+·9· · · · · · · ·What's the source of that
+10· information?· You said you didn't talk to Kyle's
+11· father, correct?
+12· · · · A.· · ·Yes.· That came from the admission
+13· intake report.
+14· · · · Q.· · ·How did you gain access to that?
+15· · · · A.· · ·It's a prepared intake that is
+16· brought to the unit with the patient.
+17· · · · Q.· · ·So you were relying on the
+18· information reported by someone else; is that
+19· correct?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·Okay.· "Patient had refused to
+22· shower or brush teeth for over three" --
+23· · · · A.· · ·Over three months.
+24· · · · Q.· · ·You meant to say "months"?
+Page 75
+·1· · · · A.· · ·Yes.
+·2· · · · Q.· · ·"Or a little over.· Robert reported
+·3· that Kyle was aggressive towards him and other
+·4· siblings."
+·5· · · · · · · ·Again, is all of that information
+·6· that you obtained from the ER admission record?
+·7· · · · A.· · ·Yes.
+·8· · · · Q.· · ·"Kyle locked his father in the
+·9· house and refused to let anyone in or out until
+10· the police arrived.· Patient DX" -- what does
+11· that stand for?
+12· · · · A.· · ·Diagnosed.
+13· · · · Q.· · ·-- "diagnosed with autism at age
+14· five and graduated from high school."· Is that
+15· from the ER admission?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·"Patient refused to sign CV."
+18· What's "CV"?
+19· · · · A.· · ·Condition of voluntary admission.
+20· · · · Q.· · ·Voluntary admission?
+21· · · · A.· · ·Yes.
+22· · · · Q.· · ·"Because he thought he was going to
+23· be sent to surgery."· Is that what he said?
+24· · · · A.· · ·Yes.
+Page 76
+·1· · · · Q.· · ·What made you think he was going to
+·2· surgery if he signed that form?
+·3· · · · A.· · ·No.· He did not sign the form.
+·4· · · · Q.· · ·I understand, but you said in this
+·5· document that he thought he was going to be sent
+·6· to surgery.
+·7· · · · A.· · ·Yes.· By signing the form, he was
+·8· going to go for surgery.
+·9· · · · Q.· · ·That's what he thought?
+10· · · · A.· · ·Yes.
+11· · · · Q.· · ·But that wasn't true, correct?
+12· · · · A.· · ·Correct.
+13· · · · Q.· · ·You were just asking him to sign a
+14· voluntary admission; is that correct?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·Which is limited to a certain
+17· number of days, correct -- well, let me withdraw
+18· that.
+19· · · · · · · ·If he's committed to -- well, let
+20· me withdraw that.
+21· · · · · · · ·Why did you ask him to sign a
+22· voluntary admission?
+23· · · · A.· · ·It's one of the admission
+24· requirements.
+Page 77
+·1· · · · Q.· · ·If he is committed against his will
+·2· on a Section 12 -- is that what this was
+·3· initially?
+·4· · · · A.· · ·But signing the CV, condition of
+·5· voluntary, that says he's signing himself in.
+·6· · · · Q.· · ·Right.· If he -- and he didn't sign
+·7· that, correct?
+·8· · · · A.· · ·Yes, he did not.
+·9· · · · Q.· · ·So on an involuntary admission, how
+10· long would it be typically before his status
+11· would have to be re-evaluated?
+12· · · · A.· · ·Three days.
+13· · · · Q.· · ·In three days?
+14· · · · A.· · ·Yes.
+15· · · · Q.· · ·And what happens after that three
+16· days for a person who's involuntarily committed?
+17· · · · A.· · ·Either -- if he -- okay.· So if he
+18· does not sign in, after three days, the doctor
+19· has a choice of taking him to the court.
+20· · · · · · · · · · MR. FLAHIVE:· Court.
+21· BY MR. KING:
+22· · · · Q.· · ·To the court?
+23· · · · A.· · ·Yes, or discharging the patient.
+24· · · · Q.· · ·Okay.· "Patient alert and oriented
+Page 78
+·1· x 3."· What do you mean by oriented "x 3"?
+·2· · · · A.· · ·He was alert.· He was oriented and
+·3· he knew where he was.
+·4· · · · Q.· · ·"And denies suicidal or homicidal
+·5· ideation"?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·"VS," vital signs?
+·8· · · · A.· · ·Yes.
+·9· · · · Q.· · ·So this information that appears in
+10· that line, "Patient alert and oriented x 3,
+11· denies suicidal or homicidal ideation, and then
+12· vital signs," that was information obtained by
+13· you; is that correct?
+14· · · · A.· · ·Yes.
+15· · · · Q.· · ·For which you wrote one line,
+16· correct?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·And then you said, "Assessed and
+19· oriented to unit, very guarded and withdrawn.
+20· Patient refused to give his wallet to staff so
+21· that it could be storage [sic], 15 minutes, all
+22· safety checks implemented."
+23· · · · · · · ·That was the extent of the
+24· information that you wrote about Kyle Malinowski
+Page 79
+·1· upon his admission, correct?
+·2· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·3· · · · can answer.
+·4· · · · A.· · ·Yes.
+·5· BY MR. KING:
+·6· · · · Q.· · ·Okay.· What questions did you ask
+·7· of him?
+·8· · · · A.· · ·They're pre-prepared questions.
+·9· · · · Q.· · ·And why aren't the questions and
+10· answers referenced in this progress note?
+11· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+12· · · · can answer.
+13· · · · A.· · ·Those were on the computer.· So
+14· those are the questions that I usually ask when
+15· I'm doing the admission.
+16· BY MR. KING:
+17· · · · Q.· · ·And then does this go for the next
+18· couple of pages, your progress note, through to
+19· page 20, or is that somebody else's progress
+20· note?
+21· · · · · · · · · · MR. FLAHIVE:· I think that
+22· · · · might be somebody else's because there's
+23· · · · an assessment plan.
+24· · · · · · · · · · MR. KING:· Okay.
+Page 80
+·1· · · · · · · · · · MR. FLAHIVE:· It looks like a
+·2· · · · doctor's note.
+·3· BY MR. KING:
+·4· · · · Q.· · ·If you could jump ahead to 25,
+·5· Mr. Tamakloe.· Are you familiar with that note?
+·6· Have you seen that note before?
+·7· · · · A.· · ·Yes.
+·8· · · · Q.· · ·Okay.· To your knowledge, is that
+·9· the second note that you wrote concerning Kyle
+10· Malinowski?
+11· · · · A.· · ·Yes.
+12· · · · Q.· · ·Okay.· That getS me back to my
+13· previous question.· So you saw him on the day of
+14· his admission, which was a Friday?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·And this is the morning -- did you
+17· work the night shift that day or did you work a
+18· double shift that day?
+19· · · · · · · · · · MR. FLAHIVE:· I think the
+20· · · · other one was page 18, if you're looking
+21· · · · for it.
+22· BY MR. KING:
+23· · · · Q.· · ·So the shifts that you worked were
+24· either 7 a.m. to 7 p.m. or 7 p.m. to 7 a.m.,
+Page 81
+·1· correct?
+·2· · · · A.· · ·Correct.
+·3· · · · Q.· · ·This entry concerns an event that
+·4· occurred an February 18 at 12:41 in the morning,
+·5· correct?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·Okay.· So that suggests to me that
+·8· you were working a shift from 7 p.m. to 7 a.m.;
+·9· is that assumption accurate?
+10· · · · A.· · ·Yes.
+11· · · · Q.· · ·So you would have started at 7 p.m.
+12· on the night of the 17th, but that other entry
+13· concerns something that happened at 5 -- I'm
+14· trying to jive the two entries, the one for the
+15· 17th and the one for the 18th.
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·Yes what?
+18· · · · A.· · ·This is 0532 and this is 0041.
+19· · · · Q.· · ·But it says, "Event Date" -- on the
+20· one on page 25, it says, "Event Date:· 2/18 at
+21· 12:41 in the morning"?
+22· · · · A.· · ·Yes.
+23· · · · Q.· · ·So you entered the note at 5:38 on
+24· 20th, March 20, two days later?
+Page 82
+·1· · · · · · · · · · MR. FLAHIVE:· Objection.· It
+·2· · · · says "signed by."
+·3· · · · · · · · · · MR. KING:· Okay.
+·4· BY MR. KING:
+·5· · · · Q.· · ·So you signed it two days later.
+·6· When did you enter it into the chart?
+·7· · · · · · · · · · THE WITNESS:· Where is the
+·8· · · · "signed by"?
+·9· · · · · · · · · · MR. FLAHIVE:· It's kind of cut
+10· · · · off.· Here's documented event date.
+11· · · · A.· · ·Nobody put the information in the
+12· computer, so I don't know how -- I mean, it
+13· generates.
+14· BY MR. KING:
+15· · · · Q.· · ·Would you agree with me that if the
+16· event occurred on February 18, 2018 at 12:41 in
+17· the morning, in all likelihood, you worked a
+18· shift from 7 p.m. to 7 a.m.?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·Okay.· And this three-page note is
+21· the note that you entered for that interaction
+22· with Kyle Malinowski, correct?
+23· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+24· · · · can answer.
+Page 83
+·1· · · · A.· · ·Yes.
+·2· BY MR. KING:
+·3· · · · Q.· · ·Okay.· And the next note that
+·4· appears at page 26 is entered at 6:28 on the
+·5· 18th.· It says, "Bedrested quietly throughout
+·6· shift with no noted distress.· 15-minute visual
+·7· safety checks maintained."
+·8· · · · · · · ·That's the only line that you wrote
+·9· at 6:28 in the morning, correct?
+10· · · · A.· · ·Yes.
+11· · · · · · · · · · MR. FLAHIVE:· You've got to go
+12· · · · to the page.
+13· BY MR. KING:
+14· · · · Q.· · ·The 15-minute checks, were those
+15· done through the window or from the monitor on
+16· the screen?
+17· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+18· · · · can answer.
+19· · · · A.· · ·It was done by myself and the CNA.
+20· BY MR. KING:
+21· · · · Q.· · ·Well, how would you know whether
+22· the CNA was doing 15-minute checks?
+23· · · · A.· · ·Because it's part of the
+24· requirement that a CNA is supposed to do.
+Page 84
+·1· · · · Q.· · ·This says it was done.· How would
+·2· you know if you're the nurse responsible for six
+·3· patients, how would you know if the CNA is doing
+·4· the 15-minute-interval checks?
+·5· · · · A.· · ·I observed the person doing it.
+·6· · · · Q.· · ·Every 15 minutes?
+·7· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·8· · · · can answer.
+·9· · · · A.· · ·Either that person is doing it or
+10· I'm doing it.
+11· BY MR. KING:
+12· · · · Q.· · ·Well, wouldn't you write it down
+13· every 15 minutes or no?
+14· · · · A.· · ·Normally, it's not, like, as soon
+15· as you do it, you record it.· You can wait.· At
+16· the end of the shift, you record it.
+17· · · · Q.· · ·Again, as was true with the earlier
+18· note, you signed this note on March 20 at 5:24,
+19· correct?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·If you could jump ahead to page 54.
+22· · · · · · · · · · MR. KING:· Let's take a break.
+23· · · · (A recess was taken)
+24· · · · · · · · · · MR. KING:· Back on the record.
+Page 85
+·1· BY MR. KING:
+·2· · · · Q.· · · Mr. Tamakloe, I just provided you
+·3· a copy of Exhibit 2.· Do you recognize that
+·4· document?
+·5· · · · A.· · ·Yes.
+·6· · · · Q.· · ·And if you could turn to page 14.
+·7· · · · · · · · · · MR. FLAHIVE:· It's all the way
+·8· · · · to the end.
+·9· BY MR. KING:
+10· · · · Q.· · ·Did you authorize your attorney to
+11· sign that document electronically?
+12· · · · A.· · ·Yes.
+13· · · · Q.· · ·And before you authorized your
+14· attorney to sign that document electronically,
+15· did you review the document for completeness and
+16· accuracy?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·I'd ask you to turn to page 6.
+19· Answer to Interrogatory No. 11.· And the
+20· question there was, "Please describe all
+21· interaction you had with Kyle Malinowski during
+22· his hospitalization at Baystate, Inc., from
+23· February 17, 2018 to March 16, 2018, including
+24· in your answer all interaction you had with Kyle
+Page 86
+·1· before March 16, 2018 and all interaction you
+·2· had with Kyle on March 16, 2018."
+·3· · · · · · · ·First of all, before I get to the
+·4· body of that answer, do you remember any
+·5· particular conversation you had with Kyle during
+·6· the time that he was inpatient at Parker North?
+·7· · · · A.· · ·Yes.
+·8· · · · Q.· · ·Can you recall any particular
+·9· conversation -- recite for me any particular
+10· conversation you had with him.
+11· · · · A.· · ·Kyle, how are you doing; I'm James;
+12· I'm your nurse for today; I'm going to assess
+13· you to see how you're doing.
+14· · · · Q.· · ·Do you recall how many siblings he
+15· had?
+16· · · · · · · · · · MR. FLAHIVE:· I don't think
+17· · · · he's finished.
+18· BY MR. KING:
+19· · · · Q.· · ·I'm sorry.· Go ahead.
+20· · · · A.· · ·And then I go ahead and do my
+21· assessment.
+22· · · · Q.· · ·Do you know how many siblings he
+23· had?
+24· · · · A.· · ·No.
+Page 87
+·1· · · · Q.· · ·Do you know if he had any siblings?
+·2· · · · A.· · ·No.
+·3· · · · Q.· · ·And did you ask him -- do you know
+·4· whether he played any sports?
+·5· · · · A.· · ·No.
+·6· · · · Q.· · ·Do you know what he did for social
+·7· activities?
+·8· · · · A.· · ·No.
+·9· · · · Q.· · ·Did you learn anything personal
+10· about Kyle Malinowski during the time that he
+11· resided at Parker North?
+12· · · · A.· · ·No.· Can I say something?
+13· · · · Q.· · ·Go ahead.
+14· · · · A.· · ·Kyle is somebody that -- he doesn't
+15· say much.· When you ask him a question, he will
+16· either answer with a couple of words or just
+17· shake his head yes, no, so there wasn't that
+18· much that I could get from Kyle.
+19· · · · Q.· · ·So did you stop trying?
+20· · · · A.· · ·Stop?· No.· I never did.
+21· · · · Q.· · ·Going on to the second paragraph,
+22· "During the month that Kyle was on the Parker
+23· North unit, I was assigned as one of his nurses.
+24· During his admission, Kyle generally stayed in
+Page 88
+·1· his room and self-isolated."
+·2· · · · · · · ·When you say "generally stayed in
+·3· his room," during your 12-hour shift, how often,
+·4· if at all, would Kyle leave his room?
+·5· · · · A.· · ·He would come out for assessment.
+·6· And then on days that he takes a shower, he
+·7· might use the shower for --
+·8· · · · Q.· · ·Excuse me.· Why would he come out
+·9· of the room for an assessment?· Why wouldn't the
+10· assessment be done in the room?
+11· · · · A.· · ·Everybody comes to the nursing
+12· station for assessment.
+13· · · · Q.· · ·Okay.· You don't go into the room
+14· to perform the assessment.· They come to you?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·Okay.· How do they know to come to
+17· you?
+18· · · · A.· · ·We request it.· I mean, the staff
+19· requests for the patient to come.
+20· · · · Q.· · ·Okay.· Why was it done at the
+21· nursing station rather than in the room?
+22· · · · A.· · ·It's been like that for the times
+23· I've been there.
+24· · · · Q.· · ·And you said "self-isolated."· Why
+Page 89
+·1· did you use that term?
+·2· · · · A.· · ·He stayed in his room all the time.
+·3· · · · Q.· · ·"He typically communicated in one-
+·4· or two-word sentences or the shake of his head.
+·5· Kyle often refused care."
+·6· · · · · · · ·How often would he refuse care?
+·7· Now, I asked you about eating before, and you
+·8· said when you were there he ate his meals.· What
+·9· care did he refuse?
+10· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+11· · · · can answer.
+12· BY MR. KING:
+13· · · · Q.· · ·What care did he refuse?
+14· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+15· · · · can answer.
+16· · · · A.· · ·Maybe just brushing his teeth,
+17· taking showers.
+18· BY MR. KING:
+19· · · · Q.· · ·Okay.· And what, if anything, did
+20· you do to encourage him to brush his teeth?
+21· · · · A.· · ·I tried talking him into it, and he
+22· would give you, like, Okay, I'll do it maybe in
+23· 15 minutes' time, 20 minutes' time, which
+24· sometimes he does.· Other times, he'll tell you,
+Page 90
+·1· I'll do it tomorrow or the next day.
+·2· · · · Q.· · ·What progress, if any, did Kyle
+·3· make during the 28 days he was at Parker North?
+·4· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·5· · · · can answer.
+·6· · · · · · · · · · MS. HARTY:· Objection.
+·7· · · · A.· · ·Progress?
+·8· BY MR. KING:
+·9· · · · Q.· · ·Mm-hmm.
+10· · · · A.· · ·I don't know.
+11· · · · Q.· · ·From your observation, did he make
+12· any progress?
+13· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+14· · · · can answer.
+15· · · · A.· · ·I think so.
+16· BY MR. KING:
+17· · · · Q.· · ·In what way?
+18· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+19· · · · can answer.
+20· · · · A.· · ·He was taking medication as
+21· prescribed sometimes; and at times, he eats.
+22· BY MR. KING:
+23· · · · Q.· · ·What progress was he making with
+24· respect to the issues that caused him to be
+Page 91
+·1· hospitalized?
+·2· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·3· · · · can answer.
+·4· · · · A.· · ·That, I don't know.
+·5· BY MR. KING:
+·6· · · · Q.· · ·And I asked those questions,
+·7· Mr. Tamakloe, because in your answer and in your
+·8· answers today, you said he -- well, in your
+·9· Answers to Interrogatories, he rarely came out
+10· of his room, he refused care, he refused to
+11· brush his teeth oftentimes, he refused to shower
+12· oftentimes, he self-isolated.
+13· · · · · · · ·So when describing a patient like
+14· that after 28 days makes me react that he wasn't
+15· making any progress.· Would you agree or
+16· disagree?
+17· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+18· · · · can answer.
+19· · · · A.· · ·I think he was calm.· He was
+20· different from the first day he came in.
+21· BY MR. KING:
+22· · · · Q.· · ·"Calm" is what you said?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·You never tried to call Robert
+Page 92
+·1· Malinowski, correct?
+·2· · · · A.· · ·No.
+·3· · · · Q.· · ·Why didn't you ever try to call
+·4· Robert Malinowski?
+·5· · · · A.· · ·Why?
+·6· · · · Q.· · ·Mm-hmm.
+·7· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·8· · · · can answer.
+·9· · · · A.· · ·There was nothing saying I should
+10· call him.
+11· BY MR. KING:
+12· · · · Q.· · ·Well, he wasn't eating, he wasn't
+13· showering, he wasn't brushing his teeth, he was
+14· losing 20 to 25 pounds.· You didn't think there
+15· was any reason to call a parent --
+16· · · · · · · · · · MR. FLAHIVE:· Objection.
+17· · · · Q.· · ·-- to find out if maybe they could
+18· help be of some assistance?
+19· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+20· · · · can answer.
+21· · · · A.· · ·I think it wasn't my call to do
+22· that.
+23· BY MR. KING:
+24· · · · Q.· · ·Did you ever suggest to anyone that
+Page 93
+·1· they do that?
+·2· · · · A.· · ·Like I said, it wasn't my call.
+·3· · · · Q.· · ·Did you ever suggest to anyone that
+·4· they should do that?
+·5· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·6· · · · can answer.
+·7· · · · A.· · ·Obviously, it was the doctor's
+·8· call.· It wasn't my call.
+·9· BY MR. KING:
+10· · · · Q.· · ·Why didn't you call Mr. Malinowski
+11· or Kyle's mother after Kyle had an unwitnessed
+12· fall in his bathroom?
+13· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+14· · · · can answer.
+15· · · · A.· · ·I mean, if I had consent, I would
+16· have done that.
+17· BY MR. KING:
+18· · · · Q.· · ·Well, the hospital policy required
+19· staff to call family members when somebody had
+20· struck their head.
+21· · · · · · · · · · MR. FLAHIVE:· Objection.
+22· BY MR. KING:
+23· · · · Q.· · ·So when he fell and struck his
+24· head, my question is:· Why didn't you call his
+Page 94
+·1· family?
+·2· · · · · · · · · · MR. FLAHIVE:· Objection.· What
+·3· · · · policy are you talking about?
+·4· · · · · · · · · · MR. KING:· The Department of
+·5· · · · Public Health finding in which they cited
+·6· · · · the facility for not complying with the
+·7· · · · policy that -- its own policy for
+·8· · · · requiring staff members to call the
+·9· · · · patient's family when a patient has struck
+10· · · · their head.
+11· · · · · · · · · · MR. FLAHIVE:· What policy?
+12· · · · · · · · · · MR. KING:· I can't cite it,
+13· · · · specifically.· You can object.· You're
+14· · · · only supposed to just object.
+15· · · · · · · · · · MR. FLAHIVE:· I am objecting
+16· · · · and I'm making sure you're not
+17· · · · misrepresenting anything.
+18· · · · · · · · · · MR. KING:· I don't think I am
+19· · · · misrepresenting anything.
+20· · · · · · · · · · MR. FLAHIVE:· I think you are
+21· · · · because I'm not aware of any policy saying
+22· · · · he's supposed to call.
+23· · · · · · · · · · MR. KING:· I'm not saying he
+24· · · · specifically is supposed to call.· Staff
+Page 95
+·1· · · · members are supposed to call family of a
+·2· · · · patient who has struck his or her head.
+·3· · · · · · · · · · MR. FLAHIVE:· I've seen the
+·4· · · · policy.· It doesn't say that.
+·5· · · · · · · · · · MR. KING:· Okay.
+·6· BY MR. KING:
+·7· · · · Q.· · ·Did you think you were under any
+·8· obligation to call Kyle Malinowski's family when
+·9· he fell in the bathroom and struck his head?
+10· · · · A.· · ·There was no consent for me to do
+11· that.
+12· · · · Q.· · ·By the way, did you ask him for his
+13· consent at that time?
+14· · · · A.· · ·Once again, it's not my call to do
+15· that.
+16· · · · Q.· · ·I didn't ask you that.· I asked if
+17· you asked for consent to call his family.
+18· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+19· · · · can answer.
+20· · · · A.· · ·Who?
+21· BY MR. KING:
+22· · · · Q.· · ·Kyle for consent to call his family
+23· after he struck his head and refused the CAT
+24· scan.
+Page 96
+·1· · · · A.· · ·I did not ask him.
+·2· · · · Q.· · ·Okay.· Why not?· If there was
+·3· concern for his -- whether he -- let me withdraw
+·4· that.
+·5· · · · · · · ·Is it fair to say that you were
+·6· concerned about the fact that he struck his
+·7· head?
+·8· · · · A.· · ·I think, as I recall, somebody
+·9· asked him earlier, that they wanted to call the
+10· family, and the patient refused.
+11· · · · Q.· · ·Okay.· Who was that that asked him
+12· earlier?
+13· · · · A.· · ·I don't know, but...
+14· · · · Q.· · ·When did they ask him?
+15· · · · A.· · ·On the night of the incident.
+16· · · · Q.· · ·Which night, the 16th or 15th?
+17· · · · A.· · ·On the night of the fall.
+18· · · · Q.· · ·Okay.· And what date was that?
+19· · · · A.· · ·On the 16th, March 16th.
+20· · · · Q.· · ·Okay.· At what hour?
+21· · · · A.· · ·I don't know.
+22· · · · Q.· · ·Okay.· Who was on duty?
+23· · · · A.· · ·It was Christine and Lisa.
+24· · · · Q.· · ·Lisa Sheridan?
+Page 97
+·1· · · · A.· · ·Yes.
+·2· · · · Q.· · ·And Christine who?
+·3· · · · A.· · ·Christine.· I don't recall the last
+·4· name.
+·5· · · · Q.· · ·And which of those two asked him
+·6· for permission to call his parents?
+·7· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·8· · · · can answer.
+·9· · · · A.· · ·I don't know.
+10· BY MR. KING:
+11· · · · Q.· · ·And from your answer, you said you
+12· asked him again about taking the CAT scan on the
+13· morning of the 16th; is that right?
+14· · · · A.· · ·Yes.
+15· · · · Q.· · ·And if you were concerned -- he can
+16· decline; is that correct?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·Why didn't you, at that time,
+19· encourage him to allow you to call his parents?
+20· · · · A.· · ·He didn't ask me.
+21· · · · Q.· · ·What?
+22· · · · A.· · ·He didn't ask me to call the
+23· parents.
+24· · · · Q.· · ·I didn't say that.· I said, why
+Page 98
+·1· didn't you encourage him to give you permission
+·2· to call his family?
+·3· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·4· · · · can answer.
+·5· · · · A.· · ·If he had asked me, I would have,
+·6· but there was no consent, nothing for me to call
+·7· the parents.
+·8· BY MR. KING:
+·9· · · · Q.· · ·He didn't describe tripping and
+10· falling, correct?
+11· · · · A.· · ·No.
+12· · · · Q.· · ·He described falling?
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·And what effort did you make to
+15· find out what caused him to fall?
+16· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+17· · · · can answer.
+18· · · · A.· · ·I don't know.
+19· BY MR. KING:
+20· · · · Q.· · ·Okay.· Did you make any effort to
+21· elicit information from him as to what happened
+22· just prior to the time that he fell?
+23· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+24· · · · can answer.
+Page 99
+·1· · · · A.· · ·I don't know.
+·2· BY MR. KING:
+·3· · · · Q.· · ·Do you know whether he had a
+·4· syncopal episode inside the bathroom that caused
+·5· him to fall?
+·6· · · · A.· · ·I don't know.
+·7· · · · Q.· · ·Do you know what a syncopal episode
+·8· is?· Do you know what syncope is?
+·9· · · · A.· · ·Feeling dizzy and falling.
+10· · · · Q.· · ·Okay.· Is that how you would define
+11· syncope?
+12· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+13· · · · can answer.
+14· · · · A.· · ·I don't know.
+15· BY MR. KING:
+16· · · · Q.· · ·You don't know what syncope is?
+17· · · · A.· · ·No.
+18· · · · · · · · · · MR. FLAHIVE:· And you're
+19· · · · pronouncing syncope cope?
+20· · · · · · · · · · MR. KING:· Yes.
+21· · · · · · · · · · MR. FLAHIVE:· Okay.
+22· BY MR. KING:
+23· · · · Q.· · ·Did you inquire as whether he
+24· thought he passed out?
+Page 100
+·1· · · · A.· · ·No.
+·2· · · · Q.· · ·Was there ever a time before or
+·3· after the fall and before he coded that he lost
+·4· consciousness, according to the staff members
+·5· that were caring for him?
+·6· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·7· · · · can answer.
+·8· · · · A.· · ·Yes.
+·9· BY MR. KING:
+10· · · · Q.· · ·Okay.· And when was that?
+11· · · · A.· · ·That was around 3 p.m. on that day.
+12· · · · Q.· · ·3 p.m. that day?
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·Okay.· The afternoon that he died?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·The day that he died?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·And can you describe the
+19· circumstances that occurred then?
+20· · · · A.· · ·Wendy, the CNA, was --
+21· · · · Q.· · ·Wendy Erickson?
+22· · · · A.· · ·Yes, was about to take his vitals.
+23· And according to Wendy, he went down and I was
+24· called to come and assist the situation.
+Page 101
+·1· · · · Q.· · ·When you say that he went numb,
+·2· what do you mean by that?
+·3· · · · A.· · ·He went -- like, he fell over.
+·4· · · · Q.· · ·Okay.· You're sitting across from
+·5· me, and you're kind of bowing your head forward.
+·6· Did his head fall forward, as far as you know?
+·7· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·8· · · · can answer.
+·9· · · · A.· · ·That's what I was told.
+10· BY MR. KING:
+11· · · · Q.· · ·Okay.· And did Wendy Erickson
+12· describe to you that he appeared to have lost
+13· consciousness?
+14· · · · A.· · ·She did not use the exact words.
+15· · · · Q.· · ·What words did she use, if you
+16· know?
+17· · · · A.· · ·He fell forward.· So that's when I
+18· went in and I saw Kyle.
+19· · · · Q.· · ·Did Wendy Erickson say he had
+20· become nonresponsive or unresponsive?
+21· · · · A.· · ·I don't recall.
+22· · · · Q.· · ·You don't recall?
+23· · · · A.· · ·No.
+24· · · · Q.· · ·Where did this episode occur?
+Page 102
+·1· · · · A.· · ·At the nursing station.
+·2· · · · Q.· · ·At the nursing station?
+·3· · · · A.· · ·Yes.
+·4· · · · Q.· · ·Was Kyle seated or standing when
+·5· this happened?
+·6· · · · A.· · ·Seated.
+·7· · · · Q.· · ·Seated.
+·8· · · · · · · ·And where were you when Wendy
+·9· Erickson called for your assistance?
+10· · · · A.· · ·I was at the nursing station.
+11· · · · Q.· · ·Okay.· You were also at the nursing
+12· station?
+13· · · · A.· · ·Yes, but I was at the back.
+14· · · · Q.· · ·How long did it take you to
+15· respond?
+16· · · · A.· · ·A few seconds to walk to him.
+17· · · · Q.· · ·When you responded, did he appear
+18· to you to be -- let me withdraw that.
+19· · · · · · · ·Was he unresponsive to you
+20· initially?
+21· · · · A.· · ·He was responsive.
+22· · · · Q.· · ·He was responsive?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·Were his eyes open?
+Page 103
+·1· · · · A.· · ·Yes.
+·2· · · · Q.· · ·They were?
+·3· · · · A.· · ·Yes.
+·4· · · · Q.· · ·And what did you do to determine
+·5· what had caused him to behave in the manner that
+·6· Wendy Erickson described?
+·7· · · · A.· · ·I assessed him.· I took his vitals.
+·8· · · · Q.· · ·When you say you assessed him, what
+·9· did you do to assess him?
+10· · · · A.· · ·Looked at him, asked him a few
+11· questions, and also took his vitals.
+12· · · · Q.· · ·What questions did you ask him?
+13· · · · A.· · ·If he was okay and did he know
+14· where he was.
+15· · · · Q.· · ·So would you agree with me that
+16· when he fell -- the possibility exists that when
+17· he was in the bathroom at the time that he fell,
+18· that he lost consciousness?
+19· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+20· · · · can answer.
+21· · · · · · · · · · MS. HARTY:· Objection.
+22· · · · A.· · ·I don't know.
+23· BY MR. KING:
+24· · · · Q.· · ·You don't know?
+Page 104
+·1· · · · A.· · ·No.
+·2· · · · Q.· · ·Okay.· Well, if he didn't trip, why
+·3· would he fall to the ground, if you know?· Can
+·4· you explain what would cause him to fall to the
+·5· ground if he didn't lose consciousness?
+·6· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·7· · · · can answer.
+·8· · · · · · · · · · MS. HARTY:· Objection.
+·9· · · · A.· · ·I don't know.
+10· BY MR. KING:
+11· · · · Q.· · ·Can you give me any other possible
+12· explanation for his -- assuming he didn't trip
+13· and nowhere in the record does it describe him
+14· tripping, assuming he did trip, what other
+15· explanation can you give to either that he
+16· fainted or started to pass out or did, in fact,
+17· pass out?
+18· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+19· · · · can answer.
+20· · · · A.· · ·I don't know.
+21· BY MR. KING:
+22· · · · Q.· · ·You can't think of another
+23· explanation, correct?
+24· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+Page 105
+·1· · · · can answer.
+·2· · · · A.· · ·I don't know.
+·3· BY MR. KING:
+·4· · · · Q.· · ·What's that?
+·5· · · · A.· · ·I said I don't know.
+·6· · · · Q.· · ·Is it fair to say that you can't
+·7· offer me any other explanation?
+·8· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·9· · · · can answer.
+10· · · · A.· · ·I don't know.
+11· BY MR. KING:
+12· · · · Q.· · ·So some episode occurred in the
+13· bathroom that caused him to fall, and then later
+14· that afternoon, while having his vitals taken,
+15· his head dropped forward, correct --
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·-- and caused Wendy Erickson to be
+18· concerned enough to call you to come to her
+19· assistance, correct?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·And to what did you attribute the
+22· behavior that Wendy Erickson described --
+23· · · · A.· · ·I don't know.
+24· · · · Q.· · ·-- or the condition that Wendy
+Page 106
+·1· Erickson described?
+·2· · · · A.· · ·I don't know.
+·3· · · · Q.· · ·Going back to page 6 of your
+·4· Answers to Interrogatories, again, I'm on the
+·5· second paragraph down, on Answer 11, "He often
+·6· would not take medication."
+·7· · · · · · · ·What medication did he not take?
+·8· · · · A.· · ·Right now, I don't recall his
+·9· medication that he was on.
+10· · · · Q.· · ·When you're talking about
+11· medication, do you know what category of
+12· medication he sometimes wouldn't take?
+13· · · · A.· · ·No, I don't know.
+14· · · · Q.· · ·When you were -- he was being
+15· prescribed one or more antipsychotic medication,
+16· correct?
+17· · · · A.· · ·I don't have anything in front of
+18· me, so I don't know.
+19· · · · Q.· · ·Do you know that he was ordered to
+20· take Wellbutrin at one point?
+21· · · · A.· · ·I don't know.· I can't say.· If I
+22· have it in front of me, then I can...
+23· · · · Q.· · ·Do you know if he was ordered to
+24· take Zyprexa at some point?
+Page 107
+·1· · · · A.· · ·It could be.· I don't know.
+·2· · · · Q.· · ·So when you said in this answer
+·3· that he often would not take medication, what
+·4· did you mean by that?· What medication did he
+·5· not take?
+·6· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·7· · · · can answer.
+·8· · · · A.· · ·I mean, they had a list of
+·9· prescribed medication for him, and right now I
+10· don't have it in front of me.
+11· BY MR. KING:
+12· · · · Q.· · ·Well, even if I had a list of
+13· medication, that would just be the list of
+14· medications he was supposed to take, correct?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·So I'm asking you, which
+17· medications didn't he take of those that he was
+18· supposed to take?
+19· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+20· · · · can answer.
+21· · · · A.· · ·They are scheduled for him to take.
+22· It could be that he refused the medication that
+23· was scheduled for him.
+24· BY MR. KING:
+Page 108
+·1· · · · Q.· · ·And where in the record did you
+·2· note which medication he refused to take?
+·3· · · · A.· · ·If I had the record, it would say
+·4· that the patient refused medication.
+·5· · · · Q.· · ·Okay.· For example, do you know if
+·6· he ever refused his -- I'll tell you he was on
+·7· Wellbutrin for a period of time while he was at
+·8· Parker North.
+·9· · · · · · · ·Did he ever refuse to take
+10· Wellbutrin?
+11· · · · A.· · ·I can't tell.· I don't know.
+12· · · · Q.· · ·Did you ever write in the chart at
+13· that patient refused to take Wellbutrin?
+14· · · · A.· · ·If the patient refused, the
+15· computer would spit it out.· I don't know.
+16· · · · Q.· · ·How would the computer know that he
+17· refused to take Wellbutrin if he did?
+18· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+19· · · · can answer.
+20· · · · A.· · ·Because I was stating patient
+21· refused.
+22· BY MR. KING:
+23· · · · Q.· · ·But stating patient refused
+24· medication, you're not identifying what
+Page 109
+·1· medication he refused to take, correct?
+·2· · · · · · · · · · MR. FLAHIVE:· Objection.
+·3· · · · A.· · ·No.· It wouldn't identify the
+·4· medication.
+·5· BY MR. KING:
+·6· · · · Q.· · ·So you believe that in your records
+·7· you have stated that -- let me withdraw that.
+·8· · · · · · · ·Where in the record did you
+·9· identify the medication, if any, that he refused
+10· to take?
+11· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+12· · · · can answer.
+13· · · · A.· · ·It should in the med list if the
+14· patient refused medication.
+15· BY MR. KING:
+16· · · · Q.· · ·In the med list?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·What list are you referring to?
+19· · · · A.· · ·The list of the medications that
+20· are prescribed for the patient.
+21· · · · Q.· · ·Is that something other than the
+22· medication administration record?
+23· · · · A.· · ·It's a list of medications that the
+24· doctor has prescribed for the patient.· I don't
+Page 110
+·1· know where it's going to be.
+·2· · · · Q.· · ·You don't know where it's going to
+·3· be?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·You say, "At times, Kyle would not
+·6· allow me to do assessments."· So wasn't it your
+·7· job to do assessments?
+·8· · · · A.· · ·Yes.
+·9· · · · Q.· · ·Okay.· And did you consider those
+10· assessments to be important?
+11· · · · A.· · ·Yes.
+12· · · · Q.· · ·And what did you do on those
+13· occasions that he refused to allow you to do the
+14· assessments?
+15· · · · A.· · ·If the patient refused -- I mean, a
+16· patient can refuse assessment.· They can refuse
+17· medication.· They can refuse to eat.· So if he
+18· refuses to eat or if he refuses to take
+19· medication, if he refuses to be assessed, as a
+20· staff, I can't force the patient to...
+21· · · · Q.· · ·You go on to say in this answer,
+22· "He was not taking care of himself either by
+23· showering or brushing his teeth.· At times, he
+24· was not eating."
+Page 111
+·1· · · · · · · ·So talking in one- or two-word
+·2· sentences, not taking in this medication, not
+·3· showering and brushing his teeth, and not
+·4· eating, but you think he was making progress.
+·5· That was your earlier answer, correct?
+·6· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·7· · · · can answer.
+·8· · · · A.· · ·There are days that he would do
+·9· well, and there are days that he refuses
+10· everything.
+11· BY MR. KING:
+12· · · · Q.· · ·Going down to the next paragraph,
+13· in Answer 11, "On March 16, 2018, I worked the 7
+14· a.m. to 7 p.m. shift."· How do you know that?
+15· · · · A.· · ·Because I took care of Kyle on that
+16· date.
+17· · · · Q.· · ·Okay.· You said that you didn't
+18· check your timesheets, correct -- let me
+19· withdraw that.
+20· · · · · · · ·Before answering these
+21· Interrogatories, did you check any timesheets to
+22· see what days and times you were working?
+23· · · · A.· · ·I don't know.
+24· · · · Q.· · ·You received a report from prior to
+Page 112
+·1· shift.· Who on the prior shift gave you a
+·2· report, if you know?
+·3· · · · A.· · ·Lisa.
+·4· · · · Q.· · ·Okay.· And how do you know it was
+·5· Lisa that gave you the report?
+·6· · · · A.· · ·Because -- from my memory.
+·7· · · · Q.· · ·Why didn't you identify Lisa's name
+·8· in here in this answer?
+·9· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+10· · · · can answer.
+11· · · · A.· · ·It doesn't call for me to put her
+12· name down.
+13· BY MR. KING:
+14· · · · Q.· · ·But you're saying now it was
+15· Lisa -- is it Lisa Sheridan you're referring to?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·What report did Lisa Sheridan give
+18· to you as you were coming on to shift at that
+19· time?
+20· · · · A.· · ·Lisa told me Kyle had an
+21· unwitnessed his fall and he had refused to
+22· undergo an MRI -- no, CT.
+23· · · · Q.· · ·Did you observe any physical
+24· injuries on his head or face when you first saw
+Page 113
+·1· him upon arriving at your shift?
+·2· · · · A.· · ·There was a scratch on his
+·3· forehead.
+·4· · · · Q.· · ·What part of his forehead?
+·5· · · · A.· · ·That, I'm not sure, but there was a
+·6· scratch on his forehead.
+·7· · · · Q.· · ·A scratch on his forehead?
+·8· · · · A.· · ·Yes.
+·9· · · · Q.· · ·Was it high on his forehead, low on
+10· his forehead?
+11· · · · A.· · ·That, I don't recall, but there was
+12· a scratch on his forehead.
+13· · · · Q.· · ·Was there any bruising or
+14· discoloration on his forehead?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·Again, what part of his forehead
+17· was discolored or bruised?
+18· · · · A.· · ·I don't know.
+19· · · · Q.· · ·How big was the bruise?
+20· · · · A.· · ·I don't know, but there was a
+21· bruise on his head.
+22· · · · Q.· · ·So it was observable to you?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·Did anyone take photographs showing
+Page 114
+·1· the bruise on his forehead or the cut on his
+·2· forehead?
+·3· · · · A.· · ·I don't know.
+·4· · · · Q.· · ·Going to the next paragraph -- by
+·5· the way, do you know who ordered the CT scan?
+·6· · · · A.· · ·No, one of the doctors.
+·7· · · · Q.· · ·When you came on duty and you were
+·8· told that he had an unwitnessed fall, do you
+·9· know whether he was seen by a PA or a doctor?
+10· · · · A.· · ·Yes, I was told he was seen.
+11· · · · Q.· · ·And by whom?
+12· · · · A.· · ·I don't know.
+13· · · · Q.· · ·And what were you told were the
+14· results of that examination, if any?
+15· · · · A.· · ·I don't know.· I don't recall.
+16· · · · Q.· · ·So it says you assessed Kyle in
+17· this answer.· It doesn't say you asked him what
+18· happened.· Did you ask him what happened?
+19· · · · · · · · · · MR. FLAHIVE:· Whereabouts are
+20· · · · you, Matt?
+21· · · · · · · · · · MR. KING:· On the same
+22· · · · paragraph, Answer 11, page 6, down to the
+23· · · · last paragraph on the page.
+24· · · · · · · · · · MR. FLAHIVE:· Okay.
+Page 115
+·1· · · · · · · · · · MR. KING:· It says, "When I
+·2· · · · assessed Kyle in the morning."
+·3· · · · · · · · · · MR. FLAHIVE:· Okay.
+·4· BY MR. KING:
+·5· · · · Q.· · ·My question is:· Did you ask him
+·6· what happened?
+·7· · · · A.· · ·I don't recall.
+·8· · · · Q.· · ·Did you think it was unusual that a
+·9· physically healthy 24-year-old, at the time of
+10· his admission to Parker North, would just fall
+11· without explanation?
+12· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+13· · · · can answer.
+14· · · · A.· · ·What was the question again?
+15· BY MR. KING:
+16· · · · Q.· · ·I said, Did you think it was
+17· unusual that a physically healthy 24-year-old
+18· would fall without explanation?
+19· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+20· · · · can answer.
+21· · · · · · · · · · MS. HARTY:· Objection.
+22· · · · A.· · ·I don't know.
+23· BY MR. KING:
+24· · · · Q.· · ·It says here, "15-minute visual
+Page 116
+·1· safety checks were maintained throughout the
+·2· shift."· Who maintained them and how were they
+·3· maintained?
+·4· · · · A.· · ·The CNA and myself.· We do room
+·5· checks.· So you go around every 15 minutes.· You
+·6· get up, go around, and then come back.
+·7· · · · Q.· · ·Did you actually do that or did you
+·8· rely on what was shown on the screen, the
+·9· monitor?
+10· · · · A.· · ·I actually do that.
+11· · · · Q.· · ·You go into the room?
+12· · · · A.· · ·Yes.
+13· · · · Q.· · ·And did you go in the room during
+14· those 15-minute intervals and how often did
+15· somebody else go into the room?
+16· · · · A.· · ·With 15-minute rounds.
+17· · · · Q.· · ·So 15 minutes -- I don't know how
+18· many 15-minute periods there are in a shift, but
+19· do you know how many of those 15-minute
+20· intervals were done by you and how many were
+21· done by someone else?
+22· · · · A.· · ·I don't know how many were done by
+23· me.
+24· · · · Q.· · ·You say in your answer, "I went to
+Page 117
+·1· Kyle's room multiple times that day, but I
+·2· cannot specifically recall how many times.· Each
+·3· time I assessed Kyle, my assessment did not
+·4· necessarily include a hands-on evaluation as
+·5· Kyle did not like to be touched, but it included
+·6· verbal interaction and observation."
+·7· · · · · · · ·So can you describe at all what
+·8· assessment you did?
+·9· · · · A.· · ·When I go in -- when I asked him a
+10· question, I take the general physical
+11· assessment.· Kyle doesn't want to be
+12· interrogated for a long period of time, so it's,
+13· like, you gather yourself, you go in, you do
+14· everything once, and you're out.· You don't want
+15· to keep him engaged for a long period of time.
+16· · · · Q.· · ·Do you recall any assessment that
+17· you did on him during any of those times that
+18· you did your assessment?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·Describe what you did.
+21· · · · A.· · ·I asked him, like, general
+22· questions; how are you doing, does he know where
+23· he is, what day of the month, his name, general
+24· questions, to see how alert he is.
+Page 118
+·1· · · · Q.· · ·I'm jumping now.· I'm on page 7.
+·2· Going down to the third full paragraph, "During
+·3· my shift, Kyle was evaluated by the unit
+·4· psychiatrist, Dr. Yarasani, and a hospitalist,
+·5· Dr. Liu."
+·6· · · · · · · ·How do you know he was evaluated by
+·7· both of them?
+·8· · · · A.· · ·It's Dr. Yarasani's practice to see
+·9· each patient each day and assess them.
+10· · · · Q.· · ·On March 16, 2018, did you know
+11· whether Kyle Malinowski had been seen by either
+12· Dr. Yarasani or Dr. Liu?
+13· · · · · · · ·I'm not talking about the time you
+14· answered your Interrogatories.· I'm talking
+15· about the time of the events.
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·You did?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·And how did you know that?
+20· · · · A.· · ·Because Dr. Yarasani saw the
+21· patient.
+22· · · · Q.· · ·And how did you know that at the
+23· time?
+24· · · · A.· · ·Because he saw -- I mean, I recall
+Page 119
+·1· he seen the patient.
+·2· · · · Q.· · ·Were you present when Dr. Yarasani
+·3· saw Kyle?
+·4· · · · A.· · ·No.
+·5· · · · Q.· · ·So my question is:· If you weren't
+·6· present, how did you know that Dr. Yarasani had
+·7· seen the patient?
+·8· · · · A.· · ·I know he went to the patient's
+·9· room.
+10· · · · Q.· · ·How did you know that?
+11· · · · A.· · ·Because I saw him go in.
+12· · · · Q.· · ·You did?
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·You have a distinct memory of that?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·And how do you know that Dr. Liu
+17· saw Kyle Malinowski?
+18· · · · A.· · ·I remember Dr. Liu came in in the
+19· morning to see Kyle on that day.
+20· · · · Q.· · ·You have a memory of that?
+21· · · · A.· · ·Yes.
+22· · · · Q.· · ·Okay.· And who is Dr. Liu?
+23· · · · A.· · ·She is one of the female
+24· physicians.· She's a female.
+Page 120
+·1· · · · Q.· · ·And do you know what her area of
+·2· concentration is?
+·3· · · · A.· · ·No.
+·4· · · · Q.· · ·Okay.· Had you seen her before?
+·5· · · · A.· · ·I saw her on that day.
+·6· · · · Q.· · ·Had you seen her before that day?
+·7· · · · A.· · ·Maybe a couple times prior to that.
+·8· · · · Q.· · ·Did you know her name on March 16,
+·9· 2018?
+10· · · · A.· · ·It could be, yes.
+11· · · · Q.· · ·Well, I'm asking if you did or you
+12· didn't.
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·You did?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·But you didn't know what specialty
+17· it was?
+18· · · · A.· · ·I know she was a physician.
+19· · · · Q.· · ·You know that she was a physician?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·As well as Dr. Yarasani, correct?
+22· · · · A.· · ·Yes.
+23· · · · Q.· · ·But Dr. Yarasani is a psychiatrist,
+24· so I'm asking if you know what kind of specialty
+Page 121
+·1· Dr. Liu is.
+·2· · · · A.· · ·She's medicine.
+·3· · · · Q.· · ·Medicine?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·Okay.· And do you know why she came
+·6· in to see Kyle?
+·7· · · · A.· · ·No.
+·8· · · · Q.· · ·Did you ask why she was there to
+·9· see Kyle?
+10· · · · A.· · ·No.
+11· · · · Q.· · ·During the time that you were in
+12· caring for Kyle Malinowski up to the morning
+13· of -- early afternoon of March 16, was there
+14· ever a discussion about the possibility of Kyle
+15· being transferred to another unit?
+16· · · · A.· · ·I don't know, no.
+17· · · · Q.· · ·Okay.· You don't have any
+18· recollection of there being a -- let me withdraw
+19· that.
+20· · · · · · · ·To your knowledge, did anybody
+21· recommend that he be placed in a medical unit?
+22· · · · A.· · ·No.
+23· · · · Q.· · ·No?
+24· · · · A.· · ·No.
+Page 122
+·1· · · · Q.· · ·To your knowledge, did anybody ever
+·2· suggest that he be placed in a unit that he
+·3· could be monitored four hours a day?
+·4· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·5· · · · can answer.
+·6· · · · A.· · ·No.
+·7· BY MR. KING:
+·8· · · · Q.· · ·In this same paragraph, referring
+·9· to the incident that happened at 3 p.m., "I was
+10· informed that Kyle experienced a change in his
+11· status of alertness while his vitals were being
+12· taken."
+13· · · · · · · ·So what change in alertness or
+14· status?· Did you describe it, as best you can,
+15· earlier in your testimony?
+16· · · · A.· · ·Yes.· So I came in and I asked Kyle
+17· where he was, which he was able to tell me that
+18· he was, that he was in the hospital.· He was
+19· able to tell me what day of the week and he was
+20· able to tell me...
+21· · · · Q.· · ·Do you know if Kyle had failed to
+22· take any of his medication on March 15?
+23· · · · A.· · ·March 15?
+24· · · · · · · · · · MR. FLAHIVE:· The day before
+Page 123
+·1· · · · his code.
+·2· · · · A.· · ·No, I don't know.
+·3· BY MR. KING:
+·4· · · · Q.· · ·Do you know if Kyle failed to take
+·5· any of his medications on March 16?
+·6· · · · A.· · ·Let's see.· What was the question
+·7· again?
+·8· · · · Q.· · ·The question was, do you know if
+·9· Kyle failed to take any of his medications on
+10· March 16?
+11· · · · A.· · ·I'm not sure.· No, I'm not sure.
+12· · · · Q.· · ·In preparation for your deposition
+13· today, have you seen any document which
+14· identified the medications that Kyle Malinowski
+15· refused to take and the times at which he
+16· refused to take them?
+17· · · · A.· · ·No.
+18· · · · Q.· · ·Okay.· Do you believe that such a
+19· record exists?
+20· · · · A.· · ·I think so, yes.
+21· · · · Q.· · ·And what record or records do you
+22· believe exists that would identify the
+23· medications that he refused to take and the
+24· times at which he refused to take them?
+Page 124
+·1· · · · A.· · ·It would be on the medication list.
+·2· · · · Q.· · ·Okay.· And where was that -- back
+·3· in February and March of 2018, where was that
+·4· medication list kept?
+·5· · · · A.· · ·In the computer.
+·6· · · · Q.· · ·Okay.· Forgive my ignorance.
+·7· · · · A.· · ·Mm-hmm.
+·8· · · · Q.· · ·In my review of the medical records
+·9· produced by Baystate and other practices, there
+10· is a section of the chart called "Medication
+11· Administration Record," there is a section in
+12· the chart called "Orders," and then sometimes in
+13· the progress notes, there may be a mention of
+14· the meds that patients are on.· I've never seen
+15· a med list like you're describing.
+16· · · · A.· · ·Medication records.
+17· · · · Q.· · ·I'm sorry?
+18· · · · A.· · ·Medication records.
+19· · · · · · · · · · MR. FLAHIVE:· Medication
+20· · · · records.
+21· · · · · · · · · · MR. KING:· Okay.
+22· · · · (Video plays)
+23· BY MR. KING:
+24· · · · Q.· · ·All right.· Do you recognize Kyle
+Page 125
+·1· in this video?
+·2· · · · A.· · ·Yes.
+·3· · · · Q.· · ·Now, do you see where it says,
+·4· "3/16, 4 p.m. to 8:30 p.m."?· Have you ever seen
+·5· a video that starts before 4 p.m. in the
+·6· afternoon on March 16?
+·7· · · · A.· · ·Yes.
+·8· · · · Q.· · ·You have?
+·9· · · · A.· · ·That's it right there.
+10· · · · Q.· · ·No.· This one starts at 4 p.m. on
+11· March 16.· My question is:· Have you ever seen
+12· one that starts before 4 p.m. on March 16?
+13· · · · A.· · ·No.
+14· · · · Q.· · ·You haven't.
+15· · · · · · · ·Do you know who that person is?
+16· · · · A.· · ·That's Wendy.
+17· · · · Q.· · ·Wendy Erickson?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·Now, from the nursing station, can
+20· you see Kyle as he lies in his bed here in his
+21· room?· Is that the hallway out there through
+22· that window, if you know?
+23· · · · A.· · ·No.
+24· · · · Q.· · ·No.
+Page 126
+·1· · · · · · · ·So who is this person there, do you
+·2· know?
+·3· · · · A.· · ·That's Wendy and Mary.
+·4· · · · Q.· · ·The woman in the white coat is
+·5· Wendy, and this other woman is Mary Benoit?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·Do you know what prompted them to
+·8· come into the room at that time?
+·9· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+10· · · · can answer.
+11· · · · A.· · ·No.
+12· BY MR. KING:
+13· · · · Q.· · ·No.
+14· · · · · · · ·And is Mary taking his pulse at
+15· this time, if you know?
+16· · · · A.· · ·I don't know.
+17· · · · Q.· · ·These are images that you have seen
+18· before, right?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·This is the video that you were
+21· talking about before?
+22· · · · A.· · ·Yes.
+23· · · · Q.· · ·Do you know where Wendy Erickson
+24· just left to and why she left?
+Page 127
+·1· · · · A.· · ·No.
+·2· · · · Q.· · ·Do you know whether Kyle is seizing
+·3· here?· Is that you?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·Okay.· What prompted you to come
+·6· into the room at that time?
+·7· · · · A.· · ·I'm not sure, but I think Wendy
+·8· came to get me.
+·9· · · · Q.· · ·Okay.· So when Wendy left the room,
+10· you think she came to get you?
+11· · · · A.· · ·I think so.· I'm not sure.
+12· · · · Q.· · ·I'm going to go back just a little
+13· bit if I can.· Okay.· I'm going to let it play
+14· for a little bit.
+15· · · · (Video plays)
+16· BY MR. KING:
+17· · · · Q.· · ·Do you know if he's seizing here?
+18· Do you know whether he was seizing when he was
+19· sitting up there?
+20· · · · A.· · ·I don't know.
+21· · · · Q.· · ·Do you know if he was having any
+22· difficulty breathing when he was sitting up
+23· there?
+24· · · · A.· · ·No.
+Page 128
+·1· · · · Q.· · ·And this is showing -- we started
+·2· at 12:36, I believe, as shown on the video.
+·3· · · · · · · · · · MR. FLAHIVE:· 12 --
+·4· · · · · · · · · · MR. KING:· We're at 12:47 now,
+·5· · · · but I started at 12:36.
+·6· BY MR. KING:
+·7· · · · Q.· · ·Do you know if he's seizing here at
+·8· 12:59?
+·9· · · · A.· · ·Yeah, he's having -- some activity
+10· is going on.
+11· · · · Q.· · ·Do you know if he stopped breathing
+12· at any point in time?
+13· · · · A.· · ·No.
+14· · · · Q.· · ·Do you know if he lost
+15· consciousness at any point in time before this?
+16· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+17· · · · can answer.
+18· · · · A.· · ·I don't know.
+19· BY MR. KING:
+20· · · · Q.· · ·Is he seizing as he's sitting up
+21· here, become rigid?· Is this what you describe
+22· as seizure-like activity?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·Is that Mary Benoit again?
+Page 129
+·1· · · · A.· · ·Yes.
+·2· · · · Q.· · ·And do you know if he has any
+·3· awareness of what's going on right here?
+·4· · · · · · · · · · MR. FLAHIVE:· Objection.
+·5· BY MR. KING:
+·6· · · · Q.· · ·Is he seizing here, do you know?
+·7· · · · A.· · ·He --
+·8· · · · Q.· · ·He fell back on the bed.· Did he
+·9· stop breathing?
+10· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+11· · · · can answer.
+12· BY MR. KING:
+13· · · · Q.· · ·That's at 14:06.· Do you know if
+14· he's breathing there?
+15· · · · A.· · ·Yes.
+16· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+17· · · · can answer.
+18· · · · A.· · ·Yes.
+19· BY MR. KING:
+20· · · · Q.· · ·And what is causing this, if you
+21· know?
+22· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+23· · · · can answer.
+24· · · · A.· · ·I know he was having some seizure
+Page 130
+·1· activity.
+·2· BY MR. KING:
+·3· · · · Q.· · ·Is he breathing here?
+·4· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·5· · · · can answer.
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·You think he's breathing?
+·8· BY MR. KING:
+·9· · · · A.· · ·Yes.
+10· · · · Q.· · ·And we're at 14:35 and 36.· Why is
+11· she trying to get a pulse, do you know?
+12· · · · · · · · · · MR. FLAHIVE:· Objection.
+13· BY MR. KING:
+14· · · · Q.· · ·Now she's just holding his hand.
+15· Do you know what's causing this condition?
+16· Where are you going now at 14:50?
+17· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+18· · · · can answer.
+19· BY MR. KING:
+20· · · · Q.· · ·Why did you leave the room when you
+21· did?
+22· · · · A.· · ·I know he was having a hard time
+23· breathing, so I just wanted to make sure he was
+24· comfortable.
+Page 131
+·1· · · · Q.· · ·Why did you and Wendy pull off his
+·2· blankets and pull off his shirt?
+·3· · · · A.· · ·So he's more comfortable.
+·4· · · · Q.· · ·At this point nobody's called a
+·5· code blue; is that correct?
+·6· · · · · · · ·Earlier, you testified that you had
+·7· Wendy Erickson call a code blue.· She's in the
+·8· room.
+·9· · · · · · · · · · MR. FLAHIVE:· Objection.
+10· BY MR. KING:
+11· · · · Q.· · ·So do you conclude that she has not
+12· called a code blue yet?
+13· · · · · · · · · · MR. FLAHIVE:· Objection.· She
+14· · · · left the room and came back.
+15· BY MR. KING:
+16· · · · Q.· · ·Do you know if he's breathing now
+17· at 15:32 and 15:33?
+18· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+19· · · · can answer.
+20· · · · Q.· · ·Is he breathing now at 15:43 --
+21· 15:40?
+22· · · · · · · · · · MR. FLAHIVE:· Objection.
+23· BY MR. KING:
+24· · · · Q.· · ·Who's that woman that just walked
+Page 132
+·1· in the room?
+·2· · · · A.· · ·That's Rinaldi.
+·3· · · · Q.· · ·Kathleen Rinaldi?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·Has anybody called a code blue by
+·6· this time, if you know?
+·7· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·8· · · · can answer.
+·9· BY MR. KING:
+10· · · · Q.· · ·Is he breathing here, if you know,
+11· at 16:40?
+12· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+13· · · · can answer.
+14· BY MR. KING:
+15· · · · Q.· · ·And this is -- at 16:20, that's
+16· when Kathleen Rinaldi starts doing compressions;
+17· is that correct?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·I'm just going to try to play it
+20· back again.
+21· · · · (Video plays)
+22· BY MR. KING:
+23· · · · Q.· · ·I just stopped the video at 12:18.
+24· Do you know if he is seizing here at 12:18?
+Page 133
+·1· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·2· · · · can answer.
+·3· · · · A.· · ·I don't know.
+·4· BY MR. KING:
+·5· · · · Q.· · ·Or do you know if this is
+·6· seizure-like activity such as the activity that
+·7· you described previously?
+·8· · · · · · · · · · MR. FLAHIVE:· Objection.
+·9· · · · A.· · ·I don't know.
+10· BY MR. KING:
+11· · · · Q.· · ·Do you agree his mental state seems
+12· altered?
+13· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+14· · · · can answer.
+15· · · · A.· · ·I don't know.
+16· BY MR. KING:
+17· · · · Q.· · ·Do you see his leg moving in this
+18· video?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·I'm going to stop it there at
+21· 13:02.· Do you know why Wendy Erickson entered
+22· the room at that time?
+23· · · · A.· · ·No.
+24· · · · Q.· · ·Do you know whether she was
+Page 134
+·1· observing him on the monitor outside his room at
+·2· that time?
+·3· · · · A.· · ·No, I don't.
+·4· · · · Q.· · ·Do you know -- I didn't see him
+·5· uttering any words.· So do you know what --
+·6· assuming he wasn't uttering any words, do you
+·7· know what prompted her to go in at that time?
+·8· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·9· · · · can answer.
+10· · · · A.· · ·No, I don't.
+11· BY MR. KING:
+12· · · · Q.· · ·Okay.· And that's 13:02 on the
+13· video.· And that's Mary Benoit coming in,
+14· correct?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·And she's -- at 13 -- she's
+17· starting to a take a pulse at 13:19, correct?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·Do you know whether he was
+20· breathing at that time?
+21· · · · A.· · ·No, I don't.
+22· · · · Q.· · ·Do you know whether he had a pulse
+23· at that time?
+24· · · · A.· · ·No, I don't.
+Page 135
+·1· · · · Q.· · ·And you walked in the room, and
+·2· that's 13:21.· It's your belief -- correct me if
+·3· I'm wrong -- that Wendy Erickson came out to get
+·4· you?
+·5· · · · A.· · ·I don't recall.
+·6· · · · Q.· · ·You don't recall?
+·7· · · · A.· · ·Yes.
+·8· · · · Q.· · ·Okay.· But you entered the room.
+·9· Do you know when you last entered the room prior
+10· to this time?
+11· · · · A.· · ·No, I don't.
+12· · · · Q.· · ·Do you know whose decision it was
+13· to begin this video at 4 p.m. -- let me withdraw
+14· that.
+15· · · · · · · ·The video that you're looking at
+16· now was produced to me by the Department of
+17· Mental Health, and they obtained this section of
+18· the video from Baystate Medical Center.
+19· · · · · · · ·My question to you is:· Do you know
+20· who decided that the video that they were to
+21· send to the Department of Mental Health was to
+22· start at 4 p.m. on the afternoon of March 16?
+23· · · · A.· · ·No.
+24· · · · Q.· · ·Has anybody up until this point --
+Page 136
+·1· this is 13:26 on the video.· To your knowledge,
+·2· has anybody called for a doctor up to this point
+·3· in time?
+·4· · · · A.· · ·I don't recall.
+·5· · · · Q.· · ·You said you never seen a code cart
+·6· on that unit, correct, before the 16th?
+·7· · · · A.· · ·Yes.
+·8· · · · Q.· · ·Do you know where the closest code
+·9· cart was at that time?
+10· · · · A.· · ·In the ER.
+11· · · · Q.· · ·Okay.· Had you ever seen it before?
+12· · · · A.· · ·Me?· Yeah.
+13· · · · Q.· · ·Had you ever seen a code cart in
+14· the ER?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·You have?
+17· · · · A.· · ·No, no.· The question again?
+18· · · · Q.· · ·Okay.· Prior to March 16, 2018, had
+19· you ever seen a code cart in the ER?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·You knew there was one?
+22· · · · A.· · ·Yes.
+23· · · · Q.· · ·But had you ever seen it?
+24· · · · A.· · ·No.
+Page 137
+·1· · · · Q.· · ·Okay.· So while at Parker North, at
+·2· the time the code cart arrived in the room,
+·3· that's the first time you had seen one at the
+·4· hospital, correct?
+·5· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·6· · · · can answer.
+·7· · · · A.· · ·On the unit, yes.
+·8· BY MR. KING:
+·9· · · · Q.· · ·On the unit.
+10· · · · · · · ·You think you may have seen one
+11· elsewhere?
+12· · · · A.· · ·Yes.
+13· · · · Q.· · ·Okay.· Do you know if there's --
+14· how many code carts the hospital was equipped
+15· with on March 16, 2018?
+16· · · · A.· · ·No.
+17· · · · Q.· · ·I'm stopping it here at 13:45.· Do
+18· you know whose head is at the bottom of the
+19· screen?
+20· · · · A.· · ·No, I don't.
+21· · · · Q.· · ·At this point, 13:45, do you know
+22· if anyone has called for a doctor?
+23· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+24· · · · can answer.
+Page 138
+·1· · · · A.· · ·I don't know.
+·2· BY MR. KING:
+·3· · · · Q.· · ·Was the psychiatrist on duty at the
+·4· time?
+·5· · · · A.· · ·Yes.
+·6· · · · Q.· · ·Do you know what psychiatrist it
+·7· was?
+·8· · · · A.· · ·Dr. Yarasani.
+·9· · · · Q.· · ·Dr. Yarasani?
+10· · · · A.· · ·Yes.
+11· · · · Q.· · ·Did Dr. Yarasani ever enter the
+12· room during the code?
+13· · · · A.· · ·I don't recall.
+14· · · · Q.· · ·You don't recall, okay.
+15· · · · · · · · · · MR. FLAHIVE:· This is at 7
+16· · · · p.m., right, or thereabouts?
+17· · · · · · · · · · MR. KING:· I don't know.
+18· · · · · · · · · · MR. FLAHIVE:· The testimony
+19· · · · about Dr. Yarasani, I'm just --
+20· · · · · · · · · · MR. KING:· Yeah, okay.
+21· · · · · · · · · · MR. FLAHIVE:· I'll ask him
+22· · · · some questions.
+23· BY MR. KING:
+24· · · · Q.· · ·What is that that Wendy Erickson
+Page 139
+·1· has in her hand at that time?
+·2· · · · A.· · ·O2 stats.
+·3· · · · Q.· · ·O2 stats?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·Okay.· Why are you standing there
+·6· with the O2 stat clip in your right hand and
+·7· just looking down at Kyle?
+·8· · · · · · · ·This is at 14:07.
+·9· · · · A.· · ·Just monitoring him.
+10· · · · Q.· · ·For what?· If he is seizing -- let
+11· me withdraw that.
+12· · · · · · · ·So did you hand back the O2 stat
+13· clip to Wendy Erickson?
+14· · · · · · · ·And this is at 14:26.
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·And why did you do that?
+17· · · · A.· · ·I don't know why I did.
+18· · · · Q.· · ·Okay.· So nobody's taking any
+19· vitals at this point, correct?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·Nobody's checking his O2 stats at
+22· this point, correct?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·No medical intervention has
+Page 140
+·1· occurred up until this point, correct?
+·2· · · · · · · · · · MS. HARTY:· Objection.
+·3· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·4· · · · can answer.
+·5· · · · A.· · ·Like I said, I was monitoring,
+·6· looking at him.
+·7· BY MR. KING:
+·8· · · · Q.· · ·You were looking at him.· When you
+·9· say "monitoring," you were looking at him,
+10· right?
+11· · · · A.· · ·Yes.
+12· · · · Q.· · ·Would you agree that no medical
+13· intervention was taking place?
+14· · · · · · · · · · MS. HARTY:· Objection.
+15· · · · A.· · ·I was monitoring him, assessing
+16· him.
+17· BY MR. KING:
+18· · · · Q.· · ·How do you think you could do that
+19· by looking at him?· How could you tell what his
+20· vitals are?
+21· · · · · · · · · · MR. FLAHIVE:· You have to let
+22· · · · him answer.· Go ahead.· You can answer.
+23· · · · A.· · ·Looking at his general activities.
+24· BY MR. KING:
+Page 141
+·1· · · · Q.· · ·By the way, I'm going to stop it
+·2· again at 14:31.· Do you know whether a doctor
+·3· has been called at this point in time?
+·4· · · · · · · · · · MR. FLAHIVE:· Objection.
+·5· · · · A.· · ·I don't know.
+·6· BY MR. KING:
+·7· · · · Q.· · ·This is 14:38.· Would you agree
+·8· that up until that point in time, right here,
+·9· Wendy Erickson is simply holding Kyle's hand?
+10· · · · · · · · · · MS. HARTY:· Objection.
+11· · · · · · · · · · MR. FLAHIVE:· You can answer.
+12· · · · Objection.· Go ahead.
+13· · · · A.· · ·She's holding his hand.
+14· BY MR. KING:
+15· · · · Q.· · ·You, up until this point in time,
+16· have not tried to take a pulse from him,
+17· correct?
+18· · · · A.· · ·I was assessing him.
+19· · · · Q.· · ·By looking at him.· Wendy Erickson
+20· reports to you.· You're her boss in that
+21· setting, correct?
+22· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+23· · · · can answer.
+24· · · · A.· · ·Yes.
+Page 142
+·1· · · · Q.· · ·You would be her superior?
+·2· · · · · · · · · · MR. FLAHIVE:· Objection.
+·3· · · · A.· · ·Yes.
+·4· BY MR. KING:
+·5· · · · Q.· · ·You certainly wouldn't let a CNA
+·6· take charge of a code situation?
+·7· · · · A.· · ·She wasn't in charge.
+·8· · · · Q.· · ·Who was in charge at this point?
+·9· · · · A.· · ·Myself.
+10· · · · Q.· · ·And you have done exactly what
+11· during the period of time we've been looking at
+12· this video?
+13· · · · A.· · ·Keep assessing him.
+14· · · · Q.· · ·You kept looking at him?
+15· · · · · · · · · · MR. FLAHIVE:· Objection.
+16· BY MR. KING:
+17· · · · Q.· · ·Still holding his hand at 14:43,
+18· correct?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·It appears that Wendy Erickson sent
+21· you out of the room.· Did she send you out of
+22· the room at that period of time --
+23· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+24· · · · can answer.
+Page 143
+·1· · · · A.· · ·No, she did not.
+·2· BY MR. KING:
+·3· · · · Q.· · ·-- at 14:51?· Why did you leave the
+·4· room at 14:51?
+·5· · · · · · · · · · MR. FLAHIVE:· Objection.
+·6· · · · A.· · ·I don't recall.
+·7· BY MR. KING:
+·8· · · · Q.· · ·And here, at 15:02, you said -- why
+·9· was Wendy taking the blanket off of him and you
+10· are pulling his shirt up?
+11· · · · A.· · ·To make him more comfortable.
+12· · · · Q.· · ·Again, at 15:09, would you agree it
+13· appears that Wendy Erickson is holding his hand
+14· and his shoulder?
+15· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+16· · · · can answer.
+17· · · · A.· · ·Yes.
+18· BY MR. KING:
+19· · · · Q.· · ·Why did you leave the room again at
+20· 15:16, do you know?
+21· · · · A.· · ·No, I don't.· I don't recall why I
+22· left.
+23· · · · Q.· · ·There seems to be a lack of urgency
+24· from this video.· Was anybody acting urgently at
+Page 144
+·1· this point in time?
+·2· · · · · · · · · · MR. FLAHIVE:· Objection.
+·3· · · · Don't answer that question.
+·4· · · · · · · · · · MS. HARTY:· Objection.
+·5· BY MR. KING:
+·6· · · · Q.· · ·Were you acting urgently at this
+·7· point in time?
+·8· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·9· · · · can answer.
+10· · · · A.· · ·The question again?
+11· BY MR. KING:
+12· · · · Q.· · ·Yeah, were you acting urgently?
+13· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+14· · · · can answer.
+15· · · · A.· · ·I was.
+16· BY MR. KING:
+17· · · · Q.· · ·And what did you do urgently?
+18· · · · A.· · ·I kept assessing the patient.
+19· · · · Q.· · ·What is that that you're bringing
+20· in with you at 15:22?
+21· · · · A.· · ·I brought in an O2 tank.
+22· · · · Q.· · ·An O2 tank?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·And why did you do that?
+Page 145
+·1· · · · A.· · ·I felt the patient needed -- the
+·2· patient was having a hard time breathing, so I
+·3· just -- in case he needed O2.
+·4· · · · Q.· · ·As we're looking at the video,
+·5· 15:22, was Kyle Malinowski breathing at all, if
+·6· you know?
+·7· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·8· · · · can answer.
+·9· · · · A.· · ·I don't know.
+10· BY MR. KING:
+11· · · · Q.· · ·You don't know.
+12· · · · · · · ·So you brought in the oxygen in
+13· case Kyle needed it, correct?
+14· · · · A.· · ·Yes.
+15· · · · Q.· · ·And now, we have Kathleen Rinaldi
+16· coming in; is that correct?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·Do you know what prompted Kathleen
+19· Rinaldi to come in the room?
+20· · · · A.· · ·No, I don't.
+21· · · · Q.· · ·Do you know whether the code had
+22· been called in at that time?
+23· · · · A.· · ·I don't know.
+24· · · · Q.· · ·Okay.· From your perspective, did
+Page 146
+·1· you remain in the room throughout the code --
+·2· let me withdraw that.
+·3· · · · · · · ·Did you go in and out of the room
+·4· throughout the code after the code was called?
+·5· · · · · · · · · · MR. FLAHIVE:· When the code
+·6· · · · was initiated, you mean?
+·7· · · · · · · · · · MR. KING:· Yes, after the code
+·8· · · · was initiated.
+·9· · · · A.· · ·No, I don't --
+10· BY MR. KING:
+11· · · · Q.· · ·Did you stay in the room or did you
+12· leave the room?
+13· · · · A.· · ·I'm not sure.
+14· · · · Q.· · ·You're not sure?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·Okay.· Do you know -- had you ever
+17· interacted with a respiratory therapist at a
+18· Parker North unit?
+19· · · · A.· · ·No.
+20· · · · Q.· · ·Did you know anyone who responded
+21· to the room?· Did you recognize anyone to be a
+22· respiratory therapist?
+23· · · · A.· · ·No.
+24· · · · Q.· · ·Of the people that you saw coming
+Page 147
+·1· into the room, did you know who among them had
+·2· any experience dealing with patients who had
+·3· coded?
+·4· · · · A.· · ·I don't know.
+·5· · · · Q.· · ·Do you know whose responsibility it
+·6· was to keep track of what was happening during
+·7· the code?
+·8· · · · A.· · ·No.
+·9· · · · Q.· · ·Do you personally know for how long
+10· Kyle Malinowski was without a pulse?
+11· · · · · · · · · · MS. HARTY:· Objection.
+12· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+13· · · · can answer.
+14· · · · A.· · ·No.
+15· BY MR. KING:
+16· · · · Q.· · ·Do you personally know for how long
+17· Kyle Malinowski was without a heartbeat?
+18· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+19· · · · can answer.
+20· · · · A.· · ·No.
+21· BY MR. KING:
+22· · · · Q.· · ·Do you know what medications are to
+23· be administered to a patient who has gone into
+24· cardiac arrest?
+Page 148
+·1· · · · A.· · ·No.
+·2· · · · Q.· · ·Do you know what medication is
+·3· given to a patient who is in the midst of a
+·4· nonepileptic seizure?
+·5· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·6· · · · can answer.
+·7· · · · A.· · ·No.
+·8· BY MR. KING:
+·9· · · · Q.· · ·Do you know the methods of
+10· administration that can used to treat a patient
+11· who is suffering from a nonepileptic seizure?
+12· · · · A.· · ·No.
+13· · · · Q.· · ·After this event -- let me withdraw
+14· that.
+15· · · · · · · ·After this event, did you obtain
+16· any training from anyone at Baystate Medical
+17· Center concerning how to respond to a patient
+18· who has coded?
+19· · · · A.· · ·No.
+20· · · · Q.· · ·After this event, did you receive
+21· any training from Baystate Medical Center
+22· identifying who the members of the rapid
+23· response team are?
+24· · · · A.· · ·No.
+Page 149
+·1· · · · Q.· · ·Did you receive any training from
+·2· Baystate Medical Center concerning the roles of
+·3· the people who respond in a rapid response
+·4· situation?
+·5· · · · A.· · ·No.
+·6· · · · Q.· · ·At some point during this code
+·7· response, someone established an intraosseous
+·8· line.· Do you know what that is?
+·9· · · · A.· · ·No.
+10· · · · Q.· · ·Do you know under what
+11· circumstances someone would do that?
+12· · · · A.· · ·No.
+13· · · · Q.· · ·Did anybody identify himself or
+14· herself as in charge of this particular code
+15· during the time it was happening?
+16· · · · A.· · ·No, but nobody -- the doctors take
+17· charge.
+18· · · · Q.· · ·Do you know whether Kathleen
+19· Rinaldi had any prior to experience dealing with
+20· patients who had coded?
+21· · · · A.· · ·I don't know.
+22· · · · Q.· · ·You said in Answer -- I'm referring
+23· back to your Answers to Interrogatories, page 7,
+24· answer to Interrogatory 11.· "I believe the time
+Page 150
+·1· from when I arrived in Kyle's room until a code
+·2· blue was called was approximately three
+·3· minutes."· On what do you base that?
+·4· · · · · · · ·We're in the second to last
+·5· paragraph on that page.
+·6· · · · A.· · ·It's based on my memory.
+·7· · · · Q.· · ·Was it your memory or was it based
+·8· on your review of the video?
+·9· · · · A.· · ·My memory.
+10· · · · Q.· · ·Okay.· It says, in the last
+11· paragraph on page 7, "After Kyle code and death,
+12· I documented the event in the chart."· Where in
+13· the chart did you document the event?
+14· · · · A.· · ·The progress note.
+15· · · · Q.· · ·In a progress note?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·And when did you enter that
+18· progress note in the chart, if you remember?
+19· · · · A.· · ·That was after the whole incident.
+20· · · · Q.· · ·After the whole incident?
+21· · · · A.· · ·Yes.
+22· · · · Q.· · ·Okay.· But do you remember -- I'll
+23· direct you to that progress note in a minute, I
+24· think, but do you know when you entered it into
+Page 151
+·1· the chart?
+·2· · · · A.· · ·The exact time?
+·3· · · · Q.· · ·Yes.
+·4· · · · A.· · ·No.
+·5· · · · Q.· · ·Was it after Kyle died?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·Okay.· And you wrote in the chart
+·8· that the incident occurred -- or he started
+·9· engaging in seizure-like activity at 18:45.
+10· That's when you entered into the chart, right?
+11· · · · A.· · ·Yes.
+12· · · · Q.· · ·If I could direct your attention to
+13· page 183.· So is this the progress note you're
+14· referring to?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·Okay.· Now, this refers to an event
+17· date 3/16/2018 at 11:01 EBT.· Do you know why
+18· the event date is referenced as March 16, 2018
+19· at 11:01?
+20· · · · A.· · ·No.
+21· · · · Q.· · ·Okay.· It says, "Signed by James
+22· Tamakloe on 3/17/2018 at 12:21 in the morning."
+23· Do you know if that's the time that you entered
+24· the note?
+Page 152
+·1· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·2· · · · can answer.
+·3· · · · A.· · ·No, I did not.
+·4· BY MR. KING:
+·5· · · · Q.· · ·You did not enter it at that time?
+·6· · · · A.· · ·No.
+·7· · · · Q.· · ·Going down to the section, it says,
+·8· "At 18:45, staff in patient room yelled for
+·9· help.· And upon arrival, patient was observed to
+10· be having -- to be seizing."
+11· · · · · · · ·What follows there is what you
+12· entered in the note; is that correct?
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·This is the progress note that
+15· you're referring to?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·Now, you said you entered it after
+18· Kyle died, correct?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·Do you know why -- can you be more
+21· specific than that, if you can, when you entered
+22· the note?
+23· · · · A.· · ·Yeah, I entered the note after.
+24· · · · Q.· · ·I understand that, but can you tell
+Page 153
+·1· me the time you did that, the date and time in
+·2· which you did that?
+·3· · · · A.· · ·That was after Kyle's death.
+·4· · · · Q.· · ·I understand that, but is -- I
+·5· asked you this already, but I'm going to ask you
+·6· again.
+·7· · · · · · · ·Is 12:21 in the morning of March 17
+·8· the date that you entered that note -- the time
+·9· that you entered the note?
+10· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+11· · · · can answer.· Can you see these over here?
+12· · · · Just look at these, and then see if that
+13· · · · helps.
+14· · · · A.· · ·So this is what happened.· I wrote
+15· the note and I did not sign it, so I was called
+16· to come in and sign the note.
+17· BY MR. KING:
+18· · · · Q.· · ·So you signed in later on, in the
+19· early morning hours of the 17th?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·But it's your testimony that you
+22· entered the note before that?
+23· · · · A.· · ·No.· I entered the note itself, but
+24· I didn't sign it.
+Page 154
+·1· · · · Q.· · ·So what does the sign-by date and
+·2· time mean?
+·3· · · · A.· · ·That was after, after -- I was
+·4· called to come back and sign this on the date of
+·5· Kyle's death.
+·6· · · · Q.· · ·Did you just sign it or did you
+·7· enter the note?
+·8· · · · A.· · ·I entered the note, but I did not
+·9· sign it.
+10· · · · · · · · · · MR. FLAHIVE:· I think what
+11· · · · he's trying to say -- and you can tell me
+12· · · · if you don't want me --
+13· · · · · · · · · · MR. KING:· That's fine.
+14· · · · · · · · · · MR. FLAHIVE:· I think he's
+15· · · · saying he entered the note, but he didn't
+16· · · · sign it, so he was called back after
+17· · · · entering the note to sign it.· And when he
+18· · · · signed, it was 12:21.
+19· BY MR. KING:
+20· · · · Q.· · ·So you're saying you signed at
+21· 12:21.· I'm trying to find out when you entered
+22· the actual wording of the note?
+23· · · · A.· · ·That would be, like I said, after
+24· Kyle's passing.
+Page 155
+·1· · · · Q.· · ·Was that immediately after his
+·2· passing?· Was it an hour after his passing?
+·3· · · · A.· · ·That would be maybe, like, 30
+·4· minutes after.
+·5· · · · Q.· · ·Okay.· If you could go to page 54,
+·6· please.· So this note refers -- bears the date
+·7· of February 22, 2018.· I had previously showed
+·8· you a note -- bear with me for one second -- on
+·9· page 25 that bears the date February 18, 2018.
+10· · · · · · · ·Do you know if February 22 was the
+11· next time you saw him?· Was it four days later?
+12· · · · · · · · · · MR. FLAHIVE:· Let me go to
+13· · · · page 25 real quick.· So there's that note,
+14· · · · and there's this note.· Do you want the
+15· · · · court reporter to repeat the question or
+16· · · · ask Matt to ask the question again?
+17· BY MR. KING:
+18· · · · Q.· · ·My question was:· Was February 22
+19· the next time after February 18 that you saw
+20· Kyle Malinowski?
+21· · · · A.· · ·I don't recall.
+22· · · · Q.· · ·You don't know?
+23· · · · A.· · ·Yeah.
+24· · · · Q.· · ·Did you enter a progress note every
+Page 156
+·1· time that you -- on each day that you saw Kyle
+·2· Malinowski?
+·3· · · · A.· · ·Yes.
+·4· · · · Q.· · ·Okay.· So for each day that you saw
+·5· Kyle Malinowski -- let me withdraw that.
+·6· · · · · · · ·Did you enter a progress note each
+·7· time you assessed Kyle Malinowski?
+·8· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·9· · · · can answer.
+10· · · · A.· · ·Yes.
+11· BY MR. KING:
+12· · · · Q.· · ·So there should be at least one
+13· progress note for every day that you saw Kyle
+14· Malinowski, correct, and possibly more?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·Okay.· If you can go to page 151.
+17· Do you know if you saw -- this is a progress
+18· note that bears the date March 10, 2018.· That's
+19· your name, correct?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·"Patient bedrested quietly
+22· throughout shift with no noted distress,
+23· 15-minute visual safety checks maintained."
+24· · · · · · · ·Is that the only progress note that
+Page 157
+·1· you entered for Kyle Malinowski on March 10?
+·2· · · · · · · · · · MR. FLAHIVE:· Objection.· If
+·3· · · · you know.· And I want to put on the record
+·4· · · · we're looking at the offer of proof.
+·5· · · · We're not looking at a certified copy of
+·6· · · · records, so it's not a complete chart.
+·7· · · · · · · · · · MR. KING:· I don't know if it
+·8· · · · is or isn't, but...
+·9· · · · · · · · · · MR. FLAHIVE:· I can tell you
+10· · · · it's not a complete chart.
+11· BY MR. KING:
+12· · · · Q.· · ·Did you see Kyle Malinowski a
+13· second time on March 10?
+14· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+15· · · · can answer.
+16· · · · A.· · ·I don't know.
+17· BY MR. KING:
+18· · · · Q.· · ·You don't know.
+19· · · · · · · ·Is that the only -- let me withdraw
+20· that.
+21· · · · · · · ·That refers to an event that
+22· occurred March 10 at 6:16, correct?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·Let me jump ahead to page 153, a
+Page 158
+·1· couple pages later.· Is this also a note written
+·2· by you?
+·3· · · · A.· · ·Yes.
+·4· · · · Q.· · ·And this bears the event date of
+·5· March 10, 2018 at 23:01, correct?
+·6· · · · A.· · ·Yes.
+·7· · · · Q.· · ·So it appears that you saw him a
+·8· second time on March 10, correct?
+·9· · · · A.· · ·Yes.
+10· · · · Q.· · ·And this is the extent of the note
+11· that you wrote on the second date, correct?
+12· · · · A.· · ·Yes.
+13· · · · Q.· · ·And this is 23:01, which means
+14· 11:01 in the evening, correct?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·And would that suggest to you that
+17· that visit was during an overnight shift from 7
+18· p.m. to 7 a.m.?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·Now, the other one was at -- going
+21· back to page 151, it shows an event date at
+22· 6:16, which is 6:16 in the morning, correct?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·Did you do a double shift?
+Page 159
+·1· · · · A.· · ·Yes, could be.· I'm not sure,
+·2· but --
+·3· · · · Q.· · ·You don't know?
+·4· · · · A.· · ·No.
+·5· · · · Q.· · ·Let me jump ahead to page 156.· Is
+·6· this a note entered by you?
+·7· · · · A.· · ·Yes.
+·8· · · · Q.· · ·And it refers to an event date of
+·9· March 11, 2018 at 6:09, correct?
+10· · · · A.· · ·Yes.
+11· · · · Q.· · ·Again, you wrote, "Patient
+12· bedrested quietly throughout the shift with no
+13· noted distress."
+14· · · · · · · ·So that appears to be your only
+15· entry for one particular shift; would you agree
+16· with that?
+17· · · · · · · · · · MR. FLAHIVE:· What date is
+18· · · · that?
+19· · · · · · · · · · MR. KING:· March 11.
+20· · · · · · · · · · MR. FLAHIVE:· Objection.
+21· BY MR. KING:
+22· · · · Q.· · ·Go ahead, Mr. Tamakloe.
+23· · · · · · · · · · MR. FLAHIVE:· Objection.· Take
+24· · · · a look at the prior page.
+Page 160
+·1· BY MR. KING:
+·2· · · · Q.· · ·The prior page is somebody else's
+·3· note, but I'm reading your words.· Your entry is
+·4· "Patient bedrested quietly throughout the shift
+·5· with no noted distress, 15-minute visual safety
+·6· checks maintained."
+·7· · · · · · · ·So you're referring in that note to
+·8· an entire shift, and you said that he appeared
+·9· to be resting quietly throughout the whole
+10· shift.· That is what you wrote, correct?
+11· · · · A.· · ·Normally, it could be during the
+12· night shift.
+13· · · · Q.· · ·Now, would you agree with me that
+14· the nurses are the -- let me withdraw that.
+15· · · · · · · ·Let's jump ahead to page 158, also
+16· bearing the date March 11.· "Patient stayed in
+17· his room all shift."· And this one is at 22:45
+18· on that date.
+19· · · · A.· · ·What date are we talking about?
+20· · · · Q.· · ·March 11.· And did you do double
+21· shifts on March 11, if you know?
+22· · · · · · · · · · MR. FLAHIVE:· Objection.
+23· · · · A.· · ·No, I don't.
+24· BY MR. KING:
+Page 161
+·1· · · · Q.· · ·Would you agree with me that if you
+·2· were to -- if these event dates and times are
+·3· accurate, they occurred over the course of two
+·4· shifts?
+·5· · · · · · · · · · MR. FLAHIVE:· Objection. I
+·6· · · · don't think all the records are there.
+·7· · · · · · · · · · MR. KING:· My point being,
+·8· · · · John --
+·9· · · · · · · · · · MR. FLAHIVE:· I know, but your
+10· · · · point being is that you don't have all the
+11· · · · progress records there.
+12· · · · · · · · · · MR. KING:· I'm looking at the
+13· · · · ones that bear his name.
+14· · · · · · · · · · MR. FLAHIVE:· Right.
+15· · · · · · · · · · MR. KING:· There's one that's
+16· · · · entered -- regardless of whether I have
+17· · · · them all, one is at 6 a.m.· He did a 7
+18· · · · a.m. to 7 p.m. shift.
+19· · · · · · · · · · MR. FLAHIVE:· No, he did a 7p
+20· · · · to 7a.
+21· · · · · · · · · · MR. KING:· Then he -- no,
+22· · · · you -- well, I don't know.
+23· BY MR. KING:
+24· · · · Q.· · ·Did you or didn't you?
+Page 162
+·1· · · · · · · · · · MR. FLAHIVE:· We're on page
+·2· · · · 158, right?
+·3· · · · · · · · · · MR. KING:· No.· We're on --
+·4· · · · yeah, 158.
+·5· · · · · · · · · · MR. FLAHIVE:· So it's 10:45 at
+·6· · · · night on March 11?
+·7· · · · · · · · · · MR. KING:· Yes.
+·8· · · · · · · · · · MR. FLAHIVE:· And then the
+·9· · · · next one is March 12, which would be the
+10· · · · next day, and it's a second note for the
+11· · · · same day.
+12· · · · · · · · · · MR. KING:· I'm going back to
+13· · · · the previous one.· That one is at 6 a.m.
+14· · · · · · · · · · MR. FLAHIVE:· The 158 and 159
+15· · · · pages, I think, shows one shift and two
+16· · · · entries on the shift.
+17· · · · · · · · · · MR. KING:· Okay.· I just want
+18· · · · to --
+19· BY MR. KING:
+20· · · · Q.· · ·And again, just going to page 159,
+21· what you wrote there, did you just carry it
+22· forward?· Did you just cut and paste?
+23· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+24· · · · can answer.
+Page 163
+·1· · · · A.· · ·No.
+·2· BY MR. KING:
+·3· · · · Q.· · ·Well, because that entry is the
+·4· same as one of the previous entries, the one on
+·5· page 156, the exact same verbiage.· If you look
+·6· at page 156 and 159, they both say, "Patient
+·7· rested in bed quietly throughout shift with no
+·8· noted distress, 15-minute visual safety checks
+·9· maintained."· So did you just cut and paste?
+10· · · · A.· · ·No.
+11· · · · Q.· · ·You just chose to limit your report
+12· to that?
+13· · · · A.· · ·There were no activities, so
+14· patient rested throughout the night, slept
+15· throughout the night, and continued 15-minute
+16· checks.
+17· · · · Q.· · ·Now, looking at the progress notes
+18· that we've looked at so far -- and we're going
+19· to look ahead to -- let's go to 167 now.· It
+20· says there, "Meds compliant."
+21· · · · · · · ·Do you see that, a progress note
+22· bearing the date of March 13, 2018?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·Looking at the next page, 168,
+Page 164
+·1· again, it bears that same phrase, and I'll read
+·2· it.· "Patient rested in bed quietly throughout
+·3· the night with no noted distress, 15-minute
+·4· visual safety checks maintained."· Did you cut
+·5· and paste there?
+·6· · · · A.· · ·No, I did not.· Like I said
+·7· earlier, there was no activity.· Patient slept
+·8· throughout the night.· He didn't request for any
+·9· PRN medication and 15 minutes was done
+10· throughout the night.
+11· · · · Q.· · ·Page 170, 3/14, your note, "Patient
+12· rested in bed quietly throughout shift, no noted
+13· distress, 15-minute visual safety checks
+14· maintained."· Did you cut and paste there?
+15· · · · A.· · ·No, I did not.
+16· · · · Q.· · ·You just happened to use the same
+17· phrase every time?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·Do you know who Carol Murray is?
+20· · · · A.· · ·No.
+21· · · · Q.· · ·No.· If you could go to page 253.
+22· This a fall risk assessment, 253.
+23· · · · · · · ·Do you see you listed the fall risk
+24· as zero?· Do you see that?
+Page 165
+·1· · · · A.· · ·Yes.
+·2· · · · Q.· · ·This is after his fall in the
+·3· bathroom, correct?
+·4· · · · A.· · ·Yes.
+·5· · · · Q.· · ·And this was after his -- the
+·6· incident that happened while Wendy Erickson was
+·7· trying to take his vitals at the nursing
+·8· station, correct?
+·9· · · · · · · · · · MR. FLAHIVE:· Objection.
+10· BY MR. KING:
+11· · · · Q.· · ·Correct?
+12· · · · · · · · · · MR. FLAHIVE:· Wait a minute.
+13· · · · Let me see the time.· It's at 9:56.
+14· · · · · · · · · · MR. KING:· Excuse me.
+15· BY MR. KING:
+16· · · · Q.· · ·But after the fall in the bathroom?
+17· · · · A.· · ·Yes.
+18· · · · Q.· · ·In your answers, you said that
+19· you -- what did you say in your Answers to
+20· Interrogatories?
+21· · · · · · · ·Hold on for one second.· By the
+22· way, by the time you saw these Answers to
+23· Interrogatories, had you seen an investigative
+24· report prepared by the Department of Mental
+Page 166
+·1· Health?
+·2· · · · A.· · ·No.
+·3· · · · Q.· · ·You didn't?
+·4· · · · A.· · ·No.
+·5· · · · Q.· · ·You didn't see that they criticized
+·6· you for writing the fall risk at zero?
+·7· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+·8· · · · can answer.
+·9· · · · A.· · ·No.
+10· BY MR. KING:
+11· · · · Q.· · ·No.
+12· · · · · · · ·Have you worked with Jon Whitney in
+13· the past?
+14· · · · A.· · ·Yes.
+15· · · · Q.· · ·How often had you worked with Jon
+16· Whitney before?
+17· · · · A.· · ·Maybe once or twice.
+18· · · · Q.· · ·Why did you call Jon Whitney on the
+19· afternoon of March 16?
+20· · · · A.· · ·That was after Kyle's incident.
+21· · · · Q.· · ·At the nursing station, right?
+22· · · · A.· · ·Yes.
+23· · · · Q.· · ·What field of medicine does he
+24· practice, do you know?
+Page 167
+·1· · · · A.· · ·He's medicine.
+·2· · · · Q.· · ·He's medicine, too?
+·3· · · · A.· · ·Yes.
+·4· · · · Q.· · ·But going back to my question, why
+·5· did you call him?
+·6· · · · A.· · ·That was after Kyle had slumped
+·7· down in the chair.
+·8· · · · Q.· · ·I understand that, but why did you
+·9· call one from medicine?· Why did you choose that
+10· specialty to call?
+11· · · · A.· · ·I'm not sure.· What are you driving
+12· at?
+13· · · · · · · · · · MR. FLAHIVE:· Just wait for
+14· · · · his question.
+15· BY MR. KING:
+16· · · · Q.· · ·First of all, my first question, I
+17· guess, would be, why did you seek out a
+18· physician?
+19· · · · A.· · ·Because Kyle wasn't doing good.· He
+20· slumped in his chair.· And when I assessed him,
+21· his vitals were low.
+22· · · · Q.· · ·His vitals were low?
+23· · · · A.· · ·Yes.
+24· · · · Q.· · ·Okay.· Which of his vitals were
+Page 168
+·1· low, if you know?
+·2· · · · A.· · ·I think his blood pressure.
+·3· · · · Q.· · ·His blood pressure was low.
+·4· · · · · · · ·And that concerned you?
+·5· · · · A.· · ·Yes.
+·6· · · · Q.· · ·By the way, if a person has very
+·7· low blood pressure, can they pass out, if you
+·8· know?
+·9· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+10· · · · can answer.
+11· · · · A.· · ·Could be, yes.
+12· BY MR. KING:
+13· · · · Q.· · ·And they can fall down?
+14· · · · A.· · ·Yes.· It's possible.
+15· · · · Q.· · ·It can cause their head to slump
+16· forward if you're in a seated position?
+17· · · · A.· · ·Yes and no.· I'm not sure.
+18· · · · Q.· · ·And did you have a discussion with
+19· Jon Whitney?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·And what discussion did you have
+22· with him?
+23· · · · A.· · ·About a patient having low BP, low
+24· blood pressure, and, I mean, the incident that
+Page 169
+·1· happened.· He slumped when he was in a seated
+·2· position.
+·3· · · · Q.· · ·And did you witness him -- by
+·4· "him," I mean Jon Whitney.· Did you witness him
+·5· perform any type of evaluation?
+·6· · · · A.· · ·I don't know.· I don't recall.
+·7· · · · Q.· · ·Did he tell you what his thoughts
+·8· were?
+·9· · · · A.· · ·I mean, he told me to continue to
+10· monitor the patient.
+11· · · · Q.· · ·Bear with me.· And did you have any
+12· discussions with a doctor on that day about
+13· Kyle?
+14· · · · A.· · ·Which doctor?
+15· · · · Q.· · ·Any doctor.
+16· · · · A.· · ·I spoke to Dr. Yarasani in the
+17· morning about Kyle.
+18· · · · Q.· · ·After the episode that occurred at
+19· the nursing station, did you talk to any doctor
+20· about what happened at the nursing station
+21· before Kyle coded?
+22· · · · A.· · ·I spoke to -- not verbally, but I
+23· sent a message to PA Whitney.
+24· · · · Q.· · ·Okay.· And how did you reach out to
+Page 170
+·1· PA Whitney?· Was it a pager?· Was it a cell
+·2· phone?
+·3· · · · A.· · ·I think I called the unit.
+·4· · · · Q.· · ·You called the unit?
+·5· · · · A.· · ·Yes.
+·6· · · · Q.· · ·Did you call the unit seeking to
+·7· speak to a doctor or a PA?
+·8· · · · A.· · ·To speak to a doctor.
+·9· · · · Q.· · ·And a PA responded?
+10· · · · A.· · ·Yes.
+11· · · · Q.· · ·Do you know where a doctor was?
+12· · · · A.· · ·He was on the medical unit.
+13· · · · Q.· · ·Do you know why a doctor didn't
+14· respond and instead it was a PA?
+15· · · · A.· · ·No.
+16· · · · Q.· · ·Do you know how entries that you
+17· make into the chart find their way into the
+18· section of the chart called "Patient Care Data"?
+19· · · · A.· · ·No.
+20· · · · Q.· · ·No?
+21· · · · A.· · ·No.
+22· · · · · · · · · · MR. FLAHIVE:· Nobody does.
+23· BY MR. KING:
+24· · · · Q.· · ·And do you know how entries that
+Page 171
+·1· you make in the chart find their way into a
+·2· section of the chart called "Measurements"?
+·3· · · · A.· · ·No.
+·4· · · · Q.· · ·Have you ever heard a section of
+·5· the chart called integumentary data?
+·6· · · · A.· · ·No.
+·7· · · · Q.· · ·Do you know what the term means,
+·8· "integumentary"?
+·9· · · · A.· · ·Skin.
+10· · · · Q.· · ·Okay.· And do you know how entries
+11· that you make into the chart find their way into
+12· the section of the chart called integumentary
+13· data?
+14· · · · A.· · ·No.
+15· · · · Q.· · ·At some point in time, you were
+16· interviewed by a representative from the
+17· Department of Mental Health; is that correct?
+18· · · · A.· · ·Yes.
+19· · · · Q.· · ·When did you first learn that your
+20· interview was being sought?
+21· · · · A.· · ·Can you repeat the question?
+22· · · · Q.· · ·Yes.· When did you first learn that
+23· someone from the Department of Mental Health
+24· wanted to interview you?
+Page 172
+·1· · · · A.· · ·I don't know.
+·2· · · · Q.· · ·How did you learn of that?
+·3· · · · A.· · ·I don't know.· I don't recall.
+·4· · · · Q.· · ·Okay.· You don't know?
+·5· · · · A.· · ·No.
+·6· · · · Q.· · ·Did you seek -- did somebody
+·7· accompany you to that interview?
+·8· · · · A.· · ·No.
+·9· · · · Q.· · ·You went by yourself?
+10· · · · A.· · ·Yes.
+11· · · · Q.· · ·There was no female with you?
+12· · · · A.· · ·The female was in the room when I
+13· went in.
+14· · · · Q.· · ·She was?
+15· · · · A.· · ·Yes.
+16· · · · Q.· · ·Okay.· Did you ask for her to be
+17· there?
+18· · · · A.· · ·No.
+19· · · · Q.· · ·So she was sitting in the room
+20· waiting for you?
+21· · · · A.· · ·Yes.
+22· · · · Q.· · ·Had you met her before?
+23· · · · A.· · ·No.
+24· · · · Q.· · ·Did you know her name?
+Page 173
+·1· · · · A.· · ·No.
+·2· · · · Q.· · ·Did you know what her title was?
+·3· · · · A.· · ·No.
+·4· · · · Q.· · ·Do you know why she was there?
+·5· · · · A.· · ·No.
+·6· · · · Q.· · ·Did you know at that time that she
+·7· worked for the hospital?
+·8· · · · A.· · ·I think I found out when I went in.
+·9· · · · Q.· · ·Okay.· And do you remember what you
+10· were asked and what you told the investigator?
+11· · · · A.· · ·No.
+12· · · · Q.· · ·How many people were in the room
+13· with you?
+14· · · · A.· · ·There were two people from the
+15· Department of Mental Health and then the lady.
+16· · · · Q.· · ·Okay.· Did the woman interject at
+17· all?· In other words, did she ask for
+18· clarification of any questions or object to any
+19· of the questions that were being asked of you?
+20· · · · A.· · ·I don't recall.
+21· · · · Q.· · ·Were you provided any documents to
+22· review before you went in there?
+23· · · · A.· · ·No.
+24· · · · Q.· · ·Were you shown any video footage
+Page 174
+·1· while you were there?
+·2· · · · A.· · ·No.
+·3· · · · Q.· · ·Had you seen any video footage
+·4· before you went in there?
+·5· · · · A.· · ·No.
+·6· · · · Q.· · ·What did they tell you about why
+·7· they were there?
+·8· · · · A.· · ·I don't know.· I think -- I'm not
+·9· sure, but they were investigating.
+10· · · · Q.· · ·Did they tell you what -- why they
+11· were investigating?
+12· · · · A.· · ·No.
+13· · · · Q.· · ·Did you ask -- when you interacted
+14· with Kyle after he fell in the bathroom, do you
+15· remember asking him whether he lost
+16· consciousness?
+17· · · · A.· · ·No.
+18· · · · Q.· · ·If a patient told you that he or
+19· she lost consciousness or fell because they were
+20· dehydrated, would you rely on that
+21· representation by the patient?
+22· · · · · · · · · · MR. FLAHIVE:· Objection.· You
+23· · · · can answer.
+24· · · · A.· · ·If the patient told me --
+Page 175
+·1· BY MR. KING:
+·2· · · · Q.· · ·That he or she was dehydrated,
+·3· would you rely on that representation?
+·4· · · · A.· · ·Yes, it's possible.
+·5· · · · Q.· · ·Do you know how a patient -- do you
+·6· know medically how you determine whether a
+·7· person is dehydrated or not?· Do you know what
+·8· tests are run to determine whether a person is
+·9· dehydrated?
+10· · · · A.· · ·In terms of medical?
+11· · · · Q.· · ·Mm-hmm.
+12· · · · A.· · ·You could run fluid and
+13· electrolytes.
+14· · · · Q.· · ·Okay.· Do you know what lab results
+15· will show you or give some evidence of whether a
+16· person is dehydrated or not?
+17· · · · A.· · ·No.
+18· · · · Q.· · ·Did you tell the investigator that
+19· Kyle's eyes were rolling, if you remember?
+20· · · · A.· · ·No.
+21· · · · Q.· · ·Do you know what -- can you
+22· describe the hospital's rapid response protocol?
+23· · · · A.· · ·If the patient is breathing and
+24· alert, you call rapid and -- if you're having
+Page 176
+·1· difficulty, you call rapid.
+·2· · · · Q.· · ·And can you describe the protocol
+·3· any further than that?
+·4· · · · A.· · ·When a patient is alert and
+·5· responding and having medical difficulty, you
+·6· call rapid.
+·7· · · · Q.· · ·Okay.· And who, if you know, was
+·8· supposed to respond to the rapid response call?
+·9· · · · A.· · ·We have a rapid response team.
+10· · · · Q.· · ·But you already told me you don't
+11· know who are the members of that team.
+12· · · · A.· · ·No, I don't.
+13· · · · Q.· · ·And you don't know what the
+14· responsibilities are of the members of that
+15· team, correct?
+16· · · · A.· · ·Correct.
+17· · · · Q.· · ·And you are not a member of that
+18· team, correct?
+19· · · · A.· · ·No.
+20· · · · Q.· · ·I'm almost done, Mr. Tamakloe.
+21· · · · · · · ·Prior to that meeting that you --
+22· that interview that was conducted by the
+23· Department of Mental Health and that involved
+24· the two men and the woman, were you -- how long
+Page 177
+·1· in advance of that -- that interview occurred on
+·2· April 10, I believe.· How long before that were
+·3· you told that they wanted to interview you?
+·4· · · · A.· · ·I don't recall.
+·5· · · · Q.· · ·And you've testified that you
+·6· didn't review any documents or speak to anybody
+·7· before that?
+·8· · · · A.· · ·Yes.
+·9· · · · Q.· · ·After Kyle died -- is this the
+10· first patient that died in your care?
+11· · · · A.· · ·Yes.
+12· · · · Q.· · ·Okay.
+13· · · · · · · · · · MR. FLAHIVE:· On the unit?
+14· · · · · · · · · · MR. KING:· Yeah.
+15· BY MR. KING:
+16· · · · Q.· · ·Did you discuss with your
+17· colleagues about what had happened?
+18· · · · A.· · ·No.
+19· · · · Q.· · ·Not at all?· No one talked about
+20· it?
+21· · · · A.· · ·No.
+22· · · · Q.· · ·Did you ever ask the doctors there
+23· what happened?
+24· · · · A.· · ·No.
+Page 178
+·1· · · · Q.· · ·Who was your closest friend on the
+·2· staff?
+·3· · · · A.· · ·Christine.
+·4· · · · Q.· · ·Christine?
+·5· · · · A.· · ·Yes.
+·6· · · · Q.· · ·And did you have any discussion
+·7· with Christine about what happened?
+·8· · · · A.· · ·No.
+·9· · · · Q.· · ·Why not?
+10· · · · A.· · ·I refused to go there.
+11· · · · Q.· · ·You refused to go there?
+12· · · · A.· · ·Yes.
+13· · · · Q.· · ·Meaning what?
+14· · · · A.· · ·I think it's past now.· I'll go --
+15· I have a son the same age and I feel it's too
+16· traumatic.
+17· · · · Q.· · ·So it would be too upsetting for
+18· you, and you didn't want to talk about it?
+19· · · · A.· · ·I didn't want to talk about it.
+20· · · · Q.· · ·Okay.· Did you overhear any of the
+21· staff members talking about it?
+22· · · · A.· · ·No.
+23· · · · Q.· · ·Were you ever told not to talk
+24· about it with anybody?
+Page 179
+·1· · · · A.· · ·No.
+·2· · · · Q.· · ·And were you ever told about a
+·3· conversation that occurred between Kyle's mother
+·4· and several hospital administrators concerning
+·5· what happened to Kyle?
+·6· · · · A.· · ·No.
+·7· · · · Q.· · ·Were you ever asked to participate
+·8· in that?
+·9· · · · A.· · ·No.
+10· · · · · · · · · · MR. KING:· If we could just
+11· · · · take a minute.· I'm just about done.
+12· · · · · · · · · · MR. FLAHIVE:· Sure.
+13· · · · · · · · · · MR. KING:· Off the record.
+14· · · · (A recess was taken)
+15· · · · · · · · · · MR. KING:· Back on the record.
+16· BY MR. KING:
+17· · · · Q.· · ·You said in your Answers to
+18· Interrogatories that you allowed your license to
+19· lapse at one point?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·When was that, if you remember?
+22· · · · A.· · ·When I obtain my RN.· So I let my
+23· LPN --
+24· · · · Q.· · ·Oh, you let your LPN lapse?
+Page 180
+·1· · · · A.· · ·Yes.
+·2· · · · Q.· · ·Okay.· And just never --
+·3· · · · A.· · ·No.
+·4· · · · Q.· · ·Has there been any other time that
+·5· you let your license lapse?
+·6· · · · A.· · ·No.
+·7· · · · Q.· · ·I heard you talking to your
+·8· attorney earlier about going back to Ghana.· Do
+·9· you go periodically back to Ghana?
+10· · · · A.· · ·Yes.
+11· · · · Q.· · ·Okay.· How long are you going to be
+12· in Ghana for?
+13· · · · A.· · ·Three or four weeks.
+14· · · · Q.· · ·Is that something you do on an
+15· annual basis?
+16· · · · A.· · ·Every other year.
+17· · · · Q.· · ·Every other year, okay.
+18· · · · · · · ·And you're planning on coming back
+19· and resuming work here?
+20· · · · A.· · ·Yes.
+21· · · · · · · · · · MR. KING:· Okay.· I have
+22· · · · nothing further.
+23· EXAMINATION BY MR. FLAHIVE:
+24· · · · Q.· · ·Just earlier, you were asked about
+Page 181
+·1· Dr. Yarasani being present at the time of the
+·2· code.· I think the code was 7 o'clock in the
+·3· night.· What were Dr. Yarasani's typical hours?
+·4· · · · A.· · ·9 to 4 or 5.
+·5· · · · Q.· · ·So do you know if Dr. Yarasani was
+·6· actually at the code?
+·7· · · · A.· · ·He would be gone at the time.
+·8· · · · Q.· · ·And in terms of just calling the
+·9· code -- Mr. King asked you a couple times about
+10· calling a code blue, but was there actually a
+11· rapid response team and then a code blue?· Is
+12· that how you remember it?
+13· · · · A.· · ·Yes.
+14· · · · Q.· · ·Did you ask for the rapid response
+15· to be called?
+16· · · · A.· · ·Yes.
+17· · · · Q.· · ·And then did someone else ask for
+18· the code blue to be called?
+19· · · · A.· · ·Yes.
+20· · · · Q.· · ·Okay.· I just wanted to put that on
+21· the record.
+22· · · · · · · · · · MR. KING:· Okay.
+23· BY MR. FLAHIVE:
+24· · · · Q.· · ·Do you know specifically the
+Page 182
+·1· time -- how much time into the -- when you
+·2· observed Kyle, do you know how much time into it
+·3· that you asked for the rapid team to be called?
+·4· · · · A.· · ·About three minutes.
+·5· · · · Q.· · ·Okay.· Well, do you know if it was
+·6· before three minutes or was it within the three
+·7· minutes that you were there?
+·8· · · · · · · · · · MR. KING:· Objection.
+·9· BY MR. FLAHIVE:
+10· · · · Q.· · ·If the code blue was called second
+11· and the code blue was called at about three
+12· minutes in, was the rapid response -- was the
+13· call for the rapid response team done earlier?
+14· · · · · · · · · · MR. KING:· Objection.
+15· · · · A.· · ·Yes.
+16· BY MR. FLAHIVE:
+17· · · · Q.· · ·In terms of sequence of events, the
+18· rapid response team is called -- or you asked
+19· for them to be called, correct?
+20· · · · A.· · ·Yes.
+21· · · · Q.· · ·And then the code blue was called,
+22· correct?
+23· · · · · · · · · · MR. KING:· Objection.
+24· · · · A.· · ·Yes.
+Page 183
+·1· · · · · · · ·MR. FLAHIVE:· That's all I
+·2· ·have.
+·3· · · · · · · ·MR. KING:· Thank you,
+·4· ·Mr. Tamakloe.
+·5· ·(Deposition concluded at 1:33 p.m.)
+·6· · · · · · · ·THE COURT REPORTER:· Attorney
+·7· ·Thomas, are you ordering a copy of the
+·8· ·transcript?
+·9· · · · · · · ·MS. THOMAS:· Digital, full and
+10· ·condensed.
+11· · · · · · · ·THE COURT REPORTER:· Attorney
+12· ·Flahive, are you ordering a copy of the
+13· ·transcript?
+14· · · · · · · ·MR. FLAHIVE:· Yes.
+15· · · · · · · ·THE COURT REPORTER:· Is PDF
+16· ·okay?
+17· · · · · · · ·MR. FLAHIVE:· Yes.· You can
+18· ·send the electronic version.
+19· · · · · · · ·THE COURT REPORTER:· And
+20· ·Attorney King?
+21· · · · · · · ·MR. KING:· PDF, condensed with
+22· ·the index.
+23
+24
+Page 184
+COMMONWEALTH OF MASSACHUSETTS
+Hampden, ss.
+· · · I, REBECCA J. DeCARLO, a Notary Public in
+and for the Commonwealth of Massachusetts, do
+hereby certify that there came before me via
+videoconference on July 25, 2023, at the offices
+of Raipher, P.C., 265 State Street, Springfield,
+Massachusetts, the following named person, to
+wit:· JAMES TAMAKLOE, R.N., who was by me duly
+sworn to testify to the truth and nothing but
+the truth as to his knowledge touching and
+concerning the matters in controversy in this
+cause; that he was thereupon examined upon his
+oath and said examination reduced to writing by
+me; and that the statement is a true record of
+the testimony given by the witness, to the best
+of my knowledge and ability.
+· · · I further certify that I am not a relative
+or employee of counsel/attorney for any of the
+parties, nor a relative or employee of such
+parties, nor am I financially interested in the
+outcome of the action.
+· · · WITNESS MY HAND August 7, 2023.
+· · · · · · · · · · · · ________________________
+· · · · · · · · · · · · Rebecca J. DeCarlo
+· · · · · · · · · · · · Notary Public
+My Commission expires:
+July 28, 2028
+Page 185
+· · · · · · · · · · · · · · August 10, 2023
+John C. Flahive, Esq.
+MORRISON MAHONEY, LLP
+Tower Square 1500 Main Street, Suite 2400
+Springfield, MA· 01115-5387
+Re:· MALINOWSKI v. YARASANI, et al.
+Dear Counselor:
+· · · Enclosed is a copy of the deposition of
+JAMES TAMAKLOE, R.N., taken on July 25, 2023 in
+the above-entitled action.
+· · · According to Rule 30(e) of the
+Massachusetts Rules of Civil Procedure, the
+deponent has thirty days to sign the deposition
+from the date of its submission to the deponent,
+which is the above date.
+· · · Please have the deponent sign the enclosed
+Signature Page/Errata Sheet and return it to the
+offices of:
+· · · · · · ·Matthew J. King, Esq.
+· · · · · · ·RAIPHER, P.C.
+· · · · · · ·265 State Street
+· · · · · · ·Springfield, MA· 01103
+· · · Whereupon it will be attached to the
+original deposition transcript, and a copy
+thereof to all counsel of record.
+· · · Thank you for your cooperation in this
+matter.
+· · · · · · · · · · · · Rebecca J. DeCarlo
+cc:· All counsel of record.
+Page 186
+· · · · ·COMMONWEALTH OF MASSACHUSETTS
+Hampden, ss.· · · · · · · · · · · · 2179CV00132
+ROBERT MALINOWSKI, JR., as personal
+representative of the Estate of Kyle Malinowski,
+· · · · · · · · · · · ·Plaintiff,
+v.
+RAMA KRISHNA YARASANI, M.D., LOUIS ANGEL
+VELAZQUEZ, M.D., XIAO LIU, M.D., JORDAN
+A. PIKE, P.A., JAMES TAMAKLOE, R.N.,
+KATHLEEN H. RINALDI, R.N., JON WHITNEY, P.A.,
+ALEXANDRA MARCHETTA, M.D., LISA SHERIDAN, R.N,
+and WENDY ERICKSON, R.N.,
+· · · · · · · · · · · ·Defendants.
+· · · I, JAMES TAMAKLOE, R.N., do hereby
+certify, under the pains and penalties of
+perjury, that the foregoing testimony is true
+and accurate, to the best of my knowledge and
+belief, with the addition of the following
+changes/corrections:
+Page| Line| Change/Correction
+____|_____|_____________________________________
+____|_____|_____________________________________
+____|_____|_____________________________________
+____|_____|_____________________________________
+____|_____|_____________________________________
+____|_____|_____________________________________
+____|_____|_____________________________________
+____|_____|_____________________________________
+____|_____|_____________________________________
+WITNESS MY HAND, this· · day of· · · · · , 2023.
+· · · · · · · · · · · _______________________
+· · · · · · · · · · · · JAMES TAMAKLOE, R.N.
+cc.· All counsel of record
