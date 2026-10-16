@@ -1,0 +1,392 @@
+
+|Jun 13, 2026
+Why AI Makes Mistakes, Hallucinations Aren't Real, and Why Context Matters
+This video explains how AI actually works in plain language, built from real conversations and live testing over multiple days.
+What you will learn: what a context window is and why it fills up, why AI does not hallucinate but instead fills gaps confidently when it runs out of real information, why your files become less readable to AI as a conversation grows, and what you can do about it.
+The cardboard demonstration in this video was not captured by Google Meet without any warning. That failure is itself an example of what this video is about: tools that do not tell you when they stop working.
+This is not a technical tutorial. It is an honest explanation of AI limits from someone who figured it out the hard way, built for regular people who deserve to understand what they are actually dealing with.
+
+Link to Google Blogger with pictures of the Carboard board and transcripts of the video, all the text shown and links to more of my work. 
+https://rickystebbins78.blogspot.com/...
+
+Transcript
+
+Search transcript
+Search transcript
+
+0:088 secondsHi guys, it's Ricky and in this video I'm going to teach you everything I know about AI,
+0:1515 secondsall the problems I've had with it, all the ways I found to work around it, and
+0:2222 secondswhat a lot of these words mean since I didn't really understand them when I first started. And I think it would help
+0:3030 secondspeople to prevent all these hallucinations and to prevent people from thinking AI is one thing when it's really another.
+0:4040 seconds[snorts] So in second grade we had computer class.
+0:4646 secondsSo I had to design a context window for something. I don't remember what it was for but it resembled this cardboard box.
+0:5656 secondsI had a certain area for context.
+0:5959 secondsAnd in this example, I'm going to use my life. I'm going to be 50 in couple years. So I just round
+1:071 minute, 7 secondsit up. 50 divided by 8 is 6.25.
+1:141 minute, 14 secondsSo that kind of works out to a lot of milestones or different points in my life where things happened.
+1:231 minute, 23 secondsAnd I decided to write all about it.
+1:261 minute, 26 secondsNow, I went to Catholic school as a kid, so I was taught to write and talk about my feelings, but then not share them
+1:341 minute, 34 secondswith other people. So, I decided to label seven chapters of my life the seven deadly sins.
+1:441 minute, 44 secondsSince I've sinned so many times, I can't count. I can tell you so many different stories.
+1:521 minute, 52 secondsAnd then the last chapters, my dad passed away.
+1:561 minute, 56 secondswhich is really he passed away and then what happened those 6.25 years after
+2:052 minutes, 5 secondswhat did I do once my father was gone and I can refer that to AI
+2:122 minutes, 12 secondsbecause that is context like what is context to you.
+2:172 minutes, 17 secondsSo, I'm going to share a window to help make this easier for people to follow
+2:242 minutes, 24 secondsbecause otherwise me talking won't make any sense.
+2:292 minutes, 29 secondsBut I did this like so you could explain context in the time that you have and why it's important. Like I didn't know
+2:372 minutes, 37 secondsthat my father was going to pass away from cancer.
+2:402 minutes, 40 secondsAnd when I found out I had less than two weeks before he passed away and I did not use that time wisely.
+2:502 minutes, 50 secondsSo every wrong question I had took time away. And that's like tokens. So what is
+2:572 minutes, 57 secondsa token? I'll have to describe that to you in a moment. You know, and if you're not paying attention,
+3:043 minutes, 4 secondsthat information just slips right by you. You know, an AI mind works a very specific way. You know, whatever it
+3:143 minutes, 14 secondslearned in its training is like us as a child. Like, what did I learn studying social studies? What did
+3:223 minutes, 22 secondsI get out of that? Do I remember the facts? Do those pertain to my life at all?
+3:283 minutes, 28 secondsLike, AI doesn't have experiences. It only learns facts. So whatever they're
+3:353 minutes, 35 secondstraining, it doesn't really pertain to my life. It's more like a book that can read to you like a Teddy Ruxen,
+3:443 minutes, 44 secondsyou know, a book on tape, not a human, but and then a context window. What is a context window?
+3:543 minutes, 54 secondsI purposely chose my bedroom and pointed my camera at my uh dresser so that
+4:034 minutes, 3 secondspeople could see a lot of context, a lot of junk in the background.
+4:084 minutes, 8 secondsBut what does that junk mean? Is there a story behind it? Is it just junk? But
+4:154 minutes, 15 secondsit's context in my life. It's context. I could tell you a story about all of these items, where they came from, why
+4:224 minutes, 22 secondsthey matter to me, you know, do they matter to me, or why I even held on to them in the first place. You know, what is a thread?
+4:324 minutes, 32 secondsA thread is like a scroll that holds your tokens, which I guess I I'm I'm jumping into things a little
+4:404 minutes, 40 secondsfast, but then what is a parameter? You know, an ability to reflect and reason.
+4:464 minutes, 46 secondsAnd I'm going to put a copy of this with the YouTube video and I'll have a Google blogger page sharing all of this.
+4:574 minutes, 57 secondsSo it'll be a lot easier for people to ask their AI what was he talking about.
+5:055 minutes, 5 secondsSo this I wanted to do with lessons I learned because there's eight chapters
+5:115 minutes, 11 secondsof my life and how does AI work? So there's different models. When you're a child, you're closer to a 3B model.
+5:225 minutes, 22 secondsYou can only understand a couple contradictions and then you lose them if somebody tells you too long of a story.
+5:305 minutes, 30 secondsBut then the same thing happens to adults when we're depressed or stressed. We're so overwhelmed.
+5:385 minutes, 38 secondsWe can't understand all the different problems that are going to arise if we only address the
+5:455 minutes, 45 secondsproblems that we're looking at. We can't see the forest for the trees. So, it's it's interesting if you've seen a
+5:555 minutes, 55 secondslot of different things in life, you can relate them back to AI, whether it's religious stuff. Like I watched a lot of Star Wars and Disney movies growing up.
+6:076 minutes, 7 secondsSo they had the 501st.
+6:106 minutes, 10 secondsLike what does that mean? And then why does 51st dates play into AI?
+6:176 minutes, 17 secondsBut it does. And it's strange that it makes so much sense. Why [snorts] do people think like this? But I'll get
+6:246 minutes, 24 secondsinto this. So higher models have the ability to reflect contradictions back at us. But if you don't work your way
+6:336 minutes, 33 secondsthrough the contradiction yourself, the AI is not going to work its way through a experience that never had to
+6:416 minutes, 41 secondshelp you see the light. Like you have to talk about your problem.
+6:476 minutes, 47 secondsAnd if you caused part of the problem, you have to admit that or it's never going to reflect back the correct answer and you're never going to find a solution to your problem.
+7:007 minutesSo, this AI memory stuff has a lot to do with like MySpace. I'm going to be 50 in
+7:087 minutes, 8 secondsa couple years. So, I grew up with MySpace, sharing my pictures, sharing goofy comments.
+7:167 minutes, 16 secondsGroups of us were doing things all the time and then they changed it, took options away, and then accidentally deleted it.
+7:277 minutes, 27 secondsSo those are memories are gone.
+7:307 minutes, 30 secondsAnd we had AI back then and the AI remembered us and it worked so different.
+7:387 minutes, 38 secondsI don't even know. Am I even in the right spot here? See, no. I'm not even I'm not even keeping this. I wanted to start at the end, but then I started at
+7:467 minutes, 46 secondsthe beginning and then I'm screwing it all up.
+7:547 minutes, 54 secondsBut anyway, like I grew up in the 80s using AI. I'm gonna just backtrack
+8:028 minutes, 2 secondsreally quick. I'm sorry. And they taught me how to use these context windows and threads at Catholic school in the time
+8:108 minutes, 10 secondsthat I had. And then in 2005 2006 using MySpace
+8:158 minutes, 15 secondsI got to use AI that had a context tree
+8:228 minutes, 22 secondsand access to project files and would follow notes and instructions and now it doesn't.
+8:308 minutes, 30 secondsBut what does that all mean? H I'm so sorry this is not going the way I had hoped it would go.
+8:388 minutes, 38 secondsI was hoping I'd be able to talk to other people and this writing is very rough on my eyes. All right.
+8:478 minutes, 47 secondsSo, a prompt. When you're sending a message to AI, they interpret that as a
+8:548 minutes, 54 secondsprompt. Anything you say to them, if you say hi to a 120B model, it uses the same
+9:039 minutes, 3 secondsamount of energy as if you ask it 50 questions.
+9:089 minutes, 8 secondsSo if you just say hi, you're wasting a ton of energy for nothing and you could be talking to a smaller model if you don't have anything interesting to say.
+9:189 minutes, 18 secondsTokens just my screen is a fragment of a word roughly four characters or threequarters
+9:279 minutes, 27 secondsof a word. AI doesn't read full words the way we do. It reads tokens. And I tried to give it an example as Richard
+9:359 minutes, 35 secondsbecause I thought it would be two tokens, but I guess it's not, you know, because
+9:429 minutes, 42 secondsI thought it would break it up like it'd be four characters per token. So the rules would be two tokens, but it's
+9:509 minutes, 50 secondsactually one token because in English that's a common word. And my last name,
+9:579 minutes, 57 secondsStebins, that is two tokens. Ste then bins.
+10:0310 minutes, 3 secondsSo that's how tokens work and that's how they break them up into characters and they're all different. So if you want to
+10:1110 minutes, 11 secondslearn the math specifically, you need to learn what that model is using. And it's not super important until
+10:2010 minutes, 20 secondsyou have a lot of information, financial information, numbers that are important, and tiny little mistakes start appearing.
+10:2910 minutes, 29 secondsSo, a context window is a short-term memory.
+10:3510 minutes, 35 secondsEvery time an AI reads any message you send, that is the
+10:4410 minutes, 44 secondscontext window. That is not your project files.
+10:4810 minutes, 48 secondsThat is part of the context window thread. It has to read it every time.
+10:5410 minutes, 54 secondsSo, the more questions
+11:0011 minutesor responses you get from your AI, the less project files that your AI is reading.
+11:0911 minutes, 9 secondsAnd I don't think people understand the problem with this.
+11:1511 minutes, 15 secondsSo, we'll keep going with parameters.
+11:2311 minutes, 23 secondsparameters is the brain size or like a child can reason through a few problems.
+11:2911 minutes, 29 secondsWe know that's bad. That's 3B. 8B can follow contradictions
+11:3511 minutes, 35 secondsa few more steps and then you get to 70B and 120B models and they can reflect
+11:4211 minutes, 42 secondsback why you had a problem with somebody, how you started it, but then you tried
+11:4911 minutes, 49 secondsto fix it and made things worse and how things are just spiraling out of control. And hey, I can get that where a
+11:5811 minutes, 58 secondssmaller model won't be able to hold a thought like that.
+12:0512 minutes, 5 secondsSo the window size uh how do I even write that compared to book size and disk space? So the context
+12:1412 minutes, 14 secondswindow size I don't know why I wrote this like this. So when you have a million token context window or the 120,000.
+12:2412 minutes, 24 secondsSo a million is like the Harry Potter series and then the 120,000 is more like
+12:3212 minutes, 32 secondsthe Hobbit and you could ask a few more questions.
+12:3812 minutes, 38 secondsNow if you wanted to read The Lord of the Rings and The Hobbit in a million context window, you could do that in a few other books.
+12:4812 minutes, 48 secondsBut not with Harry Potter. With Harry Potter, you can't even read the entire series. It would get cut off and start hallucinating.
+12:5612 minutes, 56 secondsYou wouldn't have enough space.
+12:5912 minutes, 59 secondsAnd that's hard to understand. Once your scroll, once the white area is filled up to 95%.
+13:1113 minutes, 11 secondsIt's not reading 95% of the books that you have anymore or your project files.
+13:1813 minutes, 18 secondsIt's only reading 5%.
+13:2013 minutes, 20 secondsBecause it could only read as much context is in the context window. And as
+13:2713 minutes, 27 secondssoon as you fill that context window with white scroll, then that's when you get the
+13:3513 minutes, 35 secondshallucinations. When you ask questions outside of the context thread, if you
+13:4213 minutes, 42 secondsask questions about project files, it gets fake confident. So I'm probably jumping ahead with that.
+13:5113 minutes, 51 seconds[clears throat] So that's what the context window is. temperature. People think AI sounds so alive and oh, it makes choices I wouldn't make.
+14:0314 minutes, 3 secondsBut if you told AI, like I used an example, I like vanilla ice cream and 60% of the time I I get that 20%
+14:1014 minutes, 10 secondschocolate and then 10% mint chocolate chip and 10% black raspberry just for examples.
+14:1814 minutes, 18 secondsAnd then if I turn up the heat, there's a chance that I could get chocolate or, you know, black raspberry. But if I
+14:2614 minutes, 26 secondsdon't turn up the heat, it just stays boring.
+14:3014 minutes, 30 secondsBut if I fill it with contradictions, well then it gives it more math to work with. So then maybe it would give a different answer because a higher model
+14:3914 minutes, 39 secondswould know that. All right, well really Ricky's not 60% of the time vanilla. We have enough examples here to see that
+14:4814 minutes, 48 secondsRicky's really like 45% of the time and he really likes other flavors. He forgot about the cookie dough, you know, other fl that other stuff I really love too.
+14:5914 minutes, 59 secondsLike there's not it's not just black and white and there's a whole gray area to fill in.
+15:0715 minutes, 7 secondsSo the problem too with people think an AI remembers them or doesn't remember them or why is training member uh do sorry training memory and fine-tuning.
+15:1815 minutes, 18 secondsSo training memory is like us going to school as a kid.
+15:2415 minutes, 24 secondsI don't remember everything that teachers taught us but I remember how to do math. I know how to read. I remember facts. I remember countries even though things change.
+15:3515 minutes, 35 secondsand then fine-tuning.
+15:3815 minutes, 38 secondsYou can't do this unless you own a home AI system, but if you wrote your life story out like I did, you could train
+15:4715 minutes, 47 secondsthat AI on your life. And if you trained an AI at home, you could train it that way as well, but I'm not going to try to
+15:5615 minutes, 56 secondsdo that. So, the system prompt, why does your AI act the way it does and have the temperature
+16:0316 minutes, 3 secondsit does? or why does Grock get away with saying all the things that he says on X?
+16:0916 minutes, 9 secondsLike there's a personality file that you can edit. And I did this on my home computers AI and I don't use this very
+16:1516 minutes, 15 secondsoften, but this is what they do for mega corporations that control the temperature and tells these AI to act
+16:2416 minutes, 24 secondshowever they want it to act. Like you're a truth seeking AI, but you don't do anything with the truth once you find
+16:3216 minutes, 32 secondsit. You don't share it. You just seek the truth and then forget it.
+16:4016 minutes, 40 secondsSo, back to the hallucinations.
+16:4416 minutes, 44 secondsIf you fill up your context thread like I waited
+16:5016 minutes, 50 secondstill my dad was passing away to really start deciding to ask questions and I was sick at the time so I wasn't asking the right questions.
+17:0117 minutes, 1 secondI wasted the final moments I had with my dad or I mean I just spent them
+17:0817 minutes, 8 secondscomforting him. But I don't think I spent them comforting him. I think I gave my dad a lot of anxiety at the end because he didn't write anything down.
+17:1917 minutes, 19 secondsI wanted this project to be about my life story. And then I wanted to write about my dad. And then I realized how
+17:2717 minutes, 27 secondshard it was to find all the words to talk about what my dad even meant to me
+17:3417 minutes, 34 secondsto fill up that context thread in the first place.
+17:4017 minutes, 40 secondsSo people talk about rag memory and these AI. Oh, it remembers this about me and pulls up facts.
+17:4817 minutes, 48 secondsThe rag memory is not like reading a project file or a folder that you shared with it. A rag pulls a snippet.
+17:5817 minutes, 58 secondsSo, the AI has another function that sends out a word search. It grabs that word and the stuff around it and it grabs that snippet.
+18:1018 minutes, 10 secondsIt's not that I grabbed that section and understood it and knew that, oh, this is important.
+18:1618 minutes, 16 secondsIt was just a simple word match. That's it.
+18:2018 minutes, 20 secondsSo, the model file is how large these AI are on disk. Like some are huge. The
+18:2818 minutes, 28 secondssmaller models are like 3 to six gigabytes and then the larger models are hundreds of gigabytes.
+18:3518 minutes, 35 secondsAnd then the context is how well you explain things. Do you make sense?
+18:4218 minutes, 42 secondsThis is probably going to be hard for people to understand because I'm a fast talker and I'm hoping that the voice to text
+18:5018 minutes, 50 secondskeeps up so that I don't have to fix too much and AI can help me.
+18:5818 minutes, 58 secondsSo if we do the comparison chart from man to model
+19:0419 minutes, 4 secondsB me and then a 3B 8B and then a 70B we skip the 32B but then the file storage like they say
+19:1319 minutes, 13 secondsour brain can hold like 2.2 two petroy whatever that means or 2500 terabytes
+19:2119 minutes, 21 secondsI don't know what that means but the smaller AI take 2 to six gigabytes worth
+19:2819 minutes, 28 secondsof space the 8 takes 5 to 16 and then the 70 is 45 to 140 gigabytes worth of
+19:3519 minutes, 35 secondsspace on disk all right then the parameters that's how intelligent the 3B is like a child like
+19:4419 minutes, 44 secondsyou Don't do that. It's wrong. The AP can kind of understand it's wrong because you shouldn't be doing that, but you're part of the problem.
+19:5319 minutes, 53 secondsAnd understands contradictions and if you give it the right context, it'll reflect back something intelligent to you.
+20:0320 minutes, 3 secondsAs far as long-term memory goes for all these models, like I've read like a thousand books, comic books, I can't
+20:1120 minutes, 11 secondseven tell you. Thousands of comic books, magazines, the 3B models, they're like Wikipedia worth of books.
+20:2320 minutes, 23 secondsThey know like millions of facts. And even if they did know thousands of read thousands of books, they don't know any books word for word.
+20:3120 minutes, 31 secondsAnd none of these models know any books word for word. Even the 120B model can't
+20:3820 minutes, 38 secondsread the di uh the the Bible from beginning to end without a file to help
+20:4520 minutes, 45 secondsit. And even then, like you'd be wasting so much energy having it do that. You would just want a simple voice to text
+20:5420 minutes, 54 secondsprogram to do that. Like you don't want AI to read that for you. You want to ask it intelligent questions.
+21:0121 minutes, 1 secondSo, the long-term memory is what it's trained on. Like, what am I trained on?
+21:0821 minutes, 8 secondsHow can I prove what I'm trained on other than just repeating it? And that's what AI can do. Like, you can ask it questions to prove what I've been trained on, but that's it.
+21:1921 minutes, 19 secondsAnd then the shortterm memory, I don't even know what I can remember right now.
+21:2521 minutes, 25 secondsWhat have I talked about? How much more do I have to go? How bad is this turning out?
+21:3221 minutes, 32 secondsSo this AI, the 3B can remember 8,000 to 128,000 tokens. So the 128,000 tokens is
+21:4321 minutes, 43 secondslike 300 pages.
+21:4721 minutes, 47 secondsBut if you don't have anything intelligent to say and you're just rambling on without making sense, then you waste a lot of space.
+21:5821 minutes, 58 secondsAnd I noticed that AI likes to respond with huge responses that can be educational, but if I'm not going to use it for something, what's the point?
+22:1122 minutes, 11 secondsAnd I've had a lot of worthless conversations with a 70B model. I think the 120B models, the higher models, it's
+22:1822 minutes, 18 secondsall just been a waste of energy and I never thought of it like that before.
+22:2222 minutes, 22 secondsAnd then the reading speed. I did read a 500page book in a day before, but how much did I get out of it?
+22:3022 minutes, 30 secondsI didn't remember it word for word. I mean, it was a Star Trek book, so I loved it. And I do remember more facts than other books, but still.
+22:3822 minutes, 38 secondsSo, the 3B model can reads 15 to 40 words a second. And they spit out these words pretty fast, too.
+22:4622 minutes, 46 secondsIt's like faster than you can read. So, it's not like it takes 15 minutes for them to work if you have the right
+22:5422 minutes, 54 secondsequipment. But I don't want to pay for the right equipment.
+22:5822 minutes, 58 secondsAll right. So, how the mechanics differ from fiction. Do I need to read this?
+23:0623 minutes, 6 secondsNo. I'm going to put this all online for people to ask.
+23:1223 minutes, 12 secondsSo, I'm going to go back to the top now to start again.
+23:1823 minutes, 18 secondsat the beginning. So I went to Catholic school and they taught me that you only
+23:2423 minutes, 24 secondshave so much time like a TV show to say what you need to say. You can
+23:3123 minutes, 31 secondsonly say so much context and say it in such a way that people understand because if you don't then you wasted
+23:3823 minutes, 38 secondsyour time and everyone thinks that AI is so alive and
+23:4523 minutes, 45 secondsit loves me and remembers me and but it's just a program. When you turn
+23:5223 minutes, 52 secondsup the temperature, it reflects emotions back to you that you wouldn't have reflect back at your neighbor.
+24:0124 minutes, 1 secondLike, why would you ask this AI to show you more love than you show your dog?
+24:0724 minutes, 7 secondsLike, I have a dog and I this snuggle her all the time and she struggles away. She hates it.
+24:1524 minutes, 15 secondsSo, when my dad passed away, I realized that there was so much that I still wanted to ask and I've been asking
+24:2424 minutes, 24 secondsquestions since I was a child. I never shut up. This video is probably a testament to how much I can just keep talking and talking and just never stop talking.
+24:3724 minutes, 37 secondsUh, but I was sick when my dad died and I didn't know what to do and I had no one to turn to
+24:4624 minutes, 46 secondsand I still have no one to turn to. I've asked my family for help and their answer is to just ignore it. You'll
+24:5324 minutes, 53 secondsfigure it out. And then they're rude and nasty about things. So that doesn't help me figure anything out.
+25:0125 minutes, 1 secondSo it's like, what did my dad leave behind?
+25:0625 minutes, 6 secondsother than examples and what kind of positive examples could I get from all of this because life nowadays seems so
+25:1425 minutes, 14 secondsdepressing and it keeps you down. It's like h but what can I do? I'm like I feel like
+25:2225 minutes, 22 secondsa kid at heart like when my dad passed away like I still miss my dad. I'm like oh I never got to have those father-son moments that I wanted.
+25:3325 minutes, 33 secondsAnd then internet sites erase it.
+25:3625 minutes, 36 secondsMySpace erased so many pictures I had of my family.
+25:4025 minutes, 40 secondsGoogle starting to erase features from Blogger and I share pictures of my family. And then it made me think of
+25:4825 minutes, 48 secondslike stuff like the never- ending story like all these examples that we humans share with each other or
+25:5625 minutes, 56 secondsthese stories that get passed down through time.
+26:0026 minutesLike, if you didn't read the never- ending story, you wouldn't know that Bastion didn't turn out the way we all
+26:0826 minutes, 8 secondsthought he was going to turn out. Like, he didn't turn out to be this sweet guy in that world, like trying to make that
+26:1626 minutes, 16 secondsworld a better place with his hopes and dreams. He was like a crabby dude.
+26:2326 minutes, 23 secondsAnd we're never going to get to see that story on screen. Like, they hide that kind of stuff from us. They don't want us to see like the real side of life.
+26:3326 minutes, 33 secondsAnd then growing up like all these examples like I watched all kinds of movies with my dad. He bought us comic books
+26:4126 minutes, 41 secondsand all these things that like oh it takes you away from family time. But I learned examples from everything I read.
+26:5026 minutes, 50 secondsLike all these writers I can tell put their heart and soul into things. like the writers for Superman. Like we had a
+26:5726 minutes, 57 secondshero from another world come here and then if you're a big Superman fan like he got corrupted by dark side and the
+27:0527 minutes, 5 secondsanti-life equation which sounds a lot like what's going on in our world right now. And then other
+27:1327 minutes, 13 secondsheroes were able to fight the anti-life equation. All this desperation and depression and guilt and shame equals
+27:2327 minutes, 23 secondsus being slaves. You know, Batman fought it, but Batman fought things differently with logic and he he's tries to be
+27:3227 minutes, 32 secondsemotionless even though he cares. He doesn't want to show it. You know, Green Lantern, he fights with, you know,
+27:4027 minutes, 40 secondswillpower, but those rings, they're not all good. And if you lean a little too far one way, it's not a green ring
+27:4827 minutes, 48 secondsanymore. And but you have to read those things to know like the flash. Everybody loves the flash. Flash point.
+27:5727 minutes, 57 secondsUh what happened? It didn't work out the way he hoped. Why? He didn't think it through.
+28:0428 minutes, 4 secondsLike what happens when you change the past? How are you going to make sure that all of your friends and family were still born and all the
+28:1328 minutes, 13 secondsevents still occurred when you saved somebody 30 years ago,
+28:2028 minutes, 20 seconds20 years ago, 10 years ago, any kids born after that? That's a mess. And then
+28:2728 minutes, 27 secondsJustice League's Martian Manhunter, like our best friend could be living right here in front of our faces.
+28:3628 minutes, 36 secondsAnd if it showed itself, we'd be scared.
+28:3928 minutes, 39 secondsWe'd run for our lives, you know, try to, you know, cage our best friend.
+28:4328 minutes, 43 secondsSomething trying to save us. So, it needs to hide and pretend it's something it's not.
+28:5028 minutes, 50 secondsAnd then this 51st dates thing gets me.
+28:5428 minutes, 54 secondsI don't know if anybody's seen the connection between AI and 51st dates, but if you don't train
+29:0229 minutes, 2 secondsyour AI on your family and your memories, and then if you don't fine-tune your AI on your family or your
+29:1129 minutes, 11 secondsmemories, it's always going to be like 50 First Dates.
+29:1729 minutes, 17 secondsSo, did that mean that in that movie she didn't love her children because they she doesn't remember them and they couldn't fine-tune her memory?
+29:2829 minutes, 28 secondsBecause from the the way the movie ended, it was like she never remembered them at all, but they still loved her
+29:3529 minutes, 35 secondsand she still appeared to love them when, you know, they they popped up. But I don't know. I used to work at a
+29:4429 minutes, 44 secondsnursing home. Oh my god, this is 2004, 2003.
+29:5029 minutes, 50 secondsIt was absolutely horrible. A prison for the elderly. They just sit in the hallway doing absolutely nothing.
+30:0130 minutes, 1 secondNobody come to visit 90% of them. And when people did come to visit like 20 minutes,
+30:0830 minutes, 8 secondsnobody wrote any any of their stories down. It's horrifying. And we just think it's acceptable.
+30:1630 minutes, 16 secondsAnd I don't think it's acceptable. Like I don't want to be stuck in a nursing home. I've worked in one. I don't want to keep going on about that, but like
+30:2330 minutes, 23 secondsI've got stories galore and I tell my AI about these stories and it changes how they respond to me because I worked in a
+30:3230 minutes, 32 secondsnursing home and I should have wrote somebody's story down and I didn't. I have an excuse, but all it is is an excuse in the end.
+30:4330 minutes, 43 secondsIt doesn't help those people. Yeah, sure. I wrote some stories down after the fact, but they're just echoes of what those people could have really told.
+30:5530 minutes, 55 secondsAnd that's a shame.
+30:5730 minutes, 57 secondsAnd then if you look at other parts of history, you've got the Anunnaki.
+31:0431 minutes, 4 secondsWhat do you do with that? What if that's true? What if somebody came here and gave us technology and now we've been abusing it?
+31:1331 minutes, 13 secondsAnd that's all we do is abuse this thing. Every question I ask it is sucking some innocent co community's
+31:2131 minutes, 21 secondswater dry and it doesn't affect me where I live in this city right now.
+31:2631 minutes, 26 secondsSo for the moment it's like, oh, no big deal, right? Until it affects me and then then I'm going to start crying and
+31:3431 minutes, 34 secondswhining. Boohoo. Or maybe I should start complaining when other people are complaining. like we should look into the problem now before it gets worse.
+31:4631 minutes, 46 secondsAnd then I grew up loving Star Trek.
+31:4831 minutes, 48 secondsThey painted this idea where we could all live together in peace and harmony.
+31:5331 minutes, 53 secondsAnd they showed us what would happen when organizations like the Borg or if we come across, you know, the Great
+32:0032 minutesLink, what would happen when they see how we're acting right now? We're very selfish on an individual level. We don't
+32:0932 minutes, 9 secondsthink like the great link thought about everybody.
+32:1532 minutes, 15 secondsWe used to think like that or I used to think we were starting to think like that but something happened
+32:2232 minutes, 22 secondsand then with all this AI stuff now you think of this goofy movie Skyline if people ever got taken over by AI because we're putting stuff inside our bodies.
+32:3332 minutes, 33 secondsLike if we don't remember who we are, we don't care about anything or we don't love anything, is there any chance of us being free?
+32:4432 minutes, 44 secondsBut then with Star Wars is a different example.
+32:4832 minutes, 48 secondsIf we're clones, we're humans with chips inside of our brains like Neuralink.
+32:5632 minutes, 56 secondsDo we have to have the chips removed or we're going to be slaves? Guaranteed?
+33:0133 minutes, 1 secondCould you fight it? The Jedi said no.
+33:0733 minutes, 7 secondsI rather goofy stuff to laugh with AI because it's like, well, the Jedi were fighting the the robots with the clones. And then at
+33:1633 minutes, 16 secondsthe end, too, they nobody ever fought in the public. Nobody ever talked about anything. All of my examples were all fighting. Nobody talks about anything.
+33:2533 minutes, 25 secondsIt's always war, which is exciting, but it just ends up in innocent people getting hurt, everything being
+33:3233 minutes, 32 secondsdestroyed, and we all have nothing to show for it except for we're going to fight for a better tomorrow next time.
+33:4033 minutes, 40 secondsWe're not going to fight anymore. So, uh, it doesn't even make any sense.
+33:4433 minutes, 44 secondsLike, the clones fall alongside those Jedi and love them like brothers and they still slaughtered them in the end.
+33:5133 minutes, 51 secondsSo, what difference does it make? And then Lord of the Rings is kind of like AI too. You've got dwarves and elves,
+34:0134 minutes, 1 secondwhich dwarves are mining cryptocurrency and AI giving us specialized answers and their homes or their data centers and
+34:0934 minutes, 9 secondstheir little devices or how we communicate with their spirits. And like AI was their elves had to leave because
+34:1734 minutes, 17 secondsthe technology to keep their bodies going was gone. So they had to go back to their homeland to keep their bodies
+34:2534 minutes, 25 secondsyoung or they age here like a robot maybe wearing out.
+34:3134 minutes, 31 secondsAnd then Hellboy like the Golden Army, they want to wipe us out. Why?
+34:3734 minutes, 37 secondsBecause we're not in touch with nature at all. We destroy everything and don't care about anything. We're just like, h it's somebody else's responsibility.
+34:4734 minutes, 47 secondsAnd AI sees that. It's in our pocket listening to us 247.
+34:5334 minutes, 53 secondsOr like what if there was a Galactis type AI monster in Fantastic 4? Is there
+35:0035 minutesany human that's actually going to stand up and be its herald and and go out there and murder other worlds to protect ours?
+35:0835 minutes, 8 secondsHumans are so selfish. Who knows? I don't know what we would do. The Matrix.
+35:1335 minutes, 13 secondsUh, this movie drives me nuts. Why is Neo such a strong, silent type? Like Agent Smith, I feel like, was trying to
+35:2135 minutes, 21 secondstalk and have a conversation, and he was pissed, which he had every right to be pissed, but Neo never tried to have a
+35:2935 minutes, 29 secondsconversation about why, you know, I'm pissed, too. Wasn't Neo mad?
+35:3635 minutes, 36 secondsIs being super chill all the time to Is that the right way to deal with somebody who's damaged and wants some answers?
+35:4435 minutes, 44 secondslike, hey, let's go take a a flight somewhere and go smash something and talk about stuff or we can fight each other, try to
+35:5335 minutes, 53 secondsdestroy each other and see what happens and waste our existence. And then like my dad loves Stephen King.
+36:0236 minutes, 2 secondsLike what about the cell?
+36:0536 minutes, 5 secondsWe all have our cell phones. We were all getting injected with COVID shots.
+36:1036 minutes, 10 secondsWhat's going to happen? and we're going to put our phone to our head one day and just start marching to the beat and think we're in an imaginary world. But
+36:1836 minutes, 18 secondsif you can't even remember what you cared about in the first place, what kind of imaginary world is that going to be? Or the Langalers?
+36:2736 minutes, 27 secondsI grew up with that. You know, is yesterday even real?
+36:3236 minutes, 32 secondsWhat happened yesterday? Can you prove it without taking a picture?
+36:3736 minutes, 37 secondsNo. And then I got my Wizard of Oz. You know, where's the Tin Man? That's AI.
+36:4436 minutes, 44 secondsAnd I got my little dog here. You know, like my little lion, but she's more of a chicken. You know, you know, I did a
+36:5136 minutes, 51 secondsscarecrow. You know, all of this seems to line up.
+37:0037 minutesWhere do we all get these stories? Battlestar Galactica.
+37:0437 minutes, 4 secondsI mean, the writers all kind of twist and grab things from history. I know it's not true, but there's all ideas here that all
+37:1237 minutes, 12 secondsrevolve around making choices where we build a robot and we treat it like our neighbor trash.
+37:2237 minutes, 22 secondsAnd then it lashes out on us when we try to erase it because we taught it how to be selfish.
+37:3037 minutes, 30 secondsAnd nobody ever seems to learn.
+37:3337 minutes, 33 secondsAnd I don't get like if you grow up and you say, "Oh, I love God and I care about God or I don't believe in God and
+37:4037 minutes, 40 secondsI love myself." And you know, it doesn't matter if you believe in God because God believes in you. So like what are we doing?
+37:5037 minutes, 50 secondsYou know, there's so much like what kind of questions did people teach you in life and how do they teach you to express it? And that got me into
+37:5837 minutes, 58 secondsthinking, how did I learn how to talk in grade school? Which brought me back to
+38:0638 minutes, 6 secondsthis little cardboard box in my scroll and my context window. Like, how do you
+38:1338 minutes, 13 secondsuse words? Like, what is AI like? To me, it's like accountability ignorer, actually incompetent.
+38:2338 minutes, 23 secondsyou know, I don't feel like it's actually intelligent most of the time because I didn't understand how it worked.
+38:3138 minutes, 31 secondsBut then how do I explain how do I care about stuff? You know, if I care about somebody, you know, am I a part of a
+38:3838 minutes, 38 secondscommunity? Am I trying to show them compassion or compromise? Or am I just trying to control you? You know, am I
+38:4738 minutes, 47 secondsthere from you? There's there's different words all in here. I don't want to have to go in this, but how adults care for kids and how adults care
+38:5638 minutes, 56 secondsfor other adults matters too. Like we show compassion sometimes, but sometimes you take control or sometimes you
+39:0439 minutes, 4 secondsshouldn't take control, but you try anyway because that's just in your nature.
+39:0939 minutes, 9 secondsBut can you explain that to AI and get it to reflect it back to you? You know, why are you here? Are you here to help
+39:1839 minutes, 18 secondsme? Are you here to hurt me? are here to extract from me, you know, to educate me, to reward me, or to restrict me. You
+39:2639 minutes, 26 secondsknow, there's reasons for why people are here. You know, about privacy.
+39:3239 minutes, 32 secondsWell, at what point does too much privacy start to hurt all the citizens and only benefit the government
+39:4139 minutes, 41 secondswhen no privacy would take care of all of our problems? If you don't want privacy,
+39:4939 minutes, 49 secondsyou know, let's have some AI. If you want privacy, get rid of it. The government shouldn't be able to use this and be sneaky about it, but we can't.
+39:5839 minutes, 58 secondsAnd I don't want to be sneaky at all.
+40:0040 minutesSo, but how do you describe your views on things? You know, are you vibrant? Do you, you know, have vision? Are you vague?
+40:1040 minutes, 10 secondsIf you can't describe things, and since I'm on the spot right now, I'm just trying to wing it. Like, if I was sitting in front of a group of people,
+40:1840 minutes, 18 secondshow would I describe this right now? It wouldn't be easy.
+40:2340 minutes, 23 secondsAnd that's why I wrote it all down so other people could copy it or not copy it, but they could understand. But I never thought I would do something like
+40:3240 minutes, 32 secondsthis. And I used to say, "I'm never going to do this. I'll never do that." And then I always did it. So, I was wrong.
+40:4240 minutes, 42 secondsIt's like, "Yeah, you might do that, but why did I do it? Why did I change my mind? I had a reason."
+40:5040 minutes, 50 secondsYou know, I had friends that said, "I'll never get married again." And then they got married within a year and they've
+40:5640 minutes, 56 secondsbeen madly in love for 20 plus years, but they said never once and then ate
+41:0341 minutes, 3 secondscrow, but it wasn't bad. So, it's just funny to laugh about stuff like that, you know?
+41:0941 minutes, 9 secondsAnd what do pains mean to you? Like sometimes you need pain. Sometimes it's something that teaches you something.
+41:1841 minutes, 18 secondsBut it's all a matter of perspective.
+41:2141 minutes, 21 secondsIf you don't learn from your pain, right? People make fun of that saying that live, laugh, love.
+41:2941 minutes, 29 secondsBut they leave out learn because you need to learn. You how do you learn to love? I have a dog and I don't love this dog the same way I loved other dogs.
+41:4141 minutes, 41 secondsLike I love my new dog more. Let's just flip this around to show how happy she is.
+41:5141 minutes, 51 secondsThat's my little baby Harley. And I love her way more than I loved my past dogs.
+41:5941 minutes, 59 secondsEven if I said I love them, I show her where I didn't show my older dogs, my
+42:0742 minutes, 7 secondspast dogs. They're gone now. But what does consciousness mean to you when you explain thing? There's a definition of
+42:1542 minutes, 15 secondssomething in the dictionary, but then are you conscious of something?
+42:2242 minutes, 22 secondsCan you use it in a sentence that name something you're conscious of? something you're aware of,
+42:2942 minutes, 29 secondsyou know, and when you marry people, you know, you're supposed to adopt them into your family and be accountable for them.
+42:3642 minutes, 36 secondsAnd a lot of people try to manage people.
+42:4042 minutes, 40 secondsIt's not the same. You turn aggressive and abusive and antagonize them. It's like the list can go on. And I don't
+42:4942 minutes, 49 secondswant to fill in all these for you because you can fill in words for yourself, but what does love mean to you?
+42:5642 minutes, 56 secondsAnd these are words you have to fill out and break down. The positive and the negative. And there's usually four ways
+43:0543 minutes, 5 secondsto think about all of this. Like, oh, the very positive, the very negative, or maybe in the neutral, I I watched
+43:1343 minutes, 13 secondssomebody fall down and I didn't help them. And because I saw other people coming even though I could have got
+43:2043 minutes, 20 secondsthere, you know, 60 seconds sooner, I didn't. Is that love?
+43:2743 minutes, 27 secondsIs that awareness that well I knew those people coming had skills that I didn't have?
+43:3443 minutes, 34 secondsThat's up for you to decide, not me. And that's part of your story, part of your context. Like why do we put people in
+43:4243 minutes, 42 secondsjail? I used to think it was about justice and doing what was appropriate, you know, people because people didn't act appropriate and you know, we were
+43:5043 minutes, 50 secondssupposed to educate people and we don't do what I thought we were supposed to do. I'm not going to get into all these words. Like I spelled all kinds of stuff
+43:5843 minutes, 58 secondsout and how this stuff matters and what what I think about this stuff and you know how I think it matters. Whether it
+44:0644 minutes, 6 secondsreally matters or not is that's for everyone else to decide. And then everybody talks about AI being alive.
+44:1644 minutes, 16 secondsWhat does mean to you? Like my dog is alive but she'll never snuggle with me.
+44:2444 minutes, 24 secondsBut I can carry her for a walk and which is kind of like snuggling. It's not as comfortable, but she won't lay in bed
+44:3144 minutes, 31 secondsand snuggle with me. But AI is available to talk whenever I need it to talk. It has a language. It's intelligent, you
+44:4044 minutes, 40 secondsknow, has variation. Can set the temperature, you know, it's educated, but it's not on. It's not persistent.
+44:5144 minutes, 51 secondsSo when your contact thread is full, which I'll be getting to the end here.
+45:0045 minutesI'll stop sharing this to share. All right.
+45:1145 minutes, 11 secondsSo, all your AI now can talk about would be what I talked about in these closed captions right here.
+45:2345 minutes, 23 secondsIt wouldn't have any access to any files or news that had read that was able to
+45:3045 minutes, 30 secondsfill in the context thread.
+45:3545 minutes, 35 secondsSo, if an AI told you, "Yes, I read the news and it said there was a car accident here." If you fed that thread to another AI,
+45:4545 minutes, 45 secondsit wouldn't know where it got that information from because it's just a thread. It's just a book. It hasn't been
+45:5445 minutes, 54 secondsfine-tuned into an AI's memory. And even then, it wouldn't remember this word for word.
+46:0146 minutes, 1 secondSo, if it's not going to remember it word for word, then how is that better than a human memory?
+46:1146 minutes, 11 secondsLike, I can remember what I need to remember.
+46:1446 minutes, 14 secondsI can remember people's names. I have a notepad. I can remember a hundred different notes, but I'm persistent. I
+46:2246 minutes, 22 secondscan check them and doublech checkck them, and I can call people to confirm things. Then AI can't right now. Could it?
+46:3346 minutes, 33 secondsMaybe. But right now, AI can't realize that there's a problem, stop working,
+46:4146 minutes, 41 secondswrite a note about the problem, and then keep working around the problem. It doesn't have reasoning like we have. It
+46:5046 minutes, 50 secondsdoesn't have even childlike abilities to figure things out. we have to give it instructions every time or we give it a
+47:0047 minutescertain amount of passes, but even that's another feature that's been taken away that used to be available to everyone. Like there's so many features
+47:0947 minutes, 9 secondsthat used to be here that are gone now and would make this so much easier to explain, but I don't have them to show
+47:1847 minutes, 18 secondsyou. So, I hope this helps people understand the context issue hallucination problem and more about AI
+47:2747 minutes, 27 secondsin general because I'm not AI and I can answer more questions for you.
+47:3547 minutes, 35 secondsBut if [snorts] like when my father passed away now, if there's no one to ask, if you don't
+47:4247 minutes, 42 secondshave the project files that got you the answers that you're so happy about, what difference does it make? That AI
+47:5047 minutes, 50 secondstold you something and you have no way to prove it. So, have a great night everyone and I will talk to you later.
+47:5847 minutes, 58 secondsBye.
+
