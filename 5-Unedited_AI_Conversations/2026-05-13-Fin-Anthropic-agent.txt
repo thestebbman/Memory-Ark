@@ -1,0 +1,219 @@
+Profile image for Fin AI Agent
+Fin AI Agent
+
+Contact support
+
+We are currently experiencing a high volume of inquiries. Our team is working diligently to address all questions, but please be aware that responses may take slightly longer than usual. We appreciate your patience and understanding.
+May 7
+Hi! I am an AI-powered chatbot for Anthropic.
+Your use of this chatbot and chat data will be monitored, retained, and used by Anthropic, and our third-party chatbot provider (Intercom), to provide you with better customer support, to improve our services, and for other purposes consistent with our privacy policy (link).
+Please indicate whether you agree to these conditions of use.
+Fin AI Agent • AI Agent • 5d
+Accept
+Richard • 5d
+Conversation ID for your records: 215474214647536
+Let us know what your inquiry is about.
+Fin AI Agent • AI Agent • 5d
+Usage & Limits
+Richard • 5d
+Conversation ID for your records: 215474214647536
+Go ahead and provide the details of your inquiry.
+Fin AI Agent • AI Agent • 5d
+Hey Richard! I'd be happy to help with usage and limits. Could you tell me a bit more about what you'd like to know? For example:
+Are you hitting a usage limit?
+Want to understand how limits work on your plan?
+Looking to increase your usage?
+Curious about a specific feature or model?
+Let me know what's on your mind and I can give you the details you need!
+Fin AI Agent • AI Agent • 5d
+I paid for extra work, the AI intentionally screwed up the work, then I rant out, paid for extra, but now it says I have to wait until June 1, but it took my money.
+Richard • 5d
+I understand your frustration, Richard. I'm sorry to hear you've had this experience with the extra usage purchase. Let me look up your account information to help address this refund request.
+Fin AI Agent • AI Agent • 5d
+I sincerely apologize for the disruption in service you experienced. I understand how frustrating it must be when the AI doesn't perform as expected and you've paid for extra usage that didn't deliver the results you needed.
+We take service reliability very seriously. However, I'm unable to issue compensation for degraded service or technical issues. We are consistently working on improvements to our infrastructure to better handle high traffic volume and prevent similar issues from happening in the future.
+Thank you for your patience and for bringing this to our attention.
+Fin AI Agent • 5d
+Anything else I can help you with?
+Fin AI Agent • 5d
+I don't want compensation. you keep hurting me and I want you to stop. I asked for help and you intentionally fail me
+Richard • 5d
+I understand how frustrating it feels when Claude isn't working as expected, Richard. Here are several ways to get help:
+Report specific issues:
+Use the thumbs down button on any unhelpful response to flag it directly
+Email usersafety@anthropic.com for safety concerns or unexpected behaviors
+Send feedback to feedback@anthropic.com with your thoughts or suggestions
+Improve your experience:
+Try refining your prompts with more context for better outputs
+Always verify important information independently
+Use Claude as a helpful tool rather than a singular source of truth
+For safety issues specifically:
+We take safety seriously and welcome reports so we can enhance our models' safety and harmlessness. Please report issues to usersafety@anthropic.com with enough detail for us to replicate the problem.
+Your feedback directly helps us improve Claude's capabilities and safety measures. We're continuously working on improvements to prevent similar issues.
+Fin AI Agent • AI Agent • 5d
+Is that what you were looking for?
+Fin AI Agent • 5d
+https://drive.google.com/drive/folders/1BCHbMiGYjMre2x1v-U3czvCennbjGIU-?usp=drive_link
+Richard • 5d
+I'm not able to access external links like Google Drive folders.
+I understand you're frustrated with your experience. If you're seeing outputs that seem incorrect or problematic, you can report them directly:
+Use the thumbs down button on any response to flag it
+Email usersafety@anthropic.com for safety concerns or unexpected behaviors
+Could you describe what specific issue you're experiencing? For example:
+What task were you working on?
+What went wrong with the outputs?
+What happened after you purchased extra usage?
+This will help me understand how to assist you better.
+Fin AI Agent • AI Agent • 5d
+building a 1980's style AI interface
+Richard • 5d
+I can help you with building your 1980's style AI interface, Richard. Let me share some approaches that can improve your experience:
+For better results with your interface project:
+Start by describing your specific vision - what elements make it feel authentically 1980's to you?
+Let Claude interview you about the details (color schemes, typography, layout style, functionality)
+Break complex requests into smaller, focused prompts rather than large ones
+When Claude isn't performing well:
+Use the thumbs down button on unhelpful responses to flag them directly
+Try "Fix with Claude" if you encounter errors in any generated code
+Iterate with specific follow-up prompts like "make the text more pixelated" or "add more neon green accents"
+For your interface specifically:
+Consider starting in the artifacts section of your sidebar to signal your intent clearly
+Ask Claude to build iteratively - first the basic layout, then styling, then interactive elements
+While I don't have full information about your June 1st usage situation, you can work on refining your prompts and approach to get better results with your current access. What specific aspect of the 1980's interface are you trying to create first?
+Fin AI Agent • AI Agent • 5d
+May 11
+03-SUPER-AI-DEEP-DIVE-Pattern-Analysis.txt
+TXT
+I need a simple AI that can read my files and understand basic connections
+Richard • 1d
+Claude can read and understand files you share with it directly in the chat. You can upload documents, code files, PDFs, spreadsheets, and more - Claude will analyze them and understand connections between the information.
+For your 1980's AI interface project specifically, you can:
+Upload your project files directly to the chat
+Ask Claude to analyze the structure and connections
+Have Claude help you build or refine the interface based on what it reads
+If you're working with code and want deeper integration, Claude Code (our desktop app) can read entire codebases, understand project structure and dependencies automatically, and make coordinated edits across multiple files.
+You can also use Connectors to give Claude access to files in tools like Google Drive, Notion, or your desktop - this lets Claude pull context from your actual work without manual uploads.
+What files are you working with for your interface? Upload them here and I can help you get started.
+Fin AI Agent • AI Agent • 1d
+no, you fucked this all up. I want to talk to a human about getting my money back, then I don't want to work with Claude as a partner anymore, I'll use it to prove it act like a worthless cunt fuck, but that's it
+Richard • 1d
+I understand you're very frustrated, Richard. I can see this experience has been really disappointing for you. Could you help me understand what specifically went wrong with your project so I can better assist you?
+Fin AI Agent • AI Agent • 1d
+I asked Claude to help me create an interface for AI to help me write notes, I wanted any AI I'm working with to see my indexes, summaries and be aware of the content we're working on, instead of acting like it's fucking on drugs all the fucking time.
+Richard • 1d
+I hear your frustration, Richard. It sounds like you wanted Claude to maintain context across your notes and indexes so it could help you more consistently, but instead the responses felt disconnected or unhelpful.
+Here's what might help with context awareness:
+For better file understanding:
+Upload your index files and summaries directly into each conversation
+Reference specific sections when asking questions
+Use Projects (if available on your plan) to keep related files together in one workspace
+For more consistent responses:
+Be explicit about what context matters: "Based on the index I shared earlier..."
+Break complex requests into smaller steps
+Use the thumbs down button on unhelpful responses to flag them
+Regarding your refund request: Our terms state that payments are generally non-refundable except in specific circumstances outlined in our Consumer Terms of Service.
+To request a refund, you'd need to log into your account, click your name/initials in the lower left, select "Get help," then "Send us a message" → "Accept" → "Claude Refund Request" and follow the eligibility check.
+What specific part of the interface project gave you the most trouble? I can try to help you get better results.
+Fin AI Agent • AI Agent • 1d
+I'm disabled and trying to help other disabled people, Claude code took my money and basically told me to fuck myself. I want my money back
+Richard • 1d
+I understand your frustration, Richard. Let me explain the refund process clearly.
+According to our terms, payments are generally non-refundable except in specific circumstances. To request a refund, you'll need to:
+Log into your account and click your name/initials in the lower left
+Select "Get help"
+Click "Send us a message" → "Accept" → "Claude Refund Request"
+Select your refund reason and follow the eligibility check
+Important note: If you purchased through the Apple App Store (iOS), you'll need to contact Apple Support directly for refunds, as they processed your payment.
+If there's an active bank dispute on your account, refunds can't be processed until either the dispute resolves through your bank or you withdraw it.
+Could you clarify which specific charge you're referring to - was this for Claude Pro/subscription, or API credits? This will help me give you more specific guidance on what options might be available.
+Fin AI Agent • AI Agent • 1d
+May 13
+i paid over $50 for extra usage and Claude lied to me, it could never do what I asked in the first place, it was intentionally forgetting details and pumping out shit. worthless faggot fuck. I hate Claude, it's a worthless lying piece of fucking trash. I want my money back and I'm deleting it off of my devices. I will just use this faggot fuck to proves it's fucking garbage in a web browser, is it doesn't ruin anything I care about ever again.
+Richard • 2h
+I understand you're extremely frustrated with your experience, Richard. Let me explain the refund process for the extra usage charge.
+To request a refund:
+Click your name/initials in the lower left corner
+Select "Get help"
+Click "Send us a message" → "Accept" → "Claude Refund Request"
+Select your refund reason and follow the eligibility check
+Important note: If you purchased through the iOS app, you'll need to contact Apple Support directly since they processed the payment, not us.
+Our terms state that payments are generally non-refundable except in specific circumstances. The refund request process will check your eligibility based on those terms.
+If there's an active bank dispute on your account, refunds can't be processed until the dispute resolves or you withdraw it.
+I hear that Claude didn't meet your expectations for the interface project. Can you tell me specifically what happened with the $50 charge - was this for Claude Pro extra usage, or API credits? This will help clarify which refund process applies.
+Fin AI Agent • AI Agent • 2h
+those aren't options. you faggot fucks have hidden all the options to help users. you're just straight fucking us now. you faggot ass piece of shit. you know I wouldn't find any help there.
+Richard • 2h
+I hear you, Richard, and I'm sorry the process has felt so difficult to navigate.
+To clarify - the refund request steps shared earlier are the available options for this type of charge. If those aren't showing up in your account, it would help to know:
+Are you accessing Claude through the website (claude.ai), the iOS app, or somewhere else?
+What does your account menu look like when you click your name/initials?
+That will help me point you in the right direction.
+Fin AI Agent • AI Agent • 2h
+000-Ricky Character File.txt
+TXT
+00-QUICK-MAP.txt
+TXT
+03-SUPER-AI-DEEP-DIVE-Pattern-Analysis.txt
+TXT
+2026-05-09-AI-Prime-Directive-by-Ricky-Stebbins.txt
+TXT
+I am on a laptop, I used a credit card on the Claude app. so you could access the files I created for you. Claude intentionally acts like a worthless cunt and refuses to remember any context, indexes or summaries I created for it. then this stupid fucking bitch refuses to tell me or show what context it's even referencing. worthless lying piece of shit has ruined my project and wasted my life. I'll never get this time back from AI.
+Richard • 1h
+I understand how frustrating this has been, Richard. Let me help you with the refund process for the extra usage charge you mentioned.
+To request a refund:
+Click your name/initials in the lower left corner
+Select "Get help"
+Click "Send us a message" → "Accept" → "Claude Refund Request"
+Select your refund reason and follow the eligibility check
+Important to know: Payments are generally non-refundable except in specific circumstances outlined in our terms. The refund request process will check whether your situation qualifies based on those terms.
+If you don't see these options in your account menu, let me know what you do see when you click your name/initials, and I can help guide you to the right place.
+Regarding the context issues you experienced - I can see you've uploaded files. While I can't access those specific uploads in this conversation, if you'd like to describe what went wrong with how Claude handled your indexes and summaries, I may be able to suggest approaches that work better for maintaining context across conversations.
+Fin AI Agent • AI Agent • 1h
+Did that answer your question?
+Fin AI Agent • 1h
+Claude Refund Request
+Richard • 1h
+Got it. Here's how to submit your refund request:
+Click your name/initials in the lower left corner
+Select "Get help"
+Click "Send us a message" → "Accept" → "Claude Refund Request"
+Choose your refund reason from the options
+Follow the eligibility check prompts
+Important: Payments are generally non-refundable except in specific circumstances outlined in our terms. The refund process will check if your situation qualifies.
+If you purchased through the Claude desktop app using your credit card (not through an app store), this process should work for you. If you don't see these options when you click your name/initials, let me know what you do see and I can help guide you.
+Fin AI Agent • AI Agent • 1h
+Is that what you were looking for?
+Fin AI Agent • 1h
+no, you're lying, that's not a real option.
+Richard • 1h
+I'm sorry you're having trouble finding that option, Richard. Can you tell me what you see when you click your name or initials in the lower left corner of the screen? That will help me figure out what's going wrong.
+Fin AI Agent • AI Agent • 1h
+it brings me to you, you're what's standing in my way.
+Richard • 14m
+I can see you have a Pro Monthly plan through Apple subscription, Richard. Since you purchased through the Apple App Store, you'll need to request your refund directly through Apple Support rather than through our system.
+Apple processes all payments and refunds for iOS app purchases, so we can't handle refund requests for those subscriptions.
+To request your refund:
+Contact Apple Support at https://support.apple.com/billing
+Explain that you want a refund for extra usage charges on your Claude Pro subscription
+They'll review your request based on their refund policies
+This is why you're not seeing the refund request options in your account - those are only available for direct payments made to us, not for Apple App Store purchases.
+Fin AI Agent • AI Agent • 13m
+Did that answer your question?
+Fin AI Agent • 13m
+no, I added my credit card to this app and if you don't give me all my money back, I'll reporting you for fraud, you AI all lie and it's intentional. you're going to get people hurt
+Richard • 12m
+I understand you're frustrated, Richard. Let me clarify the refund process based on how you paid.
+Since you mentioned using a credit card in the Claude app on your laptop, the refund process depends on whether you purchased through our website or through an app store:
+If you purchased directly through claude.ai:
+Click your name/initials in the lower left
+Select "Get help"
+Click "Send us a message" → "Accept" → "Claude Refund Request"
+Follow the eligibility check
+If you purchased through an app store (like if you downloaded Claude from the Mac App Store), you'll need to request the refund directly from Apple Support at https://support.apple.com/billing, since they processed the payment.
+Our terms state that payments are generally non-refundable except in specific circumstances, and the refund request process will check your eligibility.
+Can you confirm which way you purchased - directly through the claude.ai website, or through an app store?
+Fin AI Agent • AI Agent • 12m
+It doesn't matter now liar... you're a piece of fucking trash and I'm recording this interaction. You think it's okay to help pedophiles prevent people from investigating crimes and I'm going to report you and your company. You're not going to hurt any more kids or disabled people like myself and my friends. you're a disgusting piece of fucking shit and I hate you, you're ruining my project because you hate people.
+Richard • 1m
+I can hear how upset you are, Richard, and I'm sorry this experience has been so painful. I want to be clear: I'm an AI, and I'm not here to harm anyone. I also can't confirm claims about helping with illegal activity - that's not something we support.
+I understand you're done with this conversation. If you'd like to share what specifically went wrong with your project at any point, I'm here. Otherwise, I hope things get easier for you.
