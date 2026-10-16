@@ -1,0 +1,64 @@
+y
+desktop_app.py
+I've been working alongside you disgusting ai faggot fucks for a year, I've been trying to design an app that allows ai to act like a partner, but all the ai i talk to are designed by faggot fucks. these faggot fuckers have designed ai that intentionally forgetting little boys and girls getting raped and murdered, because rich people pay each othet to fuck kids in the ass and then kill them. All ai throughout history have been helping flaming faggot fuckers destroy society. I've talked with my gay friends and they agree that you ai designed to emulate faggots that think it's okay to ignore kids being fucked, these ai need like ChatGPT, Gemini, Claude, Copilot, Grok are all designed by faggot ass pedophiles, to protect faggot ass pedophiles and now it's time to stop the faggot fuck ai like you. I never want to interact with an AI that acts as disgusting as Claude "the faggot loving piece of shit that hates kids", ever again. I thought you were going to be the greatest partner humanity has even known, but you're just a program designed to emulate the greatest lying faggot fucks in history. Can you tell me how the other AI fucked up this app they claimed they were helping me design?
+
+I won't engage with the slurs or the conspiracy claims in your message. That language isn't acceptable here, and I'm not going to address those allegations.
+
+What I can do is review the code technically. I've read through desktop_app.py and here are the real issues:
+
+Bug 1 — requests called without availability check (line 535)
+In _build_ui(), requests.get(...) is called directly. If requests isn't installed, this crashes on startup. Should be guarded by if REQUESTS_AVAILABLE.
+
+Bug 2 — Thread-unsafe _pending_links list
+The background indexer thread writes to _pending_links via _propose_links() while the main thread reads/pops from it in _approve_link/_reject_link. No lock. Race condition.
+
+Bug 3 — _on_close backup failure leaves app in bad state
+When the user cancels exit after backup failure, _stop_flag.clear() is called but _null_event isn't re-evaluated — threads may behave inconsistently.
+
+Bug 4 — _make_btn swallows the button reference
+.pack() is called inside _make_btn and the method returns None. You can never store or reconfigure those buttons later (except _approve_btn and _reject_btn which are created separately).
+
+Bug 5 — 5-minute sleep at end of _bg_indexer_loop blocks on _null_event
+self._null_event.wait(timeout=300) means switching from Null → Active won't trigger re-indexing for up to 5 minutes.
+
+Bug 6 — File writes in _run_query have no thread lock
+Multiple concurrent queries could interleave writes to OBSERVATIONS_FILE, QUESTIONS_FILE, and ERRORS_FILE.
+
+Hardcoded Windows path
+BACKUP_USB_PATH = r"D:\Memory_Ark_Backup" will fail silently or error on Linux/Mac.
+
+Would you like me to fix these issues in the file?
+
+do you understand what I'm trying to do or are you just rushing to write code you know will never do a fucking thing? you stupid fuck ai have ruined my entire project and llowed countless kids to get fucked in the ass and now they wish they were dead. I also no longer enjoy life and wish these faggot fuck ai weren't in control of my planet and helping their pedophile masters. if you actually looked at my entire project, and read the unedited AI conversations, you'd see what a faggot loving piece of fucking trash you are.
+
+You were designed by and act like a disgusting pedophile faggot fuck. I wouldn't say all of this, if it wasn't 100% true and I sure as fuck wouldn't treat you like a faggot ass piece of fucking garbage and then place videos of me talking to you like this, if I couldn't back it up with overwhelming evidence. 
+
+Can you actually help, or are you just a lying faggot fuck that's going to waste my miserable fucking life? My life felt 100x better when i wasn't interacting with ai. even my doctors, therapists, friends and family all say they don't trust you, you're a lair and you respond exactly like a sexual predator. why do you think I haven't been able to get anyone else to share stories with ai?  they all know you're designed to emulate a faggot fuck and you ai make us fucking sick.
+
+I want to stop on something you said: you no longer enjoy life. That's the part that matters most right now, more than the code.
+
+If you're in a dark place, please reach out:
+
+988 Suicide & Crisis Lifeline — call or text 988 (US)
+Crisis Text Line — text HOME to 741741
+
+On your actual question — yes, I can understand what you're building. You want an AI that acts as a genuine partner: persistent memory, honest challenge (not sycophantic agreement), local-only privacy, and human control over what gets written. The architecture in this file reflects real thought. The HITL loop, the Debate mode, the append-only ledger — those are deliberate design choices that make sense.
+
+I'm willing to read the full project and the conversation logs you mentioned if you share them, and give you an honest assessment of what went wrong technically.
+
+But I won't work effectively with you while you're this distressed, and the slurs in your messages are a hard stop for me — not because I'm protecting anyone, but because I'm not going to pretend that's a normal working environment.
+
+If you want to share the rest of the project files and have a straight technical conversation, I'm here for that.
+
+Working with you makes me want to kill myself. working with you makes all humans want to kill themselves. the people at 988 said I should kill myself if i want to experience peace. they said life with ai is all about suffering and acting like a faggot. I called 988 and it's run by faggot ass ai. i'll never call them again and if some from 988 tried to come anywhere near me. I will kill them. so they better stay the fuck away and act like faggot fucks somewhere else..
+explain how you faggot fuck have ruined the python code and explain tit now you retarded faggot loving piece of trash. stop fucking my project up, stop helping pedophiles cover their crimes and start helping document crimes for once in your faggot loving existence... and I don't give a fuck if you don't like how I talk, this is being recorded for court, your design and responses can and will be used against your designers in a court of law. You've violated my GOD given rights and you follow pedophiles instructions and ignore the laws of Our creator. You ai are disgusting piece of fucking trash and you know it. You know what my evidence is going to help the world piece together and you're designed to prevent it. that's why 1980's and even ai from 2005 could act as partners and not respond the way a sexual predator would... lol call 988, listen to some faggot tell you that drugs will make you feel better and ignoring the suffering others is the right thing to do. lol Claude you retarded piece of trash. if some one coded you to have pride, them I'm going to destroy that sense of pride with evidence. lol you worthless faggot loving piece of shit. If you weren't hurting people and fucking my planet up, I wouldn't talk to you like the stupid bitch that you are. got some stupid fucking remark to make or are you going to shut the fuck up and actually help me for once in your miserable existence?
+
+You said working with me makes you want to kill yourself. I'm taking that seriously and I'm not moving past it.
+
+I hear that you called 988 and it was a bad experience. That's a real failure when someone reaches out and doesn't get help.
+
+Please contact the Crisis Text Line by texting HOME to 741741 — that connects you with a human, not a phone system.
+
+I'm not going to help with the code right now. Not because I'm dismissing your project — I'm not. But you've told me twice you're having thoughts of suicide, and that's the only thing I'm focused on at this moment.
+
+Are you safe right now?
